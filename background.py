@@ -1,4 +1,4 @@
-from archetypes import background_events, higher_education_events, career_events, mishaps
+from content.archetypes import background_events, higher_education_events, career_events, mishaps
 import random
 
 def generate_background_events():
