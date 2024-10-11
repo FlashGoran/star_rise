@@ -10,14 +10,14 @@
             "event_key": "terraforming_colonist_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Technical School": 40,
-                "Space Academy": 10,
-                "Scientist": 10
+                    "Technical School": 40,
+                    "Space Academy": 10,
+                    "Scientist": 10
                 },
                 "career_bonus": {
-                "Engineer": 30,
-                "Scientist": 10,
-                "Pilot": 5
+                    "Engineer": 30,
+                    "Scientist": 10,
+                    "Pilot": 5
                 }
             }
             },
@@ -27,13 +27,13 @@
             "event_key": "resistance_operative_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Criminal Networks": 30,
-                "Military Academy": 10
+                    "Criminal Networks": 30,
+                    "Military Academy": 10
                 },
                 "career_bonus": {
-                "Corporate Agent": 20,
-                "Intelligence Operative": 30,
-                "Marine Corps": 10
+                    "Corporate Agent": 20,
+                    "Intelligence Operative": 30,
+                    "Marine Corps": 10
                 }
             }
             },
@@ -43,14 +43,14 @@
             "event_key": "indentured_worker_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Space Academy": 10,
-                "Technical School": 5
+                    "Space Academy": 10,
+                    "Technical School": 5
                 },
                 "career_bonus": {
-                "Pilot": 20,
-                "Survivor": 30,
-                "Engineer": 5,
-                "Scientist": 5
+                    "Pilot": 20,
+                    "Survivor": 30,
+                    "Engineer": 5,
+                    "Scientist": 5
                 }
             }
             },
@@ -60,14 +60,14 @@
             "event_key": "frontier_enforcer_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Military Academy": 30,
-                "Space Academy": 10,
-                "Technical School": 5
+                    "Military Academy": 30,
+                    "Space Academy": 10,
+                    "Technical School": 5
                 },
                 "career_bonus": {
-                "Marine Corps": 40,
-                "Pilot": 10,
-                "Intelligence Operative": 10
+                    "Marine Corps": 40,
+                    "Pilot": 10,
+                    "Intelligence Operative": 10
                 }
             }
             },
@@ -77,14 +77,14 @@
             "event_key": "strip_miner_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Technical School": 20,
-                "Space Academy": 10,
-                "Military Academy": 10
+                    "Technical School": 20,
+                    "Space Academy": 10,
+                    "Military Academy": 10
                 },
                 "career_bonus": {
-                "Engineer": 30,
-                "Marine Corps": 10,
-                "Scientist": 5
+                    "Engineer": 30,
+                    "Marine Corps": 10,
+                    "Scientist": 5
                 }
             }
             },
@@ -94,14 +94,14 @@
             "event_key": "pirate_apprentice_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Criminal Networks": 40,
-                "Military Academy": 10,
-                "Space Academy": 10
+                    "Criminal Networks": 40,
+                    "Military Academy": 10,
+                    "Space Academy": 10
                 },
                 "career_bonus": {
-                "Corporate Agent": 10,
-                "Intelligence Operative": 10,
-                "Pilot": 10
+                    "Corporate Agent": 10,
+                    "Intelligence Operative": 10,
+                    "Pilot": 10
                 }
             }
             },
@@ -111,14 +111,14 @@
             "event_key": "smugglers_kin_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Criminal Networks": 40,
-                "Space Academy": 10
+                    "Criminal Networks": 40,
+                    "Space Academy": 10
                 },
                 "career_bonus": {
-                "Corporate Agent": 20,
-                "Intelligence Operative": 20,
-                "Pilot": 15,
-                "Survivor": 10
+                    "Corporate Agent": 20,
+                    "Intelligence Operative": 20,
+                    "Pilot": 15,
+                    "Survivor": 10
                 }
             }
             }
@@ -134,14 +134,14 @@
             "event_key": "officers_legacy_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Military Academy": 30,
-                "Space Academy": 20,
-                "Corporate Indoctrination": 10
+                    "Military Academy": 30,
+                    "Space Academy": 20,
+                    "Corporate Indoctrination": 10
                 },
                 "career_bonus": {
-                "Marine Corps": 20,
-                "Intelligence Operative": 10,
-                "Pilot": 10
+                    "Marine Corps": 20,
+                    "Intelligence Operative": 10,
+                    "Pilot": 10
                 }
             }
             },
@@ -151,12 +151,12 @@
             "event_key": "conflict_zone_survivor_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Military Academy": 30,
-                "Criminal Networks": 10
+                    "Military Academy": 30,
+                    "Criminal Networks": 10
                 },
                 "career_bonus": {
-                "Marine Corps": 40,
-                "Intelligence Operative": 10
+                    "Marine Corps": 40,
+                    "Intelligence Operative": 10
                 }
             }
             },
@@ -166,12 +166,12 @@
             "event_key": "cadet_recruit_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Military Academy": 20,
-                "Technical School": 10
+                    "Military Academy": 20,
+                    "Technical School": 10
                 },
                 "career_bonus": {
-                "Marine Corps": 30,
-                "Pilot": 10
+                    "Marine Corps": 30,
+                    "Pilot": 10
                 }
             }
             },
@@ -181,14 +181,14 @@
             "event_key": "revolutionary_youth_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Criminal Networks": 30,
-                "Military Academy": 10,
-                "Corporate Indoctrination": 10
+                    "Criminal Networks": 30,
+                    "Military Academy": 10,
+                    "Corporate Indoctrination": 10
                 },
                 "career_bonus": {
-                "Intelligence Operative": 40,
-                "Corporate Agent": 20,
-                "Marine Corps": 10
+                    "Intelligence Operative": 40,
+                    "Corporate Agent": 20,
+                    "Marine Corps": 10
                 }
             }
             },
@@ -198,14 +198,14 @@
             "event_key": "garrison_bred_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Military Academy": 20,
-                "Space Academy": 10,
-                "Technical School": 5
+                    "Military Academy": 20,
+                    "Space Academy": 10,
+                    "Technical School": 5
                 },
                 "career_bonus": {
-                "Marine Corps": 30,
-                "Pilot": 20,
-                "Engineer": 10
+                    "Marine Corps": 30,
+                    "Pilot": 20,
+                    "Engineer": 10
                 }
             }
             }
@@ -221,13 +221,13 @@
             "event_key": "colonial_overseer_trainee_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Corporate Indoctrination": 30,
-                "Technical School": 10
+                    "Corporate Indoctrination": 30,
+                    "Technical School": 10
                 },
                 "career_bonus": {
-                "Corporate Agent": 20,
-                "Intelligence Operative": 10,
-                "Engineer": 5
+                    "Corporate Agent": 20,
+                    "Intelligence Operative": 10,
+                    "Engineer": 5
                 }
             }
             },
@@ -237,13 +237,13 @@
             "event_key": "corporate_enforcer_trainee_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Military Academy": 30,
-                "Technical School": 10,
-                "Corporate Indoctrination": 20
+                    "Military Academy": 30,
+                    "Technical School": 10,
+                    "Corporate Indoctrination": 20
                 },
                 "career_bonus": {
-                "Marine Corps": 20,
-                "Intelligence Operative": 10
+                    "Marine Corps": 20,
+                    "Intelligence Operative": 10
                 }
             }
             },
@@ -253,13 +253,13 @@
             "event_key": "test_subject_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Corporate Indoctrination": 30,
-                "Technical School": 10,
-                "Medical School": 20
+                    "Corporate Indoctrination": 30,
+                    "Technical School": 10,
+                    "Medical School": 20
                 },
                 "career_bonus": {
-                "Scientist": 30,
-                "Engineer": 10
+                    "Scientist": 30,
+                    "Engineer": 10
                 }
             }
             },
@@ -269,14 +269,14 @@
             "event_key": "indoctrination_trainee_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Corporate Indoctrination": 50,
-                "Space Academy": 10,
-                "Technical School": 5
+                    "Corporate Indoctrination": 50,
+                    "Space Academy": 10,
+                    "Technical School": 5
                 },
                 "career_bonus": {
-                "Corporate Agent": 30,
-                "Intelligence Operative": 10,
-                "Scientist": 5
+                    "Corporate Agent": 30,
+                    "Intelligence Operative": 10,
+                    "Scientist": 5
                 }
             }
             },
@@ -286,12 +286,12 @@
             "event_key": "corporate_operative_trainee_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Corporate Indoctrination": 30,
-                "Military Academy": 10
+                    "Corporate Indoctrination": 30,
+                    "Military Academy": 10
                 },
                 "career_bonus": {
-                "Corporate Agent": 20,
-                "Intelligence Operative": 10
+                    "Corporate Agent": 20,
+                    "Intelligence Operative": 10
                 }
             }
             }
@@ -307,14 +307,14 @@
             "event_key": "orbital_mechanic_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Technical School": 30,
-                "Space Academy": 15,
-                "Military Academy": 5
+                    "Technical School": 30,
+                    "Space Academy": 15,
+                    "Military Academy": 5
                 },
                 "career_bonus": {
-                "Engineer": 40,
-                "Pilot": 10,
-                "Scientist": 5
+                    "Engineer": 40,
+                    "Pilot": 10,
+                    "Scientist": 5
                 }
             }
             },
@@ -324,15 +324,15 @@
             "event_key": "spacers_child_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Space Academy": 40,
-                "Technical School": 15,
-                "Military Academy": 10,
-                "Corporate Indoctrination": 5
+                    "Space Academy": 40,
+                    "Technical School": 15,
+                    "Military Academy": 10,
+                    "Corporate Indoctrination": 5
                 },
                 "career_bonus": {
-                "Pilot": 30,
-                "Scientist": 10,
-                "Engineer": 10
+                    "Pilot": 30,
+                    "Scientist": 10,
+                    "Engineer": 10
                 }
             }
             },
@@ -342,13 +342,13 @@
             "event_key": "asteroid_miner_kid_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Technical School": 35,
-                "Space Academy": 10
+                    "Technical School": 35,
+                    "Space Academy": 10
                 },
                 "career_bonus": {
-                "Engineer": 30,
-                "Pilot": 10,
-                "Marine Corps": 5
+                    "Engineer": 30,
+                    "Pilot": 10,
+                    "Marine Corps": 5
                 }
             }
             },
@@ -358,14 +358,14 @@
             "event_key": "shipboard_technician_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Technical School": 40,
-                "Space Academy": 15,
-                "Corporate Indoctrination": 10
+                    "Technical School": 40,
+                    "Space Academy": 15,
+                    "Corporate Indoctrination": 10
                 },
                 "career_bonus": {
-                "Engineer": 40,
-                "Pilot": 10,
-                "Scientist": 5
+                    "Engineer": 40,
+                    "Pilot": 10,
+                    "Scientist": 5
                 }
             }
             },
@@ -375,16 +375,16 @@
             "event_key": "void_serf_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Space Academy": 5,
-                "Technical School": 5,
-                "Military Academy": 5,
-                "Criminal Networks": 20,
-                "Corporate Indoctrination": 5
+                    "Space Academy": 5,
+                    "Technical School": 5,
+                    "Military Academy": 5,
+                    "Criminal Networks": 20,
+                    "Corporate Indoctrination": 5
                 },
                 "career_bonus": {
-                "Pilot": 30,
-                "Corporate Agent": 10,
-                "Marine Corps": 5
+                    "Pilot": 30,
+                    "Corporate Agent": 10,
+                    "Marine Corps": 5
                 }
             }
             }
@@ -400,14 +400,14 @@
             "event_key": "gutter_runner_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Criminal Networks": 25,
-                "Military Academy": 15,
-                "Technical School": 10
+                    "Criminal Networks": 25,
+                    "Military Academy": 15,
+                    "Technical School": 10
                 },
                 "career_bonus": {
-                "Corporate Agent": 10,
-                "Pilot": 10,
-                "Marine Corps": 15
+                    "Corporate Agent": 10,
+                    "Pilot": 10,
+                    "Marine Corps": 15
                 }
             }
             },
@@ -417,15 +417,15 @@
             "event_key": "gang_affiliate_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Criminal Networks": 30,
-                "Military Academy": 20,
-                "Corporate Indoctrination": 10,
-                "Technical School": 10
+                    "Criminal Networks": 30,
+                    "Military Academy": 20,
+                    "Corporate Indoctrination": 10,
+                    "Technical School": 10
                 },
                 "career_bonus": {
-                "Marine Corps": 25,
-                "Intelligence Operative": 20,
-                "Corporate Agent": 15
+                    "Marine Corps": 25,
+                    "Intelligence Operative": 20,
+                    "Corporate Agent": 15
                 }
             }
             },
@@ -435,16 +435,16 @@
             "event_key": "corporate_drone_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Corporate Indoctrination": 30,
-                "Technical School": 20,
-                "Space Academy": 10,
-                "Military Academy": 10
+                    "Corporate Indoctrination": 30,
+                    "Technical School": 20,
+                    "Space Academy": 10,
+                    "Military Academy": 10
                 },
                 "career_bonus": {
-                "Scientist": 25,
-                "Corporate Agent": 20,
-                "Engineer": 15,
-                "Pilot": 10
+                    "Scientist": 25,
+                    "Corporate Agent": 20,
+                    "Engineer": 15,
+                    "Pilot": 10
                 }
             }
             },
@@ -454,15 +454,15 @@
             "event_key": "market_vendor_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Corporate Indoctrination": 20,
-                "Technical School": 15,
-                "Criminal Networks": 15,
-                "Space Academy": 5
+                    "Corporate Indoctrination": 20,
+                    "Technical School": 15,
+                    "Criminal Networks": 15,
+                    "Space Academy": 5
                 },
                 "career_bonus": {
-                "Corporate Agent": 20,
-                "Pilot": 15,
-                "Scientist": 10
+                    "Corporate Agent": 20,
+                    "Pilot": 15,
+                    "Scientist": 10
                 }
             }
             },
@@ -472,15 +472,15 @@
             "event_key": "security_personnel_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Military Academy": 30,
-                "Corporate Indoctrination": 15,
-                "Criminal Networks": 5,
-                "Technical School": 5
+                    "Military Academy": 30,
+                    "Corporate Indoctrination": 15,
+                    "Criminal Networks": 5,
+                    "Technical School": 5
                 },
                 "career_bonus": {
-                "Marine Corps": 40,
-                "Pilot": 10,
-                "Intelligence Operative": 10
+                    "Marine Corps": 40,
+                    "Pilot": 10,
+                    "Intelligence Operative": 10
                 }
             }
             }
@@ -496,14 +496,14 @@
             "event_key": "warzone_survivor_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Military Academy": 30,
-                "Technical School": 10
+                    "Military Academy": 30,
+                    "Technical School": 10
                 },
                 "career_bonus": {
-                "Marine Corps": 40,
-                "Pilot": 10,
-                "Engineer": 5,
-                "Intelligence Operative": 10
+                    "Marine Corps": 40,
+                    "Pilot": 10,
+                    "Engineer": 5,
+                    "Intelligence Operative": 10
                 }
             }
             },
@@ -513,15 +513,15 @@
             "event_key": "pandemic_survivor_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Medical School": 40,
-                "Technical School": 10,
-                "Corporate Indoctrination": 5
+                    "Medical School": 40,
+                    "Technical School": 10,
+                    "Corporate Indoctrination": 5
                 },
                 "career_bonus": {
-                "Scientist": 30,
-                "Pilot": 5,
-                "Marine Corps": 5,
-                "Intelligence Operative": 10
+                    "Scientist": 30,
+                    "Pilot": 5,
+                    "Marine Corps": 5,
+                    "Intelligence Operative": 10
                 }
             }
             },
@@ -531,16 +531,16 @@
             "event_key": "environmental_collapse_refugee_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Medical School": 20,
-                "Technical School": 20,
-                "Space Academy": 10,
-                "Corporate Indoctrination": 5
+                    "Medical School": 20,
+                    "Technical School": 20,
+                    "Space Academy": 10,
+                    "Corporate Indoctrination": 5
                 },
                 "career_bonus": {
-                "Engineer": 20,
-                "Scientist": 10,
-                "Pilot": 5,
-                "Marine Corps": 5
+                    "Engineer": 20,
+                    "Scientist": 10,
+                    "Pilot": 5,
+                    "Marine Corps": 5
                 }
             }
             },
@@ -550,14 +550,14 @@
             "event_key": "civil_war_refugee_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Military Academy": 30,
-                "Criminal Networks": 30
+                    "Military Academy": 30,
+                    "Criminal Networks": 30
                 },
                 "career_bonus": {
-                "Marine Corps": 30,
-                "Intelligence Operative": 20,
-                "Corporate Agent": 10,
-                "Pilot": 5
+                    "Marine Corps": 30,
+                    "Intelligence Operative": 20,
+                    "Corporate Agent": 10,
+                    "Pilot": 5
                 }
             }
             },
@@ -567,15 +567,15 @@
             "event_key": "ai_rebellion_survivor_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Technical School": 30,
-                "Space Academy": 20,
-                "Military Academy": 20
+                    "Technical School": 30,
+                    "Space Academy": 20,
+                    "Military Academy": 20
                 },
                 "career_bonus": {
-                "Engineer": 30,
-                "Scientist": 20,
-                "Intelligence Operative": 10,
-                "Marine Corps": 10
+                    "Engineer": 30,
+                    "Scientist": 20,
+                    "Intelligence Operative": 10,
+                    "Marine Corps": 10
                 }
             }
             },
@@ -585,15 +585,15 @@
             "event_key": "colony_quarantine_survivor_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Medical School": 30,
-                "Technical School": 20,
-                "Space Academy": 10
+                    "Medical School": 30,
+                    "Technical School": 20,
+                    "Space Academy": 10
                 },
                 "career_bonus": {
-                "Scientist": 30,
-                "Marine Corps": 10,
-                "Pilot": 5,
-                "Intelligence Operative": 5
+                    "Scientist": 30,
+                    "Marine Corps": 10,
+                    "Pilot": 5,
+                    "Intelligence Operative": 5
                 }
             }
             },
@@ -603,15 +603,15 @@
             "event_key": "space_station_disaster_survivor_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Space Academy": 30,
-                "Technical School": 20,
-                "Military Academy": 10
+                    "Space Academy": 30,
+                    "Technical School": 20,
+                    "Military Academy": 10
                 },
                 "career_bonus": {
-                "Pilot": 30,
-                "Engineer": 20,
-                "Scientist": 10,
-                "Marine Corps": 5
+                    "Pilot": 30,
+                    "Engineer": 20,
+                    "Scientist": 10,
+                    "Marine Corps": 5
                 }
             }
             },
@@ -621,15 +621,15 @@
             "event_key": "xeno_encounter_survivor_events",
             "bonuses": {
                 "higher_ed_bonus": {
-                "Military Academy": 30,
-                "Space Academy": 20,
-                "Medical School": 10
+                    "Military Academy": 30,
+                    "Space Academy": 20,
+                    "Medical School": 10
                 },
                 "career_bonus": {
-                "Marine Corps": 40,
-                "Scientist": 20,
-                "Intelligence Operative": 10,
-                "Pilot": 5
+                    "Marine Corps": 40,
+                    "Scientist": 20,
+                    "Intelligence Operative": 10,
+                    "Pilot": 5
                 }
             }
             }
