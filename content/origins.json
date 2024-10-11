@@ -17,8 +17,7 @@
                 "career_bonus": {
                 "Engineer": 30,
                 "Scientist": 10,
-                "Pilot": 5,
-                "Survivor": 10
+                "Pilot": 5
                 }
             }
             },
@@ -34,8 +33,7 @@
                 "career_bonus": {
                 "Corporate Agent": 20,
                 "Intelligence Operative": 30,
-                "Marine Corps": 10,
-                "Survivor": 20
+                "Marine Corps": 10
                 }
             }
             },
@@ -69,7 +67,6 @@
                 "career_bonus": {
                 "Marine Corps": 40,
                 "Pilot": 10,
-                "Survivor": 20,
                 "Intelligence Operative": 10
                 }
             }
@@ -87,8 +84,7 @@
                 "career_bonus": {
                 "Engineer": 30,
                 "Marine Corps": 10,
-                "Scientist": 5,
-                "Survivor": 10
+                "Scientist": 5
                 }
             }
             },
@@ -105,8 +101,7 @@
                 "career_bonus": {
                 "Corporate Agent": 10,
                 "Intelligence Operative": 10,
-                "Pilot": 10,
-                "Survivor": 10
+                "Pilot": 10
                 }
             }
             },
@@ -161,7 +156,6 @@
                 },
                 "career_bonus": {
                 "Marine Corps": 40,
-                "Survivor": 30,
                 "Intelligence Operative": 10
                 }
             }
@@ -177,7 +171,6 @@
                 },
                 "career_bonus": {
                 "Marine Corps": 30,
-                "Survivor": 10,
                 "Pilot": 10
                 }
             }
@@ -212,8 +205,7 @@
                 "career_bonus": {
                 "Marine Corps": 30,
                 "Pilot": 20,
-                "Engineer": 10,
-                "Survivor": 10
+                "Engineer": 10
                 }
             }
             }
@@ -251,8 +243,7 @@
                 },
                 "career_bonus": {
                 "Marine Corps": 20,
-                "Intelligence Operative": 10,
-                "Survivor": 5
+                "Intelligence Operative": 10
                 }
             }
             },
@@ -268,8 +259,7 @@
                 },
                 "career_bonus": {
                 "Scientist": 30,
-                "Engineer": 10,
-                "Survivor": 20
+                "Engineer": 10
                 }
             }
             },
@@ -324,7 +314,6 @@
                 "career_bonus": {
                 "Engineer": 40,
                 "Pilot": 10,
-                "Survivor": 10,
                 "Scientist": 5
                 }
             }
@@ -342,7 +331,6 @@
                 },
                 "career_bonus": {
                 "Pilot": 30,
-                "Survivor": 20,
                 "Scientist": 10,
                 "Engineer": 10
                 }
@@ -359,7 +347,6 @@
                 },
                 "career_bonus": {
                 "Engineer": 30,
-                "Survivor": 20,
                 "Pilot": 10,
                 "Marine Corps": 5
                 }
@@ -378,7 +365,6 @@
                 "career_bonus": {
                 "Engineer": 40,
                 "Pilot": 10,
-                "Survivor": 10,
                 "Scientist": 5
                 }
             }
@@ -397,7 +383,6 @@
                 },
                 "career_bonus": {
                 "Pilot": 30,
-                "Survivor": 20,
                 "Corporate Agent": 10,
                 "Marine Corps": 5
                 }
@@ -420,7 +405,6 @@
                 "Technical School": 10
                 },
                 "career_bonus": {
-                "Survivor": 30,
                 "Corporate Agent": 10,
                 "Pilot": 10,
                 "Marine Corps": 15
@@ -441,8 +425,7 @@
                 "career_bonus": {
                 "Marine Corps": 25,
                 "Intelligence Operative": 20,
-                "Corporate Agent": 15,
-                "Survivor": 20
+                "Corporate Agent": 15
                 }
             }
             },
@@ -479,8 +462,7 @@
                 "career_bonus": {
                 "Corporate Agent": 20,
                 "Pilot": 15,
-                "Scientist": 10,
-                "Survivor": 10
+                "Scientist": 10
                 }
             }
             },
@@ -498,7 +480,6 @@
                 "career_bonus": {
                 "Marine Corps": 40,
                 "Pilot": 10,
-                "Survivor": 20,
                 "Intelligence Operative": 10
                 }
             }
