@@ -1,100 +1,174 @@
 {
-    "higher_education": {
-      "Military Academy": {
-        "subclasses": {
-          "Fleet Command": {
-            "description": "You were trained to lead naval and space fleets in large-scale operations and strategic planning."
-          },
-          "Tactical Operations": {
-            "description": "You specialized in ground and space-based tactical maneuvers and combat scenarios."
-          },
-          "Logistics and Strategy": {
-            "description": "You focused on military logistics, resource management, and long-term strategic planning."
-          },
-          "Special Forces Training": {
-            "description": "You underwent intense physical and mental training for high-risk special operations."
-          },
-          "Covert Operations": {
-            "description": "You were trained for secretive missions involving intelligence gathering and sabotage."
-          }
+  "higher_education": {
+    "Military Academy": {
+      "subclasses": {
+        "Starship Command Studies": {
+          "description": "You were trained in the fundamentals of leading a small starship crew, including decision-making, resource management, and team leadership.",
+          "primary_attribute": "WIS",
+          "secondary_attribute": "INT",
+          "master": "Advanced Command Tactics"
+        },
+        "Tactical Systems Training": {
+          "description": "You focused on tactical systems and learned how to operate sensors, weapons targeting, and assist with ship maneuvering during combat.",
+          "primary_attribute": "INT",
+          "secondary_attribute": "AGI",
+          "master": "Advanced Tactical Strategy"
+        },
+        "Logistics and Supply Management": {
+          "description": "You specialized in supply chain logistics, learning how to manage resources, fuel, and trade operations aboard a starship or in a colony.",
+          "primary_attribute": "INT",
+          "secondary_attribute": "WIS",
+          "master": "Advanced Supply Chain Operations"
+        },
+        "Special Operations Training": {
+          "description": "You received specialized training in high-risk small-unit tactics, infiltration, and boarding actions, preparing you for dangerous missions.",
+          "primary_attribute": "AGI",
+          "secondary_attribute": "STR",
+          "master": "Elite Special Operations"
+        },
+        "Covert Operations Studies": {
+          "description": "You were trained in covert intelligence gathering, sabotage, and stealth, focusing on undercover operations in hostile environments.",
+          "primary_attribute": "AGI",
+          "secondary_attribute": "INT",
+          "master": "Advanced Covert Tactics"
         }
-      },
-      "Corporate Indoctrination": {
-        "subclasses": {
-          "Corporate Aristocrat": {
-            "description": "You were groomed for leadership within the corporate elite, learning about economics and influence."
-          },
-          "Market Strategist": {
-            "description": "You specialized in corporate market manipulation, finance, and competitive strategy."
-          },
-          "Internal Security": {
-            "description": "You were trained to protect the corporation from internal and external threats."
-          },
-          "Corporate Lawyer": {
-            "description": "You studied corporate law to defend your employer’s interests and navigate legal challenges."
-          },
-          "PR Specialist": {
-            "description": "You learned how to shape public perception and manage corporate communications."
-          }
+      }
+    },
+    "Corporate Training": {
+      "subclasses": {
+        "Corporate Resource Management": {
+          "description": "You focused on managing corporate resources, learning how to optimize profitability and asset management on starships or colonies.",
+          "primary_attribute": "WIS",
+          "secondary_attribute": "INT",
+          "master": "Corporate Asset Optimization"
+        },
+        "Security Systems Training": {
+          "description": "You studied internal security protocols, learning how to protect corporate assets and handle threats like sabotage or infiltration.",
+          "primary_attribute": "STR",
+          "secondary_attribute": "INT",
+          "master": "Advanced Corporate Security"
+        },
+        "Corporate Logistics and Supply Management": {
+          "description": "Specializes in supply chain logistics, resource management, and optimizing corporate trade operations for space colonies and starships.",
+          "primary_attribute": "INT",
+          "secondary_attribute": "WIS",
+          "master": "Advanced Corporate Logistics"
+        },
+        "Corporate Espionage and Intelligence": {
+          "description": "Focuses on gathering intelligence on corporate rivals, using espionage, manipulation, and covert operations to gain a competitive edge.",
+          "primary_attribute": "WIS",
+          "secondary_attribute": "INT",
+          "master": "Advanced Corporate Negotiation"
+        },
+        "Colonial Management Training": {
+          "description": "You studied colonial management, specializing in overseeing corporate colonies, extracting resources, and maintaining order.",
+          "primary_attribute": "WIS",
+          "secondary_attribute": "STR",
+          "master": "Advanced Colonial Governance"
         }
-      },
-      "Technical School": {
-        "subclasses": {
-          "Starship Engineering": {
-            "description": "You were trained in the mechanics and systems required to maintain and repair starships."
-          },
-          "Robotics Specialist": {
-            "description": "You focused on designing and maintaining advanced robotics systems."
-          },
-          "Advanced AI Systems": {
-            "description": "You specialized in creating and optimizing artificial intelligence technologies."
-          },
-          "Weapon Systems Engineer": {
-            "description": "You were trained to build and maintain advanced weaponry and defense systems."
-          },
-          "Infrastructure Specialist": {
-            "description": "You learned to design, build, and maintain colony and space station infrastructure."
-          }
+      }
+    },
+    "Technical Institute": {
+      "subclasses": {
+        "Starship Systems Engineering": {
+          "description": "You specialized in starship systems maintenance and repair, learning how to keep ships operational on long voyages.",
+          "primary_attribute": "INT",
+          "secondary_attribute": "STR",
+          "master": "Advanced Starship Engineering"
+        },
+        "Robotics Engineering": {
+          "description": "You trained in robotics engineering, learning how to design, maintain, and repair robots used in space and planetary operations.",
+          "primary_attribute": "INT",
+          "secondary_attribute": "AGI",
+          "master": "Advanced Robotics Development"
+        },
+        "AI Systems Programming": {
+          "description": "You focused on artificial intelligence systems, learning how to program and maintain AIs for starships, security, and corporate operations.",
+          "primary_attribute": "INT",
+          "secondary_attribute": "WIS",
+          "master": "Advanced AI Systems"
+        },
+        "Weapons Systems Engineering": {
+          "description": "You trained in building, maintaining, and optimizing advanced weapons systems for starships and colonies.",
+          "primary_attribute": "INT",
+          "secondary_attribute": "STR",
+          "master": "Advanced Weapons Engineering"
+        },
+        "Colony Infrastructure Engineering": {
+          "description": "You specialized in the design and maintenance of colony infrastructure, including power systems, water supply, and life support.",
+          "primary_attribute": "INT",
+          "secondary_attribute": "WIS",
+          "master": "Advanced Colony Systems"
         }
-      },
-      "Space Academy": {
-        "subclasses": {
-          "Astrogator": {
-            "description": "You specialized in stellar navigation and charting courses through uncharted space."
-          },
-          "Flight Cadet": {
-            "description": "You trained in basic piloting and flight operations."
-          },
-          "Combat Pilot": {
-            "description": "You were trained to fly and fight in combat vessels."
-          },
-          "Space Exploration": {
-            "description": "You specialized in long-term space missions, exploration, and survival in unknown regions."
-          },
-          "Spaceborne Engineer": {
-            "description": "You were trained to repair and maintain spacecraft systems during space missions."
-          }
+      }
+    },
+    "Space Academy": {
+      "subclasses": {
+        "Stellar Navigation": {
+          "description": "You focused on starship navigation, learning how to chart courses through space and manage hyperspace jumps.",
+          "primary_attribute": "INT",
+          "secondary_attribute": "WIS",
+          "master": "Advanced Stellar Cartography"
+        },
+        "Flight Operations Training": {
+          "description": "You trained in starship flight operations, learning how to pilot small-to-medium vessels and handle routine flight duties.",
+          "primary_attribute": "AGI",
+          "secondary_attribute": "WIS",
+          "master": "Advanced Starship Piloting"
+        },
+        "Combat Flight Training": {
+          "description": "You specialized in piloting combat vessels, learning evasive maneuvers and how to engage in ship-to-ship combat.",
+          "primary_attribute": "AGI",
+          "secondary_attribute": "INT",
+          "master": "Advanced Combat Piloting"
+        },
+        "Space Exploration Training": {
+          "description": "You were trained in space exploration techniques, planetary landings, and survival in uncharted or hostile environments.",
+          "primary_attribute": "WIS",
+          "secondary_attribute": "INT",
+          "master": "Deep Space Exploration"
+        },
+        "Space Systems Engineering": {
+          "description": "You trained in spacecraft system maintenance, learning how to repair and upgrade critical ship functions during long missions.",
+          "primary_attribute": "INT",
+          "secondary_attribute": "STR",
+          "master": "Advanced Space Systems Maintenance"
         }
-      },
-      "University": {
-        "subclasses": {
-          "Trauma Surgeon": {
-            "description": "You were trained to operate in high-pressure medical emergencies, especially on the battlefield."
-          },
-          "Xeno-Biologist": {
-            "description": "You studied alien biology and how to treat or exploit alien species for human benefit."
-          },
-          "Stasis Tech": {
-            "description": "You learned to manage stasis technologies and deal with stasis-related medical issues."
-          },
-          "Biotech Specialist": {
-            "description": "You specialized in biological engineering, using biotech to enhance human capabilities."
-          },
-          "Quarantine Specialist": {
-            "description": "You trained in managing biohazard outbreaks and preventing the spread of dangerous organisms."
-          }
+      }
+    },
+    "University of Science and Medicine": {
+      "subclasses": {
+        "Medical Sciences": {
+          "description": "You studied basic and advanced medical procedures, specializing in trauma care and emergency surgery aboard starships or in colonies.",
+          "primary_attribute": "INT",
+          "secondary_attribute": "WIS",
+          "master": "Advanced Trauma Surgery"
+        },
+        "Biology and Xeno-Biology": {
+          "description": "You studied biology and xeno-biology, specializing in the analysis of alien species and planetary ecosystems.",
+          "primary_attribute": "INT",
+          "secondary_attribute": "WIS",
+          "master": "Advanced Xeno-Biology"
+        },
+        "Cryogenics and Stasis Systems": {
+          "description": "You were trained in cryogenic stasis technology, learning how to maintain stasis pods and manage long-term stasis-related health issues.",
+          "primary_attribute": "INT",
+          "secondary_attribute": "WIS",
+          "master": "Advanced Stasis Systems"
+        },
+        "Biotech Engineering": {
+          "description": "You specialized in biotech engineering, learning how to enhance human capabilities through biological and technological fusion.",
+          "primary_attribute": "INT",
+          "secondary_attribute": "AGI",
+          "master": "Advanced Biotech Systems"
+        },
+        "Quarantine and Biohazard Management": {
+          "description": "You focused on quarantine protocols and biohazard management, learning how to contain and prevent the spread of deadly pathogens.",
+          "primary_attribute": "WIS",
+          "secondary_attribute": "INT",
+          "master": "Advanced Quarantine Protocols"
         }
       }
     }
   }
-  
+}

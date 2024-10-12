@@ -77,26 +77,6 @@
           }
         }
       },
-      "Scientist": {
-        "weight": 3,
-        "subclasses": {
-          "Xeno-Studies Expert": {
-            "description": "Specializes in studying alien life forms and their potential for human use or exploitation."
-          },
-          "Medical Scientist": {
-            "description": "Researches medical advancements and explores cutting-edge science to treat diseases and injuries."
-          },
-          "Terraforming Biologist": {
-            "description": "Studies how to adapt flora and fauna to new planetary environments, contributing to terraforming efforts."
-          },
-          "Astrophysicist": {
-            "description": "Studies the stars, planets, and the physical universe, conducting research on celestial bodies."
-          },
-          "Cryostasis Specialist": {
-            "description": "Focuses on stasis technology and its applications, including long-term space travel and medical preservation."
-          }
-        }
-      },
       "Pilot": {
         "weight": 4,
         "subclasses": {

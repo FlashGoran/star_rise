@@ -1,640 +1,415 @@
 {
     "Origins": {
-        "Colonial Progeny": {
-        "weight": 4,
+      "Colonial Progeny": {
+        "weight": 75,
         "description": "You grew up on the edges of civilization, where danger and opportunity exist side by side.",
         "subclasses": {
-            "Terraforming Colonist": {
-            "weight": 5,
+          "Terraforming Colonist": {
+            "weight": 80,
             "description": "You grew up on a world still being made habitable, learning to survive in a harsh and often toxic environment.",
             "event_key": "terraforming_colonist_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Technical School": 40,
-                    "Space Academy": 10,
-                    "Scientist": 10
-                },
-                "career_bonus": {
-                    "Engineer": 30,
-                    "Scientist": 10,
-                    "Pilot": 5
-                }
+            "attribute_weighting": {
+              "STR": 3,
+              "AGI": 2,
+              "INT": 2,
+              "WIS": 3
             }
-            },
-            "Resistance Operative": {
-            "weight": 3,
+          },
+          "Resistance Operative": {
+            "weight": 30,
             "description": "Your colony was politically unstable, and you grew up siding with rebel factions fighting against corrupt leadership.",
             "event_key": "resistance_operative_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Criminal Networks": 30,
-                    "Military Academy": 10
-                },
-                "career_bonus": {
-                    "Corporate Agent": 20,
-                    "Intelligence Operative": 30,
-                    "Marine Corps": 10
-                }
+            "attribute_weighting": {
+              "STR": 1,
+              "AGI": 4,
+              "INT": 3,
+              "WIS": 2
             }
-            },
-            "Indentured Worker": {
-            "weight": 4,
+          },
+          "Indentured Worker": {
+            "weight": 60,
             "description": "Your family was constantly on the move, settling temporary camps and living off the land, avoiding conflicts and danger.",
             "event_key": "indentured_worker_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Space Academy": 10,
-                    "Technical School": 5
-                },
-                "career_bonus": {
-                    "Pilot": 20,
-                    "Survivor": 30,
-                    "Engineer": 5,
-                    "Scientist": 5
-                }
+            "attribute_weighting": {
+              "STR": 4,
+              "AGI": 2,
+              "INT": 1,
+              "WIS": 3
             }
-            },
-            "Frontier Enforcer": {
-            "weight": 2,
+          },
+          "Frontier Enforcer": {
+            "weight": 30,
             "description": "You were raised in a militarized colony where defending the frontier against raiders, xeno threats, and environmental dangers was your daily reality.",
             "event_key": "frontier_enforcer_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Military Academy": 30,
-                    "Space Academy": 10,
-                    "Technical School": 5
-                },
-                "career_bonus": {
-                    "Marine Corps": 40,
-                    "Pilot": 10,
-                    "Intelligence Operative": 10
-                }
+            "attribute_weighting": {
+              "STR": 4,
+              "AGI": 3,
+              "INT": 2,
+              "WIS": 1
             }
-            },
-            "Strip Miner": {
-            "weight": 5,
+          },
+          "Strip Miner": {
+            "weight": 50,
             "description": "Your colony was established to exploit natural resources, and you spent your early life in harsh environments extracting minerals, energy, and rare materials.",
             "event_key": "strip_miner_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Technical School": 20,
-                    "Space Academy": 10,
-                    "Military Academy": 10
-                },
-                "career_bonus": {
-                    "Engineer": 30,
-                    "Marine Corps": 10,
-                    "Scientist": 5
-                }
+            "attribute_weighting": {
+              "STR": 4,
+              "AGI": 1,
+              "INT": 2,
+              "WIS": 3
             }
-            },
-            "Pirate Apprentice": {
-            "weight": 1,
+          },
+          "Pirate Apprentice": {
+            "weight": 15,
             "description": "Your colony was known for harboring pirates, and you grew up learning the ropes of smuggling, raiding, and avoiding the law.",
             "event_key": "pirate_apprentice_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Criminal Networks": 40,
-                    "Military Academy": 10,
-                    "Space Academy": 10
-                },
-                "career_bonus": {
-                    "Corporate Agent": 10,
-                    "Intelligence Operative": 10,
-                    "Pilot": 10
-                }
+            "attribute_weighting": {
+              "STR": 3,
+              "AGI": 4,
+              "INT": 1,
+              "WIS": 2
             }
-            },
-            "Smuggler Kin": {
-            "weight": 2,
+          },
+          "Smuggler Kin": {
+            "weight": 35,
             "description": "Raised by a smuggler family, you learned how to navigate the black market, move contraband, and evade authorities.",
-            "event_key": "smugglers_kin_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Criminal Networks": 40,
-                    "Space Academy": 10
-                },
-                "career_bonus": {
-                    "Corporate Agent": 20,
-                    "Intelligence Operative": 20,
-                    "Pilot": 15,
-                    "Survivor": 10
-                }
+            "event_key": "smuggler_kin_events",
+            "attribute_weighting": {
+              "STR": 2,
+              "AGI": 4,
+              "INT": 3,
+              "WIS": 1
             }
-            }
+          }
         }
-        },
-        "Militarized Youth": {
-        "weight": 3,
+      },
+      "Martial Upbringing": {
+        "weight": 70,
         "description": "You were raised in a militarized environment, trained for a future in the armed forces, and prepared for life in service.",
         "subclasses": {
-            "Officer Legacy": {
-            "weight": 4,
+          "Officer Legacy": {
+            "weight": 15,
             "description": "You come from a family of military officers, groomed from a young age to follow in their footsteps as a leader in the armed forces.",
-            "event_key": "officers_legacy_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Military Academy": 30,
-                    "Space Academy": 20,
-                    "Corporate Indoctrination": 10
-                },
-                "career_bonus": {
-                    "Marine Corps": 20,
-                    "Intelligence Operative": 10,
-                    "Pilot": 10
-                }
+            "event_key": "officer_legacy_events",
+            "attribute_weighting": {
+              "STR": 2,
+              "AGI": 3,
+              "INT": 4,
+              "WIS": 1
             }
-            },
-            "Conflict Zone Survivor": {
-            "weight": 2,
+          },
+          "Conflict Zone Survivor": {
+            "weight": 40,
             "description": "You grew up in a conflict zone, where surviving and learning to fight were a necessity rather than a choice.",
             "event_key": "conflict_zone_survivor_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Military Academy": 30,
-                    "Criminal Networks": 10
-                },
-                "career_bonus": {
-                    "Marine Corps": 40,
-                    "Intelligence Operative": 10
-                }
+            "attribute_weighting": {
+              "STR": 3,
+              "AGI": 4,
+              "INT": 1,
+              "WIS": 2
             }
-            },
-            "Cadet Recruit": {
-            "weight": 5,
+          },
+          "Cadet Recruit": {
+            "weight": 75,
             "description": "You enlisted as a military cadet from a young age, seeking to escape your harsh upbringing through service.",
             "event_key": "cadet_recruit_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Military Academy": 20,
-                    "Technical School": 10
-                },
-                "career_bonus": {
-                    "Marine Corps": 30,
-                    "Pilot": 10
-                }
+            "attribute_weighting": {
+              "STR": 2,
+              "AGI": 3,
+              "INT": 3,
+              "WIS": 2
             }
-            },
-            "Revolutionary Youth": {
+          },
+          "Revolutionary Youth": {
             "weight": 3,
             "description": "You were involved in resistance movements from a young age, learning sabotage, covert operations, and guerilla tactics.",
             "event_key": "revolutionary_youth_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Criminal Networks": 30,
-                    "Military Academy": 10,
-                    "Corporate Indoctrination": 10
-                },
-                "career_bonus": {
-                    "Intelligence Operative": 40,
-                    "Corporate Agent": 20,
-                    "Marine Corps": 10
-                }
+            "attribute_weighting": {
+              "STR": 1,
+              "AGI": 4,
+              "INT": 3,
+              "WIS": 2
             }
-            },
-            "Garrison-Bred": {
+          },
+          "Garrison Bred": {
             "weight": 3,
             "description": "Raised on a military base or within a militarized zone, you lived a disciplined, structured life surrounded by soldiers and war machines.",
             "event_key": "garrison_bred_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Military Academy": 20,
-                    "Space Academy": 10,
-                    "Technical School": 5
-                },
-                "career_bonus": {
-                    "Marine Corps": 30,
-                    "Pilot": 20,
-                    "Engineer": 10
-                }
+            "attribute_weighting": {
+              "STR": 3,
+              "AGI": 2,
+              "INT": 4,
+              "WIS": 1
             }
-            }
+          }
         }
-        },
-        "Corporate Indoctrination": {
-        "weight": 3,
+      },
+      "Corporate Loyalist Trainee": {
+        "weight": 25,
         "description": "You were raised within the corporate system, groomed to serve its interests and maintain control in various roles.",
         "subclasses": {
-            "Colonial Overseer Trainee": {
-            "weight": 4,
+          "Colonial Overseer Trainee": {
+            "weight": 50,
             "description": "You were trained to manage and control colonies on behalf of the corporation, maintaining order and profitability.",
             "event_key": "colonial_overseer_trainee_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Corporate Indoctrination": 30,
-                    "Technical School": 10
-                },
-                "career_bonus": {
-                    "Corporate Agent": 20,
-                    "Intelligence Operative": 10,
-                    "Engineer": 5
-                }
+            "attribute_weighting": {
+              "STR": 2,
+              "AGI": 3,
+              "INT": 4,
+              "WIS": 1
             }
-            },
-            "Corporate Enforcer Trainee": {
-            "weight": 3,
+          },
+          "Corporate Enforcer Trainee": {
+            "weight": 45,
             "description": "You were trained to use force and security measures to protect corporate assets and enforce corporate interests.",
             "event_key": "corporate_enforcer_trainee_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Military Academy": 30,
-                    "Technical School": 10,
-                    "Corporate Indoctrination": 20
-                },
-                "career_bonus": {
-                    "Marine Corps": 20,
-                    "Intelligence Operative": 10
-                }
+            "attribute_weighting": {
+              "STR": 4,
+              "AGI": 3,
+              "INT": 2,
+              "WIS": 1
             }
-            },
-            "Test Subject": {
-            "weight": 2,
+          },
+          "Test Subject": {
+            "weight": 5,
             "description": "You were part of corporate experiments, often without full consent, and now possess unique skills or conditions.",
             "event_key": "test_subject_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Corporate Indoctrination": 30,
-                    "Technical School": 10,
-                    "Medical School": 20
-                },
-                "career_bonus": {
-                    "Scientist": 30,
-                    "Engineer": 10
-                }
+            "attribute_weighting": {
+              "STR": 2,
+              "AGI": 4,
+              "INT": 3,
+              "WIS": 1
             }
-            },
-            "Indoctrination Trainee": {
+          },
+          "Corporate Loyalist Trainee": {
             "weight": 5,
             "description": "You were deeply immersed in corporate philosophy and trained to carry out its will across different sectors.",
-            "event_key": "indoctrination_trainee_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Corporate Indoctrination": 50,
-                    "Space Academy": 10,
-                    "Technical School": 5
-                },
-                "career_bonus": {
-                    "Corporate Agent": 30,
-                    "Intelligence Operative": 10,
-                    "Scientist": 5
-                }
+            "event_key": "corporate_loyalist_trainee_events",
+            "attribute_weighting": {
+              "STR": 3,
+              "AGI": 2,
+              "INT": 4,
+              "WIS": 1
             }
-            },
-            "Corporate Operative Trainee": {
-            "weight": 3,
+          },
+          "Corporate Operative Trainee": {
+            "weight": 40,
             "description": "You were trained to oversee corporate operations, ensuring projects run smoothly and loyalties remain strong.",
             "event_key": "corporate_operative_trainee_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Corporate Indoctrination": 30,
-                    "Military Academy": 10
-                },
-                "career_bonus": {
-                    "Corporate Agent": 20,
-                    "Intelligence Operative": 10
-                }
+            "attribute_weighting": {
+              "STR": 2,
+              "AGI": 4,
+              "INT": 3,
+              "WIS": 1
             }
-            }
+          }
         }
-        },
-        "Space-born": {
-        "weight": 4,
+      },
+      "Space-born": {
+        "weight": 50,
         "description": "You were raised in space, whether aboard stations, ships, or isolated outposts. Life in the void is all you've ever known.",
         "subclasses": {
-            "Orbital Mechanic": {
-            "weight": 4,
+          "Orbital Maintenance Worker": {
+            "weight": 50,
             "description": "You grew up working with your hands, fixing and maintaining spacecraft and orbital infrastructure.",
             "event_key": "orbital_mechanic_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Technical School": 30,
-                    "Space Academy": 15,
-                    "Military Academy": 5
-                },
-                "career_bonus": {
-                    "Engineer": 40,
-                    "Pilot": 10,
-                    "Scientist": 5
-                }
+            "attribute_weighting": {
+              "STR": 3,
+              "AGI": 2,
+              "INT": 4,
+              "WIS": 1
             }
-            },
-            "Spacer borne": {
-            "weight": 3,
+          },
+          "Spacer Borne": {
+            "weight": 60,
             "description": "You were born aboard a spacecraft and lived your entire life among the stars, traveling between far-flung systems.",
             "event_key": "spacers_child_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Space Academy": 40,
-                    "Technical School": 15,
-                    "Military Academy": 10,
-                    "Corporate Indoctrination": 5
-                },
-                "career_bonus": {
-                    "Pilot": 30,
-                    "Scientist": 10,
-                    "Engineer": 10
-                }
+            "attribute_weighting": {
+              "STR": 3,
+              "AGI": 4,
+              "INT": 2,
+              "WIS": 1
             }
-            },
-            "Asteroid Miner Kid": {
-            "weight": 4,
+          },
+          "Asteroid Miner Kid": {
+            "weight": 40,
             "description": "You were raised on the rough edges of asteroid colonies, where your family mined resources and dealt with extreme conditions.",
             "event_key": "asteroid_miner_kid_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Technical School": 35,
-                    "Space Academy": 10
-                },
-                "career_bonus": {
-                    "Engineer": 30,
-                    "Pilot": 10,
-                    "Marine Corps": 5
-                }
+            "attribute_weighting": {
+              "STR": 4,
+              "AGI": 2,
+              "INT": 3,
+              "WIS": 1
             }
-            },
-            "Shipboard Technician": {
-            "weight": 3,
+          },
+          "Shipboard Technician": {
+            "weight": 35,
             "description": "You spent your formative years as part of a ship's crew, learning to keep its systems running smoothly and efficiently.",
             "event_key": "shipboard_technician_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Technical School": 40,
-                    "Space Academy": 15,
-                    "Corporate Indoctrination": 10
-                },
-                "career_bonus": {
-                    "Engineer": 40,
-                    "Pilot": 10,
-                    "Scientist": 5
-                }
+            "attribute_weighting": {
+              "STR": 2,
+              "AGI": 4,
+              "INT": 3,
+              "WIS": 1
             }
-            },
-            "Void Serf": {
-            "weight": 5,
+          },
+          "Void Serf": {
+            "weight": 75,
             "description": "As a Void Serf, you and your family were tied to the endless corporate-driven cycles of space labor, drifting between mining stations, spaceports, and industrial starships.",
             "event_key": "void_serf_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Space Academy": 5,
-                    "Technical School": 5,
-                    "Military Academy": 5,
-                    "Criminal Networks": 20,
-                    "Corporate Indoctrination": 5
-                },
-                "career_bonus": {
-                    "Pilot": 30,
-                    "Corporate Agent": 10,
-                    "Marine Corps": 5
-                }
+            "attribute_weighting": {
+              "STR": 4,
+              "AGI": 2,
+              "INT": 1,
+              "WIS": 3
             }
-            }
+          }
         }
-        },
-        "Urban Upbringing": {
-        "weight": 5,
+      },
+      "Urban Upbringing": {
+        "weight": 60,
         "description": "You grew up in corporate-controlled colony cities or industrial hubs where survival depends on cunning, strength, or loyalty to the system.",
         "subclasses": {
-            "Gutter Runner": {
-            "weight": 4,
+          "Urban Scavenger": {
+            "weight": 40,
             "description": "You grew up in the industrial slums of a corporate colony, scavenging and surviving where law and order rarely exist.",
             "event_key": "gutter_runner_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Criminal Networks": 25,
-                    "Military Academy": 15,
-                    "Technical School": 10
-                },
-                "career_bonus": {
-                    "Corporate Agent": 10,
-                    "Pilot": 10,
-                    "Marine Corps": 15
-                }
+            "attribute_weighting": {
+              "STR": 2,
+              "AGI": 4,
+              "INT": 3,
+              "WIS": 1
             }
-            },
-            "Gang Affiliate": {
-            "weight": 3,
+          },
+          "Gang Affiliate": {
+            "weight": 35,
             "description": "You grew up connected to or part of an urban gang in the colony, surviving and thriving through violence, loyalty, and territorial control.",
             "event_key": "gang_affiliate_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Criminal Networks": 30,
-                    "Military Academy": 20,
-                    "Corporate Indoctrination": 10,
-                    "Technical School": 10
-                },
-                "career_bonus": {
-                    "Marine Corps": 25,
-                    "Intelligence Operative": 20,
-                    "Corporate Agent": 15
-                }
+            "attribute_weighting": {
+              "STR": 3,
+              "AGI": 4,
+              "INT": 2,
+              "WIS": 1
             }
-            },
-            "Corporate Drone": {
-            "weight": 5,
+          },
+          "Corporate Drone": {
+            "weight": 60,
             "description": "You were raised in a stable corporate job environment, where hard work and loyalty were rewarded with a paycheck and a place in the system.",
             "event_key": "corporate_drone_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Corporate Indoctrination": 30,
-                    "Technical School": 20,
-                    "Space Academy": 10,
-                    "Military Academy": 10
-                },
-                "career_bonus": {
-                    "Scientist": 25,
-                    "Corporate Agent": 20,
-                    "Engineer": 15,
-                    "Pilot": 10
-                }
+            "attribute_weighting": {
+              "STR": 1,
+              "AGI": 2,
+              "INT": 4,
+              "WIS": 3
             }
-            },
-            "Market Vendor": {
-            "weight": 4,
-            "description": "You were raised in the bustling markets of the colony, working in trade and learning how to deal with customers and suppliers alike.",
-            "event_key": "market_vendor_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Corporate Indoctrination": 20,
-                    "Technical School": 15,
-                    "Criminal Networks": 15,
-                    "Space Academy": 5
-                },
-                "career_bonus": {
-                    "Corporate Agent": 20,
-                    "Pilot": 15,
-                    "Scientist": 10
-                }
-            }
-            },
-            "Security Personnel": {
-            "weight": 3,
+          },
+          "Security Personnel": {
+            "weight": 40,
             "description": "You were hired muscle or part of the colony security force, ensuring corporate interests were protected in the rough environments of the colony.",
             "event_key": "security_personnel_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Military Academy": 30,
-                    "Corporate Indoctrination": 15,
-                    "Criminal Networks": 5,
-                    "Technical School": 5
-                },
-                "career_bonus": {
-                    "Marine Corps": 40,
-                    "Pilot": 10,
-                    "Intelligence Operative": 10
-                }
+            "attribute_weighting": {
+              "STR": 4,
+              "AGI": 3,
+              "INT": 2,
+              "WIS": 1
             }
-            }
+          }
         }
-        },
-        "Crisis Survivor": {
-        "weight": 1,
+      },
+      "Crisis Survivor": {
+        "weight": 25,
         "description": "You survived a major catastrophe that drastically shaped your outlook on life and your ability to endure hardship.",
         "subclasses": {
-            "Warzone Survivor": {
-            "weight": 5,
+          "Warzone Survivor": {
+            "weight": 75,
             "description": "You survived a large-scale war between rival nations or corporations, living through bombings, raids, and relentless fighting.",
             "event_key": "warzone_survivor_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Military Academy": 30,
-                    "Technical School": 10
-                },
-                "career_bonus": {
-                    "Marine Corps": 40,
-                    "Pilot": 10,
-                    "Engineer": 5,
-                    "Intelligence Operative": 10
-                }
+            "attribute_weighting": {
+              "STR": 3,
+              "AGI": 4,
+              "INT": 2,
+              "WIS": 1
             }
-            },
-            "Pandemic Survivor": {
-            "weight": 3,
+          },
+          "Pandemic Survivor": {
+            "weight": 30,
             "description": "You lived through a widespread and deadly pandemic, learning to survive amidst the collapse of healthcare and society.",
             "event_key": "pandemic_survivor_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Medical School": 40,
-                    "Technical School": 10,
-                    "Corporate Indoctrination": 5
-                },
-                "career_bonus": {
-                    "Scientist": 30,
-                    "Pilot": 5,
-                    "Marine Corps": 5,
-                    "Intelligence Operative": 10
-                }
+            "attribute_weighting": {
+              "STR": 2,
+              "AGI": 3,
+              "INT": 4,
+              "WIS": 1
             }
-            },
-            "Environmental Collapse Refugee": {
-            "weight": 4,
+          },
+          "Environmental Collapse Refugee": {
+            "weight": 60,
             "description": "You escaped the destruction of your home planet or colony due to environmental disaster, learning to adapt in the most hostile environments.",
             "event_key": "environmental_collapse_refugee_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Medical School": 20,
-                    "Technical School": 20,
-                    "Space Academy": 10,
-                    "Corporate Indoctrination": 5
-                },
-                "career_bonus": {
-                    "Engineer": 20,
-                    "Scientist": 10,
-                    "Pilot": 5,
-                    "Marine Corps": 5
-                }
+            "attribute_weighting": {
+              "STR": 4,
+              "AGI": 1,
+              "INT": 3,
+              "WIS": 2
             }
-            },
-            "Civil War Refugee": {
-            "weight": 3,
+          },
+          "Civil War Refugee": {
+            "weight": 30,
             "description": "You fled from a nation or colony ripped apart by civil war, relying on your instincts and cunning to survive.",
             "event_key": "civil_war_refugee_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Military Academy": 30,
-                    "Criminal Networks": 30
-                },
-                "career_bonus": {
-                    "Marine Corps": 30,
-                    "Intelligence Operative": 20,
-                    "Corporate Agent": 10,
-                    "Pilot": 5
-                }
+            "attribute_weighting": {
+              "STR": 2,
+              "AGI": 4,
+              "INT": 1,
+              "WIS": 3
             }
-            },
-            "Rogue AI Rebellion Survivor": {
-            "weight": 2,
+          },
+          "Rogue AI Rebellion Survivor": {
+            "weight": 10,
             "description": "You lived through an uprising led by rogue AI systems.",
             "event_key": "ai_rebellion_survivor_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Technical School": 30,
-                    "Space Academy": 20,
-                    "Military Academy": 20
-                },
-                "career_bonus": {
-                    "Engineer": 30,
-                    "Scientist": 20,
-                    "Intelligence Operative": 10,
-                    "Marine Corps": 10
-                }
+            "attribute_weighting": {
+              "STR": 1,
+              "AGI": 4,
+              "INT": 2,
+              "WIS": 3
             }
-            },
-            "Colony Quarantine Survivor": {
-            "weight": 3,
+          },
+          "Colony Quarantine Survivor": {
+            "weight": 20,
             "description": "You survived a dangerous biohazard or outbreak that led to your colony being quarantined, forcing you to live in isolation.",
             "event_key": "colony_quarantine_survivor_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Medical School": 30,
-                    "Technical School": 20,
-                    "Space Academy": 10
-                },
-                "career_bonus": {
-                    "Scientist": 30,
-                    "Marine Corps": 10,
-                    "Pilot": 5,
-                    "Intelligence Operative": 5
-                }
+            "attribute_weighting": {
+              "STR": 2,
+              "AGI": 3,
+              "INT": 4,
+              "WIS": 1
             }
-            },
-            "Space Station Disaster Survivor": {
-            "weight": 3,
+          },
+          "Space Station Disaster Survivor": {
+            "weight": 20,
             "description": "You were one of the few survivors of a catastrophic event on a space station, such as a reactor failure or collision.",
             "event_key": "space_station_disaster_survivor_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Space Academy": 30,
-                    "Technical School": 20,
-                    "Military Academy": 10
-                },
-                "career_bonus": {
-                    "Pilot": 30,
-                    "Engineer": 20,
-                    "Scientist": 10,
-                    "Marine Corps": 5
-                }
+            "attribute_weighting": {
+              "STR": 3,
+              "AGI": 2,
+              "INT": 4,
+              "WIS": 1
             }
-            },
-            "Xeno Encounter Survivor": {
-            "weight": 2,
+          },
+          "Xeno Encounter Survivor": {
+            "weight": 5,
             "description": "You survived a deadly encounter with alien species or bio-engineered organisms, leaving you scarred but alive.",
             "event_key": "xeno_encounter_survivor_events",
-            "bonuses": {
-                "higher_ed_bonus": {
-                    "Military Academy": 30,
-                    "Space Academy": 20,
-                    "Medical School": 10
-                },
-                "career_bonus": {
-                    "Marine Corps": 40,
-                    "Scientist": 20,
-                    "Intelligence Operative": 10,
-                    "Pilot": 5
-                }
+            "attribute_weighting": {
+              "STR": 4,
+              "AGI": 2,
+              "INT": 3,
+              "WIS": 1
             }
-            }
+          }
         }
-        }
+      }
     }
 }
   
