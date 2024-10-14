@@ -1,172 +1,339 @@
 {
   "higher_education": {
-    "Military Academy": {
+    "Military_Academy": {
+      "description": "Training students for tactical leadership and operational roles in starship or ground combat environments.",
       "subclasses": {
-        "Starship Command Studies": {
-          "description": "You were trained in the fundamentals of leading a small starship crew, including decision-making, resource management, and team leadership.",
-          "primary_attribute": "WIS",
-          "secondary_attribute": "INT",
-          "master": "Advanced Command Tactics"
+        "Tactical_Systems_Training": {
+          "description": "Training in the use of tactical systems and operations, including ship-based combat tactics and leadership skills.",
+          "skills": {
+            "Piloting": {"weight": 1},
+            "Observation": {"weight": 3},
+            "Ranged_Combat": {"weight": 3},
+            "Close_Combat": {"weight": 1},
+            "Command": {"weight": 2}
+          },
+          "talents": ["military_talent_pool"],
+          "debt_value": 1,
+          "title": "Tactical Officer",
+          "master": {
+            "title": "Senior Tactical Officer",
+            "debt_value": 1
+          }
         },
-        "Tactical Systems Training": {
-          "description": "You focused on tactical systems and learned how to operate sensors, weapons targeting, and assist with ship maneuvering during combat.",
-          "primary_attribute": "INT",
-          "secondary_attribute": "AGI",
-          "master": "Advanced Tactical Strategy"
+        "Logistics_and_Supply_Management": {
+          "description": "Focuses on logistics and supply chain management, essential for sustaining long-term military or corporate operations.",
+          "skills": {
+            "Heavy_Machinery": {"weight": 2},
+            "ComTech": {"weight": 2},
+            "Command": {"weight": 3},
+            "Observation": {"weight": 3}
+          },
+          "talents": ["logistics_talent_pool"],
+          "debt_value": 1,
+          "title": "Supply Officer",
+          "master": {
+            "title": "Senior Supply Officer",
+            "debt_value": 1
+          }
         },
-        "Logistics and Supply Management": {
-          "description": "You specialized in supply chain logistics, learning how to manage resources, fuel, and trade operations aboard a starship or in a colony.",
-          "primary_attribute": "INT",
-          "secondary_attribute": "WIS",
-          "master": "Advanced Supply Chain Operations"
+        "Special_Operations_Training": {
+          "description": "Special forces training, emphasizing stealth, close combat, and high-risk missions behind enemy lines.",
+          "skills": {
+            "Mobility": {"weight": 2},
+            "Close_Combat": {"weight": 3},
+            "Ranged_Combat": {"weight": 2},
+            "Command": {"weight": 1},
+            "Observation": {"weight": 2}
+          },
+          "talents": ["special_ops_talent_pool"],
+          "debt_value": 1,
+          "title": "Special Ops Trainee",
+          "master": {
+            "title": "Special Operations Officer",
+            "debt_value": 1
+          }
         },
-        "Special Operations Training": {
-          "description": "You received specialized training in high-risk small-unit tactics, infiltration, and boarding actions, preparing you for dangerous missions.",
-          "primary_attribute": "AGI",
-          "secondary_attribute": "STR",
-          "master": "Elite Special Operations"
-        },
-        "Covert Operations Studies": {
-          "description": "You were trained in covert intelligence gathering, sabotage, and stealth, focusing on undercover operations in hostile environments.",
-          "primary_attribute": "AGI",
-          "secondary_attribute": "INT",
-          "master": "Advanced Covert Tactics"
+        "Covert_Operations_Training": {
+          "description": "Training focused on secret intelligence gathering, sabotage, and stealth missions in hostile environments.",
+          "skills": {
+            "Mobility": {"weight": 2},
+            "Observation": {"weight": 3},
+            "ComTech": {"weight": 2},
+            "Ranged_Combat": {"weight": 2}
+          },
+          "talents": ["covert_ops_talent_pool"],
+          "debt_value": 1,
+          "title": "Covert Operations Trainee",
+          "master": {
+            "title": "Covert Specialist",
+            "debt_value": 1
+          }
         }
       }
     },
-    "Corporate Training": {
+    "Corporate_Training": {
+      "description": "Training for leadership, security, and intelligence roles within corporate-controlled environments.",
       "subclasses": {
-        "Corporate Resource Management": {
-          "description": "You focused on managing corporate resources, learning how to optimize profitability and asset management on starships or colonies.",
-          "primary_attribute": "WIS",
-          "secondary_attribute": "INT",
-          "master": "Corporate Asset Optimization"
+        "Corporate_Resource_Management": {
+          "description": "Focuses on managing corporate assets, leadership, and ensuring profitability and resource optimization.",
+          "skills": {
+            "Command": {"weight": 3},
+            "Manipulation": {"weight": 3},
+            "Observation": {"weight": 2},
+            "ComTech": {"weight": 2}
+          },
+          "talents": ["corporate_talent_pool"],
+          "debt_value": 1,
+          "title": "Junior Analyst",
+          "master": {
+            "title": "Corporate Strategist",
+            "debt_value": 2
+          }
         },
-        "Security Systems Training": {
-          "description": "You studied internal security protocols, learning how to protect corporate assets and handle threats like sabotage or infiltration.",
-          "primary_attribute": "STR",
-          "secondary_attribute": "INT",
-          "master": "Advanced Corporate Security"
+        "Security_Systems_Training": {
+          "description": "Trains corporate security officers to protect assets and prevent sabotage, theft, or corporate espionage.",
+          "skills": {
+            "Ranged_Combat": {"weight": 3},
+            "Close_Combat": {"weight": 2},
+            "Command": {"weight": 2},
+            "Observation": {"weight": 2},
+            "Mobility": {"weight": 1}
+          },
+          "talents": ["corporate_security_talent_pool"],
+          "debt_value": 1,
+          "title": "Security Officer",
+          "master": {
+            "title": "Senior Security Officer",
+            "debt_value": 2
+          }
         },
-        "Corporate Logistics and Supply Management": {
-          "description": "Specializes in supply chain logistics, resource management, and optimizing corporate trade operations for space colonies and starships.",
-          "primary_attribute": "INT",
-          "secondary_attribute": "WIS",
-          "master": "Advanced Corporate Logistics"
+        "Corporate_Espionage_and_Intelligence": {
+          "description": "Trains corporate agents in intelligence gathering, sabotage, and covert operations against rival corporations.",
+          "skills": {
+            "Mobility": {"weight": 2},
+            "Observation": {"weight": 3},
+            "Manipulation": {"weight": 2},
+            "ComTech": {"weight": 2}
+          },
+          "talents": ["espionage_talent_pool"],
+          "debt_value": 1,
+          "title": "Junior Intelligence Officer",
+          "master": {
+            "title": "Senior Intelligence Officer",
+            "debt_value": 2
+          }
         },
-        "Corporate Espionage and Intelligence": {
-          "description": "Focuses on gathering intelligence on corporate rivals, using espionage, manipulation, and covert operations to gain a competitive edge.",
-          "primary_attribute": "WIS",
-          "secondary_attribute": "INT",
-          "master": "Advanced Corporate Negotiation"
-        },
-        "Colonial Management Training": {
-          "description": "You studied colonial management, specializing in overseeing corporate colonies, extracting resources, and maintaining order.",
-          "primary_attribute": "WIS",
-          "secondary_attribute": "STR",
-          "master": "Advanced Colonial Governance"
+        "Market_Strategist_Training": {
+          "description": "Focused on corporate market manipulation, financial strategy, and competitive advantage.",
+          "skills": {
+            "Command": {"weight": 3},
+            "Manipulation": {"weight": 3},
+            "Observation": {"weight": 2},
+            "ComTech": {"weight": 2}
+          },
+          "talents": ["market_talent_pool"],
+          "debt_value": 1,
+          "title": "Market Analyst",
+          "master": {
+            "title": "Market Strategist",
+            "debt_value": 2
+          }
         }
       }
     },
-    "Technical Institute": {
+    "Technical_Institute": {
+      "description": "Training engineers and specialists in ship maintenance, AI systems, and robotics.",
       "subclasses": {
-        "Starship Systems Engineering": {
-          "description": "You specialized in starship systems maintenance and repair, learning how to keep ships operational on long voyages.",
-          "primary_attribute": "INT",
-          "secondary_attribute": "STR",
-          "master": "Advanced Starship Engineering"
+        "Starship_Systems_Engineering": {
+          "description": "Trains engineers to maintain starship systems, including power, propulsion, and life support.",
+          "skills": {
+            "Heavy_Machinery": {"weight": 3},
+            "ComTech": {"weight": 2},
+            "Piloting": {"weight": 1},
+            "Observation": {"weight": 1}
+          },
+          "talents": ["technical_talent_pool"],
+          "debt_value": 1,
+          "title": "Starship Technician",
+          "master": {
+            "title": "Starship Engineer",
+            "debt_value": 2
+          }
         },
-        "Robotics Engineering": {
-          "description": "You trained in robotics engineering, learning how to design, maintain, and repair robots used in space and planetary operations.",
-          "primary_attribute": "INT",
-          "secondary_attribute": "AGI",
-          "master": "Advanced Robotics Development"
+        "Robotics_Engineering": {
+          "description": "Focuses on the design, repair, and optimization of robotic systems for space and planetary operations.",
+          "skills": {
+            "ComTech": {"weight": 3},
+            "Heavy_Machinery": {"weight": 2},
+            "Observation": {"weight": 2}
+          },
+          "talents": ["robotics_talent_pool"],
+          "debt_value": 1,
+          "title": "Robotics Technician",
+          "master": {
+            "title": "Robotics Engineer",
+            "debt_value": 2
+          }
         },
-        "AI Systems Programming": {
-          "description": "You focused on artificial intelligence systems, learning how to program and maintain AIs for starships, security, and corporate operations.",
-          "primary_attribute": "INT",
-          "secondary_attribute": "WIS",
-          "master": "Advanced AI Systems"
+        "AI_Systems_Programming": {
+          "description": "Specializes in the programming and maintenance of advanced AI systems for ship control and automation.",
+          "skills": {
+            "ComTech": {"weight": 3},
+            "Observation": {"weight": 2},
+            "Heavy_Machinery": {"weight": 1}
+          },
+          "talents": ["ai_talent_pool"],
+          "debt_value": 1,
+          "title": "AI Programmer",
+          "master": {
+            "title": "Senior AI Specialist",
+            "debt_value": 2
+          }
         },
-        "Weapons Systems Engineering": {
-          "description": "You trained in building, maintaining, and optimizing advanced weapons systems for starships and colonies.",
-          "primary_attribute": "INT",
-          "secondary_attribute": "STR",
-          "master": "Advanced Weapons Engineering"
-        },
-        "Colony Infrastructure Engineering": {
-          "description": "You specialized in the design and maintenance of colony infrastructure, including power systems, water supply, and life support.",
-          "primary_attribute": "INT",
-          "secondary_attribute": "WIS",
-          "master": "Advanced Colony Systems"
+        "Weapon_Systems_Engineering": {
+          "description": "Specializes in building, maintaining, and enhancing advanced weaponry and defense systems.",
+          "skills": {
+            "ComTech": {"weight": 2},
+            "Heavy_Machinery": {"weight": 3},
+            "Observation": {"weight": 2}
+          },
+          "talents": ["weapons_talent_pool"],
+          "debt_value": 1,
+          "title": "Weapons Platforms Engineer",
+          "master": {
+            "title": "Senior Weapons Platforms Engineer",
+            "debt_value": 2
+          }
         }
       }
     },
-    "Space Academy": {
+    "Space_Academy": {
+      "description": "Training for navigation, piloting, and long-term space exploration missions.",
       "subclasses": {
-        "Stellar Navigation": {
-          "description": "You focused on starship navigation, learning how to chart courses through space and manage hyperspace jumps.",
-          "primary_attribute": "INT",
-          "secondary_attribute": "WIS",
-          "master": "Advanced Stellar Cartography"
+        "Astrogation_Training": {
+          "description": "Specializes in stellar navigation, course plotting, and navigating uncharted regions of space.",
+          "skills": {
+            "Piloting": {"weight": 2},
+            "Observation": {"weight": 3},
+            "ComTech": {"weight": 1}
+          },
+          "talents": ["space_talent_pool"],
+          "debt_value": 1,
+          "title": "Explorations Navigator",
+          "master": {
+            "title": "Seniro Explorations Navigator",
+            "debt_value": 1
+          }
         },
-        "Flight Operations Training": {
-          "description": "You trained in starship flight operations, learning how to pilot small-to-medium vessels and handle routine flight duties.",
-          "primary_attribute": "AGI",
-          "secondary_attribute": "WIS",
-          "master": "Advanced Starship Piloting"
+        "Flight_Cadet_Training": {
+          "description": "Training for piloting spacecraft, managing takeoffs, landings, and navigation through space.",
+          "skills": {
+            "Piloting": {"weight": 3},
+            "Mobility": {"weight": 2},
+            "Command": {"weight": 1}
+          },
+          "talents": ["flight_talent_pool"],
+          "debt_value": 1,
+          "title": "Pilot",
+          "master": {
+            "title": "Senior Pilot",
+            "debt_value": 1
+          }
         },
-        "Combat Flight Training": {
-          "description": "You specialized in piloting combat vessels, learning evasive maneuvers and how to engage in ship-to-ship combat.",
-          "primary_attribute": "AGI",
-          "secondary_attribute": "INT",
-          "master": "Advanced Combat Piloting"
+        "Space_Exploration_Training": {
+          "description": "Specializes in long-term space missions, including navigation, survival in space, and system maintenance.",
+          "skills": {
+            "Observation": {"weight": 3},
+            "Survival": {"weight": 2},
+            "ComTech": {"weight": 2}
+          },
+          "talents": ["exploration_talent_pool"],
+          "debt_value": 1,
+          "title": "Exploration Operative",
+          "master": {
+            "title": "Exploration Specialist",
+            "debt_value": 1
+          }
         },
-        "Space Exploration Training": {
-          "description": "You were trained in space exploration techniques, planetary landings, and survival in uncharted or hostile environments.",
-          "primary_attribute": "WIS",
-          "secondary_attribute": "INT",
-          "master": "Deep Space Exploration"
-        },
-        "Space Systems Engineering": {
-          "description": "You trained in spacecraft system maintenance, learning how to repair and upgrade critical ship functions during long missions.",
-          "primary_attribute": "INT",
-          "secondary_attribute": "STR",
-          "master": "Advanced Space Systems Maintenance"
+        "Combat_Pilot_Training": {
+          "description": "Specializes in space combat piloting, dogfighting, and handling spacecraft in combat situations.",
+          "skills": {
+            "Piloting": {"weight": 3},
+            "Ranged_Combat": {"weight": 2},
+            "Command": {"weight": 2}
+          },
+          "talents": ["combat_pilot_talent_pool"],
+          "debt_value": 1,
+          "title": "Combat Pilot",
+          "master": {
+            "title": "Senior Combat Pilot",
+            "debt_value": 1
+          }
         }
       }
     },
-    "University of Science and Medicine": {
+    "University": {
+      "description": "Academic training focused on advanced research, medical, and scientific fields.",
       "subclasses": {
-        "Medical Sciences": {
-          "description": "You studied basic and advanced medical procedures, specializing in trauma care and emergency surgery aboard starships or in colonies.",
-          "primary_attribute": "INT",
-          "secondary_attribute": "WIS",
-          "master": "Advanced Trauma Surgery"
+        "Medicaly_Training": {
+          "description": "Trains in emergency medical response, surgery, and life-saving interventions, especially in combat zones.",
+          "skills": {
+            "Survival": {"weight": 2},
+            "ComTech": {"weight": 2},
+            "Observation": {"weight": 3}
+          },
+          "talents": ["medical_talent_pool"],
+          "debt_value": 1,
+          "title": "Medical Cadet",
+          "master": {
+            "title": "Medical Doctor",
+            "debt_value": 2
+          }
         },
-        "Biology and Xeno-Biology": {
-          "description": "You studied biology and xeno-biology, specializing in the analysis of alien species and planetary ecosystems.",
-          "primary_attribute": "INT",
-          "secondary_attribute": "WIS",
-          "master": "Advanced Xeno-Biology"
+        "Xeno-Biology_Training": {
+          "description": "Specializes in the study of alien species, their biology, and how to exploit or protect against them.",
+          "skills": {
+            "Science": {"weight": 3},
+            "Observation": {"weight": 2},
+            "Survival": {"weight": 1}
+          },
+          "talents": ["xeno_bio_talent_pool"],
+          "debt_value": 1,
+          "title": "Xeno-Biologist",
+          "master": {
+            "title": "Senior Xeno-Biologist",
+            "debt_value": 2
+          }
         },
-        "Cryogenics and Stasis Systems": {
-          "description": "You were trained in cryogenic stasis technology, learning how to maintain stasis pods and manage long-term stasis-related health issues.",
-          "primary_attribute": "INT",
-          "secondary_attribute": "WIS",
-          "master": "Advanced Stasis Systems"
+        "Stasis_Technology_Training": {
+          "description": "Specializes in stasis technology, including its medical uses and emergency repair of stasis systems.",
+          "skills": {
+            "ComTech": {"weight": 3},
+            "Observation": {"weight": 2},
+            "Survival": {"weight": 2}
+          },
+          "talents": ["stasis_talent_pool"],
+          "debt_value": 1,
+          "title": "Stasis Technician",
+          "master": {
+            "title": "Senior Stasis Technician",
+            "debt_value": 2
+          }
         },
-        "Biotech Engineering": {
-          "description": "You specialized in biotech engineering, learning how to enhance human capabilities through biological and technological fusion.",
-          "primary_attribute": "INT",
-          "secondary_attribute": "AGI",
-          "master": "Advanced Biotech Systems"
-        },
-        "Quarantine and Biohazard Management": {
-          "description": "You focused on quarantine protocols and biohazard management, learning how to contain and prevent the spread of deadly pathogens.",
-          "primary_attribute": "WIS",
-          "secondary_attribute": "INT",
-          "master": "Advanced Quarantine Protocols"
+        "Biotechnology_Training": {
+          "description": "Focuses on bio-engineering, enhancing human capabilities through biological modifications.",
+          "skills": {
+            "Science": {"weight": 3},
+            "ComTech": {"weight": 2},
+            "Observation": {"weight": 2}
+          },
+          "talents": ["biotech_talent_pool"],
+          "debt_value": 1,
+          "title": "Biotech Specialist",
+          "master": {
+            "title": "Senior Biotech Engineer",
+            "debt_value": 2
+          }
         }
       }
     }
