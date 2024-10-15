@@ -1,0 +1,391 @@
+{
+    "Academic careers": {
+      "Academic Researcher": {
+        "description": "Scientists pushing the boundaries of knowledge in a universe filled with unknowns, often under corporate oversight.",
+        "subclasses": {
+          "Xenobiologist": {
+            "description": "Studies alien life forms and ecosystems, uncovering secrets that could change humanity's understanding of life.",
+            "skills": {
+              "Science": {
+                "weight": 3,
+                "specializations": ["Xenology", "Biology", "Environmental Science"]
+              },
+              "Observation": {
+                "weight": 2,
+                "specializations": ["Forensics", "Sensor Specialist"]
+              },
+              "Survival": {
+                "weight": 1,
+                "specializations": ["Extreme Environments", "Hazardous Env."]
+              }
+            },
+            "talents": ["xenobiology_talent_pool"],
+            "title": "Xenobiologist",
+            "promotion": {
+              "title": "Senior Xenobiologist"
+            }
+          },
+          "Cyberneticist": {
+            "description": "Integrates technology with biology, advancing human capabilities.",
+            "skills": {
+              "Science": {
+                "weight": 3,
+                "specializations": ["Cybernetics", "Biology"]
+              },
+              "ComTech": {
+                "weight": 2,
+                "specializations": ["Robotics", "AI Tech"]
+              },
+              "Observation": {
+                "weight": 2,
+                "specializations": ["Systems Analysis", "Sensor Specialist"]
+              },
+              "Heavy Machinery": {
+                "weight": 1,
+                "specializations": ["Advanced Engineering"]
+              }
+            },
+            "talents": ["cyberneticist_talent_pool"],
+            "title": "Cyberneticist",
+            "promotion": {
+              "title": "Lead Cyberneticist"
+            }
+          },
+          "Quantum Physicist": {
+            "description": "Explores the fabric of reality, working on FTL technology and advanced computing.",
+            "skills": {
+              "Science": {
+                "weight": 3,
+                "specializations": ["Quantum Mechanics", "Physics"]
+              },
+              "ComTech": {
+                "weight": 2,
+                "specializations": ["Computer Engineering", "Signal Intelligence"]
+              },
+              "Observation": {
+                "weight": 2,
+                "specializations": ["Systems Analysis", "Sensor Specialist"]
+              },
+              "Heavy Machinery": {
+                "weight": 1,
+                "specializations": ["FTL Drive"]
+              }
+            },
+            "talents": ["quantum_physicist_talent_pool"],
+            "title": "Quantum Physicist",
+            "promotion": {
+              "title": "Senior Quantum Physicist"
+            }
+          },
+          "Nanotechnologist": {
+            "description": "Develops nanotechnology for medical, industrial, or technological applications.",
+            "skills": {
+              "Science": {
+                "weight": 3,
+                "specializations": ["Nanotechnology", "Chemistry"]
+              },
+              "ComTech": {
+                "weight": 2,
+                "specializations": ["Electronics Engineering", "Computer Engineering"]
+              },
+              "Observation": {
+                "weight": 2,
+                "specializations": ["Systems Analysis", "Sensor Specialist"]
+              },
+              "Heavy Machinery": {
+                "weight": 1,
+                "specializations": ["Advanced Engineering"]
+              }
+            },
+            "talents": ["nanotechnologist_talent_pool"],
+            "title": "Nanotechnologist",
+            "promotion": {
+              "title": "Senior Nanotechnologist"
+            }
+          }
+        }
+      },
+      "Corporate Specialist": {
+        "description": "Professionals who use their advanced education to serve corporate interests in specialized fields.",
+        "subclasses": {
+          "Corporate Strategist": {
+            "description": "Develops strategies to advance corporate objectives in a competitive and often ruthless environment.",
+            "skills": {
+              "Command": {
+                "weight": 3,
+                "specializations": ["Operational Planning", "Crisis Management"]
+              },
+              "Observation": {
+                "weight": 2,
+                "specializations": ["Strategic Analysis", "Systems Analysis"]
+              },
+              "Manipulation": {
+                "weight": 2,
+                "specializations": ["Negotiator", "Social Engineering"]
+              },
+              "ComTech": {
+                "weight": 1,
+                "specializations": ["Signal Intelligence"]
+              }
+            },
+            "talents": ["corporate_strategist_talent_pool"],
+            "title": "Corporate Strategist",
+            "promotion": {
+              "title": "Senior Strategist"
+            }
+          },
+          "Data Scientist": {
+            "description": "Analyzes complex data to uncover insights that give corporations a competitive edge.",
+            "skills": {
+              "ComTech": {
+                "weight": 3,
+                "specializations": ["Computer Engineering", "AI Tech"]
+              },
+              "Observation": {
+                "weight": 3,
+                "specializations": ["Systems Analysis", "Signal Intelligence"]
+              },
+              "Science": {
+                "weight": 1,
+                "specializations": ["Advanced Engineering"]
+              }
+            },
+            "talents": ["data_scientist_talent_pool"],
+            "title": "Data Scientist",
+            "promotion": {
+              "title": "Lead Data Scientist"
+            }
+          }
+        }
+      },
+      "Medical Professional": {
+        "description": "Provides advanced medical care, often facing challenges posed by unknown diseases and corporate demands.",
+        "subclasses": {
+          "Ship's Doctor": {
+            "description": "Offers medical services aboard starships, dealing with injuries and illnesses encountered during voyages.",
+            "skills": {
+              "Science": {
+                "weight": 3,
+                "specializations": ["Medical Science", "Biology"]
+              },
+              "Survival": {
+                "weight": 2,
+                "specializations": ["First Aid", "Psychological Res."]
+              },
+              "Observation": {
+                "weight": 2,
+                "specializations": ["Forensics", "Systems Analysis"]
+              },
+              "ComTech": {
+                "weight": 1,
+                "specializations": ["Computer Engineering"]
+              }
+            },
+            "talents": ["ships_doctor_talent_pool"],
+            "title": "Ship's Doctor",
+            "promotion": {
+              "title": "Chief Medical Officer"
+            }
+          },
+          "Geneticist": {
+            "description": "Studies and manipulates genetic material for medical advancements.",
+            "skills": {
+              "Science": {
+                "weight": 3,
+                "specializations": ["Biology", "Xenology"]
+              },
+              "Observation": {
+                "weight": 2,
+                "specializations": ["Forensics", "Systems Analysis"]
+              },
+              "ComTech": {
+                "weight": 2,
+                "specializations": ["Computer Engineering", "AI Tech"]
+              },
+              "Survival": {
+                "weight": 1,
+                "specializations": ["Hazardous Env."]
+              }
+            },
+            "talents": ["geneticist_talent_pool"],
+            "title": "Geneticist",
+            "promotion": {
+              "title": "Lead Geneticist"
+            }
+          }
+        }
+      },
+      "Interstellar Officer": {
+        "description": "High-ranking military personnel leading missions in a dangerous universe, balancing duty with corporate politics.",
+        "subclasses": {
+          "Ship Captain": {
+            "description": "Commands starships, making critical decisions during deep-space missions.",
+            "skills": {
+              "Command": {
+                "weight": 3,
+                "specializations": ["Leadership", "Strategic Planning", "Crisis Management"]
+              },
+              "Piloting": {
+                "weight": 2,
+                "specializations": ["Space", "Navigation"]
+              },
+              "Observation": {
+                "weight": 2,
+                "specializations": ["Strategic Analysis", "Tactical Analysis"]
+              },
+              "Science": {
+                "weight": 1,
+                "specializations": ["Astrogation"]
+              }
+            },
+            "talents": ["ship_captain_talent_pool"],
+            "title": "Ship Captain",
+            "promotion": {
+              "title": "Fleet Commander"
+            }
+          },
+          "Tactical Officer": {
+            "description": "Plans and executes combat strategies to protect against threats.",
+            "skills": {
+              "Command": {
+                "weight": 3,
+                "specializations": ["Tactical Operations", "Crisis Management"]
+              },
+              "Ranged Combat": {
+                "weight": 2,
+                "specializations": ["Energy Weapons", "Automatic Weapons"]
+              },
+              "Observation": {
+                "weight": 2,
+                "specializations": ["Tactical Analysis", "Sensor Specialist"]
+              },
+              "Mobility": {
+                "weight": 1,
+                "specializations": ["Zero-G Movement"]
+              }
+            },
+            "talents": ["tactical_officer_talent_pool"],
+            "title": "Tactical Officer",
+            "promotion": {
+              "title": "Chief Tactical Officer"
+            }
+          }
+        }
+      },
+      "AI Specialist": {
+        "description": "Works with advanced AI systems, pushing the limits of technology.",
+        "subclasses": {
+          "AI Programmer": {
+            "description": "Develops and maintains AI systems, contributing to technological breakthroughs.",
+            "skills": {
+              "ComTech": {
+                "weight": 3,
+                "specializations": ["AI Tech", "Computer Engineering"]
+              },
+              "Science": {
+                "weight": 2,
+                "specializations": ["Cybernetics", "Advanced Engineering"]
+              },
+              "Observation": {
+                "weight": 2,
+                "specializations": ["Systems Analysis"]
+              },
+              "Manipulation": {
+                "weight": 1,
+                "specializations": ["Social Engineering"]
+              }
+            },
+            "talents": ["ai_programmer_talent_pool"],
+            "title": "AI Programmer",
+            "promotion": {
+              "title": "Lead AI Developer"
+            }
+          },
+          "Robotics Engineer": {
+            "description": "Designs and maintains robotic systems for various applications.",
+            "skills": {
+              "ComTech": {
+                "weight": 3,
+                "specializations": ["Robotics", "Electronics Engineering"]
+              },
+              "Heavy Machinery": {
+                "weight": 2,
+                "specializations": ["Advanced Engineering", "Weapon Sys."]
+              },
+              "Observation": {
+                "weight": 2,
+                "specializations": ["Systems Analysis"]
+              },
+              "Science": {
+                "weight": 1,
+                "specializations": ["Cybernetics"]
+              }
+            },
+            "talents": ["robotics_engineer_talent_pool"],
+            "title": "Robotics Engineer",
+            "promotion": {
+              "title": "Chief Robotics Engineer"
+            }
+          }
+        }
+      },
+      "Space Explorer": {
+        "description": "Ventures into uncharted territories, facing unknown challenges.",
+        "subclasses": {
+          "Deep Space Pilot": {
+            "description": "Navigates unexplored regions, contributing to discoveries.",
+            "skills": {
+              "Piloting": {
+                "weight": 3,
+                "specializations": ["Space", "Navigation", "Drone/remote Operation"]
+              },
+              "Observation": {
+                "weight": 2,
+                "specializations": ["Sensor Specialist", "Strategic Analysis"]
+              },
+              "Science": {
+                "weight": 2,
+                "specializations": ["Astrogation", "Physics"]
+              },
+              "Survival": {
+                "weight": 1,
+                "specializations": ["Hazardous Env."]
+              }
+            },
+            "talents": ["deep_space_pilot_talent_pool"],
+            "title": "Deep Space Pilot",
+            "promotion": {
+              "title": "Senior Explorer"
+            }
+          },
+          "Salvage Expert": {
+            "description": "Recovers valuable technology from derelict ships and ruins.",
+            "skills": {
+              "Heavy Machinery": {
+                "weight": 3,
+                "specializations": ["Advanced Engineering", "Power Sys."]
+              },
+              "Observation": {
+                "weight": 2,
+                "specializations": ["Systems Analysis", "Sensor Specialist"]
+              },
+              "Survival": {
+                "weight": 2,
+                "specializations": ["Hazardous Env.", "Extreme Environments"]
+              },
+              "ComTech": {
+                "weight": 1,
+                "specializations": ["Electronics Engineering"]
+              }
+            },
+            "talents": ["salvage_expert_talent_pool"],
+            "title": "Salvage Expert",
+            "promotion": {
+              "title": "Master Salvager"
+            }
+          }
+        }
+      }
+    }
+  }
+  

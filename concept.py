@@ -6,7 +6,6 @@ def get_concept_and_background():
 
     # 1. Name and Profession
     name = input("Enter character name: ")
-    role = choose_role()
 
     # 2. Generate Affiliation based on life choices or background events
     affiliation = generate_affiliation()
@@ -15,30 +14,13 @@ def get_concept_and_background():
     homeworld = generate_homeworld()
 
     # 4. Backstory
-    backstory = input("Enter significant backstory elements: ")
+    # ai generator
 
     return {
         "name": name,
-        "role": role,
         "affiliation": affiliation,
         "homeworld": homeworld,
-        "backstory": backstory
     }
-
-# Function to choose role/profession for the character
-def choose_role():
-    roles = [
-        "Captain/Officer/pilot", "Corporate Agent", "Pilot", 
-        "Mechanical Engineer (Roughneck)", "Electronic Engineer", 
-        "marine/pilot/engineer", "medical science office", "Security Officer"
-    ]
-    
-    print("\nChoose a role/profession for your character:")
-    for i, role in enumerate(roles, 1):
-        print(f"{i}. {role}")
-    
-    choice = int(input(f"Select a role (1-{len(roles)}): "))
-    return roles[choice - 1]
 
 # Function to generate an affiliation based on background choices
 def generate_affiliation():

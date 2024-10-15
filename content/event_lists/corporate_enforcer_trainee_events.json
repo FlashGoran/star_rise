@@ -1,0 +1,213 @@
+{
+    "early": [
+      {
+        "description": "Born into a family loyal to the corporation, you were enrolled in a strict training program focused on physical conditioning from a young age.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "At age eight, you witnessed corporate enforcers subduing a riot, inspiring both fear and admiration in you.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "You excelled in martial arts classes, showing exceptional strength and discipline compared to your peers.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "A family member was reprimanded for insubordination, teaching you the importance of obedience.",
+        "attributes": { "STR": 2, "INT": 2 }
+      },
+      {
+        "description": "You received basic firearms training, demonstrating a natural aptitude for handling weapons.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "An older enforcer took you under their wing, sharing insights about the role and its responsibilities.",
+        "attributes": { "STR": 2, "INT": 2 }
+      },
+      {
+        "description": "You participated in a simulated mission to apprehend a dissident, showcasing your teamwork and physical prowess.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "Witnessing a breach of protocol by a superior, you learned the complexities of corporate hierarchy.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "You suffered a minor injury during training, teaching you resilience and the importance of proper technique.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "A rivalry with another trainee pushed you to improve your skills but also fostered tension.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "You developed a fascination with tactical gear and equipment, enhancing your knowledge of their use.",
+        "attributes": { "STR": 2, "INT": 2 }
+      },
+      {
+        "description": "An encounter with a rebellious youth made you question the simplicity of the corporation's narrative.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "You assisted in security drills, taking on responsibilities beyond your years.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "A family relocation to a high-security area exposed you to advanced enforcement techniques.",
+        "attributes": { "STR": 2, "INT": 2 }
+      },
+      {
+        "description": "You began studying corporate law to better understand the rules you were to enforce.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "An incident of vandalism in your community led you to assist in the investigation.",
+        "attributes": { "STR": 2, "INT": 2 }
+      },
+      {
+        "description": "You crafted a makeshift training course to hone your physical abilities outside formal sessions.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You were selected for advanced training due to your exceptional performance, increasing both pressure and prestige.",
+        "attributes": { "STR": 2, "AGI": 1, "INT": 1 }
+      },
+      {
+        "description": "A mission to apprehend a suspected saboteur went awry, resulting in collateral damage and personal doubt.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "You led a team in a high-stakes training exercise, demonstrating leadership and tactical acumen.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "An injury forced you to adapt your fighting style, emphasizing technique over brute strength.",
+        "attributes": { "INT": 2, "STR": 2 }
+      },
+      {
+        "description": "You uncovered minor corruption within your unit; reporting it could have serious repercussions.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A personal relationship with a fellow trainee complicated your focus and priorities.",
+        "attributes": { "AGI": 2, "INT": 2 }
+      },
+      {
+        "description": "You began to question the harsh methods used against civilians, leading to internal conflict.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "An encounter with a skilled dissident challenged your abilities and beliefs.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "You developed a dependency on stimulants to meet the physical demands of training.",
+        "attributes": { "STR": 2, "INT": 2 }
+      },
+      {
+        "description": "Assigned to protect a high-ranking official, you gained insight into the upper echelons of the corporation.",
+        "attributes": { "STR": 2, "INT": 2 }
+      },
+      {
+        "description": "A training mission required you to make a difficult ethical choice, impacting your reputation.",
+        "attributes": { "INT": 2, "STR": 2 }
+      },
+      {
+        "description": "You began studying psychology to better understand those you were tasked to apprehend.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A superior's unjust actions led you to consider the morality of blind obedience.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "You were involved in suppressing a worker protest, witnessing the consequences firsthand.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "An opportunity to transfer to a different unit arose, forcing you to weigh loyalty against ambition.",
+        "attributes": { "STR": 2, "INT": 2 }
+      },
+      {
+        "description": "You mentored a new recruit, finding purpose in guiding others.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "A close friend was dismissed under suspicious circumstances, fueling your distrust of the system.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      }
+    ],
+    "late": [
+      {
+        "description": "Promoted to a leadership position, you now command a team of enforcers, bearing the weight of responsibility.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "A major incident tested your team's capabilities and your leadership under pressure.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "You discovered a high-level conspiracy within the corporation; acting on it could jeopardize your career.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "An injury left you with lasting effects, challenging you to adapt and overcome physical limitations.",
+        "attributes": { "STR": 2, "INT": 2 }
+      },
+      {
+        "description": "You began to question the true purpose of your assignments, leading to a moral crossroads.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A subordinate's mistake resulted in severe consequences; how you handled it affected team morale.",
+        "attributes": { "STR": 2, "INT": 2 }
+      },
+      {
+        "description": "You were offered a position in internal affairs, investigating other enforcers for misconduct.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "An old rival resurfaced, challenging your position and reigniting past tensions.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "You considered leaving the enforcers after a particularly troubling assignment.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A new technology was introduced to enhance enforcement capabilities; embracing it had unforeseen consequences.",
+        "attributes": { "STR": 2, "INT": 2 }
+      },
+      {
+        "description": "You faced a tribunal for actions taken during a mission, testing your integrity and resolve.",
+        "attributes": { "INT": 2, "STR": 2 }
+      },
+      {
+        "description": "An opportunity to train the next generation of enforcers allowed you to shape the future of the force.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "You uncovered evidence of systemic corruption, forcing you to choose between loyalty and justice.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A personal loss affected your performance, leading to mandatory counseling.",
+        "attributes": { "INT": 2, "STR": 2 }
+      },
+      {
+        "description": "You led a mission that significantly impacted corporate interests, earning both praise and scrutiny.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "An internal conflict within the enforcers prompted you to take a stand, influencing the organization's direction.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "Facing burnout, you contemplated your future and the cost of your service.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      }
+    ]
+  }
+  

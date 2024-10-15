@@ -149,7 +149,7 @@
         "description": "You were raised within the corporate system, groomed to serve its interests and maintain control in various roles.",
         "subclasses": {
           "Colonial Overseer Trainee": {
-            "weight": 50,
+            "weight": 25,
             "description": "You were trained to manage and control colonies on behalf of the corporation, maintaining order and profitability.",
             "event_key": "colonial_overseer_trainee_events",
             "attribute_weighting": {
@@ -182,7 +182,7 @@
             }
           },
           "Corporate Loyalist Trainee": {
-            "weight": 5,
+            "weight": 75,
             "description": "You were deeply immersed in corporate philosophy and trained to carry out its will across different sectors.",
             "event_key": "corporate_loyalist_trainee_events",
             "attribute_weighting": {
