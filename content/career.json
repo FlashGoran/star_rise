@@ -1,121 +1,696 @@
 {
-    "career": {
-      "Marine Corps": {
-        "weight": 4,
-        "subclasses": {
-          "Star Trooper": {
-            "description": "Specialized in space-based combat, these marines are trained for combat both in space and on planetary surfaces."
+  "career": {
+    "Interstellar Corps": {
+      "description": "A military organization responsible for defense and security operations across space and planetary environments.",
+      "event_list": "interstellar_corps_events",
+      "subclasses": {
+        "Security Trooper": {
+          "description": "Provides security aboard ships and space stations, handling routine patrols and responding to minor threats.",
+          "skills": {
+            "Ranged Combat": {
+              "weight": 2,
+              "specializations": ["Automatic Weapons", "Precision Weapons"]
+            },
+            "Observation": {
+              "weight": 2,
+              "specializations": ["Surveillance", "Sensor Specialist"]
+            },
+            "Mobility": {
+              "weight": 1,
+              "specializations": ["Athletics", "Zero-G Movement"]
+            }
           },
-          "Colonial Guard": {
-            "description": "You are part of the defensive forces stationed at colonies, protecting them from external threats."
+          "talents": ["security_trooper_talent_pool"],
+          "title": "Security Trooper",
+          "promotion": {
+            "title": "Senior Security Trooper"
+          }
+        },
+        "Infantry Soldier": {
+          "description": "Ground forces trained for planetary defense and basic combat operations.",
+          "skills": {
+            "Ranged Combat": {
+              "weight": 2,
+              "specializations": ["Automatic Weapons", "Energy Weapons"]
+            },
+            "Close Combat": {
+              "weight": 2,
+              "specializations": ["Blunt", "Edge"]
+            },
+            "Survival": {
+              "weight": 1,
+              "specializations": ["Hazardous Env.", "First Aid"]
+            }
           },
-          "Engineer Forces": {
-            "description": "Combat engineers who are responsible for building and maintaining structures during combat operations."
+          "talents": ["infantry_soldier_talent_pool"],
+          "title": "Infantry Soldier",
+          "promotion": {
+            "title": "Corporal"
+          }
+        },
+        "Support Engineer": {
+          "description": "Provides technical support in maintaining equipment and basic repairs during operations.",
+          "skills": {
+            "Heavy Machinery": {
+              "weight": 2,
+              "specializations": ["Power Sys.", "Weapon Sys."]
+            },
+            "ComTech": {
+              "weight": 2,
+              "specializations": ["Electronics Engineering", "Computer Engineering"]
+            },
+            "Observation": {
+              "weight": 1,
+              "specializations": ["Systems Analysis"]
+            }
           },
-          "Fleet Marine": {
-            "description": "Tasked with protecting fleet ships and engaging in boarding actions during space combat."
+          "talents": ["support_engineer_talent_pool"],
+          "title": "Support Engineer",
+          "promotion": {
+            "title": "Senior Support Engineer"
+          }
+        },
+        "Recon Scout": {
+          "description": "Conducts basic reconnaissance missions, gathering information on unfamiliar terrain or minor threats.",
+          "skills": {
+            "Observation": {
+              "weight": 2,
+              "specializations": ["Surveillance", "Sensor Specialist"]
+            },
+            "Mobility": {
+              "weight": 2,
+              "specializations": ["Stealth Movement", "Athletics"]
+            },
+            "Survival": {
+              "weight": 1,
+              "specializations": ["Hazardous Env."]
+            }
           },
-          "Tactical Sniper": {
-            "description": "Trained in long-range combat, specializing in precision strikes from a distance."
+          "talents": ["recon_scout_talent_pool"],
+          "title": "Recon Scout",
+          "promotion": {
+            "title": "Senior Scout"
+          }
+        },
+        "Communications Operator": {
+          "description": "Handles communication systems and ensures secure lines during operations.",
+          "skills": {
+            "ComTech": {
+              "weight": 2,
+              "specializations": ["Signal Intelligence", "Computer Engineering"]
+            },
+            "Observation": {
+              "weight": 2,
+              "specializations": ["Sensor Specialist", "Surveillance"]
+            },
+            "Manipulation": {
+              "weight": 1,
+              "specializations": ["Negotiator"]
+            }
+          },
+          "talents": ["communications_operator_talent_pool"],
+          "title": "Communications Operator",
+          "promotion": {
+            "title": "Senior Communications Operator"
           }
         }
-      },
-      "Intelligence Operative": {
-        "weight": 3,
-        "subclasses": {
-          "Field Agent": {
-            "description": "Operates in the field, gathering intelligence through covert missions and direct interaction."
+      }
+    },
+    "Civilian Pilot": {
+      "description": "Individuals trained to operate spacecraft for commercial or personal purposes.",
+      "event_list": "civilian_pilot_events",
+      "subclasses": {
+        "Shuttle Pilot": {
+          "description": "Operates small to medium-sized spacecraft, transporting passengers and cargo between locations.",
+          "skills": {
+            "Piloting": {
+              "weight": 2,
+              "specializations": ["Space", "Navigation"]
+            },
+            "Observation": {
+              "weight": 2,
+              "specializations": ["Sensor Specialist"]
+            },
+            "Manipulation": {
+              "weight": 1,
+              "specializations": ["Negotiator", "Public Relations"]
+            }
           },
-          "Psychological Warfare Specialist": {
-            "description": "Specializes in manipulating enemy morale and using psychological tactics to weaken opponents."
+          "talents": ["shuttle_pilot_talent_pool"],
+          "title": "Shuttle Pilot",
+          "promotion": {
+            "title": "Senior Shuttle Pilot"
+          }
+        },
+        "Freighter Crew": {
+          "description": "Assists in operating large cargo vessels, handling logistics and basic ship operations.",
+          "skills": {
+            "Piloting": {
+              "weight": 2,
+              "specializations": ["Space", "Navigation"]
+            },
+            "Heavy Machinery": {
+              "weight": 2,
+              "specializations": ["Power Sys.", "Environmental Sys."]
+            },
+            "ComTech": {
+              "weight": 1,
+              "specializations": ["Computer Engineering"]
+            }
           },
-          "Infiltration Expert": {
-            "description": "Trained in covertly penetrating enemy defenses and operating behind enemy lines."
+          "talents": ["freighter_crew_talent_pool"],
+          "title": "Freighter Crew Member",
+          "promotion": {
+            "title": "Senior Crew Member"
+          }
+        },
+        "Private Courier": {
+          "description": "Transports sensitive packages or information for clients, often requiring discretion.",
+          "skills": {
+            "Piloting": {
+              "weight": 2,
+              "specializations": ["Space"]
+            },
+            "Mobility": {
+              "weight": 2,
+              "specializations": ["Stealth Movement", "Zero-G Movement"]
+            },
+            "Manipulation": {
+              "weight": 1,
+              "specializations": ["Negotiator", "Forgery"]
+            }
           },
-          "Signals Intelligence": {
-            "description": "Specializes in intercepting and analyzing enemy communications to gather valuable intel."
-          },
-          "Counter-Intelligence Operative": {
-            "description": "Works to neutralize enemy intelligence efforts and protect sensitive information."
+          "talents": ["private_courier_talent_pool"],
+          "title": "Courier",
+          "promotion": {
+            "title": "Senior Courier"
           }
         }
-      },
-      "Corporate Agent": {
-        "weight": 3,
-        "subclasses": {
-          "Deep Cover Agent": {
-            "description": "Operates undercover within rival organizations, gathering information and sabotaging operations."
+      }
+    },
+    "Technical Specialist": {
+      "description": "Civilians with practical technical skills, supporting various industries without formal higher education.",
+      "event_list": "technical_specialist_events",
+      "subclasses": {
+        "Mechanic": {
+          "description": "Performs maintenance and repairs on mechanical systems, vehicles, and equipment.",
+          "skills": {
+            "Heavy Machinery": {
+              "weight": 2,
+              "specializations": ["Power Sys.", "Starship Eng."]
+            },
+            "Observation": {
+              "weight": 2,
+              "specializations": ["Systems Analysis"]
+            },
+            "ComTech": {
+              "weight": 1,
+              "specializations": ["Electronics Engineering"]
+            }
           },
-          "Tech Saboteur": {
-            "description": "Specializes in disabling or corrupting enemy technology, causing chaos within their systems."
+          "talents": ["mechanic_talent_pool"],
+          "title": "Mechanic",
+          "promotion": {
+            "title": "Senior Mechanic"
+          }
+        },
+        "Technician": {
+          "description": "Handles technical tasks related to electronics, computers, and basic programming.",
+          "skills": {
+            "ComTech": {
+              "weight": 2,
+              "specializations": ["Computer Engineering", "Electronics Engineering"]
+            },
+            "Observation": {
+              "weight": 2,
+              "specializations": ["Systems Analysis"]
+            },
+            "Mobility": {
+              "weight": 1,
+              "specializations": ["Dexterity"]
+            }
           },
-          "Asset Extraction Expert": {
-            "description": "Responsible for locating and retrieving valuable corporate assets, whether people or technology."
+          "talents": ["technician_talent_pool"],
+          "title": "Technician",
+          "promotion": {
+            "title": "Senior Technician"
+          }
+        },
+        "Robotics Assistant": {
+          "description": "Assists in the maintenance and basic programming of robotic systems.",
+          "skills": {
+            "ComTech": {
+              "weight": 2,
+              "specializations": ["Robotics", "Electronics Engineering"]
+            },
+            "Heavy Machinery": {
+              "weight": 2,
+              "specializations": ["Advanced Engineering"]
+            },
+            "Observation": {
+              "weight": 1,
+              "specializations": ["Systems Analysis"]
+            }
           },
-          "Double Agent": {
-            "description": "Plays both sides of a conflict, working for multiple parties while serving their corporate masters."
+          "talents": ["robotics_assistant_talent_pool"],
+          "title": "Robotics Assistant",
+          "promotion": {
+            "title": "Senior Robotics Assistant"
           }
         }
-      },
-      "Engineer": {
-        "weight": 4,
-        "subclasses": {
-          "Starship Engineer": {
-            "description": "Maintains and repairs starship systems, ensuring vessels remain operational during missions."
+      }
+    },
+    "Freelancer": {
+      "description": "Independent workers offering services across various fields without long-term commitments.",
+      "event_list": "freelancer_events",
+      "subclasses": {
+        "Courier": {
+          "description": "Transports goods and information between locations, often under tight deadlines.",
+          "skills": {
+            "Piloting": {
+              "weight": 2,
+              "specializations": ["Space"]
+            },
+            "Mobility": {
+              "weight": 2,
+              "specializations": ["Athletics", "Zero-G Movement"]
+            },
+            "Manipulation": {
+              "weight": 1,
+              "specializations": ["Negotiator"]
+            }
           },
-          "Colonial Infrastructure Engineer": {
-            "description": "Responsible for building and maintaining the critical infrastructure of planetary colonies."
+          "talents": ["courier_talent_pool"],
+          "title": "Courier",
+          "promotion": {
+            "title": "Senior Courier"
+          }
+        },
+        "Jack-of-all-Trades": {
+          "description": "Versatile individuals who take on various odd jobs requiring a range of skills.",
+          "skills": {
+            "Survival": {
+              "weight": 2,
+              "specializations": ["First Aid", "Hazardous Env."]
+            },
+            "Mobility": {
+              "weight": 2,
+              "specializations": ["Athletics", "Dexterity"]
+            },
+            "Observation": {
+              "weight": 1,
+              "specializations": ["Systems Analysis"]
+            }
           },
-          "Robotics Engineer": {
-            "description": "Designs, builds, and maintains advanced robotics for use in a variety of applications."
+          "talents": ["jack_of_all_trades_talent_pool"],
+          "title": "Freelancer",
+          "promotion": {
+            "title": "Veteran Freelancer"
+          }
+        },
+        "Bounty Hunter": {
+          "description": "Tracks down individuals or items for clients, often involving dangerous situations.",
+          "skills": {
+            "Ranged Combat": {
+              "weight": 2,
+              "specializations": ["Precision Weapons", "Automatic Weapons"]
+            },
+            "Mobility": {
+              "weight": 2,
+              "specializations": ["Stealth Movement", "Athletics"]
+            },
+            "Observation": {
+              "weight": 1,
+              "specializations": ["Surveillance", "Tactical Analysis"]
+            }
           },
-          "Weapons Specialist": {
-            "description": "Focuses on the design and maintenance of advanced weapon systems."
-          },
-          "Terraforming Engineer": {
-            "description": "Works on transforming hostile environments into habitable ones, adapting planets to human life."
+          "talents": ["bounty_hunter_talent_pool"],
+          "title": "Bounty Hunter",
+          "promotion": {
+            "title": "Veteran Bounty Hunter"
           }
         }
-      },
-      "Pilot": {
-        "weight": 4,
-        "subclasses": {
-          "Commercial Transport Pilot": {
-            "description": "Trained to fly commercial vessels, transporting goods and passengers across space."
+      }
+    },
+    "Merchant": {
+      "description": "Individuals involved in trade and commerce without formal higher education in economics or business.",
+      "event_list": "merchant_events",
+      "subclasses": {
+        "Trader": {
+          "description": "Buys and sells goods, working independently or for small companies.",
+          "skills": {
+            "Manipulation": {
+              "weight": 2,
+              "specializations": ["Negotiator", "Public Relations"]
+            },
+            "Observation": {
+              "weight": 2,
+              "specializations": ["Strategic Analysis"]
+            },
+            "Piloting": {
+              "weight": 1,
+              "specializations": ["Space"]
+            }
           },
-          "Military Fighter Pilot": {
-            "description": "Specialized in high-speed combat vessels used in space and planetary defense missions."
+          "talents": ["trader_talent_pool"],
+          "title": "Trader",
+          "promotion": {
+            "title": "Senior Trader"
+          }
+        },
+        "Smuggler": {
+          "description": "Transports illegal or restricted goods, avoiding detection by authorities.",
+          "skills": {
+            "Piloting": {
+              "weight": 2,
+              "specializations": ["Space", "Drone/remote Operation"]
+            },
+            "Mobility": {
+              "weight": 2,
+              "specializations": ["Stealth Movement", "Zero-G Movement"]
+            },
+            "Manipulation": {
+              "weight": 1,
+              "specializations": ["Forgery", "Negotiator"]
+            }
           },
-          "Exploration Pilot": {
-            "description": "Leads exploratory missions to uncharted regions of space, navigating through the unknown."
+          "talents": ["smuggler_talent_pool"],
+          "title": "Smuggler",
+          "promotion": {
+            "title": "Master Smuggler"
+          }
+        },
+        "Broker": {
+          "description": "Acts as an intermediary in deals, negotiating terms and ensuring agreements are met.",
+          "skills": {
+            "Manipulation": {
+              "weight": 3,
+              "specializations": ["Negotiator", "Public Relations", "Social Engineering"]
+            },
+            "Observation": {
+              "weight": 2,
+              "specializations": ["Strategic Analysis"]
+            },
+            "ComTech": {
+              "weight": 1,
+              "specializations": ["Computer Engineering"]
+            }
           },
-          "Freighter Captain": {
-            "description": "Commanding large freighters and responsible for the transport of heavy cargo across vast distances."
-          },
-          "Smuggler Pilot": {
-            "description": "Specialized in avoiding law enforcement while transporting contraband through dangerous space lanes."
+          "talents": ["broker_talent_pool"],
+          "title": "Broker",
+          "promotion": {
+            "title": "Senior Broker"
           }
         }
-      },
-      "Criminal Networks": {
-        "subclasses": {
-          "Smuggler Apprentice": {
-            "description": "You learned the ropes of smuggling contraband across borders and avoiding detection."
+      }
+    },
+    "Explorer": {
+      "description": "Adventurers and pioneers exploring new frontiers without formal higher education in related fields.",
+      "event_list": "explorer_events",
+      "subclasses": {
+        "Prospector": {
+          "description": "Searches for valuable resources on planets and asteroids.",
+          "skills": {
+            "Observation": {
+              "weight": 2,
+              "specializations": ["Sensor Specialist"]
+            },
+            "Heavy Machinery": {
+              "weight": 2,
+              "specializations": ["Environmental Sys."]
+            },
+            "Survival": {
+              "weight": 1,
+              "specializations": ["Hazardous Env."]
+            }
           },
-          "Info Broker": {
-            "description": "You specialized in gathering and selling valuable information in the criminal underground."
+          "talents": ["prospector_talent_pool"],
+          "title": "Prospector",
+          "promotion": {
+            "title": "Senior Prospector"
+          }
+        },
+        "Scout": {
+          "description": "Explores uncharted territories, mapping and gathering basic information.",
+          "skills": {
+            "Piloting": {
+              "weight": 2,
+              "specializations": ["Space", "Navigation"]
+            },
+            "Observation": {
+              "weight": 2,
+              "specializations": ["Sensor Specialist"]
+            },
+            "Survival": {
+              "weight": 1,
+              "specializations": ["Hazardous Env."]
+            }
           },
-          "Counterfeiter": {
-            "description": "You were trained to forge documents, credits, and other valuable materials."
+          "talents": ["scout_talent_pool"],
+          "title": "Scout",
+          "promotion": {
+            "title": "Senior Scout"
+          }
+        },
+        "Salvager": {
+          "description": "Recovers valuable materials and technology from derelict ships and ruins.",
+          "skills": {
+            "Heavy Machinery": {
+              "weight": 2,
+              "specializations": ["Advanced Engineering", "Power Sys."]
+            },
+            "Observation": {
+              "weight": 2,
+              "specializations": ["Systems Analysis", "Sensor Specialist"]
+            },
+            "ComTech": {
+              "weight": 1,
+              "specializations": ["Electronics Engineering"]
+            }
           },
-          "Gang Enforcer": {
-            "description": "You acted as muscle for a criminal organization, enforcing their will through violence and intimidation."
+          "talents": ["salvager_talent_pool"],
+          "title": "Salvager",
+          "promotion": {
+            "title": "Senior Salvager"
+          }
+        }
+      }
+    },
+    "Criminal": {
+      "description": "Individuals engaged in illegal activities, often with no formal training.",
+      "event_list": "criminal_events",
+      "subclasses": {
+        "Thug": {
+          "description": "Involved in street-level crime, using force and intimidation.",
+          "skills": {
+            "Close Combat": {
+              "weight": 2,
+              "specializations": ["Blunt", "Edge"]
+            },
+            "Mobility": {
+              "weight": 2,
+              "specializations": ["Athletics"]
+            },
+            "Stamina": {
+              "weight": 1,
+              "specializations": ["Tactical Evasion"]
+            }
           },
-          "Assassin": {
-            "description": "You were trained to eliminate targets for profit with stealth and precision."
+          "talents": ["thug_talent_pool"],
+          "title": "Thug",
+          "promotion": {
+            "title": "Enforcer"
+          }
+        },
+        "Pickpocket": {
+          "description": "Specializes in theft through stealth and dexterity.",
+          "skills": {
+            "Mobility": {
+              "weight": 2,
+              "specializations": ["Dexterity", "Stealth Movement"]
+            },
+            "Observation": {
+              "weight": 2,
+              "specializations": ["Surveillance"]
+            },
+            "Manipulation": {
+              "weight": 1,
+              "specializations": ["Forgery"]
+            }
+          },
+          "talents": ["pickpocket_talent_pool"],
+          "title": "Pickpocket",
+          "promotion": {
+            "title": "Master Thief"
+          }
+        },
+        "Con Artist": {
+          "description": "Deceives others through manipulation and social engineering for personal gain.",
+          "skills": {
+            "Manipulation": {
+              "weight": 3,
+              "specializations": ["Social Engineering", "Negotiator", "Forgery"]
+            },
+            "Observation": {
+              "weight": 2,
+              "specializations": ["Surveillance"]
+            },
+            "Mobility": {
+              "weight": 1,
+              "specializations": ["Dexterity"]
+            }
+          },
+          "talents": ["con_artist_talent_pool"],
+          "title": "Con Artist",
+          "promotion": {
+            "title": "Master Con Artist"
+          }
+        }
+      }
+    },
+    "Medical Assistant": {
+      "description": "Provides basic medical support without formal higher education in medicine.",
+      "event_list": "medical_assistant_events",
+      "subclasses": {
+        "Medic": {
+          "description": "Offers first aid and emergency care in civilian settings.",
+          "skills": {
+            "Survival": {
+              "weight": 2,
+              "specializations": ["First Aid"]
+            },
+            "Observation": {
+              "weight": 2,
+              "specializations": ["Systems Analysis"]
+            },
+            "Mobility": {
+              "weight": 1,
+              "specializations": ["Athletics"]
+            }
+          },
+          "talents": ["medic_talent_pool"],
+          "title": "Medic",
+          "promotion": {
+            "title": "Senior Medic"
+          }
+        },
+        "Lab Assistant": {
+          "description": "Assists in laboratories, handling samples and basic experiments.",
+          "skills": {
+            "Science": {
+              "weight": 2,
+              "specializations": ["Biology"]
+            },
+            "ComTech": {
+              "weight": 2,
+              "specializations": ["Computer Engineering"]
+            },
+            "Observation": {
+              "weight": 1,
+              "specializations": ["Systems Analysis"]
+            }
+          },
+          "talents": ["lab_assistant_talent_pool"],
+          "title": "Lab Assistant",
+          "promotion": {
+            "title": "Senior Lab Assistant"
+          }
+        },
+        "Pharmacy Technician": {
+          "description": "Handles the preparation and dispensing of medications under supervision.",
+          "skills": {
+            "Science": {
+              "weight": 2,
+              "specializations": ["Chemistry", "Biology"]
+            },
+            "ComTech": {
+              "weight": 2,
+              "specializations": ["Computer Engineering"]
+            },
+            "Observation": {
+              "weight": 1,
+              "specializations": ["Systems Analysis"]
+            }
+          },
+          "talents": ["pharmacy_technician_talent_pool"],
+          "title": "Pharmacy Technician",
+          "promotion": {
+            "title": "Senior Pharmacy Technician"
+          }
+        }
+      }
+    },
+    "Corporate Employee": {
+      "description": "Works within corporate structures without holding high-level positions or specialized higher education.",
+      "event_list": "corporate_employee_events",
+      "subclasses": {
+        "Administrative Assistant": {
+          "description": "Provides clerical support, managing schedules and communications.",
+          "skills": {
+            "ComTech": {
+              "weight": 2,
+              "specializations": ["Computer Engineering"]
+            },
+            "Manipulation": {
+              "weight": 2,
+              "specializations": ["Public Relations", "Negotiator"]
+            },
+            "Observation": {
+              "weight": 1,
+              "specializations": ["Systems Analysis"]
+            }
+          },
+          "talents": ["administrative_assistant_talent_pool"],
+          "title": "Administrative Assistant",
+          "promotion": {
+            "title": "Executive Assistant"
+          }
+        },
+        "Sales Representative": {
+          "description": "Promotes and sells products or services to clients.",
+          "skills": {
+            "Manipulation": {
+              "weight": 3,
+              "specializations": ["Negotiator", "Public Relations", "Social Engineering"]
+            },
+            "Observation": {
+              "weight": 2,
+              "specializations": ["Strategic Analysis"]
+            },
+            "Mobility": {
+              "weight": 1,
+              "specializations": ["Athletics"]
+            }
+          },
+          "talents": ["sales_representative_talent_pool"],
+          "title": "Sales Representative",
+          "promotion": {
+            "title": "Senior Sales Representative"
+          }
+        },
+        "Customer Support": {
+          "description": "Assists customers with inquiries, troubleshooting, and service issues.",
+          "skills": {
+            "Manipulation": {
+              "weight": 2,
+              "specializations": ["Negotiator", "Public Relations"]
+            },
+            "ComTech": {
+              "weight": 2,
+              "specializations": ["Computer Engineering"]
+            },
+            "Observation": {
+              "weight": 1,
+              "specializations": ["Systems Analysis"]
+            }
+          },
+          "talents": ["customer_support_talent_pool"],
+          "title": "Customer Support Agent",
+          "promotion": {
+            "title": "Senior Support Agent"
           }
         }
       }
     }
   }
-  
+}
