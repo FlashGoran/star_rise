@@ -1,5 +1,5 @@
 from concept import get_concept_and_background
-from attributes import distribute_attributes_via_background
+from personality import choose_characteristics
 from background import generate_background_events, generate_higher_education_events, generate_career_progression_events
 from specializations import specialize_from_events
 from gear import assign_expanded_gear
@@ -8,11 +8,11 @@ from character_sheet import compile_character_sheet
 
 def main():
     # Step 1: Concept and Background
+    # name, homeworld, affiliation
     concept = get_concept_and_background()
     
-
-    # Step 2: Background Events (User Chooses Background)
-    background_choice, background_events = generate_background_events()
+    # Step 2: Personality descriptors
+    personality = choose_characteristics()
 
     # Step 3: Higher Education (Optional)
     higher_education_choice = input("Do you want to go through Higher Education? (Y/N): ").lower()

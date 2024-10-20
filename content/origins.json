@@ -450,11 +450,11 @@
           }
       },
       "Expeditionary Pioneer": {
-          "weight": 1,
+          "weight": 15,
           "description": "You survived a major catastrophe that drastically shaped your outlook on life and your ability to endure hardship.",
           "subclasses": {
               "Planetary Scout Hatchling": {
-              "weight": 40,
+              "weight": 50,
               "description": "Raised on the edge of civilization, Planetary Scouts are the first to survey unknown worlds, braving hostile environments and alien life. They are trained in reconnaissance, wilderness survival, and basic prospecting.",
               "event_key": "planetary_scout_hatchling_events",
               "attribute_weighting": {
@@ -465,8 +465,8 @@
                   }
               },
               "Sleeper Colony Offspring": {
-                  "weight": 60,
-                  "description": "You were born to a family of colonists traveling to a distant star system in cryosleep, only to awaken in the midst of disaster or environmental failure. Your early life has been marked by acclimation to an unfamiliar, perhaps hostile world far from any established colony.",
+                  "weight": 40,
+                  "description": "You were born to a family of colonists traveling to a distant star system in cryosleep. Your early life has been marked by acclimation to an unfamiliar, perhaps hostile world far from any established colony.",
                   "event_key": "sleeper_colony_offspring_events",
                   "attribute_weighting": {
                       "STR": 1,
@@ -475,27 +475,16 @@
                       "WIS": 4
                       }
                   },
-              "Lost Colonist Descendant": {
-                  "weight": 10,
-                  "description": "Descended from colonists who were either abandoned or lost contact with the larger galaxy, these characters were born in isolation on a remote, forgotten colony. Life has been about scraping by with minimal resources, using whatever their ancestors left behind.",
-                  "event_key": "sleeper_colony_offspring_events",
-                  "attribute_weighting": {
-                      "STR": 3,
-                      "AGI": 2,
-                      "INT": 1,
-                      "WIS": 4
-                      }
-              },
               "Planetary Surveyor": {
                   "weight": 50,
-                  "description": "Born into an expeditionary crew that specializes in surveying new planets for potential habitation or resource extraction, these individuals have spent their lives in the most alien and hostile environments. They've adapted to conducting initial assessments of planetary environments, gauging atmospheric composition, surface stability, and potential hazards. They're often on the front line of settlement efforts, gathering crucial data before the corporate overseers or colonists arrive. They’ve developed a keen sense for survival on a variety of strange worlds.",
-                  "event_key": "sleeper_colony_offspring_events",
+                  "description": "Born into an expeditionary crew, specializing in detailed planetary surveys after initial scouting missions, these individuals assess the potential for habitation, resource extraction, and long-term viability. Their life has been spent navigating and analyzing some of the most alien and hostile environments in the galaxy.",
+                  "event_key": "planetary_surveyor_events",
                   "attribute_weighting": {
                       "STR": 2,
                       "AGI": 3,
                       "INT": 4,
                       "WIS": 1
-                      }
+                  }
               }
           }
       },
