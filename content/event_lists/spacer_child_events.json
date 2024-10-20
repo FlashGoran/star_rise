@@ -1,0 +1,185 @@
+{
+    "early": [
+      {
+        "description": "Born aboard a long-haul freighter, your earliest memories are of narrow corridors and the hum of engines.",
+        "attributes": { "AGI": 2, "STR": 2 }
+      },
+      {
+        "description": "At age six, you navigated the ship's maintenance ducts, impressing the crew with your agility.",
+        "attributes": { "AGI": 2, "STR": 2 }
+      },
+      {
+        "description": "You learned basic piloting skills by observing and assisting the ship's pilot.",
+        "attributes": { "AGI": 2, "INT": 2 }
+      },
+      {
+        "description": "An encounter with space pirates taught you the importance of quick thinking and physical readiness.",
+        "attributes": { "AGI": 2, "STR": 2 }
+      },
+      {
+        "description": "You developed a knack for moving silently through the ship, often surprising crew members.",
+        "attributes": { "AGI": 2, "STR": 2 }
+      },
+      {
+        "description": "A close call with a hull breach instilled in you a respect for the dangers of space.",
+        "attributes": { "AGI": 2, "WIS": 2 }
+      },
+      {
+        "description": "You modified a maintenance drone to assist with tasks, showcasing your technical curiosity.",
+        "attributes": { "AGI": 2, "INT": 2 }
+      },
+      {
+        "description": "An older crew member taught you hand-to-hand combat techniques in the cramped confines of the cargo hold.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "You formed a bond with another spacer child, exploring the ship together and sharing dreams.",
+        "attributes": { "AGI": 2, "STR": 2 }
+      },
+      {
+        "description": "A malfunctioning gravity generator forced you to adapt to sudden shifts in the environment.",
+        "attributes": { "AGI": 2, "STR": 2 }
+      },
+      {
+        "description": "You witnessed a meteor shower from the observation deck, sparking a fascination with the cosmos.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "An illness confined you to quarters, teaching you patience and resilience.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "You discovered hidden compartments within the ship, fueling your sense of adventure.",
+        "attributes": { "AGI": 2, "INT": 2 }
+      },
+      {
+        "description": "A routine cargo run turned perilous due to unexpected solar activity, testing the crew's mettle.",
+        "attributes": { "AGI": 2, "STR": 2 }
+      },
+      {
+        "description": "You began to question what life was like on planets, having never set foot on solid ground.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "An accident in the engine room required you to act quickly to prevent further damage.",
+        "attributes": { "AGI": 2, "STR": 2 }
+      },
+      {
+        "description": "You crafted a personal space in the ship where you could retreat and reflect.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You took on official duties aboard the ship, contributing to its operations.",
+        "attributes": { "AGI": 3 }
+      },
+      {
+        "description": "A conflict with another crew member tested your interpersonal skills and patience.",
+        "attributes": { "STR": 3 }
+      },
+      {
+        "description": "You participated in a daring maneuver to escape a gravitational anomaly.",
+        "attributes": { "AGI": 3 }
+      },
+      {
+        "description": "An encounter with a derelict vessel led to a salvage mission full of unexpected challenges.",
+        "attributes": { "INT": 3 }
+      },
+      {
+        "description": "You began training in zero-gravity combat, enhancing your physical abilities.",
+        "attributes": { "STR": 3 }
+      },
+      {
+        "description": "A supply shortage forced the crew to ration resources, testing your adaptability.",
+        "attributes": { "WIS": 3 }
+      },
+      {
+        "description": "You uncovered a smuggling operation aboard the ship, posing a moral dilemma.",
+        "attributes": { "INT": 3 }
+      },
+      {
+        "description": "An emergency required you to perform repairs outside the ship, confronting your fears.",
+        "attributes": { "AGI": 3 }
+      },
+      {
+        "description": "You developed a skill for reading star charts, aiding in navigation.",
+        "attributes": { "INT": 3 }
+      },
+      {
+        "description": "A mechanical failure left you stranded in a remote system, testing your resourcefulness.",
+        "attributes": { "STR": 3 }
+      }
+    ],
+    "late": [
+      {
+        "description": "You took on a leadership role, guiding younger crew members and making critical decisions.",
+        "attributes": { "AGI": 2, "STR": 2 }
+      },
+      {
+        "description": "A significant crisis threatened the ship, requiring you to coordinate a complex response.",
+        "attributes": { "AGI": 2, "INT": 2 }
+      },
+      {
+        "description": "You discovered that the ship was involved in secretive corporate dealings.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A health issue forced you to confront the long-term effects of life in space.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "You were offered a position on a different vessel, challenging your loyalties.",
+        "attributes": { "AGI": 2, "INT": 2 }
+      },
+      {
+        "description": "An encounter with a mysterious phenomenon left you with more questions than answers.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "Faced with a mutiny, you had to choose sides or find a way to mediate.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "You began to consider settling on a planet, contemplating a life you've never known.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "A technological breakthrough required you to adapt to new systems aboard the ship.",
+        "attributes": { "AGI": 2, "INT": 2 }
+      },
+      {
+        "description": "You mentored a young spacer, passing on your knowledge and experiences.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "An external threat, such as hostile forces or a cosmic event, tested your leadership.",
+        "attributes": { "AGI": 2, "STR": 2 }
+      },
+      {
+        "description": "You discovered a hidden agenda among the crew, challenging your trust in them.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A personal tragedy led you to reevaluate your goals and desires.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "You authored a guide on spacer life, aiming to share your insights with others.",
+        "attributes": { "INT": 2, "STR": 2 }
+      },
+      {
+        "description": "An opportunity to retire or transition to a different role arose, prompting deep reflection.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You faced a moral dilemma when ordered to participate in actions that went against your values.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "An unexpected reunion with someone from your past brought unresolved issues to the surface.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      }
+    ]
+  }
+  

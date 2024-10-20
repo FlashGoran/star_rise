@@ -1,0 +1,185 @@
+{
+    "early": [
+      {
+        "description": "Born aboard a decrepit mining ship, your earliest memories are of cramped quarters and the constant hum of machinery.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "At age seven, you assisted in manual labor tasks, building physical strength beyond your years.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "You learned basic maintenance skills to keep the aging ship operational.",
+        "attributes": { "STR": 2, "INT": 2 }
+      },
+      {
+        "description": "An accident in the cargo hold exposed you to harsh conditions, teaching resilience.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "You developed a strong bond with your family, relying on each other for survival.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "Witnessing the harsh treatment of workers by corporate overseers instilled a sense of injustice.",
+        "attributes": { "WIS": 2, "STR": 2 }
+      },
+      {
+        "description": "You modified your tools to perform tasks more efficiently, showing resourcefulness.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "An older crew member taught you survival skills crucial for life in space.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "You participated in a covert exchange of goods among workers to alleviate shortages.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "A close call with decompression left you wary but more cautious.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "You began questioning the endless cycle of labor your family was trapped in.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "An illness swept through the ship due to poor living conditions, affecting those close to you.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "You discovered a hidden compartment containing contraband, posing a moral dilemma.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "A mechanical failure required you to perform strenuous manual labor to avert disaster.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "You witnessed a rebellion against the corporate overseers, shaping your views on authority.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "An opportunity to learn basic literacy and numeracy arose, which you seized despite exhaustion.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You formed a friendship with someone from a different ship, expanding your worldview.",
+        "attributes": { "WIS": 2, "AGI": 2 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You took on significant responsibilities, managing labor tasks essential to operations.",
+        "attributes": { "STR": 3 }
+      },
+      {
+        "description": "A conflict with corporate enforcers led to increased tension and surveillance.",
+        "attributes": { "STR": 3 }
+      },
+      {
+        "description": "You orchestrated a successful effort to improve living conditions for your fellow workers.",
+        "attributes": { "WIS": 3 }
+      },
+      {
+        "description": "An offer to relocate your family to a better station challenged your sense of solidarity.",
+        "attributes": { "WIS": 3 }
+      },
+      {
+        "description": "You began mentoring younger serfs, teaching them survival skills.",
+        "attributes": { "STR": 3 }
+      },
+      {
+        "description": "A personal injury forced you to adapt, relying more on wisdom than brute strength.",
+        "attributes": { "WIS": 3 }
+      },
+      {
+        "description": "You discovered evidence of corporate negligence causing hazardous conditions.",
+        "attributes": { "INT": 3 }
+      },
+      {
+        "description": "A family member was unjustly punished, fueling your desire for justice.",
+        "attributes": { "STR": 3 }
+      },
+      {
+        "description": "You faced ethical dilemmas when asked to inform on fellow workers.",
+        "attributes": { "WIS": 3 }
+      },
+      {
+        "description": "An accident led to the loss of essential supplies, testing your resourcefulness.",
+        "attributes": { "INT": 3 }
+      }
+    ],
+    "late": [
+      {
+        "description": "Elevated to an informal leadership role among the serfs, you became a voice for the voiceless.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "A major catastrophe required you to lead evacuation efforts under extreme conditions.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "You discovered plans for increased exploitation, igniting a desire for significant change.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "Faced with a moral dilemma, you had to choose between personal safety and the greater good.",
+        "attributes": { "WIS": 2, "STR": 2 }
+      },
+      {
+        "description": "An opportunity to escape the cycle of labor presented itself, challenging your commitments.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "You exposed a corrupt overseer exploiting workers, leading to unforeseen consequences.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "A personal loss prompted deep reflection on your life's path and purpose.",
+        "attributes": { "WIS": 2, "STR": 2 }
+      },
+      {
+        "description": "You began to suffer health issues due to the harsh environment, impacting your capabilities.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "A movement for independence gained momentum, and you had to decide your role in it.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "You mentored a young serf who showed promise, hoping to inspire change.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "Corporate crackdowns intensified, making daily survival more precarious.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "You authored a manifesto advocating for workers' rights, distributing it covertly.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "An external threat, such as resource scarcity or environmental hazards, endangered your community.",
+        "attributes": { "STR": 2, "AGI": 2 }
+      },
+      {
+        "description": "You faced a moral crisis when ordered to suppress dissent among your peers.",
+        "attributes": { "WIS": 2, "STR": 2 }
+      },
+      {
+        "description": "An opportunity to join a rebellion against corporate control arose, forcing a pivotal choice.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "You considered the legacy you would leave behind, pondering how to effect lasting change.",
+        "attributes": { "WIS": 2, "STR": 2 }
+      },
+      {
+        "description": "A technological advancement threatened to replace human labor, challenging your community's survival.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      }
+    ]
+  }
+  

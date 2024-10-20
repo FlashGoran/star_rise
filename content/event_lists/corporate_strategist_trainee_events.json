@@ -1,0 +1,213 @@
+{
+    "early": [
+      {
+        "description": "Born into a family of corporate planners, you were introduced to strategic thinking from a young age.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "At age eight, you solved complex puzzles designed for adults, showcasing exceptional intellect.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "Enrolled in a prestigious academy, you excelled in courses on economics, strategy, and corporate law.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You participated in a youth strategy competition, securing victory through innovative tactics.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A mentor recognized your potential and provided advanced tutelage in corporate strategy.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "Witnessing a corporate scandal taught you the importance of discretion and information control.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You developed a rivalry with another prodigious student, pushing you to refine your skills.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "An unexpected defeat in a strategic simulation humbled you, teaching valuable lessons.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You uncovered inefficiencies in a corporate process, earning recognition from higher-ups.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A family member's fall from grace revealed the precarious nature of corporate standing.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You mastered a complex strategic game, often defeating experienced opponents.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "An internship in a corporate think tank exposed you to real-world strategic planning.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You published a paper on market dynamics that gained attention within the corporation.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A mentor's abrupt departure raised suspicions, teaching you about corporate intrigue.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You began studying the strategies of historical figures, applying their lessons to modern scenarios.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "An advanced simulation tested your crisis management skills under pressure.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "You started to question the ethical implications of certain corporate strategies.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You were assigned to a strategic planning team for a major corporate initiative.",
+        "attributes": { "INT": 2, "WIS": 1, "AGI": 1 }
+      },
+      {
+        "description": "A project you led resulted in significant gains but also unintended consequences.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You discovered a flaw in a competitor's strategy, providing your corporation with a tactical advantage.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "An internal leak threatened a project; you were tasked with damage control.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You began mentoring junior strategists, sharing your knowledge and experience.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A strategic proposal you opposed was implemented, leading to adverse outcomes.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You were involved in counterintelligence efforts to protect corporate secrets.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A personal relationship complicated your professional judgment, forcing difficult choices.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You faced ethical dilemmas when asked to devise strategies with morally questionable tactics.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "An unexpected promotion placed you in a position of greater responsibility and scrutiny.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You successfully negotiated a deal that averted a potential corporate conflict.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A rival attempted to sabotage your work, teaching you the necessity of vigilance.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You developed a new strategic model that was adopted corporation-wide.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "An illness forced you to take time off, providing space for reflection on your career path.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You uncovered inefficiencies in a major project, but addressing them could disrupt established practices.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A data breach required you to devise a rapid response strategy under pressure.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "You began to question the long-term sustainability of corporate policies, contemplating alternative approaches.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      }
+    ],
+    "late": [
+      {
+        "description": "Promoted to a senior strategist, you now influence high-level corporate decisions.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A major crisis tested your abilities; your strategy could make or break the corporation.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You discovered a conspiracy within the corporation, forcing you to navigate dangerous political waters.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A personal loss affected your work, challenging your focus and dedication.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You were offered a position with a rival corporation, tempting you to reconsider your loyalties.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "An innovative strategy you developed disrupted industry norms, attracting widespread attention.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "Faced with ethical concerns, you contemplated whistleblowing at great personal risk.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "An internal power struggle required you to align with factions, impacting your career trajectory.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You began mentoring the next generation of strategists, shaping the future of the corporation.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A catastrophic event forced you to develop a recovery plan under extreme pressure.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "You considered leaving the corporate world to apply your skills elsewhere, questioning your purpose.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "An opportunity to influence corporate policy on a global scale presented itself.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You faced backlash for a strategy that, while effective, had unintended negative consequences.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "An alliance with a powerful executive offered new possibilities but also new dangers.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "You authored a definitive work on corporate strategy, cementing your legacy.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A health scare prompted you to reassess your life choices and career priorities.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You uncovered plans for a corporate action that could have catastrophic effects, challenging you to intervene.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      }
+    ]
+  }
+  

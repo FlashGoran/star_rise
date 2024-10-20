@@ -1,0 +1,213 @@
+{
+    "early": [
+      {
+        "description": "Born into a family of supply chain managers, you were introduced to the complexities of logistics from a young age.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "At age ten, you optimized your household's resource consumption, impressing your family with your efficiency.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "Enrolled in a specialized academy, you excelled in courses on logistics, resource management, and operational efficiency.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You participated in a youth logistics competition, winning by designing the most efficient supply route.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A mentor recognized your potential and provided advanced training in logistical systems.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "Witnessing a supply chain failure taught you the importance of contingency planning.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You developed a rivalry with another talented student, pushing you to refine your skills.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "An oversight in your project led to delays, teaching you the value of attention to detail.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You discovered a method to reduce transportation costs, earning recognition from instructors.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A family member faced repercussions due to supply mismanagement, highlighting the stakes involved.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You mastered complex software used for logistics planning, enhancing your technical skills.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "An internship at a corporate distribution center exposed you to real-world logistical challenges.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You published a paper on innovative logistics solutions, gaining attention within the corporation.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A mentor's sudden transfer taught you about the unpredictable nature of corporate assignments.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You began studying the environmental impacts of logistics, deepening your understanding.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "An advanced simulation tested your ability to manage supply chains under pressure.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "You started to question the ethical implications of resource allocation within the corporation.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You were assigned to a team managing logistics for a major corporate project.",
+        "attributes": { "INT": 2, "WIS": 1, "AGI": 1 }
+      },
+      {
+        "description": "A project you led improved delivery times but strained worker resources, raising ethical concerns.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You discovered bottlenecks in the supply chain, implementing solutions to enhance efficiency.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "An unexpected shortage required you to devise alternative sourcing strategies.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You began mentoring junior logisticians, sharing your knowledge and fostering talent.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A logistical failure due to outdated information taught you the importance of real-time data.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You were involved in a covert operation to reroute supplies without drawing attention.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A personal relationship with a colleague complicated delivery schedules and priorities.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You faced ethical dilemmas when asked to prioritize resources away from essential needs.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "An unexpected promotion placed you in charge of a critical supply chain.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You successfully negotiated with suppliers, securing better terms and improving margins.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A rival attempted to undermine your logistics plan, teaching you about corporate sabotage.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You developed a new routing algorithm that optimized delivery networks.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "An illness forced you to delegate responsibilities, testing your leadership and trust in others.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You uncovered outdated procedures, but implementing changes met resistance.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A transport accident required quick thinking to prevent a supply crisis.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "You began to question the corporation's allocation of resources, contemplating fairness and ethics.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      }
+    ],
+    "late": [
+      {
+        "description": "Promoted to a senior logistics manager, you now oversee large-scale supply operations.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A global disruption tested your department's capabilities; your leadership was pivotal.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You discovered misappropriation of resources, indicating possible corruption.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A personal loss affected your focus, challenging your ability to maintain operational efficiency.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You were offered a position with a humanitarian organization, challenging your corporate loyalty.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "An innovative logistics system you developed revolutionized supply chain management.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "Faced with evidence of resource hoarding, you contemplated exposing unethical practices.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "An internal power struggle required you to navigate complex corporate dynamics.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You began mentoring the next generation of logisticians, influencing the future of the field.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A crisis required rapid redistribution of resources; your decisions had far-reaching impacts.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "You considered leaving the corporation to address resource inequality elsewhere.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "An opportunity arose to develop logistics policies at the highest corporate level.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You faced backlash for reallocating resources in a way that others found controversial.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "An alliance with a powerful executive offered advancement but at ethical costs.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "You authored a definitive guide on logistics management, impacting industry practices.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A health issue prompted you to reflect on your career and life's priorities.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You uncovered plans for resource allocation that could harm vulnerable populations.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      }
+    ]
+  }
+  

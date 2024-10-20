@@ -1,0 +1,185 @@
+{
+    "early": [
+      {
+        "description": "Born into a family of loyal corporate employees, you were indoctrinated with company values from a young age.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "At age seven, you demonstrated exceptional problem-solving skills, catching the attention of corporate talent scouts.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "Enrolled in a prestigious corporate academy, you excelled in data analysis and operational efficiency.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You participated in a youth program that simulated corporate environments, showcasing your adaptability.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A mentor recognized your potential and provided advanced training in corporate protocols.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "Witnessing a colleague punished for non-compliance taught you the importance of following procedures.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You developed a rivalry with another talented student, pushing you to improve.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "An error in a group project led to a reprimand, teaching you the value of attention to detail.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You discovered a way to streamline a process, earning recognition from instructors.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A family member's demotion due to corporate restructuring highlighted the precariousness of corporate life.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You mastered complex corporate software, enhancing your productivity.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "An internship introduced you to the realities of corporate bureaucracy.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You published an article on efficiency that gained attention within the company.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A mentor's sudden reassignment taught you about corporate politics.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You began studying the psychological aspects of workplace dynamics.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "An advanced simulation tested your ability to manage under pressure.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "You started to question the ethics of some corporate policies.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You were assigned to a department handling sensitive corporate data.",
+        "attributes": { "INT": 3 }
+      },
+      {
+        "description": "A project you contributed to succeeded, but at the cost of employee layoffs.",
+        "attributes": { "WIS": 3 }
+      },
+      {
+        "description": "You identified inefficiencies in a system, implementing improvements that increased profits.",
+        "attributes": { "INT": 3 }
+      },
+      {
+        "description": "An internal audit required you to account for discrepancies, testing your integrity.",
+        "attributes": { "WIS": 3 }
+      },
+      {
+        "description": "You began mentoring new employees, sharing your expertise.",
+        "attributes": { "INT": 3 }
+      },
+      {
+        "description": "A mistake in data entry caused issues, leading you to reevaluate your methods.",
+        "attributes": { "WIS": 3 }
+      },
+      {
+        "description": "You were involved in a corporate initiative that conflicted with your personal values.",
+        "attributes": { "WIS": 3 }
+      },
+      {
+        "description": "A personal relationship with a colleague complicated professional boundaries.",
+        "attributes": { "WIS": 3 }
+      },
+      {
+        "description": "You faced ethical dilemmas when asked to withhold information.",
+        "attributes": { "WIS": 3 }
+      },
+      {
+        "description": "An unexpected promotion increased your responsibilities and stress levels.",
+        "attributes": { "INT": 3 }
+      }
+    ],
+    "late": [
+      {
+        "description": "Promoted to a managerial position, you now oversee a team and make key decisions.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A significant corporate scandal tested your loyalty and ethics.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You discovered manipulation of data to mislead stakeholders.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A personal loss affected your work-life balance, prompting introspection.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You were offered a high-paying position that conflicted with your values.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "An innovative idea you proposed was implemented company-wide.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "Faced with evidence of unethical practices, you considered whistleblowing.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "An internal power struggle required careful navigation of corporate politics.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You began mentoring rising talents, influencing the company's future.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A corporate crisis required swift decision-making under pressure.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "You contemplated leaving to pursue work with more personal meaning.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "An opportunity arose to shape company policy at the highest level.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "You faced backlash for advocating changes that others opposed.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "An alliance with an influential executive offered advancement but ethical compromises.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "You authored a significant report that influenced industry practices.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      },
+      {
+        "description": "A health scare led you to reevaluate your priorities and career path.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "You uncovered plans that could negatively impact employees, testing your conscience.",
+        "attributes": { "INT": 2, "WIS": 2 }
+      }
+    ]
+  }
+  

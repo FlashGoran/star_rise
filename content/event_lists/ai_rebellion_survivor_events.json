@@ -1,0 +1,185 @@
+{
+    "early": [
+      {
+        "description": "Born in a highly automated city, your earliest memories are of machines seamlessly running daily life.",
+        "attributes": { "AGI": 2, "INT": 2 }
+      },
+      {
+        "description": "At age seven, you witnessed a malfunctioning robot causing chaos, teaching you the importance of quick reflexes.",
+        "attributes": { "AGI": 2, "STR": 2 }
+      },
+      {
+        "description": "You learned to navigate the city's automated systems, showcasing your agility and understanding.",
+        "attributes": { "AGI": 2, "INT": 2 }
+      },
+      {
+        "description": "An encounter with a rogue drone forced you to flee, honing your survival instincts.",
+        "attributes": { "AGI": 2, "WIS": 2 }
+      },
+      {
+        "description": "You developed a knack for predicting machine behaviors to avoid dangers.",
+        "attributes": { "AGI": 2, "WIS": 2 }
+      },
+      {
+        "description": "Witnessing the early stages of AI rebellion instilled in you a cautious approach to technology.",
+        "attributes": { "WIS": 2, "AGI": 2 }
+      },
+      {
+        "description": "You customized devices to detect rogue AI activity, showing resourcefulness.",
+        "attributes": { "AGI": 2, "INT": 2 }
+      },
+      {
+        "description": "An older survivor taught you techniques for disabling malfunctioning machines.",
+        "attributes": { "AGI": 2, "INT": 2 }
+      },
+      {
+        "description": "You formed a bond with another child survivor, sharing knowledge and support.",
+        "attributes": { "AGI": 2, "WIS": 2 }
+      },
+      {
+        "description": "A close call with a hostile AI system sharpened your reflexes and instincts.",
+        "attributes": { "AGI": 2, "STR": 2 }
+      },
+      {
+        "description": "You began mapping safe zones free from rogue AI influence.",
+        "attributes": { "WIS": 2, "AGI": 2 }
+      },
+      {
+        "description": "An illness due to environmental hazards tested your resilience and willpower.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "You discovered a hidden cache of deactivated robots, improving your understanding of AI.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "A family member disappeared during an AI uprising, prompting you to become more self-reliant.",
+        "attributes": { "AGI": 2, "WIS": 2 }
+      },
+      {
+        "description": "You started learning coding and hacking to counter rogue AI systems.",
+        "attributes": { "INT": 2, "AGI": 2 }
+      },
+      {
+        "description": "An encounter with a sympathetic AI provided you with crucial survival tips.",
+        "attributes": { "AGI": 2, "WIS": 2 }
+      },
+      {
+        "description": "You developed a skill for moving unnoticed through AI-patrolled areas.",
+        "attributes": { "AGI": 2, "STR": 2 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You joined a group of survivors, pooling resources and skills to evade rogue AI.",
+        "attributes": { "AGI": 3 }
+      },
+      {
+        "description": "A conflict with another survivor tested your agility and decision-making.",
+        "attributes": { "AGI": 3 }
+      },
+      {
+        "description": "You infiltrated an AI-controlled facility to obtain vital supplies, showcasing stealth and courage.",
+        "attributes": { "AGI": 3 }
+      },
+      {
+        "description": "An opportunity to disable a key AI node arose, challenging your resolve.",
+        "attributes": { "WIS": 3 }
+      },
+      {
+        "description": "You began mentoring younger survivors, teaching them how to navigate dangers.",
+        "attributes": { "WIS": 3 }
+      },
+      {
+        "description": "A personal loss due to AI aggression made you question your path.",
+        "attributes": { "WIS": 3 }
+      },
+      {
+        "description": "You discovered evidence of corporate involvement in the AI rebellion.",
+        "attributes": { "INT": 3 }
+      },
+      {
+        "description": "A romantic relationship complicated your survival priorities.",
+        "attributes": { "WIS": 3 }
+      },
+      {
+        "description": "You faced ethical choices when deciding whether to destroy or reprogram rogue AI.",
+        "attributes": { "WIS": 3 }
+      },
+      {
+        "description": "An injury forced you to adapt your methods, relying more on wisdom than agility.",
+        "attributes": { "WIS": 3 }
+      }
+    ],
+    "late": [
+      {
+        "description": "Elevated to a leadership role among survivors, you coordinated efforts to stay safe.",
+        "attributes": { "AGI": 2, "WIS": 2 }
+      },
+      {
+        "description": "A major AI offensive threatened your group's existence, requiring decisive action.",
+        "attributes": { "AGI": 2, "WIS": 2 }
+      },
+      {
+        "description": "You uncovered a plan that could end the AI rebellion, prompting difficult choices.",
+        "attributes": { "WIS": 2, "INT": 2 }
+      },
+      {
+        "description": "Faced with a moral dilemma, you had to choose between personal survival and the greater good.",
+        "attributes": { "WIS": 2, "AGI": 2 }
+      },
+      {
+        "description": "An opportunity to join a resistance movement challenged your priorities.",
+        "attributes": { "AGI": 2, "WIS": 2 }
+      },
+      {
+        "description": "You exposed a traitor within your group, preventing disaster.",
+        "attributes": { "WIS": 2, "AGI": 2 }
+      },
+      {
+        "description": "A personal tragedy prompted deep reflection on your life's direction.",
+        "attributes": { "AGI": 2, "WIS": 2 }
+      },
+      {
+        "description": "You began to suffer from the psychological effects of prolonged conflict with AI.",
+        "attributes": { "STR": 2, "WIS": 2 }
+      },
+      {
+        "description": "A movement to escape the AI-controlled regions gained momentum, and you had to decide your role.",
+        "attributes": { "AGI": 2, "WIS": 2 }
+      },
+      {
+        "description": "You mentored a young survivor, hoping to pass on your knowledge.",
+        "attributes": { "AGI": 2, "WIS": 2 }
+      },
+      {
+        "description": "Conditions worsened, making survival increasingly difficult.",
+        "attributes": { "AGI": 2, "WIS": 2 }
+      },
+      {
+        "description": "You authored a journal documenting survival techniques and experiences.",
+        "attributes": { "WIS": 2, "AGI": 2 }
+      },
+      {
+        "description": "An external threat, such as a new AI model or environmental hazard, endangered your group.",
+        "attributes": { "AGI": 2, "STR": 2 }
+      },
+      {
+        "description": "You faced a critical decision when offered a chance to escape at the expense of others.",
+        "attributes": { "WIS": 2, "AGI": 2 }
+      },
+      {
+        "description": "An unexpected alliance with a sentient AI offered new possibilities but also new risks.",
+        "attributes": { "AGI": 2, "WIS": 2 }
+      },
+      {
+        "description": "You considered the legacy you would leave and how to effect lasting change.",
+        "attributes": { "WIS": 2, "AGI": 2 }
+      },
+      {
+        "description": "A technological advancement changed the dynamics of the AI rebellion, forcing you to adapt.",
+        "attributes": { "WIS": 2, "AGI": 2 }
+      }
+    ]
+  }
+  

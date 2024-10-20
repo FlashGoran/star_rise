@@ -181,19 +181,41 @@
               "WIS": 1
             }
           },
-          "Corporate Loyalist Trainee": {
-            "weight": 75,
+          "Corporate Strategist Trainee": {
+            "weight": 30,
             "description": "You were deeply immersed in corporate philosophy and trained to carry out its will across different sectors.",
-            "event_key": "corporate_loyalist_trainee_events",
+            "event_key": "corporate_strategist_trainee_events",
             "attribute_weighting": {
-              "STR": 3,
+              "STR": 1,
               "AGI": 2,
               "INT": 4,
-              "WIS": 1
+              "WIS": 3
+            }
+          },
+          "Corporate Analyst Trainee": {
+            "weight": 50,
+            "description": "Trained to analyze data and market trends, you guided corporate strategies with your insights.",
+            "event_key": "corporate_analyst_trainee_events",
+            "attribute_weighting": {
+              "STR": 1,
+              "AGI": 2,
+              "INT": 4,
+              "WIS": 3
+            }
+          },
+          "Corporate Logistics Trainee": {
+            "weight": 70,
+            "description": "Responsible for managing supply chains and resource distribution, you ensured operational efficiency within the corporation.",
+            "event_key": "corporate_logistics_trainee_events",
+            "attribute_weighting": {
+              "STR": 1,
+              "AGI": 3,
+              "INT": 3,
+              "WIS": 3
             }
           },
           "Corporate Operative Trainee": {
-            "weight": 40,
+            "weight": 50,
             "description": "You were trained to oversee corporate operations, ensuring projects run smoothly and loyalties remain strong.",
             "event_key": "corporate_operative_trainee_events",
             "attribute_weighting": {
@@ -220,10 +242,10 @@
               "WIS": 1
             }
           },
-          "Spacer Borne": {
+          "Spacer child": {
             "weight": 60,
             "description": "You were born aboard a spacecraft and lived your entire life among the stars, traveling between far-flung systems.",
-            "event_key": "spacers_child_events",
+            "event_key": "spacer_child_events",
             "attribute_weighting": {
               "STR": 3,
               "AGI": 4,
@@ -273,7 +295,7 @@
           "Urban Scavenger": {
             "weight": 40,
             "description": "You grew up in the industrial slums of a corporate colony, scavenging and surviving where law and order rarely exist.",
-            "event_key": "gutter_runner_events",
+            "event_key": "urban_scavenger_events",
             "attribute_weighting": {
               "STR": 2,
               "AGI": 4,
@@ -398,7 +420,7 @@
             }
           },
           "Xeno Encounter Survivor": {
-            "weight": 5,
+            "weight": 1,
             "description": "You survived a deadly encounter with alien species or bio-engineered organisms, leaving you scarred but alive.",
             "event_key": "xeno_encounter_survivor_events",
             "attribute_weighting": {
