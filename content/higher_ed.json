@@ -25,7 +25,7 @@
               "specializations": ["Automatic Weapons", "Energy Weapons", "CQB Weapons"]
             }
           },
-          "talents": ["shock_trooper_initiate_talents"],
+          "event_key":["shock_trooper_events"],
           "debt_value": 1,
           "title": "Shock Trooper",
           "master": {
@@ -54,7 +54,7 @@
               "specializations": ["Survival", "First Aid", "Hazardous Environments", "Extreme Env."]
             }
           },
-          "talents": ["tactical_recon_trainee_talents"],
+          "event_key":["tactical_recon_events"],
           "debt_value": 1,
           "title": "Recon Specialist",
           "master": {
@@ -83,7 +83,7 @@
               "specializations": ["Navigation", "Remote Control", "Space"]
             }
           },
-          "talents": ["orbital_drop_specialist_talents"],
+          "event_key":["orbital_drop_specialist_events"],
           "debt_value": 1,
           "title": "Drop Specialist",
           "master": {
@@ -112,7 +112,7 @@
               "specializations": ["Electronics Eng.", "AI Tech", "Advanced Engineering"]
             }
           },
-          "talents": ["cyberwarfare_operative_talents"],
+          "event_key":["cyberwarfare_operative_events"],
           "debt_value": 1,
           "title": "Cyberwarfare Specialist",
           "master": {
@@ -141,7 +141,7 @@
               "specializations": ["Medical Science", "Biology", "Chemistry"]
             }
           },
-          "talents": ["combat_medic_talents"],
+          "event_key":["combat_medic_events"],
           "debt_value": 1,
           "title": "Field Medic",
           "master": {
@@ -171,7 +171,7 @@
               "specializations": ["Economics", "Psycology", "Linguistics"]
             }
           },
-          "talents": ["corporate_operations_talents"],
+          "event_key":["corporate_operations_events"],
           "title": "Operations Officer",
           "master": {
             "title": "Corporate Liaison"
@@ -198,7 +198,7 @@
               "specializations": ["Athletics", "Stealth Movement", "Zero-G Movement"]
             }
           },
-          "talents": ["corporate_security_talents"],
+          "event_key":["corporate_security_events"],
           "title": "Security Officer",
           "master": {
             "title": "Chief Security Officer"
@@ -221,7 +221,7 @@
               "specializations": ["Stealth Movement", "Dexterity", "Zero-G Movement"]
             }
           },
-          "talents": ["corporate_intelligence_talents"],
+          "event_key":["corporate_intelligence_events"],
           "title": "Intelligence Officer",
           "master": {
             "title": "Senior Intelligence Officer"
@@ -249,7 +249,7 @@
               "specializations": ["Zero-G Movement", "Dexterity"]
             }
           },
-          "talents": ["Power_systems_talents"],
+          "event_key":["Power_systems_events"],
           "debt_value": 1,
           "title": "Power Systems Specialist",
           "master": {
@@ -274,7 +274,7 @@
               "specializations": ["Extreme Env.", "Hazardous Env."]
             }
           },
-          "talents": ["life_support_talents"],
+          "event_key":["life_support_specialist_events"],
           "debt_value": 1,
           "title": "Life Support Technician",
           "master": {
@@ -299,7 +299,7 @@
               "specializations": ["Computer Eng.", "Electronics Eng."]
             }
           },
-          "talents": ["weapon_systems_talents"],
+          "event_key":["weapon_systems_specialist_events"],
           "debt_value": 1,
           "title": "Weapons Specialist",
           "master": {
@@ -324,7 +324,7 @@
               "specializations": ["Systems Analytics", "Forensics"]
             }
           },
-          "talents": ["cybernetic_engineer_talents"],
+          "event_key":["cybernetic_engineer_events"],
           "debt_value": 1,
           "title": "Cybernetic Engineer",
           "master": {
@@ -349,7 +349,7 @@
               "specializations": ["Systems Analytics", "Sensors"]
             }
           },
-          "talents": ["ai_talents"],
+          "event_key":["ai_technician_events"],
           "debt_value": 1,
           "title": "AI Specialist",
           "master": {
@@ -380,7 +380,7 @@
               "specializations": ["Sensors", "Tactical Analytics", "Strategic Analytics"]
             }
           },
-          "talents": ["fleet_officer_cadet_talents"],
+          "event_key":["fleet_officer_cadet_events"],
           "debt_value": 1,
           "title": "Fleet Officer",
           "master": {
@@ -388,7 +388,7 @@
             "debt_value": 3
           }
         },
-        "Piloting Training": {
+        "Pilot cadet": {
           "description": "Training for piloting starships and navigating through space.",
           "main_attr": "agi",
           "skills": {
@@ -409,7 +409,7 @@
               "specializations": ["Dexterity", "Athletics", "Zero-G Movement"]
             }
           },
-          "talents": ["piloting_talents"],
+          "event_key":["pilot_cadet_events"],
           "debt_value": 1,
           "title": "Pilot",
           "master": {
@@ -434,7 +434,7 @@
               "specializations": ["Signal Intelligence", "Electronics Eng."]
             }
           },
-          "talents": ["navigator_talents"],
+          "event_key":["navigator_events"],
           "debt_value": 1,
           "title": "Navigator",
           "master": {
@@ -459,7 +459,7 @@
               "specializations": ["Linguistics", "Psycology", "Quantum Mechanics"]
             }
           },
-          "talents": ["Signal_systems_talents"],
+          "event_key":["signal_systems_technician_events"],
           "debt_value": 1,
           "title": "Signal Systems Technician",
           "master": {
@@ -484,7 +484,7 @@
               "specializations": ["Psychological Res.", "Hazardous Env."]
             }
           },
-          "talents": ["tactical_systems_talents"],
+          "event_key":["tactical_systems_events"],
           "debt_value": 1,
           "title": "Tactical Systems Officer",
           "master": {
@@ -509,7 +509,7 @@
               "specializations": ["Extreme Env.", "Hazardous Env."]
             }
           },
-          "talents": ["reconnaissance_talents"],
+          "event_key":["reconnaissance_specialist_events"],
           "debt_value": 1,
           "title": "Recon Specialist",
           "master": {
@@ -539,7 +539,7 @@
               "specializations": ["Forensics", "Systems Analytics"]
             }
           },
-          "talents": ["medical_talents"],
+          "event_key":["medical_doctor_events"],
           "debt_value": 1,
           "title": "Medical Officer",
           "master": {
@@ -547,7 +547,7 @@
             "debt_value": 2
           }
         },
-        "Xenobiology": {
+        "Xenobiologist": {
           "description": "Specializes in the study of alien flora and fauna.",
           "main_attr": "wis",
           "skills": {
@@ -564,7 +564,7 @@
               "specializations": ["Extreme Env.", "First Aid", "Survival"]
             }
           },
-          "talents": ["xenobiology_talents"],
+          "event_key":["xenobiologist_events"],
           "debt_value": 1,
           "title": "Science Officer",
           "master": {
@@ -572,7 +572,7 @@
             "debt_value": 2
           }
         },
-        "Stasis Technology": {
+        "Stasis Technology Specialist": {
           "description": "Specializes in stasis systems aboard ships, including maintenance and emergency procedures.",
           "main_attr": "int",
           "skills": {
@@ -589,7 +589,7 @@
               "specializations": ["Crisis Management", "Operational Planning"]
             }
           },
-          "talents": ["stasis_talents"],
+          "event_key":["stasis_tech_specialist_events"],
           "debt_value": 1,
           "title": "Stasis Technician",
           "master": {
@@ -597,7 +597,7 @@
             "debt_value": 2
           }
         },
-        "Synthetic Chemistry": {
+        "Synthetic Chemistry Scientist": {
           "description": "Focuses on chemical processes, materials science, and their applications.",
           "main_attr": "int",
           "skills": {
@@ -614,7 +614,7 @@
               "specializations": ["Hazardous Env.", "Extreme Env.", "First Aid"]
             }
           },
-          "talents": ["chemistry_talents"],
+          "event_key":["sythtetic_chemistry_scientist_events"],
           "debt_value": 1,
           "title": "Chemist",
           "master": {
@@ -622,7 +622,7 @@
             "debt_value": 2
           }
         },
-        "Cybernetics": {
+        "Cyberneticist": {
           "description": "Specializes in integrating biological and technological systems.",
           "main_attr": "int",
           "skills": {
@@ -639,7 +639,7 @@
               "specializations": ["Dexterity"]
             }
           },
-          "talents": ["cybernetics_talents"],
+          "event_key":["cyberneticist_events"],
           "debt_value": 1,
           "title": "Cyberneticist",
           "master": {
@@ -652,7 +652,7 @@
     "Advanced Theoretical Research Facility": {
       "description": "An elite institution dedicated to the exploration of cutting-edge and speculative sciences.",
       "subclasses": {
-        "Quantum Physics": {
+        "Quantum Physicist": {
           "description": "Focuses on quantum mechanics and its technological applications.",
           "skills": {
             "Science": {
@@ -668,7 +668,7 @@
               "specializations": ["Systems Analytics", "Sensors"]
             }
           },
-          "talents": ["quantum_physics_talents"],
+          "event_key":["quantum_physicist_events"],
           "debt_value": 1,
           "title": "Quantum Physicist",
           "master": {
@@ -676,7 +676,7 @@
             "debt_value": 2
           }
         },
-        "Advanced Engineering": {
+        "Advanced Engineer": {
           "description": "Specializes in developing new technologies and improving existing systems, from nanomachines to starship weaponry.",
           "main_attr": "int",
           "skills": {
@@ -693,7 +693,7 @@
               "specializations": ["Electronics Eng.", "Robotics", "Computer Eng."]
             }
           },
-          "talents": ["advanced_engineering_talents"],
+          "event_key":["advanced_engineer_events"],
           "debt_value": 1,
           "title": "Advanced Engineering Specialist",
           "master": {
@@ -701,7 +701,7 @@
             "debt_value": 2
           }
         },
-        "Nanotech Development": {
+        "Nanotech Scientist": {
           "description": "Focuses on nanotechnology applications in medicine, industry, and warfare.",
           "main_attr": "int",
           "skills": {
@@ -718,7 +718,7 @@
               "specializations": ["Dexterity", "Zero-G Movement"]
             }
           },
-          "talents": ["nanotech_talents"],
+          "event_key":["nanotech_scientist_events"],
           "debt_value": 1,
           "title": "Nanotech Specialist",
           "master": {
@@ -731,7 +731,7 @@
     "Institute of Cognitive Mastery": {
       "description": "Trains students to master psychological manipulation, social engineering, and influence tactics.",
       "subclasses": {
-        "PsyOps Specialist": {
+        "PsyOps Operative": {
           "description": "Specializes in manipulating perceptions, emotions, and behaviors to achieve strategic objectives.",
           "main_attr": "wis",
           "skills": {
@@ -748,9 +748,9 @@
               "specializations": ["Crisis Management", "Tactical Operations", "Leadership"]
             }
           },
-          "talents": ["psyops_talents"],
+          "event_key":["psyops_operative_events"],
           "debt_value": 1,
-          "title": "PsyOps Officer",
+          "title": "PsyOps Operative",
           "master": {
             "title": "Chief PsyOps Strategist",
             "debt_value": 2
@@ -773,7 +773,7 @@
               "specializations": ["Psychological Res.", "First Aid"]
             }
           },
-          "talents": ["corporate_diplomacy_talents"],
+          "event_key":["corporate_diplomat_events"],
           "debt_value": 1,
           "title": "Diplomatic Officer",
           "master": {
@@ -798,7 +798,7 @@
               "specializations": ["Blunt", "Edge", "Explosives"]
             }
           },
-          "talents": ["propaganda_talents"],
+          "event_key":["propaganda_strategist_events"],
           "debt_value": 1,
           "title": "Propaganda Officer",
           "master": {

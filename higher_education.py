@@ -1,5 +1,12 @@
 import json
 import random
+import os
+
+
+def load_json(file_path):
+    """Load a JSON file and return its content."""
+    with open(file_path, 'r') as f:
+        return json.load(f)
 
 
 def calculate_success_chance(main_attrs, character_data, key_attribute=None):
@@ -22,18 +29,6 @@ def calculate_success_chance(main_attrs, character_data, key_attribute=None):
     average_chance = sum(success_chances) / len(success_chances)
 
     return min(average_chance, 100)  # Cap at 100%
-
-
-def present_education_paths(subclasses, character_data, key_attribute):
-    """Presents available subclasses (education paths) with success chances."""
-    print("\nAvailable Education Paths:")
-    subclass_options = []
-    for idx, (key, value) in enumerate(subclasses.items(), start=1):
-        main_attr = value.get("main_attr", "").upper()
-        success_chance = calculate_success_chance([main_attr], character_data, key_attribute)
-        print(f"{idx}. {key}: {value['description']} (Success Chance: {success_chance:.2f}%)")
-        subclass_options.append((key, value, success_chance))
-    return subclass_options
 
 
 def categorize_education_options(higher_ed_data, character_data):
@@ -62,6 +57,48 @@ def categorize_education_options(higher_ed_data, character_data):
     return categorized_options
 
 
+def present_subclass_options(subclasses, character_data, key_attribute):
+    """Present subclass options and calculate success chances."""
+    subclass_options = []
+    print("\nAvailable Subclasses:")
+    for idx, (name, details) in enumerate(subclasses.items(), start=1):
+        main_attr = details["main_attr"]
+        success_chance = calculate_success_chance([main_attr], character_data, key_attribute)
+        print(f"{idx}. {name}: {details['description']} (Success Chance: {success_chance:.2f}%)")
+        subclass_options.append((name, details, success_chance))
+    return subclass_options
+
+
+def process_success(character_data, subclass, success):
+    """
+    Process success or failure outcomes for an education path.
+    """
+    main_attr = subclass["main_attr"].upper()
+    attr_points = 1
+    skill_points = 4 if success else 3  # Distribute skill points based on success or failure
+    debt_increase = 1
+    specialization = None
+
+    # Check for specialization cap
+    max_cap = 5 if character_data["key_attribute"].upper() == main_attr else 4
+    if character_data["aggregated_attributes"].get(main_attr, 0) + attr_points > max_cap:
+        specialization = main_attr
+
+    # Update character attributes
+    character_data["aggregated_attributes"][main_attr] += attr_points
+    character_data["debt"] = character_data.get("debt", 0) + debt_increase
+
+    # Return the results
+    return {
+        "success": success,
+        "title": subclass["title"] if success else None,
+        "attr_points": attr_points,
+        "skill_points": skill_points,
+        "specialization": specialization,
+        "debt_increase": debt_increase,
+    }
+
+
 def higher_education_step(character_data):
     """Runs the higher education selection and resolution process for a character."""
 
@@ -73,7 +110,7 @@ def higher_education_step(character_data):
     categorized_options = categorize_education_options(higher_ed_data, character_data)
 
     # Present categorized options with unique numbering
-    print("\nAvailable Higher Education Options:\nDo observe the success chance is based on an average of the available educations inside the Universities!")
+    print("\nAvailable Higher Education Options:")
     all_options = []  # Flat list for numbering
     option_counter = 1  # Unique numbering across categories
 
@@ -99,72 +136,38 @@ def higher_education_step(character_data):
 
     print(f"\nYou selected: {choice}")
 
-    # Present education paths (subclasses) for the selected university
+    # Present subclasses for the chosen university
     subclasses = education.get("subclasses", {})
-    subclass_options = present_education_paths(subclasses, character_data, character_data.get("key_attribute", "").upper())
+    subclass_options = present_subclass_options(subclasses, character_data, character_data.get("key_attribute", "").upper())
 
     # Get user choice of subclass
     while True:
         try:
             subclass_choice_num = int(input("Choose your education path by number: ").strip())
             if 1 <= subclass_choice_num <= len(subclass_options):
-                subclass, subclass_data, subclass_success = subclass_options[subclass_choice_num - 1]
+                subclass_name, subclass_data, subclass_success = subclass_options[subclass_choice_num - 1]
                 break
             else:
                 print("Invalid choice. Please select a valid number.")
         except ValueError:
             print("Invalid input. Please enter a number.")
 
+    print(f"\nYou selected: {subclass_name}")
+
     # Roll for success
     roll = random.randint(1, 100)
     success = roll <= subclass_success
 
-    # Award based on success or failure
-    if success:
-        print(f"\nSuccess! You succeeded in the {subclass}.")
-        skill_points = 4  # 2 + 2 skill points
-        attr_points = 1
-    else:
-        print(f"\nFailure. You struggled through the {subclass}.")
-        skill_points = 4  # 1 + 1 + 2 skill points
-        attr_points = 1
-
-    # Allocate skill points randomly based on weights
-    skill_weights = {}
-    for skill, details in subclass_data["skills"].items():
-        skill_weights[skill] = details["weight"]
-
-    skill_distribution = random.choices(
-        population=list(skill_weights.keys()),
-        weights=list(skill_weights.values()),
-        k=skill_points
-    )
-
-    for skill in skill_distribution:
-        character_data.setdefault("skills", {})[skill] = character_data["skills"].get(skill, 0) + 1
-
-    # Update attributes
-    main_attr = subclass_data.get("main_attr", "").upper()
-    if main_attr:
-        character_data["aggregated_attributes"][main_attr] += attr_points
-
-    # Update debt
-    character_data["debt"] = character_data.get("debt", 0) + subclass_data.get("debt_value", 0)
-
-    # Add education to selected events
-    character_data.setdefault("selected_events", {})["higher_education"] = {
-        "university": choice,
-        "subclass": subclass,
-        "success": success,
-        "skills_gained": skill_distribution,
-        "attribute_gained": {main_attr: attr_points} if main_attr else {},
-        "debt_incurred": subclass_data.get("debt_value", 0),
-    }
+    # Process outcomes
+    outcome = process_success(character_data, subclass_data, success)
 
     # Display results
-    print(f"\nEducation Results:")
-    print(f"- Attribute Points: +{attr_points} to {main_attr}")
-    print(f"- Skill Points Distributed: {skill_distribution}")
-    print(f"- Corporate Debt Increased by: {subclass_data.get('debt_value', 0)}")
+    print("\nEducation Results:")
+    print(f"- Success: {outcome['success']}")
+    print(f"- Title: {outcome['title']}")
+    print(f"- Attribute Points: +{outcome['attr_points']} to {subclass_data['main_attr']}")
+    print(f"- Skill Points Distributed: {outcome['skill_points']}")
+    print(f"- Specialization Gained: {outcome['specialization'] if outcome['specialization'] else 'None'}")
+    print(f"- Corporate Debt Increased by: {outcome['debt_increase']}")
 
     return character_data
