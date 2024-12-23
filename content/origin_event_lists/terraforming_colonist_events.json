@@ -1,0 +1,209 @@
+{
+    "early": [
+      {
+        "description": "Separated from your family during a toxic gas eruption, you survived alone in the wastelands for days, forging an unbreakable will to live.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You discovered an mysterious artifact hidden near the colony, igniting a lifelong curiosity and a secret desire to unlock its mysteries.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "Witnessing the death of a close friend in a machinery accident, you became determined to improve safety protocols to prevent future tragedies.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "Bullied by older kids, you trained in secret to defend yourself, eventually standing up to them and earning respect.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You saved a sibling from a wild creature attack, developing a protective instinct and a fear of the unknown lurking outside the colony.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "Finding solace in the colony's limited library, you immersed yourself in ancient texts, fostering a deep wisdom beyond your years.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "An accident left you with a physical scar, a constant reminder of your vulnerability and fueling a desire to become stronger.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You befriended an outcast mechanic who taught you the intricacies of machinery, sparking a passion for engineering.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "Experiencing a severe illness with limited medical supplies, you vowed to improve healthcare accessibility in the colony.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You secretly observed a meeting of rebels planning to overthrow the colony leadership, instilling a conflicted sense of justice.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "An elder shared tales of Earth, filling you with a longing for a place you've never known and shaping your dreams of exploration.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You witnessed the colony AI malfunction, causing chaos; since then, you've harbored distrust towards artificial intelligence.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "Your family struggled to make ends meet, teaching you the value of hard work and igniting an ambition to rise above poverty.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You discovered you have a natural talent for navigating the harsh terrain, becoming the go-to guide for scavenging missions.",
+        "attributes": { "AGI": 2, "WIS": 1 }
+      },
+      {
+        "description": "A close encounter with a mysterious phenomenon left you with nightmares and a quest to understand the planet's secrets.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You formed a deep bond with a native creature, challenging the colony's view of the local fauna as mere threats.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "Your best friend was exiled under suspicious circumstances, fueling your distrust of authority and a desire for truth.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "Leading a group of peers, you successfully negotiated with a rival colony for vital resources, revealing your diplomatic skills.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You developed a revolutionary farming technique that doubled crop yields, gaining both admiration and envy.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "Framed for a sabotage you didn't commit, you cleared your name but became wary of those around you.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You survived a cave-in while exploring underground tunnels, leaving you claustrophobic yet determined to conquer your fears.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "An unexpected friendship with a newcomer challenged your prejudices and broadened your perspective.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You discovered a corrupt official embezzling resources, and your decision to expose them set off a chain of political upheaval.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "After losing someone close to a preventable accident, you campaigned for stricter safety measures, clashing with corporate interests.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You mastered the art of piloting hovercrafts over hazardous terrain, becoming a vital asset for transport missions.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "An encounter with a rogue AI left you questioning the boundaries between man and machine, influencing your future endeavors.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You led a successful defense against a predatory species, but the experience left you questioning the colony's impact on the ecosystem.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You fell in love with someone from a rival faction, creating personal conflict and forcing you to balance loyalty with emotion.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "A vision or dream hinted at a destiny beyond the colony, instilling in you a restless ambition to seek greater purpose.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You invented a new tool that made life easier for miners, but received little credit, fueling a desire for recognition.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "Mentoring younger colonists brought you fulfillment and a sense of responsibility for the next generation.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You discovered a hidden cache of resources, and your choice to share or hoard them reflects your moral compass.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "A dangerous addiction took hold of you for a time, overcoming it required immense willpower and left lasting scars.",
+        "attributes": { "STR": 1 }
+      }
+    ],
+    "late": [
+      {
+        "description": "Appointed as a leader during a crisis, you had to make tough decisions that haunt you but strengthened your resolve.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You uncovered a conspiracy involving the colony's founding, and now you grapple with the burden of knowledge and its implications.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "Betrayed by someone you trusted, you learned to be cautious, shaping your interactions with others henceforth.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You led a mission to explore uncharted territories, facing unknown dangers and expanding the colony's horizons.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "A close brush with death made you reevaluate your priorities, driving you to pursue personal ambitions more fervently.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You negotiated a peace treaty with a hostile group, but some question your methods and alliances.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "Developing a groundbreaking technology, you faced the ethical dilemma of its potential misuse.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "Leading a successful revolt against oppressive leadership, you became a symbol of freedom, with all the burdens that entails.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You made contact with an rival colony, but it proved to be a threat to your survival.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "After years of searching, you found evidence of a lost relative, setting you on a personal quest for reunion.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You sacrificed a part of yourself, literally or metaphorically, to save the colony, leaving you changed forever.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "Taking over a failing project, you turned it into a success, but the stress strained your personal relationships.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You became the guardian of an orphaned child, adding new responsibilities and changing your outlook on life.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "Haunted by visions of impending doom, you're driven to prepare the colony for a threat only you believe is coming.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You were offered a chance to leave the colony for a better life elsewhere, but obligations made you stay.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "An experiment you conducted had unintended consequences, causing harm and leading you to seek redemption.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You formed a secret society aiming to steer the colony's future, balancing secrecy with the risk of discovery.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      }
+    ]
+  }
+  

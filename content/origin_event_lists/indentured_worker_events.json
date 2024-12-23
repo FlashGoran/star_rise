@@ -1,0 +1,213 @@
+{
+    "early": [
+      {
+        "description": "Born into a family of laborers constantly on the move, you learned to adapt quickly to new environments and harsh conditions.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "At a young age, you suffered an injury while helping with heavy equipment, leaving a scar and a determination to become stronger.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You witnessed your parents being exploited by corporate overseers, igniting a distrust of authority and a desire for independence.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "Surviving a dangerous wildlife encounter, you developed keen instincts and a respect for the natural dangers of the frontier.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You formed a close bond with a fellow worker, but they disappeared one night without explanation, leaving you wary of forming attachments.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "Living in temporary camps, you became skilled at constructing shelters quickly and efficiently.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You learned to forage for food in harsh environments, ensuring your family never went hungry.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "A natural disaster destroyed your camp, but you helped rebuild it, showing resilience and leadership potential.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You discovered an old map hinting at a hidden resource deposit, sparking a personal quest to find it someday.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "Faced with bullying from other children, you stood up for yourself, learning to assert your strength.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You cared for a sick family member during a plague, developing compassion and a desire to help others.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "An elder taught you traditional survival techniques, passing down wisdom that you cherish.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You found solace in physical labor, using it as a way to cope with the instability of your life.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "Witnessing injustice against your people, you vowed to one day fight for workers' rights.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You developed a knack for navigating treacherous terrain, guiding your group safely through hazards.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "A secret stash of books introduced you to new ideas, awakening a desire for knowledge despite limited opportunities.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You saved a younger child from a dangerous situation, earning the respect of your community.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You led a group of workers in a successful effort to negotiate better living conditions, showcasing leadership and courage.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "Captured by raiders, you endured hardship and planned your escape, strengthening your resolve.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You discovered a corrupt supervisor stealing resources, and your decision on how to handle it shaped your reputation.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "An injury forced you to adapt your work methods, leading to innovative solutions and increased efficiency.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You joined an underground movement advocating for workers' rights, fueling your ambition to enact change.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "A natural leader, you organized community efforts to improve camp conditions, gaining the trust of your peers.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You faced a moral dilemma when asked to sabotage equipment to protest working conditions.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "An opportunity to learn from a skilled craftsman improved your abilities, but jealousy from others caused tension.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You survived a harsh winter by rationing supplies and leading foraging parties, saving many lives.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "Your family was torn apart due to forced relocations, deepening your resentment towards the corporations.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You protected your camp from wild animal attacks, demonstrating bravery and physical prowess.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "A close friend's betrayal left you cautious and more guarded, influencing how you interact with others.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You unearthed ancient ruins during excavation, sparking a fascination with history and a desire to learn more.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "Volunteering for the most grueling tasks, you earned a reputation for reliability and strength.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You developed a chronic ailment due to harsh working conditions, fueling your determination to improve labor laws.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You saved a corporate official's life during an accident, complicating your feelings towards the company.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "Leading a successful revolt against unfair practices, you became a symbol of resistance among workers.",
+        "attributes": { "STR": 1 }
+      }
+    ],
+    "late": [
+      {
+        "description": "You negotiated a contract to free yourself and others from indentured servitude, displaying cunning and determination.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "An uprising you were part of was crushed, leading to personal loss and a hardened resolve.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You became a liaison between workers and management, walking a fine line between both worlds.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "A dangerous mission to a toxic environment tested your limits, but you emerged stronger.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You discovered evidence of environmental damage caused by the corporation, prompting you to take action.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "Offered a chance to join corporate security, you had to choose between a better life and your principles.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You led a group to establish an independent settlement, seeking freedom from corporate control.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "A personal tragedy caused by corporate negligence drove you to seek justice at any cost.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You mentored younger workers, passing on your knowledge and inspiring them to strive for better conditions.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "An encounter with a nomadic tribe taught you new survival techniques and broadened your horizons.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You exposed a smuggling ring exploiting workers, but faced retaliation for your actions.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "A close ally betrayed you for personal gain, deepening your mistrust but strengthening your independence.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You suffered a debilitating injury, but refused to let it define you, adapting and overcoming the challenge.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "Your actions led to significant improvements in workers' rights, but also made you a target for corporate reprisal.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You found evidence of ancient technology, sparking a quest to unlock its secrets.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "Faced with the choice to leave the harsh life behind, you decided to stay and fight for those who couldn't.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You orchestrated a mass exodus from the camps, leading many to freedom but at great personal risk.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      }
+    ]
+  }
+  

@@ -1,0 +1,213 @@
+{
+    "early": [
+      {
+        "description": "Born into a family of corporate analysts, you were introduced to data interpretation from a young age.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "At age nine, you developed a program that identified inefficiencies in household energy use.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "Enrolled in a prestigious academy, you excelled in mathematics, statistics, and economics.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You participated in a youth data science competition, winning with a predictive market model.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "A mentor recognized your potential and provided advanced training in data analytics.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "Witnessing a data breach scandal taught you the importance of cybersecurity.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You developed a rivalry with another prodigious student, pushing you to refine your analytical skills.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An error in your calculations led to a failed project, teaching you the value of double-checking work.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You discovered a pattern in consumer behavior that was previously overlooked, earning praise.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "A family member's downfall due to misinterpreted data taught you the weight of responsibility.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You mastered a complex programming language, enhancing your data processing capabilities.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An internship in a corporate analytics department exposed you to real-world data challenges.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You published a paper on predictive analytics that gained attention within the corporation.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A mentor's sudden departure under mysterious circumstances made you wary of corporate politics.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You began studying the impact of data manipulation on market trends, deepening your understanding.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "An advanced simulation tested your ability to analyze data under time pressure.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You started to question the ethical implications of data privacy and corporate surveillance.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You were assigned to a team analyzing market trends for a major corporate initiative.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A project you contributed to resulted in significant profits but also public outcry over ethical concerns.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You discovered discrepancies in financial reports, hinting at possible internal fraud.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "An internal leak threatened to expose sensitive data; you were tasked with containment.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You began mentoring junior analysts, sharing your knowledge and fostering talent.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A predictive model you developed failed spectacularly, causing you to reevaluate your methods.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You were involved in a covert operation to analyze competitor data, walking a fine ethical line.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A personal relationship with a colleague complicated your professional judgment.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You faced ethical dilemmas when asked to manipulate data to favor corporate narratives.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "An unexpected promotion placed you in charge of a critical analytics project.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You successfully identified a market gap, leading to the development of a new product line.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A rival attempted to take credit for your work, teaching you the importance of documentation.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You developed a new data visualization method that improved decision-making processes.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "An illness forced you to work remotely, challenging your ability to collaborate effectively.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You uncovered outdated methodologies being used, but updating them met resistance.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A cyber-attack compromised your department; you helped trace the source.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You began to question the corporation's use of data, contemplating the societal impact.",
+        "attributes": { "WIS": 1 }
+      }
+    ],
+    "late": [
+      {
+        "description": "Promoted to a senior analyst, you now influence major corporate decisions through your insights.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A significant data breach tested your department's capabilities; your leadership was crucial.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You discovered manipulated data being used to justify unethical corporate actions.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "A personal loss affected your focus, forcing you to balance work and personal life.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You were offered a position with a regulatory agency, challenging your loyalty to the corporation.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "An innovative analytics platform you developed disrupted traditional methods.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "Faced with evidence of widespread data misuse, you contemplated becoming a whistleblower.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "An internal power struggle required you to navigate complex corporate politics.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You began mentoring the next generation of analysts, shaping the future of the department.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A global event required rapid data analysis; your work influenced corporate strategy.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You considered leaving the corporate world to advocate for data ethics, questioning your role.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "An opportunity arose to develop data policies at the highest level of the corporation.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You faced backlash for reporting inaccuracies that others wanted to overlook.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "An alliance with a powerful executive offered advancement but at potential ethical costs.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You authored a groundbreaking paper on data ethics, influencing industry standards.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A health scare prompted you to reassess your priorities and work-life balance.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You uncovered plans for a corporate initiative that could have negative societal impacts.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      }
+    ]
+  }
+  

@@ -1,0 +1,185 @@
+{
+    "early": [
+      {
+        "description": "Born on a mining colony carved into an asteroid, your earliest memories are of tunnels and machinery.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "At age seven, you helped repair a broken drill, showcasing your mechanical aptitude.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You began working alongside your family in the mines, building physical strength and endurance.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "A cave-in trapped you for hours, teaching you resilience and the importance of safety protocols.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You developed a knack for finding rich veins of ore, impressing the seasoned miners.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "An encounter with corporate overseers revealed the harsh realities of corporate control.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You customized your mining tools for better efficiency, showcasing your ingenuity.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An older miner taught you advanced techniques, enhancing your productivity.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "You formed a close bond with a fellow miner's child, sharing dreams of life beyond the asteroid.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "A malfunction in the life-support system required quick action to prevent disaster.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "You began to question the fairness of the corporation's policies, noticing disparities.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "An accident left you with a scar, a constant reminder of the mine's dangers.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You discovered an unusual mineral, sparking interest from corporate scientists.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "A family member fell ill due to hazardous working conditions, fueling your resentment.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You started studying engineering texts salvaged from shipments, expanding your knowledge.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "An equipment upgrade increased output but also accidents, raising concerns.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You participated in a clandestine meeting discussing worker rights.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You took on significant responsibilities, managing labor tasks essential to operations.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "A conflict with corporate enforcers led to increased tension and surveillance.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You orchestrated a successful effort to improve living conditions for your fellow workers.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "An offer to relocate your family to a better station challenged your sense of solidarity.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You began mentoring younger miners, passing on your skills and safety practices.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "A personal injury forced you to adapt, relying more on wisdom than brute strength.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You discovered evidence of corporate negligence causing hazardous conditions.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A family member was unjustly punished, fueling your desire for justice.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You faced ethical dilemmas when asked to inform on fellow workers.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "An accident led to the loss of essential supplies, testing your resourcefulness.",
+        "attributes": { "INT": 1 }
+      }
+    ],
+    "late": [
+      {
+        "description": "Promoted to a leadership role, you now oversee significant mining operations.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "A major disaster required you to coordinate rescue efforts under extreme pressure.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You discovered a massive deposit that could change the colony's fortunes.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "Faced with corporate demands for increased output, you had to balance productivity with safety.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "An opportunity to leave the asteroid and pursue education elsewhere challenged your commitments.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You exposed a corrupt official exploiting workers, leading to significant changes.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A personal loss prompted you to reconsider your life's direction.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You began to suffer from health issues due to prolonged exposure to hazardous materials.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "An uprising among the workers placed you in a position to lead or suppress the movement.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You mentored a young miner who looked up to you, influencing the next generation.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "A corporate takeover threatened the livelihoods of everyone on the asteroid.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You authored a proposal for safer mining practices, challenging corporate norms.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "An external threat, such as pirates or rival corporations, endangered the colony.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You faced a moral dilemma when ordered to exploit a hazardous area for profit.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "An opportunity to retire arose, but leaving the only life you've known proved difficult.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You considered joining a movement to break free from corporate control.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "A technological advancement threatened to replace manual labor, challenging your relevance.",
+        "attributes": { "INT": 2, "STR": 1 }
+      }
+    ]
+  }
+  

@@ -1,0 +1,213 @@
+{
+    "early": [
+      {
+        "description": "Born in a militarized colony, you were trained from a young age to handle weapons, developing physical strength and discipline.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You witnessed a raider attack that claimed the lives of friends, instilling in you a desire to protect others.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "Your family was part of the colony's defense force; their stories inspired you to follow in their footsteps.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "Surviving a harsh wilderness alone after getting lost, you learned self-reliance and toughness.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "Bullied by older kids, you fought back and earned a reputation for being tough and unyielding.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You formed a childhood pact with friends to defend the colony, fostering loyalty and camaraderie.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "An combat encounter left you scarred but determined to become stronger.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You excelled in physical training exercises, catching the eye of the colony's defense instructors.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "A family member's betrayal taught you to be cautious and to rely on your own strength.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You crafted your first weapon from scrap materials, showing ingenuity and a readiness to defend.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "Witnessing injustice within the colony, you vowed to uphold the law and protect the innocent.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "You survived a severe illness that many did not, strengthening your body and willpower.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "A mentor taught you advanced combat techniques, accelerating your development.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You participated in a rite of passage that tested your physical limits, emerging victorious.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "An accident during training left you with a minor injury, teaching you the importance of caution.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You defended a weaker peer from bullies, beginning your path as a protector.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "Your quick reflexes saved you from a dangerous fall, highlighting your agility.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You successfully led a defense against a small raider attack, earning recognition from colony leaders.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "A close friend fell in battle, fueling your desire for vengeance and justice.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You trained in advanced combat techniques, becoming proficient with various weapons.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "An ethical dilemma forced you to choose between orders and what you felt was right.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You infiltrated a raider camp to gather intelligence, showcasing bravery and cunning.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "A leadership role in the colony's militia tested your abilities to command and strategize.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You discovered corruption within the colony's leadership, challenging your loyalty and convictions.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "An injury sustained in battle required you to adapt your fighting style.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "You developed a rivalry with another enforcer, pushing you both to greater heights.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "Protecting a convoy through dangerous territory, you demonstrated courage under fire.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You trained a group of new recruits, passing on your skills and instilling discipline.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "A moral conflict arose when you were ordered to suppress a peaceful protest.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You single-handedly defended a remote outpost from a outside threat until reinforcements arrived.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "A tactical error on your part led to casualties, leaving you with guilt and a determination to improve.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You recovered an ancient weapon or artifact, adding a valuable asset to the colony's defenses.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "Negotiating with a rival faction avoided unnecessary bloodshed, showcasing unexpected diplomatic skills.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You participated in a joint operation with corporate forces, exposing you to new tactics and technology.",
+        "attributes": { "STR": 1 }
+      }
+    ],
+    "late": [
+      {
+        "description": "Promoted to a high-ranking position, you now oversee the colony's entire defense strategy.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "You led a successful campaign to eliminate a major raider threat, bringing peace to the region.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "Facing a mutiny within your ranks, you had to restore order while questioning your leadership methods.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "An old enemy resurfaced, challenging you to confront your past decisions and their consequences.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You discovered a plot against the colony from within, forcing you to act swiftly to prevent disaster.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "An offer to join a larger military organization tempted you with new opportunities and challenges.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You trained in advanced tactics and technology off-world, returning with new ideas that met resistance.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "A personal loss led you to question the constant cycle of violence, sparking an internal conflict.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "You negotiated a peace treaty with a long-standing enemy, but some viewed this as a betrayal.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An assassination attempt on you revealed hidden enemies and tested your survival skills.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You began training the next generation of enforcers, leaving a lasting legacy.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "A crisis forced you to ally with former adversaries, challenging your perceptions and adaptability.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "You uncovered ancient technology that could tip the balance of power, leading to tough ethical choices.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "A massive enviromental or natural threat emerged, requiring you to coordinate with other colonies for survival.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You faced a tribunal for actions taken during a conflict, forcing you to defend your decisions.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "Disillusioned with constant warfare, you considered leaving the enforcers to seek a different path.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "A final, decisive battle tested all your skills and resolved, leaving a profound impact on your future.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      }
+    ]
+  }
+  

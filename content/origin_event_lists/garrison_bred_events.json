@@ -1,0 +1,213 @@
+{
+    "early": [
+      {
+        "description": "Born and raised within the walls of a corporate military garrison, you knew little of life outside strict routines and training drills.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "At age six, you were enrolled in a rigorous physical conditioning program, pushing your limits daily.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You witnessed a training accident that resulted in the injury of a fellow child recruit, instilling a sense of caution and the seriousness of your environment.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "Raised by military caretakers rather than parents, you learned to suppress emotions and focus on objectives.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You excelled in hand-to-hand combat drills, showing exceptional strength for your age.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "A mentor singled you out for advanced training, increasing both your skills and the expectations placed upon you.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You formed a close bond with another recruit, vowing to look out for each other amidst the harsh training regime.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "Punished for a minor infraction, you learned the consequences of stepping out of line within the garrison.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "An injury during a training exercise left you temporarily sidelined, teaching you resilience and determination to recover.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You discovered a hidden area within the garrison, providing a brief escape from the relentless discipline.",
+        "attributes": { "AGI": 2, "WIS": 1 }
+      },
+      {
+        "description": "Witnessing unfair treatment of another recruit, you grappled with the strict hierarchy and your place within it.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You participated in a simulated battle that felt all too real, leaving a lasting impression on your psyche.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "A strict diet and regimen sculpted your physique, but left little room for personal freedom.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You showed a natural aptitude with weapons, impressing your instructors and peers.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "An unexpected act of kindness from a superior challenged your perceptions of authority.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You began to question the purpose of your training, wondering about life beyond the garrison walls.",
+        "attributes": { "WIS": 2, "AGI": 1 }
+      },
+      {
+        "description": "A rumor of a world outside the garrison sparked your curiosity and a desire for knowledge.",
+        "attributes": { "WIS": 2, "AGI": 1 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You led your squad to victory in a competitive exercise, showcasing leadership and tactical prowess.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "A close friend attempted to escape the garrison; their fate remained unknown, leaving you conflicted.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You were selected for specialized training in heavy weaponry, increasing your value but also your burden.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "An encounter with corporate officials revealed the true nature of your purpose, shaking your beliefs.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You uncovered a secret about the garrison's operations, forcing you to choose between compliance and conscience.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "A severe disciplinary action left physical and emotional scars, hardening your resolve.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You excelled in endurance training, setting records that drew attention from higher-ups.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "Witnessing an act of defiance by another recruit inspired you to question your own obedience.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You developed a rivalry with another trainee, pushing both of you to greater heights but also increasing tension.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "An injury sustained during a live-fire exercise tested your limits and recovery capabilities.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You were tasked with training new recruits, giving you a taste of leadership and responsibility.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "A clandestine meeting with an outsider provided new perspectives, challenging your indoctrination.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You participated in a high-stakes simulation that blurred the lines between training and reality.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "An act of sabotage within the garrison raised suspicions and increased surveillance.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You began to experience recurring nightmares, affecting your performance and mental state.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "A brief glimpse of life outside during a transport mission ignited a longing for freedom.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You crafted a makeshift keepsake or token, a small act of rebellion against the uniformity imposed upon you.",
+        "attributes": { "AGI": 21 }
+      }
+    ],
+    "late": [
+      {
+        "description": "Promoted to a leadership role, you now oversee a unit, grappling with the weight of command.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "An opportunity to leave the garrison presented itself, forcing you to choose between duty and desire.",
+        "attributes": { "WIS": 2, "AGI": 1 }
+      },
+      {
+        "description": "You uncovered a plan that would endanger many lives; acting on this knowledge could be considered treason.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "A close comrade fell in action, causing you to question the purpose of your relentless training.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You were ordered to suppress a civilian uprising, challenging your morality and loyalty.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "An injury left you with lasting effects, but you pushed through, refusing to be sidelined.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You began to mentor younger soldiers, passing on not just skills but also your evolving worldview.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "An internal power struggle within the garrison hierarchy drew you into a web of intrigue.",
+        "attributes": { "WIS": 2, "AGI": 1 }
+      },
+      {
+        "description": "You developed a plan to improve training methods, but faced resistance from traditionalists.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "A chance encounter with a rebel operative offered you an alternative path.",
+        "attributes": { "WIS": 2, "AGI": 1 }
+      },
+      {
+        "description": "You were assigned to a mission that required operating outside the garrison, testing your adaptability.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "An ethical dilemma arose when ordered to carry out questionable actions; your choice defined your future.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You discovered a personal connection to someone outside the garrison, complicating your loyalties.",
+        "attributes": { "WIS": 2, "AGI": 1 }
+      },
+      {
+        "description": "A significant failure or setback led to demotion or reassignment, challenging your identity.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You began to document your experiences, a forbidden act that could have severe consequences if discovered.",
+        "attributes": { "WIS": 2, "AGI": 1 }
+      },
+      {
+        "description": "An uprising within the garrison forced you to choose sides, impacting your fate dramatically.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "Facing the prospect of lifelong service without personal freedom, you contemplated drastic actions.",
+        "attributes": { "WIS": 2, "AGI": 1 }
+      }
+    ]
+  }
+  

@@ -1,0 +1,185 @@
+{
+    "early": [
+      {
+        "description": "Born on a frontier colony near unexplored territories, your early life was filled with tales of the unknown.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "At age nine, you assisted in exploration missions, showcasing your physical endurance.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You learned survival skills in harsh environments, demonstrating adaptability.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "An encounter with a mysterious organism taught you caution and quick thinking.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You developed a knack for detecting anomalies, showing resourcefulness.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "Witnessing a strange phenomenon instilled in you a deep curiosity about the unknown.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You customized protective gear from available materials, improving your safety.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "An experienced explorer taught you advanced survival techniques.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "You formed a bond with another young adventurer, sharing discoveries and ambitions.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "A close call with a hazardous environment sharpened your instincts and reflexes.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "You began studying anomalous events, expanding your understanding of potential threats.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "An illness caused by unknown factors tested your resilience and adaptability.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You discovered a hidden area with unexplainable properties, fueling your curiosity.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "A family member disappeared under mysterious circumstances, prompting you to seek answers.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "You started experimenting with defensive techniques against unknown threats.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "An encounter with corporate agents suppressing information sparked your skepticism.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You developed physical strength through constant training in unpredictable conditions.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You survived a deadly encounter with a hostile life form, leaving you scarred but more experienced.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "A conflict with corporate authorities over the handling of unknown threats led to increased tension.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You orchestrated a successful effort to protect your community from a mysterious hazard.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "An offer to relocate for safety challenged your loyalties and desire for the truth.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You began mentoring others on how to survive encounters with unknown dangers.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "A personal injury from an unexplained event forced you to adapt.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You discovered evidence of corporate cover-ups regarding hazardous organisms.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A family member was affected by an unknown phenomenon, fueling your determination.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You faced ethical dilemmas when asked to withhold information from others.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "An incident led to the loss of essential equipment, testing your resourcefulness.",
+        "attributes": { "INT": 1 }
+      }
+    ],
+    "late": [
+      {
+        "description": "A significant event involving unknown entities threatened your group's survival.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "You navigated through dangerous territory to reach safety, showcasing courage and strength.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "Faced with limited knowledge, you had to make tough decisions to protect others.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You coordinated with others to develop defenses against unexplained threats.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "An opportunity to expose corporate negligence arose, and you had to decide your course.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You uncovered a plan that could mitigate future encounters, prompting difficult choices.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A personal tragedy during an incident prompted deep reflection on your life's purpose.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You began to suffer from the psychological effects of your experiences.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "A movement to leave the area gained momentum, and you had to decide your role.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "You mentored others on surviving and understanding the unknown.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "Conditions worsened, making survival increasingly challenging.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You authored a detailed account of your encounters and findings.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "An external threat, such as environmental hazards, compounded existing dangers.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You faced a critical decision when offered a chance to leave with a research team.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "An unexpected alliance offered new possibilities for understanding but also new risks.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You considered the legacy you would leave and how to prevent future tragedies.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A technological advancement provided hope for dealing with unknown threats.",
+        "attributes": { "INT": 2, "STR": 1 }
+      }
+    ]
+  }
+  

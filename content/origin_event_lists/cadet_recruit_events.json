@@ -1,0 +1,213 @@
+{
+    "early": [
+      {
+        "description": "Born into a family with a history of military service, you were enrolled in a corporate-sponsored youth training program at a young age.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "At age seven, you witnessed a training accident that resulted in the injury of a friend, instilling in you the importance of discipline and safety.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You excelled in physical education, showing exceptional agility and coordination compared to your peers.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "A family member's disappearance under mysterious circumstances fueled your desire to uncover corporate secrets.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You hacked into a restricted training simulator, demonstrating both your intelligence and disregard for rules.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "Bullied by older cadets, you learned to rely on your agility and wit to avoid confrontation.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "An instructor recognized your potential and pushed you harder than others, both a blessing and a curse.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You formed a close friendship with a fellow cadet, vowing to watch each other's backs no matter what.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "You suffered a minor injury during training, teaching you resilience and the importance of proper technique.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "A disciplinary action for breaking curfew left you with a tarnished record, motivating you to prove yourself.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You discovered a hidden talent for marksmanship during a training exercise.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "An older cadet took you under their wing, teaching you survival skills not included in the official curriculum.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You participated in a simulated mission that felt too real, leaving a lasting impression on your psyche.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "Your family moved frequently due to corporate assignments, making it hard to form lasting relationships.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You stumbled upon confidential files detailing unethical experiments, sparking distrust in corporate motives.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "A natural aptitude for technology led you to modify standard-issue equipment, improving performance.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You developed a rivalry with another cadet, pushing both of you to excel but also causing tension.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You were selected for an advanced training program due to your exceptional performance.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "A training mission went wrong, resulting in casualties; you grappled with guilt and questions about leadership.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "You led a team in a simulated urban combat scenario, showcasing tactical thinking and quick reflexes.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "An injury sidelined you from physical training, leading you to focus on strategic studies.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You uncovered evidence of corruption among the training staff, forcing you to choose between exposure and self-preservation.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A romantic relationship with a fellow cadet complicated your focus and priorities.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "You participated in a clandestine operation, gaining real-world experience but at a moral cost.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "An evaluation deemed you unfit for command, challenging your self-image and goals.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "You developed an addiction to performance-enhancing substances, affecting your health and judgment.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "A close friend was expelled under suspicious circumstances, fueling your mistrust of the system.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You excelled in zero-gravity combat training, a niche skill highly valued by corporate forces.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "Assigned to a remote training facility, you uncovered secrets that challenged your loyalty.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You designed a new tactical maneuver that was incorporated into the training curriculum.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "An ethical dilemma arose when ordered to participate in a questionable experiment.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You suffered from recurring nightmares due to the stresses of training, affecting your performance.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "You began mentoring junior cadets, finding purpose in guiding others.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "A confrontation with a superior officer tested your boundaries and forced you to make a stand.",
+        "attributes": { "AGI": 1 }
+      }
+    ],
+    "late": [
+      {
+        "description": "You graduated at the top of your class, but the cost was a loss of personal relationships.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "Assigned to a frontline unit, you faced real combat and the harsh realities of war.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "You led a successful mission that saved many lives, earning commendations but also envy.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "A catastrophic mission failure left you as the sole survivor, leading to investigations and self-doubt.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You uncovered a plot against high-ranking officials, forcing you into a web of intrigue.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "Offered a position in a covert operations unit, you had to choose between transparency and secrecy.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "A serious injury forced you to reconsider your path, leading to new opportunities or retirement.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You began to question the corporate motives behind military actions, sparking internal conflict.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A reunion with your estranged family opened old wounds and complicated your future plans.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You trained a new squad of recruits, passing on your knowledge but facing generational differences.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "An opportunity to defect to a rival corporation or faction presented itself, testing your loyalty.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You were implicated in a scandal, whether justly or unjustly, affecting your career trajectory.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "A technological advancement you advocated for backfired, causing unintended consequences.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You authored a tactical manual that gained widespread use, but not without controversy.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An internal power struggle forced you to choose sides, affecting your standing within the organization.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You faced a moral crisis when ordered to carry out actions conflicting with your principles.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "Disillusioned, you considered leaving the military life for a different path.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      }
+    ]
+  }
+  

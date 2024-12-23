@@ -13,14 +13,14 @@
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Surveillance", "Sensor Specialist"]
+              "specializations": ["Surveillance", "Sensors"]
             },
             "Mobility": {
               "weight": 1,
               "specializations": ["Athletics", "Zero-G Movement"]
             }
           },
-          "talents": ["security_trooper_talent_pool"],
+          "talents": ["security_trooper_talents"],
           "title": "Security Trooper",
           "promotion": {
             "title": "Senior Security Trooper"
@@ -37,12 +37,12 @@
               "weight": 2,
               "specializations": ["Blunt", "Edge"]
             },
-            "Survival": {
+            "Stamina": {
               "weight": 1,
               "specializations": ["Hazardous Env.", "First Aid"]
             }
           },
-          "talents": ["infantry_soldier_talent_pool"],
+          "talents": ["infantry_soldier_talents"],
           "title": "Infantry Soldier",
           "promotion": {
             "title": "Corporal"
@@ -57,14 +57,14 @@
             },
             "ComTech": {
               "weight": 2,
-              "specializations": ["Electronics Engineering", "Computer Engineering"]
+              "specializations": ["Electronics Eng.", "Computer Eng."]
             },
             "Observation": {
               "weight": 1,
-              "specializations": ["Systems Analysis"]
+              "specializations": ["Systems Analytics"]
             }
           },
-          "talents": ["support_engineer_talent_pool"],
+          "talents": ["support_engineer_talents"],
           "title": "Support Engineer",
           "promotion": {
             "title": "Senior Support Engineer"
@@ -75,18 +75,18 @@
           "skills": {
             "Observation": {
               "weight": 2,
-              "specializations": ["Surveillance", "Sensor Specialist"]
+              "specializations": ["Surveillance", "Sensors"]
             },
             "Mobility": {
               "weight": 2,
               "specializations": ["Stealth Movement", "Athletics"]
             },
-            "Survival": {
+            "Stamina": {
               "weight": 1,
               "specializations": ["Hazardous Env."]
             }
           },
-          "talents": ["recon_scout_talent_pool"],
+          "talents": ["recon_scout_talents"],
           "title": "Recon Scout",
           "promotion": {
             "title": "Senior Scout"
@@ -97,18 +97,18 @@
           "skills": {
             "ComTech": {
               "weight": 2,
-              "specializations": ["Signal Intelligence", "Computer Engineering"]
+              "specializations": ["Signal Intelligence", "Computer Eng."]
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Sensor Specialist", "Surveillance"]
+              "specializations": ["Sensors", "Surveillance"]
             },
             "Manipulation": {
               "weight": 1,
               "specializations": ["Negotiator"]
             }
           },
-          "talents": ["communications_operator_talent_pool"],
+          "talents": ["communications_operator_talents"],
           "title": "Communications Operator",
           "promotion": {
             "title": "Senior Communications Operator"
@@ -129,14 +129,14 @@
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Sensor Specialist"]
+              "specializations": ["Sensors"]
             },
             "Manipulation": {
               "weight": 1,
               "specializations": ["Negotiator", "Public Relations"]
             }
           },
-          "talents": ["shuttle_pilot_talent_pool"],
+          "talents": ["shuttle_pilot_talents"],
           "title": "Shuttle Pilot",
           "promotion": {
             "title": "Senior Shuttle Pilot"
@@ -155,10 +155,10 @@
             },
             "ComTech": {
               "weight": 1,
-              "specializations": ["Computer Engineering"]
+              "specializations": ["Computer Eng."]
             }
           },
-          "talents": ["freighter_crew_talent_pool"],
+          "talents": ["freighter_crew_talents"],
           "title": "Freighter Crew Member",
           "promotion": {
             "title": "Senior Crew Member"
@@ -180,7 +180,7 @@
               "specializations": ["Negotiator", "Forgery"]
             }
           },
-          "talents": ["private_courier_talent_pool"],
+          "talents": ["private_courier_talents"],
           "title": "Courier",
           "promotion": {
             "title": "Senior Courier"
@@ -197,18 +197,18 @@
           "skills": {
             "Heavy Machinery": {
               "weight": 2,
-              "specializations": ["Power Sys.", "Starship Eng."]
+              "specializations": ["Power Sys.", "Structural Eng."]
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Systems Analysis"]
+              "specializations": ["Systems Analytics"]
             },
             "ComTech": {
               "weight": 1,
-              "specializations": ["Electronics Engineering"]
+              "specializations": ["Electronics Eng."]
             }
           },
-          "talents": ["mechanic_talent_pool"],
+          "talents": ["mechanic_talents"],
           "title": "Mechanic",
           "promotion": {
             "title": "Senior Mechanic"
@@ -219,18 +219,18 @@
           "skills": {
             "ComTech": {
               "weight": 2,
-              "specializations": ["Computer Engineering", "Electronics Engineering"]
+              "specializations": ["Computer Eng.", "Electronics Eng."]
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Systems Analysis"]
+              "specializations": ["Systems Analytics"]
             },
             "Mobility": {
               "weight": 1,
               "specializations": ["Dexterity"]
             }
           },
-          "talents": ["technician_talent_pool"],
+          "talents": ["technician_talents"],
           "title": "Technician",
           "promotion": {
             "title": "Senior Technician"
@@ -241,7 +241,7 @@
           "skills": {
             "ComTech": {
               "weight": 2,
-              "specializations": ["Robotics", "Electronics Engineering"]
+              "specializations": ["Robotics", "Electronics Eng."]
             },
             "Heavy Machinery": {
               "weight": 2,
@@ -249,10 +249,10 @@
             },
             "Observation": {
               "weight": 1,
-              "specializations": ["Systems Analysis"]
+              "specializations": ["Systems Analytics"]
             }
           },
-          "talents": ["robotics_assistant_talent_pool"],
+          "talents": ["robotics_assistant_talents"],
           "title": "Robotics Assistant",
           "promotion": {
             "title": "Senior Robotics Assistant"
@@ -280,7 +280,7 @@
               "specializations": ["Negotiator"]
             }
           },
-          "talents": ["courier_talent_pool"],
+          "talents": ["courier_talents"],
           "title": "Courier",
           "promotion": {
             "title": "Senior Courier"
@@ -289,7 +289,7 @@
         "Jack-of-all-Trades": {
           "description": "Versatile individuals who take on various odd jobs requiring a range of skills.",
           "skills": {
-            "Survival": {
+            "Stamina": {
               "weight": 2,
               "specializations": ["First Aid", "Hazardous Env."]
             },
@@ -299,10 +299,10 @@
             },
             "Observation": {
               "weight": 1,
-              "specializations": ["Systems Analysis"]
+              "specializations": ["Systems Analytics"]
             }
           },
-          "talents": ["jack_of_all_trades_talent_pool"],
+          "talents": ["jack_of_all_trades_talents"],
           "title": "Freelancer",
           "promotion": {
             "title": "Veteran Freelancer"
@@ -321,10 +321,10 @@
             },
             "Observation": {
               "weight": 1,
-              "specializations": ["Surveillance", "Tactical Analysis"]
+              "specializations": ["Surveillance", "Tactical Analytics"]
             }
           },
-          "talents": ["bounty_hunter_talent_pool"],
+          "talents": ["bounty_hunter_talents"],
           "title": "Bounty Hunter",
           "promotion": {
             "title": "Veteran Bounty Hunter"
@@ -345,14 +345,14 @@
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Strategic Analysis"]
+              "specializations": ["Strategic Analytics"]
             },
             "Piloting": {
               "weight": 1,
               "specializations": ["Space"]
             }
           },
-          "talents": ["trader_talent_pool"],
+          "talents": ["trader_talents"],
           "title": "Trader",
           "promotion": {
             "title": "Senior Trader"
@@ -363,7 +363,7 @@
           "skills": {
             "Piloting": {
               "weight": 2,
-              "specializations": ["Space", "Drone/remote Operation"]
+              "specializations": ["Space", "Remote Control"]
             },
             "Mobility": {
               "weight": 2,
@@ -374,7 +374,7 @@
               "specializations": ["Forgery", "Negotiator"]
             }
           },
-          "talents": ["smuggler_talent_pool"],
+          "talents": ["smuggler_talents"],
           "title": "Smuggler",
           "promotion": {
             "title": "Master Smuggler"
@@ -389,14 +389,14 @@
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Strategic Analysis"]
+              "specializations": ["Strategic Analytics"]
             },
             "ComTech": {
               "weight": 1,
-              "specializations": ["Computer Engineering"]
+              "specializations": ["Computer Eng."]
             }
           },
-          "talents": ["broker_talent_pool"],
+          "talents": ["broker_talents"],
           "title": "Broker",
           "promotion": {
             "title": "Senior Broker"
@@ -413,18 +413,18 @@
           "skills": {
             "Observation": {
               "weight": 2,
-              "specializations": ["Sensor Specialist"]
+              "specializations": ["Sensors"]
             },
             "Heavy Machinery": {
               "weight": 2,
               "specializations": ["Environmental Sys."]
             },
-            "Survival": {
+            "Stamina": {
               "weight": 1,
               "specializations": ["Hazardous Env."]
             }
           },
-          "talents": ["prospector_talent_pool"],
+          "talents": ["prospector_talents"],
           "title": "Prospector",
           "promotion": {
             "title": "Senior Prospector"
@@ -439,14 +439,14 @@
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Sensor Specialist"]
+              "specializations": ["Sensors"]
             },
-            "Survival": {
+            "Stamina": {
               "weight": 1,
               "specializations": ["Hazardous Env."]
             }
           },
-          "talents": ["scout_talent_pool"],
+          "talents": ["scout_talents"],
           "title": "Scout",
           "promotion": {
             "title": "Senior Scout"
@@ -461,14 +461,14 @@
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Systems Analysis", "Sensor Specialist"]
+              "specializations": ["Systems Analytics", "Sensors"]
             },
             "ComTech": {
               "weight": 1,
-              "specializations": ["Electronics Engineering"]
+              "specializations": ["Electronics Eng."]
             }
           },
-          "talents": ["salvager_talent_pool"],
+          "talents": ["salvager_talents"],
           "title": "Salvager",
           "promotion": {
             "title": "Senior Salvager"
@@ -496,7 +496,7 @@
               "specializations": ["Tactical Evasion"]
             }
           },
-          "talents": ["thug_talent_pool"],
+          "talents": ["thug_talents"],
           "title": "Thug",
           "promotion": {
             "title": "Enforcer"
@@ -518,7 +518,7 @@
               "specializations": ["Forgery"]
             }
           },
-          "talents": ["pickpocket_talent_pool"],
+          "talents": ["pickpocket_talents"],
           "title": "Pickpocket",
           "promotion": {
             "title": "Master Thief"
@@ -540,7 +540,7 @@
               "specializations": ["Dexterity"]
             }
           },
-          "talents": ["con_artist_talent_pool"],
+          "talents": ["con_artist_talents"],
           "title": "Con Artist",
           "promotion": {
             "title": "Master Con Artist"
@@ -555,20 +555,20 @@
         "Medic": {
           "description": "Offers first aid and emergency care in civilian settings.",
           "skills": {
-            "Survival": {
+            "Stamina": {
               "weight": 2,
               "specializations": ["First Aid"]
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Systems Analysis"]
+              "specializations": ["Systems Analytics"]
             },
             "Mobility": {
               "weight": 1,
               "specializations": ["Athletics"]
             }
           },
-          "talents": ["medic_talent_pool"],
+          "talents": ["medic_talents"],
           "title": "Medic",
           "promotion": {
             "title": "Senior Medic"
@@ -583,14 +583,14 @@
             },
             "ComTech": {
               "weight": 2,
-              "specializations": ["Computer Engineering"]
+              "specializations": ["Computer Eng."]
             },
             "Observation": {
               "weight": 1,
-              "specializations": ["Systems Analysis"]
+              "specializations": ["Systems Analytics"]
             }
           },
-          "talents": ["lab_assistant_talent_pool"],
+          "talents": ["lab_assistant_talents"],
           "title": "Lab Assistant",
           "promotion": {
             "title": "Senior Lab Assistant"
@@ -605,14 +605,14 @@
             },
             "ComTech": {
               "weight": 2,
-              "specializations": ["Computer Engineering"]
+              "specializations": ["Computer Eng."]
             },
             "Observation": {
               "weight": 1,
-              "specializations": ["Systems Analysis"]
+              "specializations": ["Systems Analytics"]
             }
           },
-          "talents": ["pharmacy_technician_talent_pool"],
+          "talents": ["pharmacy_technician_talents"],
           "title": "Pharmacy Technician",
           "promotion": {
             "title": "Senior Pharmacy Technician"
@@ -629,7 +629,7 @@
           "skills": {
             "ComTech": {
               "weight": 2,
-              "specializations": ["Computer Engineering"]
+              "specializations": ["Computer Eng."]
             },
             "Manipulation": {
               "weight": 2,
@@ -637,10 +637,10 @@
             },
             "Observation": {
               "weight": 1,
-              "specializations": ["Systems Analysis"]
+              "specializations": ["Systems Analytics"]
             }
           },
-          "talents": ["administrative_assistant_talent_pool"],
+          "talents": ["administrative_assistant_talents"],
           "title": "Administrative Assistant",
           "promotion": {
             "title": "Executive Assistant"
@@ -655,14 +655,14 @@
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Strategic Analysis"]
+              "specializations": ["Strategic Analytics"]
             },
             "Mobility": {
               "weight": 1,
               "specializations": ["Athletics"]
             }
           },
-          "talents": ["sales_representative_talent_pool"],
+          "talents": ["sales_representative_talents"],
           "title": "Sales Representative",
           "promotion": {
             "title": "Senior Sales Representative"
@@ -677,14 +677,14 @@
             },
             "ComTech": {
               "weight": 2,
-              "specializations": ["Computer Engineering"]
+              "specializations": ["Computer Eng."]
             },
             "Observation": {
               "weight": 1,
-              "specializations": ["Systems Analysis"]
+              "specializations": ["Systems Analytics"]
             }
           },
-          "talents": ["customer_support_talent_pool"],
+          "talents": ["customer_support_talents"],
           "title": "Customer Support Agent",
           "promotion": {
             "title": "Senior Support Agent"

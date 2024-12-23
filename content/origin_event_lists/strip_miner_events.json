@@ -1,0 +1,213 @@
+{
+    "early": [
+      {
+        "description": "Born in the shadow of towering extraction rigs, you learned to walk on unstable ground and breathe air thick with metallic dust.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "At age six, you survived a tunnel collapse that claimed the lives of several workers, instilling in you a profound respect for the dangers beneath the surface.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You found an unusual mineral while sifting through debris, sparking a curiosity about the planet's hidden secrets.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "Forced to work long hours in the mines alongside your parents, you developed physical strength beyond your years.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "A mysterious illness swept through the colony due to toxic exposure; you recovered, but many didn't, leaving you with survivor's guilt.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You witnessed corporate enforcers brutally suppress a workers' protest, fueling your distrust of authority.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "An elder taught you old mining songs and stories, instilling a sense of heritage and community responsibility.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You saved a younger child from falling into an open pit, earning the gratitude of your fellow miners.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "A cave-in trapped you and a friend for days; your ability to stay calm and conserve resources kept you both alive.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You discovered a hidden vein of valuable ore but chose to keep it secret to prevent corporate exploitation.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "Your family was relocated without warning to a more hazardous mining site, teaching you about the harsh realities of corporate decisions.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "An accident left you with a prosthetic limb, enhancing your physical capabilities but marking you as different.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "You formed a bond with a mining droid, learning to repair and modify it, sparking an interest in machinery.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "Exposure to a rare mineral caused you hallucinations or visions, leaving you questioning reality.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You stood up to a bully who was hoarding supplies, asserting yourself and protecting others.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "A close friend disappeared after speaking out against the corporation, instilling fear but also a desire for justice.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You secretly taught yourself to read using discarded manuals, opening your mind to new possibilities.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You led a team to extract resources from a dangerously unstable area, successfully completing the mission against the odds.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "Discovering that the corporation was underreporting safety hazards, you faced a moral choice between exposing the truth or protecting yourself.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "An equipment malfunction nearly cost you your life; you decided to learn maintenance skills to prevent future incidents.",
+        "attributes": { "STR": 1}
+      },
+      {
+        "description": "You organized a covert network to share resources and information among miners, strengthening community bonds.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "A confrontation with corporate security over working conditions resulted in your temporary imprisonment.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You discovered an ancient artifact deep within the mines, leading to dangerous interest from the corporation.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A close colleague was killed in a preventable accident, intensifying your resolve to improve safety standards.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You developed a method to increase extraction efficiency, but the corporation took credit for your work.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "An outbreak of a rare disease among miners prompted you to take on a leadership role in managing the crisis.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You were forced to choose between rescuing trapped miners or securing valuable resources during a disaster.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "A secret meeting with an underground resistance group opened your eyes to broader struggles against corporate tyranny.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You began experiencing nightmares connected to the mines, causing you to question your own sanity.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You saved a corporate official during an attack, earning a favor that could be cashed in later.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "Your actions prevented a catastrophic mine collapse, but the corporation covered up the incident.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You developed a dependence on stimulants to cope with the grueling work, leading to personal struggles.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "An encounter with a subterranean creature left you with physical scars and a reputation for bravery.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You found evidence of the corporation's illegal activities, putting you in a dangerous position.",
+        "attributes": { "WIS": 1 }
+      }
+    ],
+    "late": [
+      {
+        "description": "Promoted to a supervisory role, you struggled with the balance between supporting your fellow miners and enforcing corporate policies.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You led a rebellion against the corporation, aiming to take control of the mining operations.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "A catastrophic event wiped out your colony, leaving you as one of the few survivors with knowledge of what truly happened.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You negotiated with rival factions for control over resource-rich territories, showcasing your strategic thinking.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "An opportunity to leave the mining life presented itself, forcing you to choose between personal freedom and solidarity with your peers.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You discovered a new element with potential for great power, attracting dangerous attention.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A betrayal by someone you trusted led to severe consequences for your community, fueling a desire for retribution.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You became the face of a movement seeking to overhaul the corrupt system, placing you in the corporation's crosshairs.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "An alliance with an off-world entity offered new resources but came with unforeseen costs.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You suffered from a degenerative condition due to prolonged exposure to toxic materials, pushing you to find a cure.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "Leading an expedition into uncharted mines, you encountered inexplicable phenomena that challenged your understanding of reality.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "You were offered a high-ranking position within the corporation in exchange for your loyalty, testing your principles.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "A vision or prophecy revealed to you suggested a greater destiny, influencing your decisions.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You mentored younger miners, imparting wisdom and preparing them for the harsh realities ahead.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "An internal power struggle threatened to tear apart your community; you stepped in to mediate.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You orchestrated a mass exodus from the mining colony, seeking a new life beyond corporate control.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "Facing an existential threat from an unknown force, you united rival groups to defend your home.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      }
+    ]
+  }
+  

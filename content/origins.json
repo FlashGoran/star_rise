@@ -8,78 +8,43 @@
             "weight": 80,
             "description": "You grew up on a world still being made habitable, learning to survive in a harsh and often toxic environment.",
             "event_key": "terraforming_colonist_events",
-            "attribute_weighting": {
-              "STR": 3,
-              "AGI": 2,
-              "INT": 2,
-              "WIS": 3
-            }
+            "key_attribute": "STR"
           },
           "Resistance Operative": {
             "weight": 30,
             "description": "Your colony was politically unstable, and you grew up siding with rebel factions fighting against corrupt leadership.",
             "event_key": "resistance_operative_events",
-            "attribute_weighting": {
-              "STR": 1,
-              "AGI": 4,
-              "INT": 3,
-              "WIS": 2
-            }
+            "key_attribute": "AGI"
           },
           "Indentured Worker": {
             "weight": 60,
             "description": "Your family was constantly on the move, settling temporary camps and living off the land, avoiding conflicts and danger.",
             "event_key": "indentured_worker_events",
-            "attribute_weighting": {
-              "STR": 4,
-              "AGI": 2,
-              "INT": 1,
-              "WIS": 3
-            }
+            "key_attribute": ""
           },
           "Frontier Enforcer": {
             "weight": 30,
-            "description": "You were raised in a militarized colony where defending the frontier against raiders, xeno threats, and environmental dangers was your daily reality.",
+            "description": "You were raised in a militarized colony where defending the frontier against raiders, and environmental dangers was your daily reality.",
             "event_key": "frontier_enforcer_events",
-            "attribute_weighting": {
-              "STR": 4,
-              "AGI": 3,
-              "INT": 2,
-              "WIS": 1
-            }
+            "key_attribute": "STR"
           },
           "Strip Miner": {
             "weight": 50,
             "description": "Your colony was established to exploit natural resources, and you spent your early life in harsh environments extracting minerals, energy, and rare materials.",
             "event_key": "strip_miner_events",
-            "attribute_weighting": {
-              "STR": 4,
-              "AGI": 1,
-              "INT": 2,
-              "WIS": 3
-            }
+            "key_attribute": "STR"
           },
           "Pirate Apprentice": {
             "weight": 15,
             "description": "Your colony was known for harboring pirates, and you grew up learning the ropes of smuggling, raiding, and avoiding the law.",
             "event_key": "pirate_apprentice_events",
-            "attribute_weighting": {
-              "STR": 3,
-              "AGI": 4,
-              "INT": 1,
-              "WIS": 2
-            }
+            "key_attribute": "AGI"
           },
           "Smuggler Kin": {
             "weight": 35,
             "description": "Raised by a smuggler family, you learned how to navigate the black market, move contraband, and evade authorities.",
             "event_key": "smuggler_kin_events",
-            "attribute_weighting": {
-              "STR": 2,
-              "AGI": 4,
-              "INT": 3,
-              "WIS": 1
-            }
+            "key_attribute": "WIS"
           }
         }
       },
@@ -91,56 +56,31 @@
             "weight": 15,
             "description": "You come from a family of military officers, groomed from a young age to follow in their footsteps as a leader in the armed forces.",
             "event_key": "officer_legacy_events",
-            "attribute_weighting": {
-              "STR": 2,
-              "AGI": 3,
-              "INT": 4,
-              "WIS": 1
-            }
+            "key_attribute": "INT"
           },
           "Conflict Zone Survivor": {
             "weight": 40,
             "description": "You grew up in a conflict zone, where surviving and learning to fight were a necessity rather than a choice.",
             "event_key": "conflict_zone_survivor_events",
-            "attribute_weighting": {
-              "STR": 3,
-              "AGI": 4,
-              "INT": 1,
-              "WIS": 2
-            }
+            "key_attribute": "AGI"
           },
           "Cadet Recruit": {
             "weight": 75,
             "description": "You enlisted as a military cadet from a young age, seeking to escape your harsh upbringing through service.",
             "event_key": "cadet_recruit_events",
-            "attribute_weighting": {
-              "STR": 2,
-              "AGI": 3,
-              "INT": 3,
-              "WIS": 2
-            }
+            "key_attribute": "STR"
           },
           "Revolutionary Youth": {
             "weight": 3,
             "description": "You were involved in resistance movements from a young age, learning sabotage, covert operations, and guerilla tactics.",
             "event_key": "revolutionary_youth_events",
-            "attribute_weighting": {
-              "STR": 1,
-              "AGI": 4,
-              "INT": 3,
-              "WIS": 2
-            }
+            "key_attribute": "WIS"
           },
           "Garrison Bred": {
             "weight": 3,
             "description": "Raised on a military base or within a militarized zone, you lived a disciplined, structured life surrounded by soldiers and war machines.",
             "event_key": "garrison_bred_events",
-            "attribute_weighting": {
-              "STR": 3,
-              "AGI": 2,
-              "INT": 4,
-              "WIS": 1
-            }
+            "key_attribute": "STR"
           }
         }
       },
@@ -152,78 +92,43 @@
             "weight": 25,
             "description": "You were trained to manage and control colonies on behalf of the corporation, maintaining order and profitability.",
             "event_key": "colonial_overseer_trainee_events",
-            "attribute_weighting": {
-              "STR": 2,
-              "AGI": 3,
-              "INT": 4,
-              "WIS": 1
-            }
+            "key_attribute": "INT"
           },
           "Corporate Enforcer Trainee": {
             "weight": 45,
             "description": "You were trained to use force and security measures to protect corporate assets and enforce corporate interests.",
             "event_key": "corporate_enforcer_trainee_events",
-            "attribute_weighting": {
-              "STR": 4,
-              "AGI": 3,
-              "INT": 2,
-              "WIS": 1
-            }
+            "key_attribute": "STR"
           },
           "Test Subject": {
             "weight": 5,
             "description": "You were part of corporate experiments, often without full consent, and now possess unique skills or conditions.",
             "event_key": "test_subject_events",
-            "attribute_weighting": {
-              "STR": 2,
-              "AGI": 4,
-              "INT": 3,
-              "WIS": 1
-            }
+            "key_attribute": "AGI"
           },
           "Corporate Strategist Trainee": {
             "weight": 30,
             "description": "You were deeply immersed in corporate philosophy and trained to carry out its will across different sectors.",
             "event_key": "corporate_strategist_trainee_events",
-            "attribute_weighting": {
-              "STR": 1,
-              "AGI": 2,
-              "INT": 4,
-              "WIS": 3
-            }
+            "key_attribute": "INT"
           },
           "Corporate Analyst Trainee": {
             "weight": 50,
             "description": "Trained to analyze data and market trends, you guided corporate strategies with your insights.",
             "event_key": "corporate_analyst_trainee_events",
-            "attribute_weighting": {
-              "STR": 1,
-              "AGI": 2,
-              "INT": 4,
-              "WIS": 3
-            }
+            "key_attribute": "INT"
           },
           "Corporate Logistics Trainee": {
             "weight": 70,
             "description": "Responsible for managing supply chains and resource distribution, you ensured operational efficiency within the corporation.",
             "event_key": "corporate_logistics_trainee_events",
-            "attribute_weighting": {
-              "STR": 1,
-              "AGI": 3,
-              "INT": 3,
-              "WIS": 3
-            }
+            "key_attribute": "WIS"
           },
           "Corporate Operative Trainee": {
             "weight": 50,
             "description": "You were trained to oversee corporate operations, ensuring projects run smoothly and loyalties remain strong.",
             "event_key": "corporate_operative_trainee_events",
-            "attribute_weighting": {
-              "STR": 2,
-              "AGI": 4,
-              "INT": 3,
-              "WIS": 1
-            }
+            "key_attribute": "AGI"
           }
         }
       },
@@ -235,56 +140,31 @@
             "weight": 50,
             "description": "You grew up working with your hands, fixing and maintaining spacecraft and orbital infrastructure.",
             "event_key": "orbital_mechanic_events",
-            "attribute_weighting": {
-              "STR": 3,
-              "AGI": 2,
-              "INT": 4,
-              "WIS": 1
-            }
+            "key_attribute": "STR"
           },
           "Spacer child": {
             "weight": 60,
             "description": "You were born aboard a spacecraft and lived your entire life among the stars, traveling between far-flung systems.",
             "event_key": "spacer_child_events",
-            "attribute_weighting": {
-              "STR": 3,
-              "AGI": 4,
-              "INT": 2,
-              "WIS": 1
-            }
+            "key_attribute": "WIS"
           },
           "Asteroid Miner Kid": {
             "weight": 40,
             "description": "You were raised on the rough edges of asteroid colonies, where your family mined resources and dealt with extreme conditions.",
             "event_key": "asteroid_miner_kid_events",
-            "attribute_weighting": {
-              "STR": 4,
-              "AGI": 2,
-              "INT": 3,
-              "WIS": 1
-            }
+            "key_attribute": "STR"
           },
           "Shipboard Technician": {
             "weight": 35,
             "description": "You spent your formative years as part of a ship's crew, learning to keep its systems running smoothly and efficiently.",
             "event_key": "shipboard_technician_events",
-            "attribute_weighting": {
-              "STR": 2,
-              "AGI": 4,
-              "INT": 3,
-              "WIS": 1
-            }
+            "key_attribute": "INT"
           },
           "Void Serf": {
             "weight": 75,
             "description": "As a Void Serf, you and your family were tied to the endless corporate-driven cycles of space labor, drifting between mining stations, spaceports, and industrial starships.",
             "event_key": "void_serf_events",
-            "attribute_weighting": {
-              "STR": 4,
-              "AGI": 2,
-              "INT": 1,
-              "WIS": 3
-            }
+            "key_attribute": "STR"
           }
         }
       },
@@ -296,45 +176,25 @@
             "weight": 40,
             "description": "You grew up in the industrial slums of a corporate colony, scavenging and surviving where law and order rarely exist.",
             "event_key": "urban_scavenger_events",
-            "attribute_weighting": {
-              "STR": 2,
-              "AGI": 4,
-              "INT": 3,
-              "WIS": 1
-            }
+            "key_attribute": "WIS"
           },
           "Gang Affiliate": {
             "weight": 35,
             "description": "You grew up connected to or part of an urban gang in the colony, surviving and thriving through violence, loyalty, and territorial control.",
             "event_key": "gang_affiliate_events",
-            "attribute_weighting": {
-              "STR": 3,
-              "AGI": 4,
-              "INT": 2,
-              "WIS": 1
-            }
+            "key_attribute": "STR"
           },
           "Corporate Drone": {
             "weight": 60,
             "description": "You were raised in a stable corporate job environment, where hard work and loyalty were rewarded with a paycheck and a place in the system.",
             "event_key": "corporate_drone_events",
-            "attribute_weighting": {
-              "STR": 1,
-              "AGI": 2,
-              "INT": 4,
-              "WIS": 3
-            }
+            "key_attribute": "INT"
           },
           "Security Personnel": {
             "weight": 40,
             "description": "You were hired muscle or part of the colony security force, ensuring corporate interests were protected in the rough environments of the colony.",
             "event_key": "security_personnel_events",
-            "attribute_weighting": {
-              "STR": 4,
-              "AGI": 3,
-              "INT": 2,
-              "WIS": 1
-            }
+            "key_attribute": "STR"
           }
         }
       },
@@ -346,89 +206,49 @@
             "weight": 75,
             "description": "You survived a large-scale war between rival nations or corporations, living through bombings, raids, and relentless fighting.",
             "event_key": "warzone_survivor_events",
-            "attribute_weighting": {
-              "STR": 3,
-              "AGI": 4,
-              "INT": 2,
-              "WIS": 1
-            }
+            "key_attribute": "AGI"
           },
           "Pandemic Survivor": {
             "weight": 30,
             "description": "You lived through a widespread and deadly pandemic, learning to survive amidst the collapse of healthcare and society.",
             "event_key": "pandemic_survivor_events",
-            "attribute_weighting": {
-              "STR": 2,
-              "AGI": 3,
-              "INT": 4,
-              "WIS": 1
-            }
+            "key_attribute": "STR"
           },
           "Environmental Collapse Refugee": {
             "weight": 60,
             "description": "You escaped the destruction of your home planet or colony due to environmental disaster, learning to adapt in the most hostile environments.",
             "event_key": "environmental_collapse_refugee_events",
-            "attribute_weighting": {
-              "STR": 4,
-              "AGI": 1,
-              "INT": 3,
-              "WIS": 2
-            }
+            "key_attribute": "STR"
           },
           "Civil War Refugee": {
             "weight": 30,
             "description": "You fled from a nation or colony ripped apart by civil war, relying on your instincts and cunning to survive.",
             "event_key": "civil_war_refugee_events",
-            "attribute_weighting": {
-              "STR": 2,
-              "AGI": 4,
-              "INT": 1,
-              "WIS": 3
-            }
+            "key_attribute": "WIS"
           },
           "Rogue AI Rebellion Survivor": {
             "weight": 10,
             "description": "You lived through an uprising led by rogue AI systems.",
             "event_key": "ai_rebellion_survivor_events",
-            "attribute_weighting": {
-              "STR": 1,
-              "AGI": 4,
-              "INT": 2,
-              "WIS": 3
-            }
+            "key_attribute": "INT"
           },
           "Colony Quarantine Survivor": {
             "weight": 20,
             "description": "You survived a dangerous biohazard or outbreak that led to your colony being quarantined, forcing you to live in isolation.",
             "event_key": "colony_quarantine_survivor_events",
-            "attribute_weighting": {
-              "STR": 2,
-              "AGI": 3,
-              "INT": 4,
-              "WIS": 1
-            }
+            "key_attribute": "WIS"
           },
           "Space Station Disaster Survivor": {
             "weight": 20,
             "description": "You were one of the few survivors of a catastrophic event on a space station, such as a reactor failure or collision.",
             "event_key": "space_station_disaster_survivor_events",
-            "attribute_weighting": {
-              "STR": 3,
-              "AGI": 2,
-              "INT": 4,
-              "WIS": 1
-            }
+            "key_attribute": "INT"
           },
           "Xeno Encounter Survivor": {
             "weight": 1,
             "description": "You survived a deadly encounter with alien species or bio-engineered organisms, leaving you scarred but alive.",
             "event_key": "xeno_encounter_survivor_events",
-            "attribute_weighting": {
-              "STR": 4,
-              "AGI": 2,
-              "INT": 3,
-              "WIS": 1
-            }
+            "key_attribute": "AGI"
           }
         }
       },
@@ -440,12 +260,7 @@
               "weight": 0,
               "description": "tbd",
               "event_key": "mining_android_events",
-              "attribute_weighting": {
-                  "STR": 4,
-                  "AGI": 2,
-                  "INT": 3,
-                  "WIS": 1
-                  }
+              "key_attribute": "INT"
               }
           }
       },
@@ -457,34 +272,19 @@
               "weight": 50,
               "description": "Raised on the edge of civilization, Planetary Scouts are the first to survey unknown worlds, braving hostile environments and alien life. They are trained in reconnaissance, wilderness survival, and basic prospecting.",
               "event_key": "planetary_scout_hatchling_events",
-              "attribute_weighting": {
-                  "STR": 1,
-                  "AGI": 4,
-                  "INT": 2,
-                  "WIS": 3
-                  }
+              "key_attribute": "AGI"
               },
               "Sleeper Colony Offspring": {
                   "weight": 40,
                   "description": "You were born to a family of colonists traveling to a distant star system in cryosleep. Your early life has been marked by acclimation to an unfamiliar, perhaps hostile world far from any established colony.",
                   "event_key": "sleeper_colony_offspring_events",
-                  "attribute_weighting": {
-                      "STR": 1,
-                      "AGI": 3,
-                      "INT": 2,
-                      "WIS": 4
-                      }
+                  "key_attribute": "WIS"
                   },
               "Planetary Surveyor": {
                   "weight": 50,
                   "description": "Born into an expeditionary crew, specializing in detailed planetary surveys after initial scouting missions, these individuals assess the potential for habitation, resource extraction, and long-term viability. Their life has been spent navigating and analyzing some of the most alien and hostile environments in the galaxy.",
                   "event_key": "planetary_surveyor_events",
-                  "attribute_weighting": {
-                      "STR": 2,
-                      "AGI": 3,
-                      "INT": 4,
-                      "WIS": 1
-                  }
+                  "key_attribute": "INT"
               }
           }
       },
@@ -492,22 +292,10 @@
           "weight": 0,
           "description": "You survived a major catastrophe that drastically shaped your outlook on life and your ability to endure hardship.",
           "subclasses": {
-              "Warzone Survivor": {
-              "weight": 5,
+              "Sect Member": {
+              "weight": 50,
               "description": "You survived a large-scale war between rival nations or corporations, living through bombings, raids, and relentless fighting.",
-              "event_key": "warzone_survivor_events",
-              "bonuses": {
-                  "higher_ed_bonus": {
-                      "Military Academy": 30,
-                      "Technical School": 10
-                  },
-                  "career_bonus": {
-                      "Marine Corps": 40,
-                      "Pilot": 10,
-                      "Engineer": 5,
-                      "Intelligence Operative": 10
-                  }
-              }
+              "event_key": "warzone_survivor_events"
               }
           }
       }

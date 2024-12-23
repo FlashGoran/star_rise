@@ -1,100 +1,162 @@
 {
   "higher_education": {
     "Military Academy": {
-      "description": "Training students for tactical leadership and operational roles in starship combat and security environments.",
+      "description": "Training students for tactical leadership, operational command, and combat readiness in planetary and starship environments.",
       "event_list": "military_academy_events",
       "subclasses": {
-        "Shipboard Tactical Training": {
-          "description": "Training in shipboard combat tactics, security operations, and leadership skills aboard starships.",
+        "Shock Trooper Initiate": {
+          "description": "Specialized in high-risk planetary assault and intense combat under extreme conditions.",
+          "main_attr": "str",
           "skills": {
-            "Command": {
+            "Close Combat": {
+              "weight": 2,
+              "specializations": ["Edge", "Blunt", "Explosives"]
+            },
+            "Stamina": {
               "weight": 3,
-              "specializations": ["Tactical Operations", "Leadership", "Crisis Management"]
+              "specializations": ["Infiltration", "Radiation Resistance", "Thermal Resistance"]
+            },
+            "Mobility": {
+              "weight": 2,
+              "specializations": ["Athletics", "Zero-G Movement", "Stealth Movement"]
             },
             "Ranged Combat": {
               "weight": 3,
-              "specializations": ["Energy Weapons", "Automatic Weapons", "Precision Weapons"]
-            },
-            "Observation": {
-              "weight": 2,
-              "specializations": ["Tactical Analysis", "Surveillance", "Sensor Specialist"]
-            },
-            "Mobility": {
-              "weight": 1,
-              "specializations": ["Athletics", "Dexterity", "Zero-G Movement"]
+              "specializations": ["Automatic Weapons", "Energy Weapons", "CQB Weapons"]
             }
           },
-          "talents": ["shipboard_tactical_talent_pool"],
+          "talents": ["shock_trooper_initiate_talents"],
           "debt_value": 1,
-          "title": "Security Officer",
+          "title": "Shock Trooper",
           "master": {
-            "title": "Chief Security Officer",
-            "debt_value": 1
+            "title": "Special Operations Commander",
+            "debt_value": 2
           }
         },
-        "Special Operations Training": {
-          "description": "Special forces training emphasizing stealth, close combat, and high-risk missions aboard ships and space stations.",
+        "Tactical Recon Trainee": {
+          "description": "Trained for stealth operations, intelligence gathering, and covert missions behind enemy lines.",
+          "main_attr": "agi",
           "skills": {
-            "Close Combat": {
-              "weight": 3,
-              "specializations": ["Edge", "Blunt", "Special"]
-            },
             "Mobility": {
-              "weight": 2,
+              "weight": 3,
               "specializations": ["Stealth Movement", "Athletics", "Zero-G Movement"]
             },
-            "Stamina": {
-              "weight": 2,
-              "specializations": ["Tactical Evasion", "Radiation Res.", "Psychological Res."]
-            },
             "Observation": {
+              "weight": 3,
+              "specializations": ["Surveillance", "Tactical Analytics", "Sensors"]
+            },
+            "Ranged Combat": {
+              "weight": 2,
+              "specializations": ["CQB Weapons", "Precision Weapons", "Energy Weapons"]
+            },
+            "Stamina": {
               "weight": 1,
-              "specializations": ["Surveillance", "Tactical Analysis"]
+              "specializations": ["Survival", "First Aid", "Hazardous Environments", "Extreme Env."]
             }
           },
-          "talents": ["special_ops_talent_pool"],
+          "talents": ["tactical_recon_trainee_talents"],
           "debt_value": 1,
-          "title": "Special Ops Trainee",
+          "title": "Recon Specialist",
           "master": {
-            "title": "Special Operations Specialist",
-            "debt_value": 1
+            "title": "Recon Commander",
+            "debt_value": 2
           }
         },
-        "Command Training": {
-          "description": "Focuses on leadership, ship command, and decision-making in space operations.",
+        "Orbital Drop Specialist": {
+          "description": "Trained for high-altitude orbital insertions and combat readiness upon landing in hostile zones.",
+          "main_attr": "str",
           "skills": {
-            "Command": {
-              "weight": 3,
-              "specializations": ["Leadership", "Strategic Planning", "Crisis Management"]
+            "Mobility": {
+              "weight": 2,
+              "specializations": ["Zero-G Movement", "Athletics", "Dexterity"]
+            },
+            "Stamina": {
+              "weight": 1,
+              "specializations": ["Infiltration", "Dehydration Training", "Thermal Resistance"]
+            },
+            "Ranged Combat": {
+              "weight": 2,
+              "specializations": ["Automatic Weapons", "Energy Weapons", "CQB Weapons"]
             },
             "Piloting": {
-              "weight": 2,
-              "specializations": ["Space", "Navigation"]
+              "weight": 3,
+              "specializations": ["Navigation", "Remote Control", "Space"]
+            }
+          },
+          "talents": ["orbital_drop_specialist_talents"],
+          "debt_value": 1,
+          "title": "Drop Specialist",
+          "master": {
+            "title": "Orbital Assault Commander",
+            "debt_value": 2
+          }
+        },
+        "Cyberwarfare Operative": {
+          "description": "Trained in digital warfare, hacking, and defending critical systems in hostile cyber environments.",
+          "main_attr": "int",
+          "skills": {
+            "ComTech": {
+              "weight": 3,
+              "specializations": ["Signal Intelligence", "Robotics", "Computer Eng."]
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Strategic Analysis", "Tactical Analysis"]
+              "specializations": ["Systems Analytics", "Tactical Analytics", "Sensors"]
+            },
+            "Manipulation": {
+              "weight": 2,
+              "specializations": ["Social Engineering", "PsyOps", "Interrogation"]
             },
             "Science": {
               "weight": 1,
-              "specializations": ["Astrogation", "Physics"]
+              "specializations": ["Electronics Eng.", "AI Tech", "Advanced Engineering"]
             }
           },
-          "talents": ["command_talent_pool"],
+          "talents": ["cyberwarfare_operative_talents"],
           "debt_value": 1,
-          "title": "Command Cadet",
+          "title": "Cyberwarfare Specialist",
           "master": {
-            "title": "Ship Captain",
-            "debt_value": 1
+            "title": "Cyber Defense Commander",
+            "debt_value": 2
+          }
+        },
+        "Combat Medic": {
+          "description": "Specialized in combat medicine and stabilization of injured personnel under fire.",
+          "main_attr": "wis",
+          "skills": {
+            "Stamina": {
+              "weight": 3,
+              "specializations": ["First Aid", "Psychological Res.", "Hazardous Environments", "Extreme Env."]
+            },
+            "Ranged Combat": {
+              "weight": 2,
+              "specializations": ["Automatic Weapons", "Energy Weapons", "CQB Weapons"]
+            },
+            "Observation": {
+              "weight": 2,
+              "specializations": ["Forensics", "Systems Analytics", "Sensors"]
+            },
+            "Science": {
+              "weight": 2,
+              "specializations": ["Medical Science", "Biology", "Chemistry"]
+            }
+          },
+          "talents": ["combat_medic_talents"],
+          "debt_value": 1,
+          "title": "Field Medic",
+          "master": {
+            "title": "Medical Commander",
+            "debt_value": 2
           }
         }
       }
     },
-    "Corporate Training": {
+    "Corporate Compliance Academy": {
       "description": "Training for roles within corporate-controlled environments, focusing on operations aboard corporate vessels.",
       "subclasses": {
         "Corporate Operations": {
           "description": "Focuses on managing corporate assets and operations aboard starships, ensuring profitability and efficiency.",
+          "main_attr": "int",
           "skills": {
             "Command": {
               "weight": 3,
@@ -104,25 +166,20 @@
               "weight": 3,
               "specializations": ["Negotiator", "Social Engineering", "Public Relations"]
             },
-            "ComTech": {
-              "weight": 2,
-              "specializations": ["Signal Intelligence", "Computer Engineering", "Electronics Engineering"]
-            },
-            "Observation": {
+            "Science": {
               "weight": 1,
-              "specializations": ["Systems Analysis", "Strategic Analysis", "Surveillance"]
+              "specializations": ["Economics", "Psycology", "Linguistics"]
             }
           },
-          "talents": ["corporate_operations_talent_pool"],
-          "debt_value": 1,
+          "talents": ["corporate_operations_talents"],
           "title": "Operations Officer",
           "master": {
-            "title": "Corporate Liaison",
-            "debt_value": 2
+            "title": "Corporate Liaison"
           }
         },
         "Corporate Security Training": {
           "description": "Trains corporate security personnel to protect assets aboard ships and prevent sabotage or theft.",
+          "main_attr": "str",
           "skills": {
             "Ranged Combat": {
               "weight": 3,
@@ -134,47 +191,40 @@
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Surveillance", "Tactical Analysis", "Sensor Specialist"]
+              "specializations": ["Surveillance", "Tactical Analytics", "Sensors"]
             },
             "Mobility": {
               "weight": 1,
               "specializations": ["Athletics", "Stealth Movement", "Zero-G Movement"]
             }
           },
-          "talents": ["corporate_security_talent_pool"],
-          "debt_value": 1,
+          "talents": ["corporate_security_talents"],
           "title": "Security Officer",
           "master": {
-            "title": "Chief Security Officer",
-            "debt_value": 2
+            "title": "Chief Security Officer"
           }
         },
         "Corporate Intelligence": {
           "description": "Training in intelligence gathering and covert operations in corporate environments.",
+          "main_attr": "int",
           "skills": {
-            "Observation": {
-              "weight": 3,
-              "specializations": ["Signal Intelligence", "Surveillance", "Systems Analysis"]
-            },
             "Manipulation": {
-              "weight": 2,
-              "specializations": ["Social Engineering", "Forgery", "Negotiator"]
+              "weight": 3,
+              "specializations": ["Social Engineering", "Forgery", "Negotiator", "PsyOps"]
             },
             "ComTech": {
               "weight": 2,
-              "specializations": ["Computer Engineering", "AI Tech", "Signal Intelligence"]
+              "specializations": ["Blunt", "Edge", "Explosives"]
             },
             "Mobility": {
               "weight": 1,
               "specializations": ["Stealth Movement", "Dexterity", "Zero-G Movement"]
             }
           },
-          "talents": ["corporate_intelligence_talent_pool"],
-          "debt_value": 1,
+          "talents": ["corporate_intelligence_talents"],
           "title": "Intelligence Officer",
           "master": {
-            "title": "Senior Intelligence Officer",
-            "debt_value": 2
+            "title": "Senior Intelligence Officer"
           }
         }
       }
@@ -182,75 +232,128 @@
     "Technical Institute": {
       "description": "Training engineers and specialists in ship maintenance, mechanical, and electronic systems.",
       "subclasses": {
-        "Mechanical Engineering": {
-          "description": "Training in maintaining and repairing mechanical systems aboard starships.",
+        "Power Systems Specialist": {
+          "description": "Specializes in maintaining and optimizing propulsion systems, reactors, and energy distribution aboard starships.",
+          "main_attr": "Str",
           "skills": {
             "Heavy Machinery": {
               "weight": 3,
-              "specializations": ["Starship Eng.", "Power Sys.", "Environmental Sys."]
+              "specializations": ["Propulsion", "Structural Eng.", "Power Sys."]
             },
-            "ComTech": {
+            "Stamina": {
               "weight": 2,
-              "specializations": ["Electronics Engineering", "Robotics", "Computer Engineering"]
+              "specializations": ["Hazardous Env.", "Extreme Env."]
             },
-            "Observation": {
-              "weight": 2,
-              "specializations": ["Systems Analysis", "Sensor Specialist"]
+            "Mobility": {
+              "weight": 1,
+              "specializations": ["Zero-G Movement", "Dexterity"]
             }
           },
-          "talents": ["mechanical_engineering_talent_pool"],
+          "talents": ["Power_systems_talents"],
           "debt_value": 1,
-          "title": "Mechanical Engineer",
+          "title": "Power Systems Specialist",
           "master": {
-            "title": "Chief Engineer",
+            "title": "Senior Power Systems Engineer",
             "debt_value": 2
           }
         },
-        "Electronic Engineering": {
-          "description": "Focuses on electronic systems, sensors, and communications aboard starships.",
+        "Life Support Specialist": {
+          "description": "Manages life support systems critical to survival, including oxygen recyclers, atmospheric processors, and climate control.",
+          "main_attr": "wis",
           "skills": {
-            "ComTech": {
-              "weight": 3,
-              "specializations": ["Electronics Engineering", "Signal Intelligence", "Computer Engineering"]
-            },
-            "Observation": {
-              "weight": 2,
-              "specializations": ["Sensor Specialist", "Systems Analysis"]
-            },
             "Heavy Machinery": {
-              "weight": 2,
-              "specializations": ["Power Sys.", "Weapon Sys.", "FTL Drive"]
-            }
-          },
-          "talents": ["electronic_engineering_talent_pool"],
-          "debt_value": 1,
-          "title": "Electronics Engineer",
-          "master": {
-            "title": "Chief Electronics Engineer",
-            "debt_value": 2
-          }
-        },
-        "AI Systems Engineering": {
-          "description": "Specializes in the maintenance and programming of AI systems aboard starships.",
-          "skills": {
-            "ComTech": {
               "weight": 3,
-              "specializations": ["AI Tech", "Robotics", "Computer Engineering"]
+              "specializations": ["Environmental Sys.", "Power Sys."]
             },
             "Science": {
               "weight": 2,
-              "specializations": ["Cybernetics", "Advanced Engineering"]
+              "specializations": ["Environmental Science", "Biology", "Advanced Engineering"]
             },
-            "Observation": {
-              "weight": 2,
-              "specializations": ["Systems Analysis", "Sensor Specialist"]
+            "Stamina": {
+              "weight": 1,
+              "specializations": ["Extreme Env.", "Hazardous Env."]
             }
           },
-          "talents": ["ai_talent_pool"],
+          "talents": ["life_support_talents"],
           "debt_value": 1,
-          "title": "AI Systems Engineer",
+          "title": "Life Support Technician",
           "master": {
-            "title": "Chief AI Specialist",
+            "title": "Chief Environmental Officer",
+            "debt_value": 2
+          }
+        },
+        "Weapons Systems Specialist": {
+          "description": "Maintains and operates ship weaponry, including turrets, missile systems, and targeting arrays.",
+          "main_attr": "str",
+          "skills": {
+            "Heavy Machinery": {
+              "weight": 3,
+              "specializations": ["Weapon Sys.", "Power Sys.", "Structural Eng."]
+            },
+            "Ranged Combat": {
+              "weight": 2,
+              "specializations": ["Automatic Weapons", "Precision Weapons", "High-Tech Armament"]
+            },
+            "ComTech": {
+              "weight": 1,
+              "specializations": ["Computer Eng.", "Electronics Eng."]
+            }
+          },
+          "talents": ["weapon_systems_talents"],
+          "debt_value": 1,
+          "title": "Weapons Specialist",
+          "master": {
+            "title": "Chief Weapons Officer",
+            "debt_value": 2
+          }
+        },
+        "Cybernetic Systems Engineer": {
+          "description": "Specializes in the integration, maintenance, and enhancement of cybernetic systems, including crew augmentations and AI-linked ship interfaces.",
+          "main_attr": "Int",
+          "skills": {
+            "ComTech": {
+              "weight": 2,
+              "specializations": ["Electronics Eng.", "Robotics", "Computer Eng."]
+            },
+            "Science": {
+              "weight": 3,
+              "specializations": ["Cybernetics", "Biology", "Medical Science"]
+            },
+            "Observation": {
+              "weight": 1,
+              "specializations": ["Systems Analytics", "Forensics"]
+            }
+          },
+          "talents": ["cybernetic_engineer_talents"],
+          "debt_value": 1,
+          "title": "Cybernetic Engineer",
+          "master": {
+            "title": "Cybernetic Engineering Specialist",
+            "debt_value": 2
+          }
+        },
+        "AI Technician": {
+          "description": "Specializes in the maintenance and troubleshooting of shipboard artificial intelligence systems, ensuring seamless AI integration with crew operations.",
+          "main_attr": "Int",
+          "skills": {
+            "ComTech": {
+              "weight": 3,
+              "specializations": ["AI Tech", "Robotics", "Computer Engineering", "Electronics Eng."]
+            },
+            "Science": {
+              "weight": 2,
+              "specializations": ["Nanotechnology", "Physics"]
+            },
+            "Observation": {
+              "weight": 1,
+              "specializations": ["Systems Analytics", "Sensors"]
+            }
+          },
+          "talents": ["ai_talents"],
+          "debt_value": 1,
+          "title": "AI Specialist",
+          "master": {
+            "title": "Chief AI Engineer",
             "debt_value": 2
           }
         }
@@ -260,27 +363,53 @@
       "description": "Training for navigation, piloting, and ship operations.",
       "event_list": "space_academy_events",
       "subclasses": {
-        "Piloting Training": {
-          "description": "Training for piloting starships and navigating through space.",
+        "Fleet Officer Cadet": {
+          "description": "Training in fleet command, starship operations, and advanced tactical/strategical coordination.",
+          "main_attr": "wis",
           "skills": {
-            "Piloting": {
+            "Command": {
               "weight": 3,
-              "specializations": ["Space", "Navigation", "Drone/remote Operation"]
+              "specializations": ["Strategic Planning", "Leadership", "Tactical Operations", "Crisis Management"]
+            },
+            "Piloting": {
+              "weight": 2,
+              "specializations": ["Space", "Navigation"]
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Sensor Specialist", "Systems Analysis", "Strategic Analysis"]
+              "specializations": ["Sensors", "Tactical Analytics", "Strategic Analytics"]
+            }
+          },
+          "talents": ["fleet_officer_cadet_talents"],
+          "debt_value": 1,
+          "title": "Fleet Officer",
+          "master": {
+            "title": "Admiral",
+            "debt_value": 3
+          }
+        },
+        "Piloting Training": {
+          "description": "Training for piloting starships and navigating through space.",
+          "main_attr": "agi",
+          "skills": {
+            "Piloting": {
+              "weight": 3,
+              "specializations": ["Land", "Air", "Water", "Space"]
+            },
+            "Stamina": {
+              "weight": 1,
+              "specializations": ["First Aid", "Extreme Env.", "Survival"]
             },
             "ComTech": {
               "weight": 2,
-              "specializations": ["Signal Intelligence", "Computer Engineering"]
+              "specializations": ["Signal Intelligence", "Computer Eng."]
             },
             "Mobility": {
-              "weight": 1,
+              "weight": 2,
               "specializations": ["Dexterity", "Athletics", "Zero-G Movement"]
             }
           },
-          "talents": ["piloting_talent_pool"],
+          "talents": ["piloting_talents"],
           "debt_value": 1,
           "title": "Pilot",
           "master": {
@@ -290,21 +419,22 @@
         },
         "Navigation Training": {
           "description": "Specializes in stellar navigation and course plotting.",
+          "main_attr": "int",
           "skills": {
             "Science": {
               "weight": 3,
               "specializations": ["Astrogation", "Physics", "Quantum Mechanics"]
             },
             "Observation": {
-              "weight": 3,
-              "specializations": ["Sensor Specialist", "Strategic Analysis", "Systems Analysis"]
+              "weight": 2,
+              "specializations": ["Sensors", "Strategic Analytics", "Systems Analytics"]
             },
             "ComTech": {
-              "weight": 2,
-              "specializations": ["Signal Intelligence", "Electronics Engineering"]
+              "weight": 1,
+              "specializations": ["Signal Intelligence", "Electronics Eng."]
             }
           },
-          "talents": ["navigation_talent_pool"],
+          "talents": ["navigator_talents"],
           "debt_value": 1,
           "title": "Navigator",
           "master": {
@@ -312,60 +442,104 @@
             "debt_value": 1
           }
         },
-        "Operations Training": {
-          "description": "Training in ship operations, systems management, and emergency procedures.",
+        "Signal Systems Technician": {
+          "description": "Operates sensor arrays and manages communication systems for navigation and tactical scanning.",
+          "main_attr": "int",
           "skills": {
-            "ComTech": {
-              "weight": 3,
-              "specializations": ["Systems Analysis", "Computer Engineering", "Signal Intelligence"]
-            },
             "Observation": {
-              "weight": 2,
-              "specializations": ["Sensor Specialist", "Systems Analysis"]
+              "weight": 3,
+              "specializations": ["Sensors", "Tactical Analytics", "Surveillance"]
             },
-            "Piloting": {
+            "ComTech": {
               "weight": 2,
-              "specializations": ["Navigation", "Space", "Drone/remote Operation"]
+              "specializations": ["Signal Intelligence", "Electronics Eng.", "Computer Eng."]
+            },
+            "Science": {
+              "weight": 1,
+              "specializations": ["Linguistics", "Psycology", "Quantum Mechanics"]
+            }
+          },
+          "talents": ["Signal_systems_talents"],
+          "debt_value": 1,
+          "title": "Signal Systems Technician",
+          "master": {
+            "title": "Signal Systems Specialist",
+            "debt_value": 2
+          }
+        },
+        "Tactical Systems Operator": {
+          "description": "Trained to manage shipboard tactical systems, including defensive and offensive measures during combat situations.",
+          "main_attr": "str",
+          "skills": {
+            "Ranged Combat": {
+              "weight": 3,
+              "specializations": ["Energy Weapons", "Precision Weapons", "High-Tech Armament", "Automatic Weapons"]
+            },
+            "Command": {
+              "weight": 2,
+              "specializations": ["Tactical Operations", "Crisis Management", "Operational Planning"]
+            },
+            "Stamina": {
+              "weight": 1,
+              "specializations": ["Psychological Res.", "Hazardous Env."]
+            }
+          },
+          "talents": ["tactical_systems_talents"],
+          "debt_value": 1,
+          "title": "Tactical Systems Officer",
+          "master": {
+            "title": "Chief Tactical Officer",
+            "debt_value": 2
+          }
+        },
+        "Reconnaissance Specialist": {
+          "description": "Expert in gathering intel during exploratory or combat missions, using stealth and advanced sensors.",
+          "main_attr": "agi",
+          "skills": {
+            "Observation": {
+              "weight": 3,
+              "specializations": ["Sensors", "Tactical Analysis", "Forensics"]
+            },
+            "Mobility": {
+              "weight": 2,
+              "specializations": ["Stealth Movement", "Zero-G Movement", "Athletics"]
             },
             "Survival": {
               "weight": 1,
-              "specializations": ["Hazardous Env.", "First Aid"]
+              "specializations": ["Extreme Env.", "Hazardous Env."]
             }
           },
-          "talents": ["operations_talent_pool"],
+          "talents": ["reconnaissance_talents"],
           "debt_value": 1,
-          "title": "Operations Officer",
+          "title": "Recon Specialist",
           "master": {
-            "title": "Senior Operations Officer",
-            "debt_value": 1
+            "title": "Chief Recon Specialist",
+            "debt_value": 2
           }
         }
       }
     },
-    "University": {
+    "MedSci Campus": {
       "description": "Academic training focused on advanced research and scientific fields.",
       "subclasses": {
-        "Medical Training": {
+        "Medical Doctor": {
           "description": "Trains in medical care, surgery, and emergency response aboard starships.",
+          "main_attr": "wis",
           "skills": {
             "Science": {
               "weight": 3,
               "specializations": ["Medical Science", "Biology", "Psychology"]
             },
-            "Survival": {
+            "Stamina": {
               "weight": 2,
               "specializations": ["First Aid", "Psychological Res.", "Hazardous Env."]
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Forensics", "Systems Analysis"]
-            },
-            "ComTech": {
-              "weight": 1,
-              "specializations": ["Electronics Engineering", "Robotics"]
+              "specializations": ["Forensics", "Systems Analytics"]
             }
           },
-          "talents": ["medical_talent_pool"],
+          "talents": ["medical_talents"],
           "debt_value": 1,
           "title": "Medical Officer",
           "master": {
@@ -374,22 +548,23 @@
           }
         },
         "Xenobiology": {
-          "description": "Specializes in the study of alien species, useful for encounters during space exploration.",
+          "description": "Specializes in the study of alien flora and fauna.",
+          "main_attr": "wis",
           "skills": {
             "Science": {
               "weight": 3,
-              "specializations": ["Xenology", "Biology", "Environmental Science"]
+              "specializations": ["Xenology", "Biology", "Environmental Science", "Medical Science"]
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Forensics", "Sensor Specialist"]
+              "specializations": ["Forensics", "Sensors"]
             },
-            "Survival": {
+            "Stamina": {
               "weight": 2,
-              "specializations": ["Extreme Environments", "First Aid"]
+              "specializations": ["Extreme Env.", "First Aid", "Survival"]
             }
           },
-          "talents": ["xenobiology_talent_pool"],
+          "talents": ["xenobiology_talents"],
           "debt_value": 1,
           "title": "Science Officer",
           "master": {
@@ -399,49 +574,47 @@
         },
         "Stasis Technology": {
           "description": "Specializes in stasis systems aboard ships, including maintenance and emergency procedures.",
+          "main_attr": "int",
           "skills": {
             "ComTech": {
               "weight": 3,
-              "specializations": ["Environmental Sys.", "Electronics Engineering"]
+              "specializations": ["Computer Eng.", "Electronics Eng."]
             },
             "Science": {
               "weight": 2,
-              "specializations": ["Physics", "Nanotechnology"]
+              "specializations": ["Physics", "Nanotechnology", "Chemistry", "Medical Science"]
             },
-            "Observation": {
+            "Command": {
               "weight": 2,
-              "specializations": ["Systems Analysis", "Sensor Specialist"]
+              "specializations": ["Crisis Management", "Operational Planning"]
             }
           },
-          "talents": ["stasis_talent_pool"],
+          "talents": ["stasis_talents"],
           "debt_value": 1,
           "title": "Stasis Technician",
           "master": {
-            "title": "Chief Stasis Technician",
+            "title": "Senior Stasis Specialist",
             "debt_value": 2
           }
         },
-        "Chemistry": {
+        "Synthetic Chemistry": {
           "description": "Focuses on chemical processes, materials science, and their applications.",
+          "main_attr": "int",
           "skills": {
             "Science": {
               "weight": 3,
-              "specializations": ["Chemistry", "Nanotechnology"]
+              "specializations": ["Chemistry", "Nanotechnology", "Environmental Science"]
             },
             "ComTech": {
               "weight": 2,
-              "specializations": ["Electronics Engineering", "Computer Engineering"]
+              "specializations": ["Electronics Eng.", "Computer Eng."]
             },
-            "Observation": {
-              "weight": 2,
-              "specializations": ["Systems Analysis", "Sensor Specialist"]
-            },
-            "Survival": {
+            "Stamina": {
               "weight": 1,
-              "specializations": ["Hazardous Env."]
+              "specializations": ["Hazardous Env.", "Extreme Env.", "First Aid"]
             }
           },
-          "talents": ["chemistry_talent_pool"],
+          "talents": ["chemistry_talents"],
           "debt_value": 1,
           "title": "Chemist",
           "master": {
@@ -451,53 +624,51 @@
         },
         "Cybernetics": {
           "description": "Specializes in integrating biological and technological systems.",
+          "main_attr": "int",
           "skills": {
             "Science": {
               "weight": 3,
-              "specializations": ["Cybernetics", "Biology"]
+              "specializations": ["Cybernetics", "Biology", "Medical Science"]
             },
             "ComTech": {
               "weight": 2,
-              "specializations": ["Robotics", "AI Tech"]
+              "specializations": ["Robotics", "Electronics Eng.", "Computer Eng."]
             },
-            "Observation": {
-              "weight": 2,
-              "specializations": ["Systems Analysis", "Sensor Specialist"]
-            },
-            "Heavy Machinery": {
+            "Mobility": {
               "weight": 1,
-              "specializations": ["Advanced Engineering"]
+              "specializations": ["Dexterity"]
             }
           },
-          "talents": ["cybernetics_talent_pool"],
+          "talents": ["cybernetics_talents"],
           "debt_value": 1,
           "title": "Cyberneticist",
           "master": {
             "title": "Senior Cyberneticist",
             "debt_value": 2
           }
-        },
+        }
+      }
+    },
+    "Advanced Theoretical Research Facility": {
+      "description": "An elite institution dedicated to the exploration of cutting-edge and speculative sciences.",
+      "subclasses": {
         "Quantum Physics": {
           "description": "Focuses on quantum mechanics and its technological applications.",
           "skills": {
             "Science": {
               "weight": 3,
-              "specializations": ["Quantum Mechanics", "Physics"]
+              "specializations": ["Quantum Mechanics", "Physics", "Advanced Engineering"]
             },
             "ComTech": {
               "weight": 2,
-              "specializations": ["Computer Engineering", "Signal Intelligence"]
+              "specializations": ["Computer Eng.", "Signal Intelligence"]
             },
             "Observation": {
               "weight": 2,
-              "specializations": ["Systems Analysis", "Sensor Specialist"]
-            },
-            "Heavy Machinery": {
-              "weight": 1,
-              "specializations": ["FTL Drive"]
+              "specializations": ["Systems Analytics", "Sensors"]
             }
           },
-          "talents": ["quantum_physics_talent_pool"],
+          "talents": ["quantum_physics_talents"],
           "debt_value": 1,
           "title": "Quantum Physicist",
           "master": {
@@ -506,86 +677,132 @@
           }
         },
         "Advanced Engineering": {
-          "description": "Specializes in developing new technologies and improving existing systems.",
+          "description": "Specializes in developing new technologies and improving existing systems, from nanomachines to starship weaponry.",
+          "main_attr": "int",
           "skills": {
             "Science": {
               "weight": 3,
-              "specializations": ["Advanced Engineering", "Nanotechnology"]
+              "specializations": ["Advanced Engineering", "Nanotechnology", "Physics", "Environmental Science"]
             },
             "Heavy Machinery": {
               "weight": 2,
-              "specializations": ["Starship Eng.", "Weapon Sys."]
+              "specializations": ["Structural Eng.", "Weapon Sys.", "Industrial", "Power Sys."]
             },
             "ComTech": {
               "weight": 2,
-              "specializations": ["Electronics Engineering", "Robotics"]
-            },
-            "Observation": {
-              "weight": 1,
-              "specializations": ["Systems Analysis"]
+              "specializations": ["Electronics Eng.", "Robotics", "Computer Eng."]
             }
           },
-          "talents": ["advanced_engineering_talent_pool"],
+          "talents": ["advanced_engineering_talents"],
           "debt_value": 1,
-          "title": "Advanced Engineer",
+          "title": "Advanced Engineering Specialist",
           "master": {
-            "title": "Chief Advanced Engineer",
+            "title": "Master Engineering Officer",
             "debt_value": 2
           }
         },
-        "Linguistics": {
-          "description": "Studies languages and communication systems, aiding in translation and communication.",
+        "Nanotech Development": {
+          "description": "Focuses on nanotechnology applications in medicine, industry, and warfare.",
+          "main_attr": "int",
           "skills": {
             "Science": {
               "weight": 3,
-              "specializations": ["Linguistics", "Psychology"]
-            },
-            "Manipulation": {
-              "weight": 2,
-              "specializations": ["Negotiator", "Public Relations", "PsyOps"]
-            },
-            "Observation": {
-              "weight": 2,
-              "specializations": ["Tactical Analysis", "Systems Analysis"]
+              "specializations": ["Nanotechnology", "Biology", "Chemistry"]
             },
             "ComTech": {
-              "weight": 1,
-              "specializations": ["Signal Intelligence"]
+              "weight": 2,
+              "specializations": ["Robotics", "AI Tech"]
+            },
+            "Mobility": {
+              "weight": 2,
+              "specializations": ["Dexterity", "Zero-G Movement"]
             }
           },
-          "talents": ["linguistics_talent_pool"],
+          "talents": ["nanotech_talents"],
           "debt_value": 1,
-          "title": "Linguist",
+          "title": "Nanotech Specialist",
           "master": {
-            "title": "Senior Linguist",
+            "title": "Chief Nanotech Developer",
             "debt_value": 2
           }
-        },
-        "Economics": {
-          "description": "Focuses on economic systems, market analysis, and resource management.",
+        }
+      }
+    },
+    "Institute of Cognitive Mastery": {
+      "description": "Trains students to master psychological manipulation, social engineering, and influence tactics.",
+      "subclasses": {
+        "PsyOps Specialist": {
+          "description": "Specializes in manipulating perceptions, emotions, and behaviors to achieve strategic objectives.",
+          "main_attr": "wis",
           "skills": {
-            "Science": {
-              "weight": 3,
-              "specializations": ["Economics"]
-            },
             "Manipulation": {
-              "weight": 2,
-              "specializations": ["Negotiator", "Social Engineering"]
+              "weight": 3,
+              "specializations": ["PsyOps", "Social Engineering", "Public Relations"]
             },
-            "Observation": {
+            "Science": {
               "weight": 2,
-              "specializations": ["Strategic Analysis", "Systems Analysis"]
+              "specializations": ["Linguistics", "Psycology"]
             },
             "Command": {
               "weight": 1,
-              "specializations": ["Operational Planning"]
+              "specializations": ["Crisis Management", "Tactical Operations", "Leadership"]
             }
           },
-          "talents": ["economics_talent_pool"],
+          "talents": ["psyops_talents"],
           "debt_value": 1,
-          "title": "Economist",
+          "title": "PsyOps Officer",
           "master": {
-            "title": "Senior Economist",
+            "title": "Chief PsyOps Strategist",
+            "debt_value": 2
+          }
+        },
+        "Corporate Diplomat": {
+          "description": "Trains in high-level negotiation, forging alliances, and de-escalating conflicts in corporate environments.",
+          "main_attr": "wis",
+          "skills": {
+            "Manipulation": {
+              "weight": 3,
+              "specializations": ["Negotiator", "Public Relations", "Social Engineering", "Forgery", "Interrogation"]
+            },
+            "Command": {
+              "weight": 2,
+              "specializations": ["Leadership", "Strategic Planning"]
+            },
+            "Stamina": {
+              "weight": 1,
+              "specializations": ["Psychological Res.", "First Aid"]
+            }
+          },
+          "talents": ["corporate_diplomacy_talents"],
+          "debt_value": 1,
+          "title": "Diplomatic Officer",
+          "master": {
+            "title": "Senior Corporate Diplomat",
+            "debt_value": 2
+          }
+        },
+        "Propaganda Strategist": {
+          "description": "Specializes in crafting and spreading narratives to influence populations and control public opinion.",
+          "main_attr": "wis",
+          "skills": {
+            "Manipulation": {
+              "weight": 3,
+              "specializations": ["Public Relations", "PsyOps", "Social Engineering"]
+            },
+            "Command": {
+              "weight": 2,
+              "specializations": ["Leadership", "Tactical Operations", "Crisis Management", "Operational Planning"]
+            },
+            "Close Combat": {
+              "weight": 1,
+              "specializations": ["Blunt", "Edge", "Explosives"]
+            }
+          },
+          "talents": ["propaganda_talents"],
+          "debt_value": 1,
+          "title": "Propaganda Officer",
+          "master": {
+            "title": "Chief Propagandist",
             "debt_value": 2
           }
         }

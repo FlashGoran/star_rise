@@ -1,0 +1,185 @@
+{
+    "early": [
+      {
+        "description": "Born on a bustling space station, your early life was filled with the hum of machinery and the vastness of space outside.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "At age eight, you assisted in minor technical tasks, showcasing your aptitude for problem-solving.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "You learned to navigate the station's complex corridors, honing your spatial awareness.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "An encounter with a malfunctioning system taught you the importance of caution and technical knowledge.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You developed a knack for repairing equipment, demonstrating your resourcefulness.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "Witnessing a minor accident instilled in you a deep understanding of the station's vulnerabilities.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You customized a tool kit from scavenged parts, improving your efficiency.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An engineer took you under their wing, teaching you advanced technical skills.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "You formed a bond with another young resident, sharing knowledge and aspirations.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "A close call with a decompression incident sharpened your instincts and reflexes.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "You began studying engineering manuals, expanding your understanding of the station's systems.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "An illness due to life support fluctuations tested your resilience and adaptability.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You discovered a hidden area of the station, fueling your curiosity.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "A family member was reassigned, prompting you to become more independent.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "You started experimenting with zero-gravity mechanics, enhancing your skills.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An encounter with corporate officials sparked your skepticism of authority.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You developed physical strength through maintenance work in challenging conditions.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You took on significant responsibilities, managing critical systems aboard the station.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A conflict with corporate management led to increased tension and scrutiny.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You orchestrated a successful effort to upgrade essential systems.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "An offer to transfer to another station challenged your loyalties.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You began mentoring newcomers, passing on your expertise.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A personal injury forced you to adapt, relying more on intellect than physical strength.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You discovered evidence of corporate negligence threatening the station.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A family member was unjustly reprimanded, fueling your desire for justice.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You faced ethical dilemmas when asked to overlook safety protocols.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "An accident led to the loss of vital supplies, testing your resourcefulness.",
+        "attributes": { "INT": 1 }
+      }
+    ],
+    "late": [
+      {
+        "description": "A catastrophic event, such as a reactor failure, struck the station, and you played a key role in the initial response.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "You navigated through collapsing sections to reach survivors, showcasing courage and agility.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "Faced with limited resources, you had to make tough decisions to prioritize repairs.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You coordinated with others to send a distress signal, demonstrating leadership.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "An opportunity to escape arose, but only a few could go; you had to decide who.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You exposed corporate negligence as the cause of the disaster, seeking accountability.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A personal tragedy during the disaster prompted deep reflection on your life's purpose.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You began to suffer from the psychological effects of the catastrophe.",
+        "attributes": { "STR": 2, "INT": 1 }
+      },
+      {
+        "description": "A movement to rebuild or salvage what remained gained momentum, and you had to decide your role.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "You mentored other survivors, helping them cope and plan for the future.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "Conditions worsened, making survival increasingly challenging.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You authored a report documenting the disaster and lessons learned.",
+        "attributes": { "INT": 2, "STR": 1 }
+      },
+      {
+        "description": "An external threat, such as approaching debris, endangered your group.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "You faced a critical decision when offered a chance to leave with a rescue team.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "An unexpected alliance offered new possibilities for survival but also new risks.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You considered the legacy you would leave and how to prevent future disasters.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A technological advancement provided hope for rescue or recovery, challenging you to adapt.",
+        "attributes": { "INT": 2, "STR": 1 }
+      }
+    ]
+  }
+  

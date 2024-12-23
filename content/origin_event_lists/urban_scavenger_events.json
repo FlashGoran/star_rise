@@ -1,0 +1,185 @@
+{
+    "early": [
+      {
+        "description": "Born in the shadows of towering industrial structures, you learned to navigate the labyrinthine alleys of the slums.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "At age eight, you made your first solo scavenging run, outmaneuvering rival scavengers.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "You discovered a hidden cache of discarded tech, sparking your interest in tinkering.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An encounter with a street gang taught you the importance of quick reflexes and escape routes.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "You developed a network of safe hiding spots throughout the slums.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "Witnessing the harsh realities of life in the slums instilled in you a survivalist mentality.",
+        "attributes": { "AGI": 2, "WIS": 1 }
+      },
+      {
+        "description": "You customized a makeshift tool for prying open locked containers, enhancing your scavenging efficiency.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An older scavenger taught you essential skills, like picking locks and silent movement.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You formed a bond with another street kid, sharing resources and information.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "A close call with corporate security forces taught you to be more cautious.",
+        "attributes": { "AGI": 2, "WIS": 1 }
+      },
+      {
+        "description": "You began mapping the underground tunnels, giving you an edge over others.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An illness due to poor living conditions tested your resilience and willpower.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You discovered a hidden market where you could trade scavenged goods for necessities.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "A dangerous encounter with a cybernetic enforcer left you with a scar and a lesson in humility.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "You began to question the disparity between the corporate elite and the slum dwellers.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "An accident while climbing left you temporarily injured, teaching you to better assess risks.",
+        "attributes": { "AGI": 2, "WIS": 1 }
+      },
+      {
+        "description": "You crafted a rudimentary device to detect security sensors, improving your stealth capabilities.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You took on more significant scavenging missions, venturing into dangerous territories.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "A conflict with a rival group led to increased tension and competition.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You designed a new tool for accessing secured containers, improving your hauls.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "An opportunity to work for a black-market dealer arose, challenging your ethics.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You began mentoring a younger scavenger, sharing your knowledge and skills.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "A trap set by corporate enforcers led to a narrow escape, increasing your caution.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "You uncovered evidence of corporate misconduct, posing a moral dilemma.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A personal relationship complicated your activities, testing your priorities.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You faced ethical choices when offered payment to spy on fellow scavengers.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "An injury forced you to adapt your methods, relying more on intellect than agility.",
+        "attributes": { "INT": 1 }
+      }
+    ],
+    "late": [
+      {
+        "description": "You became a well-known figure in the underworld, both respected and targeted.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "A major heist required you to coordinate multiple teams under tight security.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You discovered a conspiracy involving corporate leaders that could change the city's future.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A health issue due to long-term exposure to industrial pollutants began to affect you.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You were offered a position within a corporate espionage division, challenging your principles.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "An encounter with a figure from your past forced you to confront unresolved issues.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "Faced with a moral crossroads, you had to decide between personal gain and the greater good.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "An ambitious rival targeted you, leading to a dangerous game of cat and mouse.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "You began to question the cycle of survival and whether there was more to life.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A technological advancement threatened to render your skills obsolete, prompting adaptation.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You mentored a group of young scavengers, hoping to guide them away from your own mistakes.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "An external threat, such as a plague or environmental disaster, endangered the entire slum.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You faced backlash for a decision that unintentionally harmed others, testing your resolve.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "An alliance with a former enemy offered new possibilities but at potential costs.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You authored a guide on urban survival, aiming to share your hard-earned knowledge.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An opportunity to leave the slums for a better life emerged, forcing a difficult choice.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You considered dismantling the oppressive systems that kept people in poverty, at great personal risk.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      }
+    ]
+  }
+  

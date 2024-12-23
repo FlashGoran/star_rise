@@ -1,0 +1,213 @@
+{
+    "early": [
+      {
+        "description": "Born in a city under constant siege, you grew up to the sounds of distant gunfire and explosions.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "At age five, you lost a family member during a bombing raid, teaching you the harsh realities of war.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You learned to navigate the ruins of your neighborhood, developing a keen sense of awareness and survival instincts.",
+        "attributes": { "WIS": 2, "AGI": 1 }
+      },
+      {
+        "description": "Food shortages forced you to scavenge in dangerous areas, strengthening your resolve and physical endurance.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "Witnessing acts of both cruelty and kindness, you began to understand the complexities of human nature.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You formed a close-knit group with other survivors, learning the importance of trust and cooperation.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "An illness swept through your community; you survived while others did not, leaving you with survivor's guilt.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You witnessed a ceasefire being broken, shattering your faith in authorities and peace talks.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "A brief period of normalcy allowed you to attend a makeshift school, igniting a thirst for knowledge despite limited opportunities.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You developed a strong bond with a pet or animal companion, providing comfort amidst chaos.",
+        "attributes": { "WIS": 2, "AGI": 1 }
+      },
+      {
+        "description": "An encounter with unexploded ordnance taught you caution and the importance of careful observation.",
+        "attributes": { "WIS": 2, "AGI": 1 }
+      },
+      {
+        "description": "You saved a younger child from danger, earning respect and a sense of responsibility.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "A makeshift shelter you built protected your family during a sudden attack, showcasing your ingenuity.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You found a hidden stash of supplies but chose to share it with others rather than keep it for yourself.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "Witnessing acts of bravery inspired you to remain hopeful despite the surrounding despair.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You suffered a minor injury that left a scar, a constant reminder of the dangers you face daily.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "An elderly survivor taught you valuable life skills, passing on wisdom that guides you.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You joined a community defense group, learning basic combat skills and tactics.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "A betrayal by someone you trusted hardened your outlook, making you more cautious and self-reliant.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You negotiated a truce between feuding survivor groups, demonstrating leadership and diplomacy.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "An ambush forced you to flee your home, adapting quickly to new surroundings.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You discovered a safe passage through a war-torn area, aiding others in escaping danger.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "Captured by hostile forces, you endured interrogation without revealing vital information.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You led a group of survivors to a secure location, earning their trust and reliance.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "An injury left you temporarily impaired; overcoming this obstacle strengthened your determination.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You found a hidden cache of pre-war books, deepening your understanding of the world before the conflict.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "Witnessing an atrocity committed by corporate forces, you became disillusioned with any notion of their benevolence.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You assisted in setting up a communication network among survivors, improving coordination and safety.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "A close friend was recruited by a militant group; their departure left you questioning your own path.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You developed a chronic condition due to environmental hazards, adapting your lifestyle to manage it.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "An encounter with a corporate mercenary revealed that not all enemies are what they seem.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You created a system for rationing scarce resources, preventing conflict within your group.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "A natural disaster compounded the existing chaos, testing your survival skills further.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You began mentoring younger survivors, passing on hard-earned knowledge.",
+        "attributes": { "WIS": 1 }
+      }
+    ],
+    "late": [
+      {
+        "description": "You became a leader among survivors, organizing efforts to rebuild and protect your community.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "An opportunity to evacuate the conflict zone arose, forcing you to choose between leaving or staying to help others.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You negotiated a temporary ceasefire between warring factions, bringing a brief respite to the chaos.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "A betrayal within your ranks threatened everything you had worked for, challenging your trust in others.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You uncovered evidence of corporate exploitation fueling the conflict, fueling your desire for justice.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "A personal loss reignited old wounds, but also strengthened your resolve to make a difference.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You led a daring mission to rescue trapped civilians, risking your life for others.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "An injury left you with lasting effects, but you adapted and continued to contribute meaningfully.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You brokered a deal for essential supplies, navigating complex politics and moral dilemmas.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "Faced with overwhelming odds, you inspired others to stand firm, becoming a symbol of resilience.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You discovered a hidden talent, such as medicine or engineering, which greatly benefited your community.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "An external force offered aid with hidden agendas; you had to discern their true intentions.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You were offered a position within a powerful faction, forcing you to choose between personal gain and communal loyalty.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "A vision or dream guided you toward a new purpose, altering your path and priorities.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You began documenting the stories of survivors, preserving history amidst the destruction.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "Facing the root causes of the conflict, you decided to take action to address them directly.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      },
+      {
+        "description": "You organized an underground network to help others escape or survive, risking exposure and retaliation.",
+        "attributes": { "WIS": 2, "STR": 1 }
+      }
+    ]
+  }
+  

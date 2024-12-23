@@ -1,0 +1,185 @@
+{
+    "early": [
+      {
+        "description": "Born in a densely populated urban district, you grew up surrounded by the influence of local gangs.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "At age eight, you ran errands for gang members, learning the streets and honing your agility.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "You joined a youth crew associated with a larger gang, gaining a sense of belonging.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "An encounter with rival gang members taught you the importance of vigilance and quick reflexes.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "You developed proficiency in parkour, using it to navigate the urban landscape swiftly.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "Witnessing a turf dispute instilled in you an understanding of territorial boundaries.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You customized a personal weapon for self-defense, showcasing your ingenuity.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "An older gang member mentored you, teaching street smarts and survival tactics.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You formed a close bond with a fellow affiliate, relying on each other for support.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "A close call with law enforcement made you more cautious and strategic in your actions.",
+        "attributes": { "AGI": 2, "WIS": 1 }
+      },
+      {
+        "description": "You began studying the hierarchies within the gang, understanding how to navigate them.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An injury during a risky stunt taught you the value of assessing dangers carefully.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You participated in a graffiti campaign, marking territory and expressing identity.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "A family member urged you to leave the gang life, causing internal conflict.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You started learning basic combat skills, enhancing your effectiveness in confrontations.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "An encounter with a charismatic gang leader inspired your ambitions.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You developed a reputation for reliability, increasing your standing within the gang.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You took on more significant roles, participating in coordinated gang activities.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "A conflict with a rival gang escalated, testing your combat skills and loyalty.",
+        "attributes": { "STR": 1 }
+      },
+      {
+        "description": "You orchestrated a successful operation, earning respect from higher-ups.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "An opportunity to act as an informant arose, challenging your sense of allegiance.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You began mentoring younger affiliates, passing on your knowledge and experience.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "A personal loss due to gang violence made you question your path.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You discovered corruption within your own gang, posing a moral dilemma.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A romantic relationship with someone outside the gang complicated your loyalties.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You faced ethical choices when ordered to carry out questionable tasks.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "An injury forced you to adapt your methods, focusing more on strategy than brute force.",
+        "attributes": { "INT": 1 }
+      }
+    ],
+    "late": [
+      {
+        "description": "Elevated to a leadership role, you now influence decisions and strategies.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "A major conflict threatened the gang's existence, requiring decisive action.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You uncovered a plot against you within the gang, testing your trust in others.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "Faced with a moral dilemma, you had to choose between the gang's interests and ethical considerations.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "An opportunity to legitimize the gang's operations arose, challenging traditional approaches.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You exposed a corrupt alliance between gang leaders and external forces.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A personal tragedy prompted deep reflection on your life's direction.",
+        "attributes": { "STR": 2, "WIS": 1 }
+      },
+      {
+        "description": "You began to suffer from the consequences of past actions, affecting your physical health.",
+        "attributes": { "STR": 2, "AGI": 1 }
+      },
+      {
+        "description": "A movement to change the gang's focus gained momentum, and you had to decide your stance.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You mentored a promising affiliate, hoping to shape the future leadership.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "Law enforcement intensified efforts against gangs, increasing risks.",
+        "attributes": { "AGI": 2, "WIS": 1 }
+      },
+      {
+        "description": "You authored a code of conduct to instill discipline and purpose within the gang.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An external threat, such as a powerful rival group, endangered your gang's territory.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "You faced a critical decision when offered a deal by authorities in exchange for information.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "An unexpected alliance with a former enemy offered new opportunities but at potential costs.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You considered the legacy you would leave and how to effect lasting change.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A technological advancement changed the dynamics of street operations, challenging you to adapt.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      }
+    ]
+  }
+  

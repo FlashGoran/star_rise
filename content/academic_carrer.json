@@ -12,14 +12,14 @@
               },
               "Observation": {
                 "weight": 2,
-                "specializations": ["Forensics", "Sensor Specialist"]
+                "specializations": ["Forensics", "Sensors"]
               },
-              "Survival": {
+              "Stamina": {
                 "weight": 1,
-                "specializations": ["Extreme Environments", "Hazardous Env."]
+                "specializations": ["Extreme Env.", "Hazardous Env."]
               }
             },
-            "talents": ["xenobiology_talent_pool"],
+            "talents": ["xenobiology_talents"],
             "title": "Xenobiologist",
             "promotion": {
               "title": "Senior Xenobiologist"
@@ -38,14 +38,14 @@
               },
               "Observation": {
                 "weight": 2,
-                "specializations": ["Systems Analysis", "Sensor Specialist"]
+                "specializations": ["Systems Analytics", "Sensors"]
               },
               "Heavy Machinery": {
                 "weight": 1,
                 "specializations": ["Advanced Engineering"]
               }
             },
-            "talents": ["cyberneticist_talent_pool"],
+            "talents": ["cyberneticist_talents"],
             "title": "Cyberneticist",
             "promotion": {
               "title": "Lead Cyberneticist"
@@ -60,18 +60,18 @@
               },
               "ComTech": {
                 "weight": 2,
-                "specializations": ["Computer Engineering", "Signal Intelligence"]
+                "specializations": ["Computer Eng.", "Signal Intelligence"]
               },
               "Observation": {
                 "weight": 2,
-                "specializations": ["Systems Analysis", "Sensor Specialist"]
+                "specializations": ["Systems Analytics", "Sensors"]
               },
               "Heavy Machinery": {
                 "weight": 1,
-                "specializations": ["FTL Drive"]
+                "specializations": ["Propulsion"]
               }
             },
-            "talents": ["quantum_physicist_talent_pool"],
+            "talents": ["quantum_physicist_talents"],
             "title": "Quantum Physicist",
             "promotion": {
               "title": "Senior Quantum Physicist"
@@ -86,18 +86,18 @@
               },
               "ComTech": {
                 "weight": 2,
-                "specializations": ["Electronics Engineering", "Computer Engineering"]
+                "specializations": ["Electronics Eng.", "Computer Eng."]
               },
               "Observation": {
                 "weight": 2,
-                "specializations": ["Systems Analysis", "Sensor Specialist"]
+                "specializations": ["Systems Analytics", "Sensors"]
               },
               "Heavy Machinery": {
                 "weight": 1,
                 "specializations": ["Advanced Engineering"]
               }
             },
-            "talents": ["nanotechnologist_talent_pool"],
+            "talents": ["nanotechnologist_talents"],
             "title": "Nanotechnologist",
             "promotion": {
               "title": "Senior Nanotechnologist"
@@ -117,7 +117,7 @@
               },
               "Observation": {
                 "weight": 2,
-                "specializations": ["Strategic Analysis", "Systems Analysis"]
+                "specializations": ["Strategic Analytics", "Systems Analytics"]
               },
               "Manipulation": {
                 "weight": 2,
@@ -128,7 +128,7 @@
                 "specializations": ["Signal Intelligence"]
               }
             },
-            "talents": ["corporate_strategist_talent_pool"],
+            "talents": ["corporate_strategist_talents"],
             "title": "Corporate Strategist",
             "promotion": {
               "title": "Senior Strategist"
@@ -139,18 +139,18 @@
             "skills": {
               "ComTech": {
                 "weight": 3,
-                "specializations": ["Computer Engineering", "AI Tech"]
+                "specializations": ["Computer Eng.", "AI Tech"]
               },
               "Observation": {
                 "weight": 3,
-                "specializations": ["Systems Analysis", "Signal Intelligence"]
+                "specializations": ["Systems Analytics", "Signal Intelligence"]
               },
               "Science": {
                 "weight": 1,
                 "specializations": ["Advanced Engineering"]
               }
             },
-            "talents": ["data_scientist_talent_pool"],
+            "talents": ["data_scientist_talents"],
             "title": "Data Scientist",
             "promotion": {
               "title": "Lead Data Scientist"
@@ -168,20 +168,20 @@
                 "weight": 3,
                 "specializations": ["Medical Science", "Biology"]
               },
-              "Survival": {
+              "Stamina": {
                 "weight": 2,
                 "specializations": ["First Aid", "Psychological Res."]
               },
               "Observation": {
                 "weight": 2,
-                "specializations": ["Forensics", "Systems Analysis"]
+                "specializations": ["Forensics", "Systems Analytics"]
               },
               "ComTech": {
                 "weight": 1,
-                "specializations": ["Computer Engineering"]
+                "specializations": ["Computer Eng."]
               }
             },
-            "talents": ["ships_doctor_talent_pool"],
+            "talents": ["ships_doctor_talents"],
             "title": "Ship's Doctor",
             "promotion": {
               "title": "Chief Medical Officer"
@@ -196,18 +196,18 @@
               },
               "Observation": {
                 "weight": 2,
-                "specializations": ["Forensics", "Systems Analysis"]
+                "specializations": ["Forensics", "Systems Analytics"]
               },
               "ComTech": {
                 "weight": 2,
-                "specializations": ["Computer Engineering", "AI Tech"]
+                "specializations": ["Computer Eng.", "AI Tech"]
               },
-              "Survival": {
+              "Stamina": {
                 "weight": 1,
                 "specializations": ["Hazardous Env."]
               }
             },
-            "talents": ["geneticist_talent_pool"],
+            "talents": ["geneticist_talents"],
             "title": "Geneticist",
             "promotion": {
               "title": "Lead Geneticist"
@@ -231,14 +231,14 @@
               },
               "Observation": {
                 "weight": 2,
-                "specializations": ["Strategic Analysis", "Tactical Analysis"]
+                "specializations": ["Strategic Analytics", "Tactical Analytics"]
               },
               "Science": {
                 "weight": 1,
                 "specializations": ["Astrogation"]
               }
             },
-            "talents": ["ship_captain_talent_pool"],
+            "talents": ["ship_captain_talents"],
             "title": "Ship Captain",
             "promotion": {
               "title": "Fleet Commander"
@@ -257,14 +257,14 @@
               },
               "Observation": {
                 "weight": 2,
-                "specializations": ["Tactical Analysis", "Sensor Specialist"]
+                "specializations": ["Tactical Analytics", "Sensors"]
               },
               "Mobility": {
                 "weight": 1,
                 "specializations": ["Zero-G Movement"]
               }
             },
-            "talents": ["tactical_officer_talent_pool"],
+            "talents": ["tactical_officer_talents"],
             "title": "Tactical Officer",
             "promotion": {
               "title": "Chief Tactical Officer"
@@ -280,7 +280,7 @@
             "skills": {
               "ComTech": {
                 "weight": 3,
-                "specializations": ["AI Tech", "Computer Engineering"]
+                "specializations": ["AI Tech", "Computer Eng."]
               },
               "Science": {
                 "weight": 2,
@@ -288,14 +288,14 @@
               },
               "Observation": {
                 "weight": 2,
-                "specializations": ["Systems Analysis"]
+                "specializations": ["Systems Analytics"]
               },
               "Manipulation": {
                 "weight": 1,
                 "specializations": ["Social Engineering"]
               }
             },
-            "talents": ["ai_programmer_talent_pool"],
+            "talents": ["ai_programmer_talents"],
             "title": "AI Programmer",
             "promotion": {
               "title": "Lead AI Developer"
@@ -306,7 +306,7 @@
             "skills": {
               "ComTech": {
                 "weight": 3,
-                "specializations": ["Robotics", "Electronics Engineering"]
+                "specializations": ["Robotics", "Electronics Eng."]
               },
               "Heavy Machinery": {
                 "weight": 2,
@@ -314,14 +314,14 @@
               },
               "Observation": {
                 "weight": 2,
-                "specializations": ["Systems Analysis"]
+                "specializations": ["Systems Analytics"]
               },
               "Science": {
                 "weight": 1,
                 "specializations": ["Cybernetics"]
               }
             },
-            "talents": ["robotics_engineer_talent_pool"],
+            "talents": ["robotics_engineer_talents"],
             "title": "Robotics Engineer",
             "promotion": {
               "title": "Chief Robotics Engineer"
@@ -337,51 +337,48 @@
             "skills": {
               "Piloting": {
                 "weight": 3,
-                "specializations": ["Space", "Navigation", "Drone/remote Operation"]
+                "specializations": ["Space", "Navigation", "Remote Control"]
               },
               "Observation": {
                 "weight": 2,
-                "specializations": ["Sensor Specialist", "Strategic Analysis"]
+                "specializations": ["Sensors", "Strategic Analytics"]
               },
               "Science": {
                 "weight": 2,
                 "specializations": ["Astrogation", "Physics"]
               },
-              "Survival": {
+              "Stamina": {
                 "weight": 1,
                 "specializations": ["Hazardous Env."]
               }
             },
-            "talents": ["deep_space_pilot_talent_pool"],
+            "talents": ["deep_space_pilot_talents"],
             "title": "Deep Space Pilot",
             "promotion": {
               "title": "Senior Explorer"
             }
           },
-          "Salvage Expert": {
-            "description": "Recovers valuable technology from derelict ships and ruins.",
+          "Salvage Specialist": {
+            "description": "Experts in dismantling and recovering valuable components from derelict ships and stations.",
+            "main_attr": "str",
             "skills": {
               "Heavy Machinery": {
                 "weight": 3,
-                "specializations": ["Advanced Engineering", "Power Sys."]
+                "specializations": ["Structural Eng.", "Industrial", "Power Sys."]
+              },
+              "Stamina": {
+                "weight": 2,
+                "specializations": ["Extreme Env.", "Hazardous Env.", "First Aid"]
               },
               "Observation": {
-                "weight": 2,
-                "specializations": ["Systems Analysis", "Sensor Specialist"]
-              },
-              "Survival": {
-                "weight": 2,
-                "specializations": ["Hazardous Env.", "Extreme Environments"]
-              },
-              "ComTech": {
                 "weight": 1,
-                "specializations": ["Electronics Engineering"]
+                "specializations": ["Sensors", "Systems Analytics"]
               }
             },
-            "talents": ["salvage_expert_talent_pool"],
-            "title": "Salvage Expert",
-            "promotion": {
-              "title": "Master Salvager"
+            "talents": ["salvage_specialist_talents"],
+            "title": "Salvage Specialist",
+            "master": {
+              "title": "Chief Salvage Engineer",
             }
           }
         }

@@ -1,0 +1,213 @@
+{
+    "early": [
+      {
+        "description": "Born with a rare genetic trait, you were identified by the corporation for a special program.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "At a young age, you displayed exceptional cognitive abilities, attracting corporate attention.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You were enrolled in an advanced learning facility, where your days were filled with tests and evaluations.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A series of cognitive enhancement procedures improved your intellect but left you feeling disconnected.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You formed a bond with a fellow participant, providing mutual support in an isolating environment.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "An experiment resulted in unexpected side effects, heightening your senses but causing discomfort.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You discovered inconsistencies in the information provided to you, sparking curiosity and suspicion.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A kind technician shared stories of the outside world, igniting a desire for freedom.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You excelled in problem-solving tasks, often exceeding the expectations of your overseers.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An accident during a test exposed you to confidential information, altering your perspective.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You began keeping a secret journal of your experiences, honing your analytical skills.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A sudden change in routine made you question the true purpose of the experiments.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You developed a method to solve complex puzzles more efficiently, impressing your supervisors.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An equipment malfunction during a test required you to act quickly, showcasing your adaptability.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You overheard conversations hinting at future plans for you, causing anxiety and uncertainty.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "A fellow participant's sudden absence raised concerns about the safety of the program.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You began to experience vivid dreams that seemed more like memories, blurring reality.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You discovered a hidden passage within the facility, opening up possibilities for exploration.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "An experimental procedure enhanced your cognitive functions but left you emotionally numb.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You managed to bypass security protocols to access restricted data, revealing unsettling truths.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A sympathetic staff member helped you understand the extent of the experiments conducted.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You coordinated a covert exchange of information with other participants, forming a clandestine network.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "An opportunity to escape arose, but you had to decide whether to go alone or include others.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You began experiencing side effects that suggested the experiments were affecting you unpredictably.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "An encounter with a high-ranking official provided insights into the corporation's true intentions.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You developed a plan to sabotage certain experiments, aiming to protect yourself and others.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A close associate was removed from the program under mysterious circumstances, heightening your fears.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You successfully manipulated data to alter your test results, buying time to figure out your next move.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "An unexpected friendship with a security guard provided you with valuable information.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "You started to experience memories that didn't seem to be your own, causing confusion.",
+        "attributes": { "WIS": 1 }
+      },
+      {
+        "description": "A critical experiment was scheduled, and you had to decide how to approach it safely.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You developed a device or method to counteract some of the experiments' effects.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "Your enhanced abilities began to draw unwanted attention, increasing scrutiny from the staff.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You considered reaching out to external entities for help, weighing the risks involved.",
+        "attributes": { "WIS": 1 }
+      }
+    ],
+    "late": [
+      {
+        "description": "You orchestrated a plan to escape the facility, coordinating with other participants.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "An experimental mishap granted you unique abilities, but with unforeseen consequences.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You confronted a senior researcher about the ethical implications of the experiments.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "A security breach allowed you temporary access to the outside world, altering your goals.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You discovered that the experiments were part of a larger corporate agenda with far-reaching impacts.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "Faced with declining health due to the experiments, you sought a cure or reversal.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You were offered a role within the corporation in exchange for your continued participation.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "An internal conflict among the staff provided an opportunity to influence outcomes.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You began to experience visions or insights that guided your decisions.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "A decision to expose the corporation's activities put you in great danger.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You successfully deactivated a crucial system within the facility, causing significant disruptions.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An alliance with a rogue scientist offered a chance to end the experiments permanently.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "You faced a moral dilemma when given the chance to retaliate against those who experimented on you.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "Your actions inspired other participants to stand up against the corporation.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "An unexpected twist revealed a personal connection to someone in charge of the program.",
+        "attributes": { "WIS": 2, "INT": 1 }
+      },
+      {
+        "description": "You began experiencing a decline in your enhanced abilities, prompting urgent action.",
+        "attributes": { "INT": 2, "WIS": 1 }
+      },
+      {
+        "description": "Facing the possibility of termination, you took drastic measures to ensure your survival.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      }
+    ]
+  }
+  

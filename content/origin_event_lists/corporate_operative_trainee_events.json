@@ -1,0 +1,213 @@
+{
+    "early": [
+      {
+        "description": "Born into a family with a history of covert operations, you were trained in stealth and espionage from a young age.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "At age ten, you successfully infiltrated a secure area as part of a training exercise, showcasing exceptional stealth.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "Enrolled in a secretive academy, you excelled in courses on infiltration, surveillance, and covert communications.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You participated in a youth espionage competition, winning through innovative tactics and agility.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "A mentor recognized your potential and provided advanced training in covert operations.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "Witnessing a failed mission taught you the importance of preparation and adaptability.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You developed a rivalry with another talented trainee, pushing you to refine your skills.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "An error during a training mission led to your temporary capture, teaching you resilience.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "You designed a new gadget that aided in silent movement, earning praise from instructors.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "A family member's disappearance on a mission instilled a sense of caution and determination.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You mastered complex lock-picking techniques, enhancing your infiltration abilities.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "An internship in a corporate intelligence unit exposed you to real-world espionage.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You published an anonymous report on surveillance countermeasures, gaining underground recognition.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "A mentor's betrayal taught you about the harsh realities of trust in your line of work.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You began studying the psychological aspects of espionage, deepening your understanding.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An advanced simulation tested your ability to adapt under unpredictable conditions.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "You started to question the morality of your missions, contemplating the impact of your actions.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      }
+    ],
+    "mid": [
+      {
+        "description": "You were assigned to a covert team conducting operations against rival corporations.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "A mission you participated in led to unintended casualties, causing internal conflict.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "You infiltrated a high-security facility, extracting valuable intel without detection.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "An equipment failure during a mission forced you to rely solely on your skills.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "You began mentoring junior operatives, sharing your techniques and experiences.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "A close call during an extraction made you reevaluate your approach to risk.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "You were involved in a covert operation that conflicted with your personal ethics.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A personal relationship with a target complicated a mission, testing your professionalism.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "You faced ethical dilemmas when ordered to eliminate a non-hostile individual.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "An unexpected promotion placed you in charge of planning covert missions.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "You successfully sabotaged a rival's operation, gaining favor within the corporation.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "A rival operative targeted you, leading to a dangerous game of cat and mouse.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "You developed a new stealth technique that became standard training protocol.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "An injury forced you to adapt your methods, enhancing your versatility.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "You uncovered a mole within your organization, handling the situation discreetly.",
+        "attributes": { "INT": 1 }
+      },
+      {
+        "description": "A mission required you to assume a new identity for an extended period, challenging your sense of self.",
+        "attributes": { "AGI": 1 }
+      },
+      {
+        "description": "You began to question the corporation's motives, contemplating your role within it.",
+        "attributes": { "INT": 1 }
+      }
+    ],
+    "late": [
+      {
+        "description": "Promoted to a senior operative, you now handle high-stakes missions with significant impact.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "A mission failure resulted in severe consequences; you grappled with guilt and repercussions.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You discovered evidence of corruption at the highest levels, forcing you to make difficult choices.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "A personal loss affected your focus, challenging your ability to perform under pressure.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You were offered a leadership position that could remove you from fieldwork.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "An innovative gadget you developed changed the landscape of covert operations.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "Faced with conflicting loyalties, you contemplated leaving the corporation.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An internal power struggle required you to navigate complex allegiances.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You began mentoring a protege, passing on your knowledge and legacy.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "A global event required your unique skills; your actions could alter the balance of power.",
+        "attributes": { "AGI": 2, "STR": 1 }
+      },
+      {
+        "description": "You considered exposing corporate secrets, weighing the consequences of such actions.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "An opportunity arose to dismantle a rival organization from within.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You faced backlash for questioning orders, testing your standing within the corporation.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "An alliance with a former enemy offered new possibilities but at potential costs.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      },
+      {
+        "description": "You authored a covert operations manual, solidifying your expertise in the field.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "A health issue prompted you to reconsider the risks of your profession.",
+        "attributes": { "AGI": 2, "INT": 1 }
+      },
+      {
+        "description": "You uncovered plans that could lead to widespread conflict, challenging your moral compass.",
+        "attributes": { "INT": 2, "AGI": 1 }
+      }
+    ]
+  }
+  

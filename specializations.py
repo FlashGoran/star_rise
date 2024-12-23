@@ -1,15 +1,14 @@
 def specialize_from_events(events):
     print("\n=== Step 4: Specializations ===")
-    specializations = {
+    specializations = { # need updates
         "Close Combat": ["Blunt Combat Specialist", "Edge Combat Expert", "Explosives Expert"],
-        "Heavy Machinery": ["FTL Drive", "Industrial", "Starship Eng", "Power Sys", "Enviromental Sys", "Weapon Sys"],
+        "Heavy Machinery": ["Propulsion", "Industrial", "Starship Eng", "Power Sys", "Enviromental Sys", "Weapon Sys"],
         "Stamina": ["Tactical Evasion", "Radiation Resistant", "Thermal Resistant", "Dehydration Training", "Nutritional Endurance"],
         "Mobility": ["Athletics", "Dexterity", "Stealth Movement", "Zero-G Movement"],
-        "Piloting": ["Space", "Drone/remote Operation", "Navigation", "Land", "Sky", "Water"],
+        "Piloting": ["Space", "Remote Control", "Navigation", "Land", "Air", "Water"],
         "Ranged Combat": ["CQB Specialist", "Sniper", "Energy Weapons", "Automatic Weapons", "High-Tech Armament", "Cyber-Integrated Arms", "Precision Weapons"],
-        "ComTech": ["Signal Intelligence", "AI Tech", "Robotics", "Computer Engineering", "Electronics Engineering"],
-        "Observation": ["Systems Analysis", "Surveillance", "Tactical Analysis", "Sensor Specialist", "Forensics", "Tactical Analysis", "Strategic Analysis"],
-        "Survival": ["Wilderness", "Urban", "Hazardous Environments", "First Aid", "Psychological Resistance", "Extreme Environments", "Primitive Tech"],
+        "ComTech": ["Signal Intelligence", "AI Tech", "Robotics", "Computer Eng.", "Electronics Eng."],
+        "Observation": ["Systems Analytics", "Surveillance", "Tactical Analytics", "Sensors", "Forensics", "Tactical Analytics", "Strategic Analytics"],
         "Command": ["Tactical Operations", "Leadership", "Strategic Planning", "Crisis Management", "Operational Planning"],
         "Manipulation": ["Negotiator", "Public Relations", "Social Engineering", "Cybernetics Expert", "PsyOps", "Interrogation", "Public Relations", "Social Engineering", "Forgery"],
         "Science": ["Geneticist", "Cybernetics Expert", "Astrogation", "Linguistics", "Biology", "Chemistry", "Cybernetics", "Xenology", "Psycology", "Physics", "Economics", "Medical Science". "Environmental Science", "Nanotechnology", "Quantum Mechanics", "Advanced Engineering"]
