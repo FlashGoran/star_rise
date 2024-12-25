@@ -1,0 +1,471 @@
+{
+    "success": [
+      {
+        "description": "On a moonless night in the slums of a corporate megacity, the trainee slips past patrolling drones to sabotage a hidden arms cache. Each careful step across the broken rooftops showcases their refined balance and innate stealth. A single silent takedown neutralizes an alert guard blocking the supply crates. In a flawless escape, they scale a half-collapsed fire escape to rendezvous with their contact. Word spreads among the squad of their effortless infiltration, solidifying a growing reputation.",
+        "skills": {
+          "Mobility": 4,
+          "Observation": 3,
+          "Ranged Combat": 2
+        }
+      },
+      {
+        "description": "Assigned to scout a top-secret research bunker, the trainee uses their keen eye to pinpoint a blind spot in the perimeter’s sensor network. They crawl through a drainage tunnel, ignoring the stench, and emerge just behind the security grid. With a few precise keystrokes, they scramble the cameras, buying the squad a silent infiltration window. Once the critical data is copied, they vanish before the system reboots. The swift, calculated mission impresses hardened veterans.",
+        "skills": {
+          "Observation": 4,
+          "ComTech": 3,
+          "Mobility": 3
+        }
+      },
+      {
+        "description": "The trainee lies motionless in a polluted swamp, masked only by camouflage netting, while heavily armed mercenaries comb the area. With nerves of steel, they time each shallow breath to avoid detection, logging enemy positions on a handheld device. A sudden shift in patrol routes forces them to slide across the muck without a ripple. As soon as the mercenaries move on, they relay the intel to the main force, guaranteeing a near-perfect ambush. Command calls it a textbook lesson in stillness and observation.",
+        "skills": {
+          "Mobility": 3,
+          "Observation": 4,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "Hired to recon a grim off-world prison, the trainee undertakes a nighttime parasail insertion onto the compound roof. Gusting winds threaten to blow them off course, but deft control keeps them in stealthy descent. Once inside, they navigate catwalks above guard patrols, tagging each blockade with infrared beacons. A stealth exfil using the prison’s waste chute wraps the operation without raising an alarm. The intel they retrieve reveals sinister experiments on political dissidents, shocking corporate allies.",
+        "skills": {
+          "Piloting": 3,
+          "Mobility": 4,
+          "Observation": 2
+        }
+      },
+      {
+        "description": "During a dusty canyon mission, the trainee spots a hidden sniper nest perched atop a rocky outcrop. Keeping low, they duck behind boulders, edging closer with each wave of swirling sand. A sudden shift in the wind grants a brief visual, and they dispatch the sniper with a single silenced shot. Scavenging the vantage point for key intel, they uncover a map of future ambush sites. Thanks to their vigilance and marksmanship, the entire campaign is spared a nasty surprise.",
+        "skills": {
+          "Ranged Combat": 4,
+          "Observation": 4,
+          "Mobility": 2
+        }
+      },
+      {
+        "description": "Tasked with infiltrating a corporate aerodrome, the trainee shimmies down a mooring cable from a hovering dropship. Their skilled footing navigates treacherous catwalks where a single slip means a hundred-foot fall. Seconds later, they override a security panel to open a cargo hatch, allowing allies to slip inside undetected. Re-securing the hatch, they scale back up the cable as if weightless. The entire incursion is pulled off without so much as a flicker on the control tower’s radar.",
+        "skills": {
+          "Mobility": 5,
+          "ComTech": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "In a crowded spaceport, the trainee tails a black-market data broker through teeming throngs. They maintain just enough distance to avoid suspicion, using reflective surfaces to keep eyes on the target. When the broker tries to vanish into a private shuttle, they hop a service tram and quietly jam the hatch mechanisms. In moments, security arrives to find the broker cornered with incriminating files. The trainee’s unobtrusive style impresses corporate backers waiting in the wings.",
+        "skills": {
+          "Observation": 4,
+          "Mobility": 3,
+          "ComTech": 2
+        }
+      },
+      {
+        "description": "Stationed on a high-gravity training planet, the trainee sets a new base record for the timed infiltration course. Dragging weighted gear behind them, they scale razor-wire walls and slip through sensor grids. Halfway through, they neutralize a patrolling drone using a single controlled shot, never breaking stride. Collapsing at the finish line, they still find the energy to relay crucial objective data. The entire camp buzzes with admiration for their unstoppable agility and focus.",
+        "skills": {
+          "Mobility": 5,
+          "Ranged Combat": 2,
+          "Stamina": 3
+        }
+      },
+      {
+        "description": "In the neon underbelly of a massive arcology, the trainee hustles across catwalks and neon-lit alleys to locate a kidnapping victim. Using a wrist scanner, they track faint bio-signs through a labyrinth of back rooms. When armed thugs spot them, they counter with pinpoint pistol fire before flipping over a railing to the next level. An emergency override on a security door traps the thugs inside, ensuring a clean escape with the hostage. Corporate sponsors note the trainee’s exemplary synergy of cunning and reflexes.",
+        "skills": {
+          "Mobility": 4,
+          "Observation": 2,
+          "Ranged Combat": 3
+        }
+      },
+      {
+        "description": "Chosen for a covert corporate demonstration, the trainee demonstrates infiltration by breaching a sealed skyscraper penthouse. Grappling upwards under heavy rain, they bypass floor after floor of reinforced glass. Popping a single lock on the rooftop hatch, they slip inside and disable an entire security suite in minutes. Executives watch the live feed in disbelief as their top-of-the-line defenses fall without alarm. Impressed by the near-surgical approach, they offer advanced gear sponsorship on the spot.",
+        "skills": {
+          "Mobility": 4,
+          "ComTech": 3,
+          "Observation": 2
+        }
+      },
+      {
+        "description": "In a remote desert outpost, the trainee receives intel about a smuggler ring stashing contraband in underground tunnels. They disguise themselves as a wandering scavenger, sneaking down a ventilation shaft while guards idle above. Once inside, they photograph the illicit goods and plant tracking beacons on high-value crates. Before dawn breaks, they slip out through a rusted trapdoor, leaving no trace of their presence. The sting operation succeeds hours later, guided by those hidden beacons.",
+        "skills": {
+          "Manipulation": 3,
+          "Mobility": 3,
+          "Observation": 2
+        }
+      },
+      {
+        "description": "High above the battered plains, the trainee clings to the underside of a supply transport, waiting for the perfect moment. As the craft touches down behind enemy lines, they roll free and hide behind stacked crates. A quick hack to a security console opens the main gates, causing confusion among patrolling cyborg infantry. Slipping past them, they upload virus-laden data into the local network, crippling comms. Their sabotage ensures allied forces face weakened defenses at dawn.",
+        "skills": {
+          "Mobility": 4,
+          "ComTech": 3,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "During an elite nighttime training scenario, the trainee dives off a ledge into a raging river to avoid sensor sweeps overhead. Battling the current, they navigate sharp rocks and debris, emerging downstream behind the fake enemy camp. Drying off quickly, they plant trackers on the camp’s ammo supplies. By sunrise, when the camp stirs, everything is bugged and under surveillance. Instructors laud their willingness to endure harsh conditions for mission success.",
+        "skills": {
+          "Mobility": 4,
+          "Stamina": 3,
+          "Observation": 2
+        }
+      },
+      {
+        "description": "Aboard a derelict orbital station, the trainee times each step in zero-g to bypass drifting security drones. Floating silent and steady, they key in a partial override to cycle the station’s doors. They recover an encrypted blueprint detailing black-market designs, then launch themselves down a corridor just as drones converge. Slipping into an escape pod, they vent the station’s atmosphere behind them, preventing pursuit. Command applauds their precise zero-g movement and calm data retrieval under duress.",
+        "skills": {
+          "Mobility": 4,
+          "ComTech": 2,
+          "Piloting": 2
+        }
+      },
+      {
+        "description": "Deployed to a swampy frontier world, the trainee uses minimal gear to cross bog-laden trails, navigating by the glow of strange fungus. Each footstep is deliberate to avoid mud traps and lurking predators. Upon reaching a hidden rebel camp, they snap digital photos of illicit weapons stockpiles. A stealth extraction through thick reed forests leaves the rebels clueless of infiltration. The data leads to a swift corporate clampdown within days, crediting the trainee’s unwavering adaptability.",
+        "skills": {
+          "Mobility": 4,
+          "Observation": 3,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "Selected for a specialized infiltration test, the trainee passes unnoticed through a cordon of robotic sentries by exploiting their routine intervals. Once inside the facility, they jam the main sensor node, temporarily blinding all turrets. While the rest of the squad seizes intel, the trainee keeps watch on newly arrived hostiles, dispatching two with a silenced pistol. The entire operation wraps cleanly in under twenty minutes. The orchestrated calm under pressure cements their role as a stealth expert.",
+        "skills": {
+          "Observation": 3,
+          "Mobility": 3,
+          "Ranged Combat": 3
+        }
+      },
+      {
+        "description": "Sent to gather intel on a heavily guarded lab, the trainee scales a vertical shaft hidden behind industrial piping. Sizzling steam valves threaten to scald them at each rung, but they time movements flawlessly. At the top, they hack a local hub, downloading security passcodes while keeping watch for passing engineers. Deftly sliding back down, they slip away before any alarm can be raised. The stolen passcodes lead to a subsequent, successful raid days later.",
+        "skills": {
+          "Mobility": 4,
+          "ComTech": 2,
+          "Observation": 2
+        }
+      },
+      {
+        "description": "Amid the ruins of a once-glorious city, the trainee darts between collapsed arches to eavesdrop on raider warlords. Using a directional microphone, they record details of an imminent arms shipment. When a scout almost stumbles upon them, the trainee distracts him with a tossed rock, then vanishes behind fallen pillars. Minutes later, they transmit the intel to HQ via a makeshift antenna. Their cunning remains the difference between an ambush averted or a catastrophe.",
+        "skills": {
+          "Observation": 4,
+          "Mobility": 3,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "Assigned to observe a high-ranking CEO’s clandestine meeting, the trainee boards a monorail disguised as a corporate intern. Navigating polite chatter with employees, they slip into a restricted carriage where the meeting unfolds. Storing audio logs on an encrypted datachip, they exit at the next station unnoticed. The recordings reveal damaging deals, quickly snapped up by investigative journalists. Higher-ups congratulate the trainee for their uncanny ability to blend into any environment.",
+        "skills": {
+          "Manipulation": 3,
+          "Mobility": 2,
+          "Observation": 2
+        }
+      },
+      {
+        "description": "Under siege by unknown assailants, the trainee volunteers to hold the perimeter while a research team escapes. Using minimal gunfire to avoid drawing undue attention, they keep hostiles pinned from cover, weaving through debris with cat-like grace. A well-timed flash grenade blinds the final wave of attackers, allowing the trainee to fade into the smoky aftermath. The research team boards a rescue craft unscathed. Word spreads of the trainee’s lethal calm under intense pressure.",
+        "skills": {
+          "Ranged Combat": 3,
+          "Mobility": 3,
+          "Observation": 2
+        }
+      },
+      {
+        "description": "Hidden in tall grass beneath an alien moon, the trainee snaps infrared photos of a forward enemy bunker. Recognizing a pattern in the bunker’s patrol routes, they quickly gesture signals to an approaching allied strike team. Without raising an alarm, they slip behind a rocky outcrop and direct precise mortar coordinates by coded hand signs. The resulting bombardment neutralizes the bunker with minimal allied exposure. Tactical commanders praise the synergy of stealth and battlefield intuition.",
+        "skills": {
+          "Observation": 4,
+          "Mobility": 3,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "Under the watchful gaze of a rival corporate faction, the trainee sneaks onto a cargo barge by masquerading as a clueless dockhand. Feigning confusion, they divert suspicion long enough to locate smuggled high-tech weaponry. After discreetly planting tracking beacons, they time a convenient ‘accident’ that forces the barge’s early departure. The resulting interception by allied forces proves the trainee’s cunning infiltration was worth the risk. Colleagues marvel at how effortlessly they vanished once the job was done.",
+        "skills": {
+          "Manipulation": 3,
+          "Observation": 2,
+          "Mobility": 3
+        }
+      },
+      {
+        "description": "Given a borderline impossible infiltration target, the trainee navigates an automated facility bristling with mechanized defenders. By memorizing each scanning arc, they dart through corridors, occasionally disabling smaller drones with pinpoint shots. Reaching the central server, they extract vital design schematics without triggering a single major alarm. Climbing out via a maintenance hatch, they evade the final patrol at the last second. Operation logs credit them for near-superhuman timing and precision.",
+        "skills": {
+          "Observation": 3,
+          "Ranged Combat": 3,
+          "Mobility": 3
+        }
+      },
+      {
+        "description": "On a high-windswept plateau, the trainee spots a caravan transporting illicit goods. Skulking through a dust storm, they hop onto the rearmost vehicle, rummaging for shipping manifests. A dust devil nearly exposes them, but they crouch behind crates until the wind passes. Discreetly dropping off the vehicle, they pass the intel to allied rangers lying in wait. The perfect timing leads to a swift, surgical seizure of contraband.",
+        "skills": {
+          "Mobility": 4,
+          "Observation": 2,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "Volunteering for an all-or-nothing infiltration in a labyrinthine biotech tower, the trainee scales an external framework under flickering neon lights. Jamming a single frequency in the guard drones, they slip onto the 43rd floor unchallenged. Quickly copying genetic data from an encrypted server, they place a virus to mask the breach. Shimmying down cables to street level, they vanish into the crowd. Their precise, fearless approach secures vital intel in mere minutes.",
+        "skills": {
+          "Mobility": 4,
+          "ComTech": 3,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "During a final recon exam, the trainee outwits a trio of expert instructors disguised as enemy lookouts. First, they create a decoy explosion that draws attention away from the real infiltration route. Next, they scale a rocky ridge and silently photograph the ‘enemy base’ from above. As the instructors scramble to locate the source of the decoy, the trainee transmits the photos to mission control. The exam concludes with unanimous praise for their cunning multi-pronged tactics.",
+        "skills": {
+          "Mobility": 4,
+          "Observation": 2,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "Plunging into a radioactive canyon under corporate contract, the trainee uses a hazard-proof cloak to slip beneath roving rad-beasts. They intercept a clandestine trade between rogue scientists, capturing audio logs of illegal tech exchange. Carefully timing each footstep, they exfil using an overhead tram that was left running as a decoy. Days later, the recorded evidence dismantles the black market ring. Colleagues hail the trainee’s grit and knack for infiltration under extreme conditions.",
+        "skills": {
+          "Mobility": 4,
+          "Stamina": 3,
+          "Observation": 2
+        }
+      },
+      {
+        "description": "On a battered colony world with minimal infrastructure, the trainee improvises a battered hoverbike to outpace marauder scouts. Bobbing and weaving through rubble, they lead the scouts on a merry chase away from the allied rendezvous. Abruptly braking behind a fallen tower, they slip out of sight, letting the scouts race on cluelessly. Sneaking back to the colony with stolen security codes, they secure a safe house for evac. The plan’s success underscores their skill in vehicular evasion and cunning misdirection.",
+        "skills": {
+          "Piloting": 3,
+          "Mobility": 3,
+          "Observation": 2
+        }
+      }
+    ],
+    "failure": [
+      {
+        "description": "Convinced of an easy infiltration, the trainee attempts to bypass an enemy fortress’s main gate by sprinting through a momentary patrol gap. Halfway across open ground, a hidden guard tower spots them, sounding alarms. Scrambling for cover behind crates, they find themselves pinned until forced to retreat under heavy fire. The mission is scrapped, and backup squads must handle the fortress another day. Stinging embarrassment teaches them that raw speed cannot replace careful timing.",
+        "skills": {
+          "Mobility": 4,
+          "Observation": 2,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "In a cramped smuggler’s bay, the trainee attempts to hack a cargo manifest without deactivating the silent alarm first. Just as they crack the encryption, local enforcers swarm the compartment. Panicked, they take a few scattered potshots before diving through a side hatch. The smugglers flee, manifest in hand, while the trainee limps away empty-handed. Command emphasizes that an infiltration’s first rule is always securing the environment.",
+        "skills": {
+          "ComTech": 3,
+          "Ranged Combat": 2,
+          "Mobility": 2
+        }
+      },
+      {
+        "description": "Eager to prove their pilot skills in a hostile desert infiltration, the trainee descends too fast toward a secret landing zone. High winds slam the craft into a rocky outcrop, damaging the thrusters and alerting the enemy. Forced to bail, they’re discovered trekking aimlessly across dunes without gear. The rest of the squad must mount a rescue, nullifying any element of surprise. Instructors scold the trainee’s overconfidence with advanced craft in precarious conditions.",
+        "skills": {
+          "Piloting": 3,
+          "Mobility": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "Underestimating a fortress’s layered defenses, the trainee attempts a direct infiltration through rooftop vents. Heat sensors detect their body temperature, sealing the vents with blast doors. Stuck in a narrow crawlspace, they can only retreat after hours of nerve-wracking effort. The fortress remains on full alert, ensuring no second chance. Superiors note that skipping crucial intel checks can doom even the fastest operator.",
+        "skills": {
+          "Mobility": 3,
+          "ComTech": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "In a lavish corporate tower, the trainee tries forging credentials to access a secure boardroom. Their fake ID tags glitch during the final scan, raising immediate suspicion. Security drones converge, forcing a frantic dash through stunned executives. The board meeting is locked down, and the vital negotiations remain hidden. The humiliating fiasco highlights the risks of incomplete or rushed manipulation tactics.",
+        "skills": {
+          "Manipulation": 3,
+          "Mobility": 2,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "While scanning for an off-world fugitive, the trainee fixates on a decoy signal, ignoring suspicious gaps in the fugitive’s electronic footprint. Racing to a bogus location, they find only leftover scraps of gear. Meanwhile, the real fugitive escapes planetwide detection. Returning empty-handed, the trainee faces harsh scrutiny over reliance on a single data lead. The fiasco cements a lesson in verifying intel from multiple sources.",
+        "skills": {
+          "Observation": 3,
+          "ComTech": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Hoping for a quick infiltration into an underwater research station, the trainee forgets to calibrate oxygen filters for the station’s unique environment. Partway through a submerged passage, they suffer mild hypoxia and fumble their waterproof tablet, alerting security to their presence. Narrowly surfacing, they abort the mission with no intel gained. Corporate heads lament the wasted infiltration window and costly submersible gear. The trainee nurses a bruised ego and a searing headache of regret.",
+        "skills": {
+          "Piloting": 2,
+          "Mobility": 2,
+          "Stamina": 2
+        }
+      },
+      {
+        "description": "Sent to seize contraband from a shady merchant, the trainee opts for a flashy rooftop chase rather than a careful tail. The merchant quickly ducks into a hidden hatch, sealing it from inside. Fumbling with tools, the trainee fails to break through in time, allowing the merchant to vanish below the city. Days of planning collapse in one reckless rush. The fiasco spurs them to refine subtle pursuit skills over dramatic showmanship.",
+        "skills": {
+          "Mobility": 3,
+          "Ranged Combat": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "During an infiltration test in a methane swamp, the trainee attempts to rely solely on a personal oxygen scrubber. When it malfunctions, no backup plan is in place, leaving them gasping as security drones move in. They barely escape with minimal oxygen reserves, calling for emergency evac. The drones remain intact, capturing a trove of data on allied infiltration tactics. The instructors label it a painful object lesson in gear redundancy.",
+        "skills": {
+          "Mobility": 2,
+          "Stamina": 3,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "Assigned to photograph a black-market arms deal, the trainee picks a vantage point with minimal concealment. Midway, a guard spots their camera lens glint, raising an immediate alarm. Forced into a hasty retreat, they snag only a few blurry images that prove inconclusive. The arms traffickers relocate before any allied raid can occur. The near miss underscores how a single overlooked detail can sabotage the entire mission.",
+        "skills": {
+          "Observation": 3,
+          "Mobility": 2,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "Rushing to disable an automated turret array, the trainee forgets to neutralize the backup power circuit. The turrets reboot just as they approach, spraying the corridor with plasma fire. Ducking into a side room, they hail an extraction team in shame. Key infiltration paths remain blocked, derailing the entire operation. The after-action report highlights an overreliance on speed instead of thoroughness.",
+        "skills": {
+          "ComTech": 2,
+          "Mobility": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "While tailing a corporate VIP, the trainee underestimates the resources at the VIP’s disposal. A trained bodyguard detail spots them trying to blend into a swanky lounge. Caught between mirrored walls, they have nowhere to hide when approached. The VIP escapes with crucial documents, and the infiltration ends in awkward confrontation. Superiors admonish the trainee’s naive assumption of unprepared targets.",
+        "skills": {
+          "Manipulation": 2,
+          "Mobility": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "Fixated on capturing holographic proof of an illegal weapons lab, the trainee misses the subtle shift of guard rosters. Just as they start recording, a fresh patrol stumbles upon their vantage point. Faced with superior numbers, the trainee flees, losing both the evidence and the chance for a second attempt. The mission ends with leadership lamenting lost intel. The fiasco cements the necessity of real-time updates on rotating security shifts.",
+        "skills": {
+          "Observation": 3,
+          "Mobility": 2,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "Coordinating an assault from a secluded vantage, the trainee overlooks a hidden sniper perch. Mid-operation, a single shot grazes them, scattering allied squads into disarray. Forced to retreat for medical aid, the operation falls apart without proper oversight. A valuable chance to cripple enemy defenses is wasted. In the debrief, they acknowledge failing to thoroughly scan the area’s elevations.",
+        "skills": {
+          "Ranged Combat": 2,
+          "Observation": 3,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Under pressure to show initiative, the trainee rushes ahead of their unit into a derelict reactor complex. Overly confident in their agility, they slip on a coolant spill, triggering sensors that lock down the entire corridor. Pinned until forced rescue arrives, they watch from behind sealed blast doors as the operation window closes. Squadmates express annoyance at the self-imposed blunder. The fiasco underscores that no amount of speed excuses ignoring environmental hazards.",
+        "skills": {
+          "Mobility": 3,
+          "ComTech": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "In a cramped sewer infiltration, the trainee mishandles a stolen keycard, warping it in a corroded console. Lockdown shutters slam into place, alerting distant guard posts. Unable to pass or double back, they climb through toxic sludge to find an alternate exit. By the time they reemerge, the mission is long compromised. Leadership warns them about the critical importance of properly handling limited-access gear.",
+        "skills": {
+          "ComTech": 2,
+          "Mobility": 2,
+          "Stamina": 2
+        }
+      },
+      {
+        "description": "Attempting a high-wire infiltration across a tense border zone, the trainee misjudges crosswinds on a zipline. Swinging too wide, they collide with a signal mast, creating a shower of sparks. Border troops zero in on the site, forcing a half-blind retreat under scattered gunfire. Diplomatic outcry escalates as the infiltration is exposed. The humiliating spectacle exemplifies what happens when showy stunts override meticulous planning.",
+        "skills": {
+          "Piloting": 2,
+          "Mobility": 3,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "Underestimating a laser-web security system, the trainee attempts to crawl beneath shimmering beams. A slight miscalculation triggers the alarm, sealing vault doors and releasing automated turrets. Scrambling behind crates, they pepper the turrets with gunfire but cannot safely access the mission objective. Extraction teams cut them free, scolding the sloppy approach. The entire fiasco underscores that raw dexterity won’t always outsmart advanced tech.",
+        "skills": {
+          "Mobility": 3,
+          "Ranged Combat": 2,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "Sent to gather intel on a hidden subterranean colony, the trainee relies on unverified rumors for the infiltration route. Barely inside the tunnel entrance, they realize it’s a dead end with no safe exits. Alerts ring out as hidden sensors capture their image. Stuck with no fallback plan, they abandon the mission in a fluster of echoing sirens. Later, they reflect on the necessity of cross-checking every lead before leaping in.",
+        "skills": {
+          "Observation": 3,
+          "Mobility": 2,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "Aboard a drifting supply ship, the trainee tries to outmaneuver rival infiltrators also hunting for cargo. Distracted by competition, they leave the central docking bay unguarded. Rival agents seize key crates and cause a hull breach, sending the trainee scrambling for an escape pod. The mission ends with no salvage, tarnishing their record. Complacency in a contested environment proves a grave error.",
+        "skills": {
+          "Mobility": 3,
+          "Ranged Combat": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "With tensions high on a quarantined station, the trainee attempts to slip in disguised as a maintenance tech. A thorough ID scan flags them as an unknown, prompting security lockdown protocols. Cornered, they blow their cover and sprint for an airlock with no intel gained. The fiasco leaves them labeled a saboteur by paranoid station officials. The meltdown of trust underscores the perils of incomplete identity forgery.",
+        "skills": {
+          "Manipulation": 2,
+          "ComTech": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Obsessed with speed, the trainee tries to complete a daredevil infiltration in half the allotted time. They skip essential scanning for trip lasers, triggering an immediate blast door drop. Trapped alone with no remote override, they waste crucial minutes hacking from the inside. By the time squads arrive, the main objective is sealed off permanently. The sour outcome cements a cautionary tale about haste overtaking prudence.",
+        "skills": {
+          "Mobility": 3,
+          "ComTech": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "Deployed to track a rebel leader on a toxic frontier, the trainee skims over dire hazard warnings. Venturing too close to irradiated swampland, they succumb to sickness mid-mission, collapsing behind a rotted trunk. By the time backup arrives with treatment, the trail is cold, and the leader long gone. Furious superiors highlight that no infiltration stands a chance against sheer environmental ignorance. The recruit laments their disregard for crucial safety notes.",
+        "skills": {
+          "Mobility": 2,
+          "Stamina": 3,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "To impress visiting dignitaries, the trainee attempts an overly ambitious infiltration scenario in a virtual sim. Cutting corners, they fail to note multiple guard spawn points, quickly becoming boxed in. The dignitaries watch as VR turrets mow down the trainee’s avatar in a humiliating display. Though virtual, the fiasco reflects poorly on real readiness. The lesson: simulated stealth demands the same vigilance as a live operation.",
+        "skills": {
+          "Mobility": 3,
+          "Observation": 2,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "Late to a crucial briefing, the trainee improvises a plan to sabotage a factory rumored to produce chemical weapons. They misunderstand the layout, placing charges near the wrong chemical vat. The resulting minor blast does little damage but raises a station-wide alarm. Breaking out under heavy pursuit, they escape empty-handed and humiliated. Higher-ups emphasize that infiltration without proper intel is a gamble rarely worth taking.",
+        "skills": {
+          "Mobility": 3,
+          "Ranged Combat": 1,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "Given the job of tagging an enemy convoy, the trainee decides to plant trackers on the vehicles while they refuel in an open market. Bumping into a suspicious vendor, they accidentally set off a panic that disperses the crowd and alerts the convoy. Vehicles peel away in disarray before the trackers can be attached. The unplanned chaos ruins a prime recon chance. Fellow operatives groan at the amateur slipup in a bustling public space.",
+        "skills": {
+          "Mobility": 3,
+          "Observation": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Stationed on a drifting habitat ring, the trainee attempts to float undetected through service corridors to tap an encrypted node. They fail to notice a remote override prompt triggered by the habitat’s AI, sealing bulkheads behind them. Unable to proceed or retreat, they’re discovered by maintenance droids. Ejecting in a lifeboat becomes the only option, scrapping the mission. The fiasco underscores how reliant infiltration can be on anticipating AI responses.",
+        "skills": {
+          "ComTech": 2,
+          "Mobility": 2,
+          "Observation": 2
+        }
+      },
+      {
+        "description": "In an attempt to show bravery, the trainee volunteers for a frontal infiltration of a well-guarded fortress during daylight. As guards spot them crossing open terrain, automated turrets open fire without hesitation. They’re forced to retreat behind a broken wall until an allied airstrike covers extraction. The fortress remains unscathed, and the operation is a complete dud. The recruit’s pride takes a hit as they learn that stealth rarely mixes well with broad daylight assaults.",
+        "skills": {
+          "Mobility": 3,
+          "Stamina": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "On an arctic station infiltration, the trainee believes their body can handle the subzero storm with minimal gear. Within an hour, frostbite claims their fingertips, hampering lockpicking attempts. Forced to warm up near a generator, they lose precious time as alert squads close in. Leaving empty-handed, they reflect on how even top agility can’t circumvent nature’s extremes unprepared. Leadership reassigns them to basic environmental training, citing glaring misjudgment.",
+        "skills": {
+          "Stamina": 3,
+          "Mobility": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "Commanding an infiltration in a corporate data vault, the trainee tries a complicated multi-prong approach beyond their squad’s practice. Half the team fails to breach the sub-level, while the other half triggers a partial meltdown. Emergency shutters trap the trainee inside a sealed corridor, forcing them to cut their way out. With casualties mounting, the mission is aborted. Post-op analysis blames the trainee’s over-ambitious plan and poor coordination.",
+        "skills": {
+          "Command": 2,
+          "ComTech": 2,
+          "Mobility": 1
+        }
+      }
+    ]
+  }
+  

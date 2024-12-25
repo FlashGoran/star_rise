@@ -1,0 +1,607 @@
+{
+    "success": [
+      {
+        "description": "I spent my first weeks on the frontier campus tending wounds in a cramped med-bay under flickering lights. One evening, a worker staggered in with a shattered arm after a violent dispute. I stabilized the fracture using improvised support while guiding nervous onlookers with concise orders. When corporate security nearly broke in, I switched tactics and delivered pinpoint suppressive fire, ensuring no one else got hurt. The faculty praised my balanced composure between urgent care and sudden combat.",
+        "skills": {
+          "Observation": 4,
+          "Command": 3,
+          "Science": 3,
+          "Ranged Combat": 2,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "In the middle of a sudden riot simulation, I led a small group of cadets through toxic smog blanketing the training dome. My quick thinking identified safe pathways by analyzing vent outputs, preventing anyone from collapsing. As we advanced, armed aggressors tried to corner us, but a few calm, precise shots repelled them. Pausing only to dress minor injuries, I shepherded the team to the dome’s exit. In the post-scenario briefing, mentors highlighted how observation and reassurance kept tensions under control.",
+        "skills": {
+          "Observation": 5,
+          "Command": 3,
+          "Science": 3,
+          "Ranged Combat": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "During an advanced meltdown drill, the reactor’s coolant lines ruptured amidst panicked cadets. Ignoring the intense heat, I rushed into the steam-flooded chamber, ordering a hasty perimeter while sealing the breach. Each command stifled the chaos, allowing me to apply rapid chemical patches to leaking pipes. A final pass with a medical scanner confirmed no hidden injuries among the scattered bystanders. The director of operations personally commended my leadership under near-fatal conditions.",
+        "skills": {
+          "Observation": 4,
+          "Command": 3,
+          "Science": 4,
+          "Ranged Combat": 2,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "Out on a bleak colony outpost, scarce resources tested everyone’s morale. I volunteered to triage exhausted laborers suffering from radiation sickness, employing field-lab knowledge to mix improvised anti-rad doses. In between distributing them, I repelled roving scavengers with measured rifle bursts. Each success boosted the workers’ trust, forging a rare sense of unity despite corporate neglect. My superiors later cited this mission as proof of effective, empathetic medical management.",
+        "skills": {
+          "Science": 4,
+          "Observation": 3,
+          "Command": 3,
+          "Ranged Combat": 2,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "My final infiltration test had me escorting a VIP through dim corridors patrolled by malfunctioning security drones. While the VIP struggled to breathe, I administered an emergency lung booster from my medkit. When a drone converged, I neutralized it with a single well-aimed shot, never dropping the medkit’s handle. Stepping over metal debris, I guided the VIP to extraction without a single scratch. The academy staff declared it a shining demonstration of calm under relentless tension.",
+        "skills": {
+          "Observation": 4,
+          "Stamina": 3,
+          "Ranged Combat": 3,
+          "Science": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A training accident erupted on a busy runway, leaving multiple cadets flailing under downed debris. Despite alarms and swirling dust, I took charge, carefully scanning for spinal injuries before applying carbon-fiber braces. Hostile practice bots marched closer, so I switched to carefully placed shots, halting their approach. With a final check of vitals, I ordered a safe evacuation route. In the aftermath, instructors noted I’d balanced medical triage with decisive defensive action perfectly.",
+        "skills": {
+          "Observation": 3,
+          "Command": 3,
+          "Science": 4,
+          "Ranged Combat": 2,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "An unexpected sabotage left the infirmary’s oxygen supply compromised in the dead of night. I quickly assembled a ragtag relief team, directing them with firm gestures to fix broken valves while I stabilized gasping patients. When masked raiders appeared, seeking to exploit the crisis, I dropped two of them with precise rifle shots. No further casualties emerged under my watch, and we restored limited O2. Officials marveled at how seamlessly I switched from caretaker to guardian amid corporate greed.",
+        "skills": {
+          "Command": 3,
+          "Ranged Combat": 3,
+          "Science": 3,
+          "Observation": 2,
+          "Stamina": 2
+        }
+      },
+      {
+        "description": "Rumors of a rogue soldier stalking the desert campus forced my group indoors to triage the heat-exhausted. Gunfire crackled nearby, but I methodically rehydrated each casualty, simultaneously scanning for vantage points. The moment I spotted the soldier’s silhouette, a single bullet from my rifle ended the threat. Sweating from both adrenaline and scorching heat, I kept handing out stims to ensure no one collapsed. Senior instructors hailed my unflappable focus during a dual medical-and-combat crisis.",
+        "skills": {
+          "Stamina": 4,
+          "Ranged Combat": 3,
+          "Observation": 4,
+          "Science": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "While practicing emergency drills in a derelict space station, a pipe burst unleashed scorching steam that trapped recruits. Shouting clear instructions, I had them duck behind sealed compartments while I patched the leak. In that haze, I detected a micro-fracture in someone’s visor, administering a sealant that prevented decompression. Hostile drones tried to pin us down, but two well-aimed bursts neutralized them. Even the hardened engineers acknowledged how rapidly I’d stabilized that chaotic meltdown scenario.",
+        "skills": {
+          "Observation": 3,
+          "Command": 4,
+          "Science": 3,
+          "Ranged Combat": 2,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "In the outback wastelands, no advanced scans could locate a lost cadet said to be dying of thirst. I marched over dunes with determined steps, using keen observation to spot faint footprints. Finally, I found the cadet unconscious under searing sun, veins dangerously low on fluids. Administering an electrolyte booster, I then fended off a scorpion-like predator with controlled rifle bursts. The cadet survived, recalling my quiet vow to never abandon anyone in a savage corporate wilderness.",
+        "skills": {
+          "Stamina": 5,
+          "Observation": 4,
+          "Science": 3,
+          "Ranged Combat": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A test involving a decaying colony forced me to repair improvised medical devices on the fly. Each contraption I rebuilt served to pump out noxious fumes or filter murky water for huddled workers. Despite roving patrols interfering, I held them at bay with concise bursts, ensuring no infiltration. Checking for contamination, I used leftover sensor kits to diagnose hidden ailments among the workers. My instructors concluded that this mission demonstrated strategic usage of observational skill and med-tech know-how under corporate neglect.",
+        "skills": {
+          "Science": 4,
+          "Observation": 3,
+          "Ranged Combat": 3,
+          "Stamina": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "When my platoon’s supply lines broke down on a battered rimworld outpost, tensions soared among starving cadets. I volunteered to distribute the last of our rations while scanning for any sign of sabotage. At the first hint of stolen goods, I confronted the culprit, disarming them with a single shot before applying a sedative to calm the conflict. The rest of the platoon rallied behind me, forming a ration schedule that averted mutiny. Even the harshest instructor admitted I defused a meltdown by balancing security with compassion.",
+        "skills": {
+          "Command": 3,
+          "Observation": 4,
+          "Ranged Combat": 2,
+          "Science": 2,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "A mass casualty drill simulated a sabotage that unleashed swirling toxins in the med-complex. I sealed the vents using quick manual overrides while reading toxic levels with sharp Observation. Each time a delirious trainee collapsed, I administered tailored anti-toxin shots, holding them steady. When malfunctioning turrets threatened to mow us down, calm but lethal rifle fire ended that hazard. The entire fiasco concluded with minimal ‘casualties,’ largely credited to my unwavering vigilance under chemical warfare conditions.",
+        "skills": {
+          "Observation": 5,
+          "Science": 3,
+          "Stamina": 3,
+          "Ranged Combat": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "On a cramped docking platform, a faulty crane pinned one cadet while an automated loader ran amok. I dashed in, first tranquilizing the loader’s driver gone berserk from stress, then shutting the machine down. Squeezing beneath metal arms, I stabilized the cadet’s shattered leg with a portable fixator. Each passing second felt lethal, but my watchful eyes and direct instructions guided a safe extraction. Reflecting on it later, I realized it was a prime example of seamless synergy between direct medical care and immediate hazard control.",
+        "skills": {
+          "Observation": 4,
+          "Command": 3,
+          "Ranged Combat": 2,
+          "Science": 2,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "Aboard a drifting salvage vessel, I led a triage detail to treat severe decompression sickness among scrappers. My scans revealed deeper lung damage, prompting swift custom injections to restore oxygen capacity. Alerted by footsteps, I aimed my rifle at suspected looters, forcing them to retreat without violence. Finishing the triage, I escorted the conscious scrappers off that ghostly vessel. In post-report notes, I was lauded for blending calm medical insight with solid situational control under vacuum-laden conditions.",
+        "skills": {
+          "Science": 4,
+          "Observation": 3,
+          "Ranged Combat": 3,
+          "Stamina": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "When hijackers threatened a mid-orbit shuttle, I was the only one not paralyzed by fear. Swiftly scanning the cabin, I zeroed in on their improvised device and placed a well-timed shot to disable its trigger. Even as they panicked, I administered sedatives to frantic bystanders, preventing any stampede. By the time corporate security boarded, no civilian was harmed. It felt surreal, but the instructor’s panel commended my unshakable stance, calling it a hallmark of a Marine Medic’s psychological fortitude.",
+        "skills": {
+          "Observation": 4,
+          "Ranged Combat": 3,
+          "Stamina": 3,
+          "Command": 2,
+          "Science": 1
+        }
+      },
+      {
+        "description": "On a toxic swamp-based training course, I used advanced filters to ferry vials of vaccine through knee-deep sludge. Gnarled pests lurked among the reeds, yet methodical rifle bursts kept them from overrunning me. Between each encounter, I carefully administered the vaccine to simulate local survivors. The relentless stench tested my stamina, but I refused to let fatigue overshadow the mission. Reaching safe ground with every vial intact, I proved that meticulous pacing and unwavering grit defined a Marine Medic’s success.",
+        "skills": {
+          "Stamina": 5,
+          "Ranged Combat": 3,
+          "Observation": 3,
+          "Science": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "An unexpected meltdown in a corporate research tower left an entire top floor full of trapped trainees. I rappelled from the roof with a set of improvised harnesses, directing each to strap in. While reeling them up one by one, I fended off a rogue security turret by lining up accurate bursts from my vantage point. Checking vitals on each rescued trainee, I distributed stimulants to keep them conscious. The tower’s meltdown ended with all cadets safe—owing to my calm synergy of rescue know-how and marksmanship.",
+        "skills": {
+          "Command": 3,
+          "Stamina": 4,
+          "Ranged Combat": 3,
+          "Observation": 2,
+          "Science": 1
+        }
+      },
+      {
+        "description": "In an orchestrated combat sim, I took point in triaging while under assault from corporate shock troopers. Recognizing their advanced gear, I ordered pinned recruits to form a crossfire. Meanwhile, I injected coagulant into a badly bleeding squadmate, never pausing my situational scanning. A final wave of troopers fell back from precise rifle cover, enabling my team to complete the objective. In the end, the sim rated me as near-perfect in combining first-line medical intervention and commanding presence.",
+        "skills": {
+          "Observation": 4,
+          "Ranged Combat": 3,
+          "Command": 3,
+          "Science": 2,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "Poised on a barren colony ridge, I faced a meltdown crisis from an underground power station. My thorough sensor sweeps located cracks releasing lethal fumes, so I sealed them using a science-based epoxy method. Reorienting mid-task, I sniped an approaching marauder who threatened to sabotage the station further. Then, I resumed patching cracks, ensuring no sabotage overshadowed my rescue goals. The post-debrief recognized my unwavering science-driven approach, calm under violent tension.",
+        "skills": {
+          "Science": 4,
+          "Observation": 3,
+          "Ranged Combat": 3,
+          "Stamina": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a corporate evacuation scenario, I discovered a hidden bunker filled with delirious workers trapped by lethal gas. With minimal gear, I improvised detox injections, carefully pacing each dose. Hostile drones swarmed in the corridor, but quick rifle bursts kept them at bay, preventing mass casualties. Loading the half-conscious workers onto hover stretchers, I guided them out with minimal fuss. In the final briefing, my peers were stunned by how methodically I neutralized both chemical and robotic threats.",
+        "skills": {
+          "Stamina": 3,
+          "Observation": 4,
+          "Ranged Combat": 3,
+          "Science": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "An unauthorized brawl erupted in the academy’s subterranean levels, leaving battered cadets sprawled in stale air. Steering clear of flying fists, I triaged bruises, cuts, and a dangerous skull fracture. The moment an aggressive ringleader lunged at me, I neutralized him with two calm, measured shots. Then, I resumed bandaging, ensuring no hotheaded fool disrupted crucial first-aid. The entire fiasco concluded with minimal lasting damage, instructors acknowledging how I balanced lethal force and urgent care flawlessly.",
+        "skills": {
+          "Close Combat": 3,
+          "Observation": 3,
+          "Stamina": 4,
+          "Ranged Combat": 2,
+          "Science": 2
+        }
+      },
+      {
+        "description": "Under the luminescent signs of a corporate plaza, an explosion shrapnel-injured multiple interns. Despite scorching debris and flickering neon overhead, I methodically administered coagulant foam and trauma patches. Sensing a second bomb about to detonate, I swiftly shielded the wounded behind a toppled kiosk, firing at a hidden saboteur. With the threat neutralized, I resumed triage, stabilizing vitals until evac teams arrived. That night, I finally understood the delicate dance between medical composure and reactive firefights in a profit-hungry dystopia.",
+        "skills": {
+          "Stamina": 3,
+          "Ranged Combat": 3,
+          "Observation": 4,
+          "Science": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "An urgent mission to retrieve vital research from a quarantined lab placed me in biohazard gear. Step by step, I navigated strobing corridors to inoculate infected staff. A glitch in the air filtration triggered an alarm, and corporate drones zeroed in. My rifle shots rang out in crisp echoes, halting them from damaging the last of the research. With each staff member propped up by my guiding arm, we fled that cursed lab, data and patients intact. The academy pinned this as a triumph in synergy of swift observation and specialized healing.",
+        "skills": {
+          "Observation": 4,
+          "Science": 4,
+          "Ranged Combat": 3,
+          "Stamina": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A sabotage event forced me to improvise a pop-up clinic in a battered cargo hold, flickering overhead lights barely illuminating the mess. Scores of wounded cadets poured in, limbs fractured or pulses weak. I orchestrated medical protocol, dispatching hasty orders to each frightened newcomer while scanning for hidden threats. At the faint click of a stealth drone behind shipping crates, I snapped off a shot that neutralized it before it could do harm. By dawn, all survivors credited my unwavering presence with saving the day.",
+        "skills": {
+          "Command": 3,
+          "Observation": 4,
+          "Stamina": 3,
+          "Ranged Combat": 2,
+          "Science": 1
+        }
+      },
+      {
+        "description": "Trapped in an off-world module with a cracked hull, I recognized the risk of decompression for the entire squad. Sealing micro-tears in the corridor walls, I also administered oxygen boosters to fainting cadets. When bandits tried to breach an adjacent airlock, I provided covering bursts that pinned them back. Securing one final seal, I evacuated everyone just as the hull gave a final groan. My calm judgement under a suffocating threat earned particular nods of respect from the reviewing board.",
+        "skills": {
+          "Observation": 3,
+          "Stamina": 4,
+          "Ranged Combat": 3,
+          "Science": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A high-pressure infiltration lesson pitted me against corporate training drones while protecting a delirious scientist. Shielding them from the barrage, I coaxed them into swallowing a neural stabilizer. Multiple drones flanked from behind, but quick bursts from my rifle ensured no harm reached the patient. Overriding the lab’s security with basic science protocols, I sealed the final door. My mentors praised how I juggled advanced medical procedures and lethal firefights seamlessly.",
+        "skills": {
+          "Observation": 4,
+          "Science": 3,
+          "Ranged Combat": 3,
+          "Stamina": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Over at the perimeter fence in a remote colony, a malfunctioning turret peppered the area with stray bullets. Risking my own safety, I timed each shot, rolling forward to inject sedation into a wounded guard. A final precise bullet jammed the turret’s pivot, halting the crossfire. Then, I triaged the trembling guard’s wounds, ensuring stable vitals for evac. Witnesses murmured how I’d navigated the hail of gunfire with an eerie calm, embodying everything a Marine Medic stands for.",
+        "skills": {
+          "Ranged Combat": 4,
+          "Observation": 3,
+          "Stamina": 3,
+          "Science": 2,
+          "Command": 1
+        }
+      }
+    ],
+    "failure": [
+      {
+        "description": "I attempted to rescue stranded interns in an aging cargo bay, overestimating my ability to carry them all alone. Midway, an alert rung out: structural beams buckled, toppling near us. Struggling to keep everyone upright, I lost track of vital supplies, leaving half the interns untreated. As corporate troopers rushed in, chaos forced me to withdraw in shame. The academy marked this as a sobering instance of overambition drowning out prudent triage steps.",
+        "skills": {
+          "Stamina": 2,
+          "Observation": 3,
+          "Close Combat": 2,
+          "Ranged Combat": 1,
+          "Science": 1
+        }
+      },
+      {
+        "description": "On a surprise infiltration test, I bet everything on my advanced sedation approach, confident I could subdue hostiles quietly. The first sign of trouble was a misfire, alerting every guard in the complex. Pinned down in a corridor, I couldn’t finalize my attempts to treat a wounded companion. We fled with no successful rescue, an abject scenario fail. My mentors grimly reminded me that silent ambition can falter against real vigilance in corporate enclaves.",
+        "skills": {
+          "Science": 3,
+          "Observation": 2,
+          "Stamina": 2,
+          "Ranged Combat": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Believing rumors of a short path across a lethal acid marsh, I led a small group to recover essential meds. Within minutes, the acidic ground corroded our boots, leaving us scrambling on half-solid platforms. I wrestled with gear to salvage the meds, only to slip and drop half the vials into the burning sludge. Choking on acidic fumes, we retreated battered and empty-handed. The post-mortem hammered in that ignoring official hazard charts can lead to catastrophic oversights.",
+        "skills": {
+          "Observation": 3,
+          "Stamina": 2,
+          "Ranged Combat": 1,
+          "Science": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Desperate to impress superiors during a blackout scenario, I rushed alone into a sub-level stocked with malfunctioning drones. Spotting a wounded comrade, I knelt to apply coagulant but ignored the flickering sensors. The drones cornered me, forcing a chaotic retreat that left the comrade behind. After the scenario, I realized a medic’s determination means little if the environment’s threats remain unaddressed. Failure stung, crystallizing how vital area awareness is.",
+        "skills": {
+          "Stamina": 2,
+          "Observation": 3,
+          "Ranged Combat": 2,
+          "Science": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "During an advanced meltdown drill, I grew overconfident in my scanning device’s accuracy. It misread heat levels, leading me into a collapsing corridor. I wasted crucial minutes digging out, ignoring distant calls for help. By the time I reoriented, simulated casualties spiked, concluding the meltdown in a fail state. The instructors’ cold glance reminded me that unwavering trust in glitchy tech can shatter a medic’s best intentions.",
+        "skills": {
+          "Observation": 2,
+          "Stamina": 3,
+          "Science": 2,
+          "Ranged Combat": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A hush-hush infiltration demanded minimal gear, but I forgot crucial sedation vials. When a frightened exec lashed out mid-rescue, I had no means to subdue him without using lethal force. Unable to proceed, I forfeited the mission, letting the exec escape into the night. My squad’s silent disapproval weighed heavier than any official penalty. A dismal lesson that even a Marine Medic cannot skip essential kit in a cutthroat setting.",
+        "skills": {
+          "Stamina": 2,
+          "Ranged Combat": 2,
+          "Observation": 3,
+          "Science": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "An elaborate multi-floor sim tested my triage in tandem with a blossoming riot. I focused on frantic crowds, attempting to quell them with reassuring words, but never established a perimeter. Hostile squads exploited the gap, swiftly capturing hostages. The sim ended with me pinned under rubble, powerless to intervene. My mentors’ disapproval spelled it plainly: a medic’s empathy must still incorporate boundary and threat control, or chaos wins.",
+        "skills": {
+          "Observation": 3,
+          "Stamina": 2,
+          "Command": 2,
+          "Ranged Combat": 1,
+          "Science": 1
+        }
+      },
+      {
+        "description": "Tasked with analyzing chemical signatures in an old corporate vault, I neglected a hidden sub-level housing rebellious drones. Deep in data decoding, I missed every perimeter alarm. Within minutes, the drones swarmed, halting any triage of half-conscious interns found inside. By the scenario’s abrupt close, multiple ‘casualties’ stained the record. Thorough scanning and layered security checks—both absent—emphasized my naive approach in that ruthless environment.",
+        "skills": {
+          "Science": 3,
+          "Observation": 2,
+          "Stamina": 2,
+          "Ranged Combat": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Eager to prove speed, I sprinted alone into a sabotage puzzle sim, incorrectly sure I could handle every puzzle’s hazard. A lethal gas triggered mid-hack, impairing my movement and vision. Panicked, I fumbled the override codes, letting the sim ‘explode’ in a fail state. Behind me, the rest of the team remained untouched but helplessly watched. The hush in the aftermath served as a harsh reminder of overconfidence killing team synergy in corporate gloom.",
+        "skills": {
+          "Stamina": 2,
+          "Observation": 3,
+          "Science": 3,
+          "Ranged Combat": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "A meltdown scenario at dawn demanded triage across multiple floors. I insisted on single-handedly assessing each floor, ignoring the instructors’ advice to dispatch smaller squads. My thoroughness cost precious time, leaving an entire level unvisited when meltdown timers expired. Dozens of sim-lives were marked as ‘lost.’ Dejected, I realized a Marine Medic must sometimes delegate or watch everything collapse in a swift corporate doom.",
+        "skills": {
+          "Science": 2,
+          "Command": 2,
+          "Observation": 3,
+          "Ranged Combat": 1,
+          "Stamina": 2
+        }
+      },
+      {
+        "description": "Hoping to quell a campus riot alone, I relied heavily on sedation grenades, sure they'd restore order quickly. High winds blew the grenades’ chemical clouds right back at my vantage point, disorienting me. Enraged rioters smashed barricades while I staggered, half-blind. The ‘casualties’ soared, leading to a sim fail. Later reviews concluded that naive reliance on single-solution tactics can unravel a well-intentioned medic's plan in a cutthroat megacorp world.",
+        "skills": {
+          "Observation": 2,
+          "Stamina": 2,
+          "Ranged Combat": 2,
+          "Science": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "In a skirmish test, I dashed to rescue a cornered ally but neglected overhead catwalk patrols. Taking a bullet to the shoulder, I dropped the stims mid-run, losing vital medical gear. The ally was swiftly ‘eliminated,’ ending that sim round in sour defeat. Gritting my teeth, I left with a stinging truth: situational awareness extends both horizontally and vertically in these claustrophobic environments.",
+        "skills": {
+          "Stamina": 3,
+          "Observation": 2,
+          "Close Combat": 2,
+          "Science": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "Tasked with sealing a quarantine dome over contaminated farmland, I bypassed a final safety check to ‘save time.’ The dome’s half-seal let toxic spores leak, infecting the very cadets sent to assist. Forced to watch them writhe, I tried distributing first-aid, but it was too late for many. The sim concluded in a bleak fail. Mentors hammered home that a Marine Medic cannot skip crucial environmental validations or pay a dear price.",
+        "skills": {
+          "Science": 3,
+          "Observation": 2,
+          "Stamina": 2,
+          "Ranged Combat": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A team infiltration sim demanded meticulous synergy, yet I insisted on personally scouting ahead for wounded. Ambushers pinned me behind crates, draining my ammo. My separated teammates had no idea of my predicament. By the time they found me, the sim clock had expired, leaving multiple ‘fatalities’ unprevented. Dejected, I grasped the lethal cost of ignoring co-dependence in a corporate deathtrap environment.",
+        "skills": {
+          "Stamina": 2,
+          "Observation": 3,
+          "Ranged Combat": 2,
+          "Close Combat": 1,
+          "Science": 1
+        }
+      },
+      {
+        "description": "While leading a rescue in a dilapidated industrial spire, I tried to treat a gravely injured worker without triaging the rest. Meanwhile, a chemical leak spread, and no one else was assigned to contain it. The final meltdown claimed multiple floors, overshadowing my partial success. The worker survived, but the sim declared a fail overall. My peers’ grim faces reminded me that holistic thinking is mandatory for a Marine Medic in corporate warfare.",
+        "skills": {
+          "Science": 3,
+          "Stamina": 2,
+          "Observation": 2,
+          "Ranged Combat": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Convinced of my rifle skill, I launched a quick strike to retrieve hazardous materials from a sealed vault. I disabled the vault lock but triggered a silent alarm, summoning security drones. Halfway through, I tried to shield a wounded cadet, fumbling with stims and dropping the canisters. The sim ended with me cornered and the materials lost. Shaken, I recognized that raw bravado can’t mask the need for patience in a gritty corporate labyrinth.",
+        "skills": {
+          "Ranged Combat": 3,
+          "Observation": 2,
+          "Stamina": 2,
+          "Science": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "During a high-altitude drop exercise, I insisted on carrying extra medical crates for ‘just in case.’ My landing went off-course, scattering crates across a lethal canyon. Enemies soon capitalized, picking them up for potential reverse-engineering. We aborted with minimal rescue supplies left, the exam concluding in a humiliating fiasco. I learned that unnecessary load can be a bigger liability than no load at all in a cutthroat environment.",
+        "skills": {
+          "Stamina": 2,
+          "Observation": 3,
+          "Ranged Combat": 2,
+          "Science": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "On an infiltration sim set in a labyrinthine tunnel system, I believed I could handle solo rescue. Overlooking local heat-sensor traps, I triggered them, sealing multiple exits. When backup squads arrived, they found me pinned, half my med gear spent on self-preservation. The ‘casualties’ soared as no one else received timely care. The academy scolded me for ignoring the prime rule of coordinated infiltration in corporate enclaves.",
+        "skills": {
+          "Stamina": 3,
+          "Observation": 2,
+          "Close Combat": 2,
+          "Ranged Combat": 2,
+          "Science": 1
+        }
+      },
+      {
+        "description": "Tensions flared in an advanced scenario where injured cadets threatened to turn violent over dwindling medical resources. I tried to calm them with flustered reassurance, forgetting to keep watch on structural cracks overhead. A sudden collapse trapped me beneath rubble. Others scrambled in vain to free me, and the scenario concluded with multiple ‘deaths.’ I realized too late that a Marine Medic’s words mean little if environment threats remain ignored.",
+        "skills": {
+          "Command": 2,
+          "Observation": 3,
+          "Stamina": 2,
+          "Science": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "During a station meltdown, I rushed to triage the command deck, wrongly assuming someone else had sealed the reactor core. Unstable pulses of radiation flared, damaging half the station’s modules. My triage efforts saved a few but left many unguarded from the rad surges. Once the meltdown ended in sim ‘fatalities,’ it became clear the crisis sprang from ignoring meltdown procedures in my zeal to treat the immediate. The grim staff report hammered my oversight home.",
+        "skills": {
+          "Stamina": 2,
+          "Observation": 2,
+          "Science": 3,
+          "Ranged Combat": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A group infiltration drill asked me to handle medical overwatch, yet I pined to chase personal glory. Leaving my post, I charged ahead to subdue an armed sim-opponent but got pinned in an alcove. Teammates, expecting my support, collapsed under crossfire. The sim ended abruptly, listing half the squad as ‘lost’ due to absent medic coverage. My pride sank; the academy’s after-action spelled out the cost of deserting an assigned role.",
+        "skills": {
+          "Stamina": 3,
+          "Ranged Combat": 2,
+          "Observation": 2,
+          "Science": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A battered research vessel needed immediate anti-rad distribution, but I insisted on scanning lab logs first. My detour gave lethal rad contamination time to spread deeper. By the time I surfaced with partial logs, multiple victims were beyond saving. The sim ended in a painful fail. The debrief hammered in the point: even a Marine Medic’s curiosity can’t outrank urgent triage in corporate crises.",
+        "skills": {
+          "Science": 3,
+          "Observation": 2,
+          "Stamina": 2,
+          "Ranged Combat": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "In a spartan frontier clinic exercise, I neglected to stash ammo properly while organizing an improvised OR. A marauding gang attacked, catching me unarmed. Forced to abort half-finished surgery, I retreated, letting the ‘patient’ flatline in sim terms. The fiasco underscored how a Marine Medic in a grim corporate realm can’t forgo basic armament readiness—no matter the medical priority.",
+        "skills": {
+          "Stamina": 2,
+          "Observation": 3,
+          "Ranged Combat": 2,
+          "Science": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a sabotage scenario, I delayed sealing a hull breach to attempt micro-surgery on a comatose ally. Before I could finish, vacuum alerts roared, and we were all sucked into a corridor of swirling debris. The sim ended in bleak failure, with multiple unsalvageable ‘casualties.’ Mentors hammered in the necessity of balancing lifesaving procedures with the broader environment threats. My single-minded rescue cost too much in that dire moment.",
+        "skills": {
+          "Science": 3,
+          "Stamina": 2,
+          "Observation": 2,
+          "Ranged Combat": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "A blistering desert run pitted me against dehydration and illusions, but I bet everything on my personal endurance. Spotting a collapsed cadet, I tried assisting without scanning for hidden sinkholes. We both plunged into a deep pit, losing precious water rations. By the time rescue arrived, I’d wasted the scenario’s timeframe. Our instructors quietly concluded that ignoring environment scanning can doom even a well-intentioned Marine Medic in corporate extremes.",
+        "skills": {
+          "Stamina": 2,
+          "Observation": 3,
+          "Close Combat": 2,
+          "Ranged Combat": 1,
+          "Science": 1
+        }
+      },
+      {
+        "description": "In a rushed meltdown sim, I ignored an incoming wave of infiltration drones, focusing on stabilizing a single near-fatal burn. The drones shredded vital coolant lines, triggering a chain reaction. The meltdown spiraled out of control, culminating in the sim’s complete fail state. Post-scenario logs showed I’d overlooked basic threat containment amid medical zeal. A jarring reminder that in a corporate hellscape, essential triage and threat neutralization must proceed in tandem.",
+        "skills": {
+          "Science": 2,
+          "Stamina": 2,
+          "Observation": 3,
+          "Ranged Combat": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Snagging a coveted chance to test newly minted stims, I insisted on field trials inside a volatile wasteland. Underestimating the terrain, I got pinned in a crater, losing half the stims down a ravine. Time ticked away as cadets further out bled out in vain. The sim ended with a final beep of mission failure. Ego had overshadowed practicality, costing precious, life-saving stimulants and my own standing among peers.",
+        "skills": {
+          "Stamina": 3,
+          "Observation": 2,
+          "Ranged Combat": 2,
+          "Science": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "For a stealth infiltration exam, I gambled on minimal sedation gear. Halfway into the target facility, an enraged guard resisted my meager sedatives. The scuffle escalated, prompting lethal force that shattered glass tanks and released toxic fumes. In the sim’s final moments, colleagues choked while I scrambled for a rebreather. The scenario’s meltdown hammered home that limiting medical resources can create catastrophic chain reactions.",
+        "skills": {
+          "Observation": 2,
+          "Stamina": 3,
+          "Ranged Combat": 2,
+          "Science": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "Determined to hold a crumbling blockade alone, I refused to call for backup while attending wounded cadets. Overwhelmed by mounting foes, I lost track of the infiltration route behind me. Hostiles circled in, cutting off supply lines and finalizing the scenario’s fail. Torn between patching injuries and perimeter defense, I realized raw grit can’t replace strategic requests for reinforcement. The after-action review listed this fiasco as a prime cautionary tale.",
+        "skills": {
+          "Stamina": 2,
+          "Observation": 2,
+          "Ranged Combat": 3,
+          "Science": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "On a decaying orbital station, I tried to ration healing stims across too many wounded. Each partial dose left injuries half-treated, and the station’s zero-g anomalies complicated triage. Soon, multiple cadets fainted from blood loss, drifting helplessly out of reach. The sim ended in a massive casualty count. My regrets swelled, underscoring the harsh reality that insufficient care for everyone can be worse than focusing thoroughly on fewer but total saves.",
+        "skills": {
+          "Stamina": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Ranged Combat": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Stationed to secure a half-collapsed training tower, I misread structural readouts, pushing deeper in search of rumored survivors. A sudden quake ended in me pinned under a collapsing beam, severing comms. With no means to confirm survivors, the rescue attempt halted. The sim declared a total structural meltdown, listing heavy ‘losses.’ Peeling myself out bruised, I accepted the heartbreak that a Marine Medic can’t force miracles when ignoring safety data.",
+        "skills": {
+          "Stamina": 3,
+          "Observation": 2,
+          "Close Combat": 2,
+          "Science": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "In a nighttime desert crossing, I insisted on leading fellow cadets with minimal rest, trusting my endurance. My oversight in hydration led me to faint from heatstroke mid-way. With me down, the group lost direction and scattered resources. The scenario ended bleakly, with multiple simulated ‘fatalities.’ I awakened with the cold knowledge that a Marine Medic’s personal stamina alone can’t save everyone if they can’t save themselves first.",
+        "skills": {
+          "Stamina": 2,
+          "Observation": 3,
+          "Ranged Combat": 1,
+          "Science": 2,
+          "Command": 1
+        }
+      }
+    ]
+  }
+  

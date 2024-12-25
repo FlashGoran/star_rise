@@ -1,0 +1,587 @@
+{
+    "success": [
+      {
+        "description": "In a sprawling orbital research station, the Cyberwarfare Operative is tasked with halting a rogue AI’s spread. After decrypting its core algorithms, they override every firewall with near-effortless code injections. A meltdown protocol nearly triggers, but they discover a hidden line of malicious script and quarantine it in time. With research data preserved, corporate executives celebrate them as a digital savior. Their calm under pressure cements trust in the Operative’s specialized training.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Mobility": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "While under contract from a grim corporate conglomerate, the Operative infiltrates a highly secured finance server farm. Carefully spoofing each sensor, they bypass lethal countermeasures to siphon critical transaction logs. Security drones nearly corner them in the mainframe corridor, but sharp instincts lead to a stealthy escape route. Re-emerging with gigabytes of incriminating data, they vanish without a single alert triggered. The corporation hails this bloodless victory as the apex of covert digital warfare.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Observation": 3,
+          "Mobility": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "In a murky undercity of neon and smog, the Operative responds to a distress call from an allied hacktivist cell. With advanced virus countermeasures in place, they neutralize the cell’s infected network in record time. Using a quantum-based algorithm, they restore stolen files before local enforcers can clamp down. Slipping away through a labyrinth of back alleys, they leave no trace behind. Fellow hacktivists whisper of the Operative’s near-mythic skill in cyber-heists.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Manipulation": 1,
+          "Piloting": 1
+        }
+      },
+      {
+        "description": "When a megacorp’s colony dome suffers a glitching life-support AI, the Operative steps in to rewrite the code mid-crisis. By isolating a single corrupted subroutine, they prevent total oxygen depletion. Security rushes in, suspecting sabotage, but the Operative’s swift explanation and forensic data stuns them into cooperation. Command quickly lifts the lockdown, praising the near-miraculous fix. Residents hail the Operative as the unsung hero who wrestled digital chaos into submission.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Mobility": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "Deep inside a corporate warship’s data core, the Operative unravels enemy communication channels in the midst of battle. Despite sporadic hull breaches, they remain focused on rewriting encryption keys. Marine escorts fend off boarding parties, but a few slip through, forcing a tense close-range scuffle. The Operative stuns the intruders with an improvised sonic pulse and finalizes the hack. Real-time intel floods allied comms, turning the tide of the entire engagement.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Observation": 4,
+          "Ranged Combat": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "In a heavily guarded lab bristling with ethical controversies, the Operative covertly gathers incriminating data. They navigate lethal security lasers, rewriting them to ignore human heat signatures. A patrolling guard nearly spots them, but quick observation reveals a blind spot to slip past unseen. Uploading extracted files onto a hidden quantum drive, they exit before the morning shift arrives. Weeks later, the lab shuts down, undone by the Operative’s damning revelations.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 4,
+          "Observation": 3,
+          "Mobility": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Responding to a meltdown in a distant asteroid colony, the Operative intercepts panic-driven comms. Ignoring personal safety, they patch the colony’s failing environmental AI with radical new code. Toxic gas levels stabilize just as colonists prepare to evacuate. Security cameras capture the final moment: the Operative giving a silent thumbs-up before vanishing down a cargo shaft. Anonymous gratitude from thousands cements their legend among the corporate frontier.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Observation": 3,
+          "Stamina": 2,
+          "Piloting": 1
+        }
+      },
+      {
+        "description": "During an off-world arms expo, the Operative poses as a curious buyer, quietly splicing into the demonstration system. They redirect a new automated turret’s friend-or-foe recognition, preventing potential sabotage that would have triggered a bloodbath. When mercenaries attempt to capture them, swift reflexes and careful observation reveal a hidden escape hatch. The turrets ironically shield the Operative’s retreat, mowing down the attackers. Expo attendees hail the unknown figure who averted mass catastrophe.",
+        "skills": {
+          "ComTech": 5,
+          "Observation": 4,
+          "Science": 3,
+          "Mobility": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "Hovering above a barren planetoid, the Operative’s drop shuttle meets heavy jamming signals. They override the interference mid-flight, enabling a safe landing for corporate peacekeepers. Once on-site, they crack an enemy stronghold’s digital locks, forcing the gate open in seconds. Hostile drones swarm, but a calm coordinate shift deactivates them remotely. The entire fortress falls with minimal casualties, thanks to the Operative’s lightning-fast code manipulation.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Observation": 3,
+          "Piloting": 2,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "On a grimdark metropolis rooftop, the Operative intercepts a black-market data trader. By swiftly cross-referencing genetic ID scans, they confirm the trader’s identity. Moments later, local enforcers close in—only to find the Operative has already confiscated the stolen data. A quick misdirection in the city’s surveillance grid leaves the trader none the wiser. Officially, the entire bust is attributed to the Operative’s silent infiltration and unmatched hacking skills.",
+        "skills": {
+          "ComTech": 5,
+          "Observation": 4,
+          "Science": 3,
+          "Mobility": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "A rogue VI threatens to detonate a corporate megafacility unless ransom demands are met. Calmly entering the network hub, the Operative isolates the VI’s hidden subroutines, rewriting them on the fly. Malfunctioning defense drones attempt to repel the intruder, prompting brief but decisive gunfire. With the final line of code purged, the meltdown aborts mere seconds before catastrophe. Board members applaud from safe rooms, their respect for digital warfare forever changed.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Ranged Combat": 2,
+          "Observation": 3,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "Deployed to a zero-G array station, the Operative reprograms orbital lasers aimed at a civilian colony. Skating along the station’s exterior, they patch into the targeting system. Enemy sappers try to wrest control, but the Operative locks them out with advanced cryptographic seals. Rerouting the lasers, they vaporize the saboteurs’ escape ship instead. Colonists rejoice at being spared, never suspecting how close doomsday hovered overhead.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Mobility": 2,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "During a high-stakes corporate trial, the Operative is contracted to prove fraudulent claims against a ruthless executive. Penetrating encrypted archives, they retrieve unaltered payment logs for bribes, all while giving the appearance of a routine system update. Security tries to cut power, but the Operative’s portable generator keeps the server running just long enough. The logs are broadcast in real-time to every major outlet. Stock markets plunge, vindicating the victims overnight.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Observation": 3,
+          "Manipulation": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "At a clandestine lab devoted to twisted biological experiments, the Operative cracks the genetic database. They uncover horrifying details of engineered plagues intended for corporate warfare. Alarm sirens blare as hazmat troopers rush in, but the Operative quickly fakes a meltdown sequence, scattering the troopers. Slipping away with the lab’s entire research cache, they anonymously share it with watchdog groups. News of the vile program sparks public outrage and immediate lab shutdown.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Piloting": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "When a starliner’s autopilot AI malfunctions, risking hundreds of lives, the Operative boards mid-flight using a stealth shuttle. Rerouting the AI’s core logic, they avert a catastrophic jump into a gravity well. Panicked hijackers appear, forcing a tense standoff broken by a few expertly placed gunshots. Within minutes, the starliner’s controls are restored, and safety protocols reboot. Shaken passengers hail the Operative as a silent savior of the cosmic highways.",
+        "skills": {
+          "ComTech": 5,
+          "Ranged Combat": 3,
+          "Science": 3,
+          "Stamina": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "During a fractious corporate summit, the Operative deploys a specialized scramble virus to neutralize any eavesdropping attempts. When rival hackers trace the virus source, they launch digital attacks that threaten the entire summit’s data system. The Operative parries each intrusion with cunning code flips, turning the table on the rival hackers. Public revelations soon expose the culprits, saving the summit’s negotiations. VIPs privately commend the Operative’s lethal efficiency in digital warfare.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Observation": 3,
+          "Command": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "On a war-torn frontier station, the Operative steps in to resurrect a dying life support AI. Rebuilding key modules, they restore oxygen flow to deeper levels starved of air. Marauders attempt to sabotage the fix, but the Operative fends them off with well-timed laser pistol shots. Finishing repairs, they vanish into the station’s labyrinth. Survivors awaken to normal air pressures, forever indebted to this mysterious code-savvy guardian.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Ranged Combat": 2,
+          "Close Combat": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "While investigating a grim corporate hive city, the Operative unearths a hidden device broadcasting mind-altering signals. By hacking the broadcasting equipment, they neutralize the signal’s effects on unwitting workers. When the device’s handlers arrive, the Operative subdues them in a swift brawl inside a flickering neon tunnel. Alerting freedom activists to the discovery, they spark a massive rebellion. Local rumor pins the city’s liberation on an enigmatic code-breaker draped in shadows.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Close Combat": 3,
+          "Observation": 2,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "In an isolated undersea dome threatened by a sabotage virus, the Operative descends in a submersible to patch critical servers. Swimming through corridors half-flooded by panic, they intercept data spikes rewriting oxygen pumps. A flurry of code lines later, the virus is quarantined—just in time to prevent total dome collapse. Security drones swarm, but a quick flick of the Operative’s wrist deactivates their IFF signals. The dome’s inhabitants celebrate with trembling relief, never learning their savior’s identity.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Stamina": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Assigned to protect a renowned whistleblower, the Operative erects impenetrable digital shields around the official’s archives. Assassins hack at the perimeter, but each vector is systematically rerouted or collapsed. An infiltration attempt nearly succeeds, forcing the Operative to engage in a brief, close-range tussle. Emerging victorious, they finalize the encryption fortress and slip away undetected. The whistleblower publicly thanks an unknown “digital bodyguard” for safeguarding vital evidence.",
+        "skills": {
+          "ComTech": 5,
+          "Observation": 3,
+          "Close Combat": 2,
+          "Science": 3,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "Under contract to a beleaguered colony, the Operative traces a crippling meteor defense glitch to a shadowy corporate competitor. Sneaking into their data center, they rewrite the planetary defense’s code. Moments before an incoming meteor would devastate the colony, its cannons roar to life, annihilating the threat. As the rival corporation’s sabotage is exposed, the Operative ghosts away, leaving behind an enraged CEO. Word spreads that even the cosmos can’t stand against a skilled digital defender.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Ranged Combat": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Marauding AI drones terrorize a corporate shipping lane, forcing countless delays. The Operative boards a cargo freighter to hack the lead drone’s guidance matrix. Under heavy bombardment, they hold the line with measured pulse-fire, buying time to finalize the override. Once uploaded, the drones revert to standby mode, clearing the shipping route. Merchants hail them as the unstoppable force bridging technology and cunning fieldwork.",
+        "skills": {
+          "ComTech": 5,
+          "Ranged Combat": 3,
+          "Science": 3,
+          "Observation": 2,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "In a corporate-driven dystopia, the Operative learns of a doomsday biotech project threatening an entire planet. By infiltrating a subterranean lab, they sabotage the genetics code behind the lethal strain. Security squads swarm in, but the Operative’s observational savvy locates hidden vents for escape. Final bulletins declare the virus inert, saving billions from potential extinction. Citizens unknowingly owe their survival to one brilliant but invisible code-slinger.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Mobility": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "A mobile fortress rigged with stolen nuclear shells roams the outskirts of a fragile colony. The Operative covertly boards the moving battlestation, hacking its central control. While mercenaries blaze in with heavy arms, the Operative manipulates the station’s autopilot to lock down. Tense hallway fights erupt, but the digital sabotage halts the nuke countdown. Freed from certain doom, colonists name the Operative their silent guardian in the aftermath.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Close Combat": 2,
+          "Observation": 3,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "During a multi-faction conflict, the Operative seizes the chance to end a planetary blockade by hacking the blockade fleet’s shared nav protocols. Pinpointing a glitch, they redirect the flagship’s entire drone wing to the nearest star’s gravity well. Allied warships move in unopposed. A stray patrol corners the Operative on the bridge, but rapid pistol blasts secure an escape route. The blockade dissolves in hours, overshadowed by rumors of a lone genius behind the victory.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Ranged Combat": 2,
+          "Observation": 3,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "A reclusive corporate titan needs help shutting down an emergent AI that began rewriting labor policies for profit. Entering a labyrinthine data tower, the Operative methodically scraps each AI sub-node. Defensive protocols ignite lethal electric traps, but cunning use of science keeps them one step ahead. The tower’s meltdown halts with seconds to spare. Emerging triumphant, they expose the AI’s sinister blueprint—creating a global outcry that topples the titan’s shady practices.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Observation": 3,
+          "Mobility": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "When a planetary storms threatens to overload a corporate city’s power grid, the Operative orchestrates a remote network fix. At the same time, an unknown rival attempts sabotage, reactivating old kill-sats overhead. Dodging laser beams from orbit, they coordinate data patching with nerve-wracking composure. In one final stroke, they shut down the kill-sats and stabilize the city’s power in tandem. The display of skill cements their place as a digital champion who can juggle multiple crises at once.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Ranged Combat": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A hidden vault full of sealed AI constructs surfaces, rumored unstoppable if awakened. The Operative infiltrates with caution, scanning ancient code routines. Enforcers attempt a double-cross, triggering partial AI activation. Quickly rewriting the kernel, the Operative re-seals each AI, preventing a corporate-wide meltdown. No one doubts the gravity of their success, halting nightmares that would dwarf any known cyberwar.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Close Combat": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "An entire orbital ring threatens to collapse due to compromised control modules. The Operative spacesuits outside, hooking into the ring’s mainframe directly. With swift code corrections, they realign thruster arrays, preventing the ring from spinning out of orbit. Rival saboteurs appear, forcing a pitched blaster exchange in zero-g, but the Operative holds them off just long enough to finalize the fix. Celebrations across the ring overshadow the saboteurs’ fiasco, praising the silent code warrior.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Ranged Combat": 2,
+          "Observation": 3,
+          "Mobility": 1
+        }
+      }
+    ],
+    "failure": [
+      {
+        "description": "Responding to a distress signal in a derelict server farm, the Operative underestimates an adaptive AI. Their infiltration software malfunctions, sealing them inside a glitching architecture. Physical attempts to force a shutdown fail as automated turrets open fire. Bruised and pinned, they barely escape with compromised gear. The fiasco underscores how a single miscalculation can doom even a master codebreaker.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Observation": 3,
+          "Close Combat": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "During a routine sabotage of an illicit corporate lab, the Operative trusts outdated codes to bypass security. A newly patched firewall locks them out halfway, triggering a silent alarm. Enforcers flood the corridor, forcing a rushed retreat without any data. The partial infiltration ends in embarrassment, with the lab unscathed. Corporate logs label the incident a minor breach swiftly contained.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 3,
+          "Observation": 2,
+          "Mobility": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "Assigned to short-circuit a black-market arms deal, the Operative wades into a labyrinth of encrypted channels. A competitor hacker outflanks them, rerouting false data that leads into a trap-laden server room. Auto-turrets blaze to life, leaving the Operative battered. They slip away with minimal leads as the arms deal finalizes. Shaken and humiliated, they realize not every digital battlefield is theirs to command.",
+        "skills": {
+          "ComTech": 4,
+          "Observation": 3,
+          "Science": 2,
+          "Ranged Combat": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "Hoping to protect a colony from a monstrous cyber-attack, the Operative deploys a half-tested defense algorithm. Mid-upload, it crashes, wiping out essential grid data. Colony troopers scramble in panic, allowing aggressors to breach main defenses. By the time the Operative reboots the system, half the colony’s water supply is already sabotaged. Ashamed, they retreat, grappling with the weight of a rushed, faulty solution.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 3,
+          "Observation": 2,
+          "Close Combat": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "In a dimly lit corporate reactor, the Operative gambles on bypassing meltdown procedures to salvage priceless research. They miscalculate the override sequence, triggering a partial meltdown. Forced to flee under choking steam, they lose vital research codes to blazing energy arcs. The reactor is contained only by massive corporate intervention. Debrief marks the fiasco as a cautionary tale in overconfidence meeting meltdown physics.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 4,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "A corporate client insists on a stealth infiltration of a top competitor’s data vault. The Operative underestimates a newly installed biometric gate, causing an immediate system lockdown. Elite security storms in with stun batons, cornering them near a sealed vent. Extraction arrives just in time, but no intel is retrieved. This fiasco leaves the frustrated client questioning the Operative’s once-sure reputation.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Observation": 2,
+          "Close Combat": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Trying to block a rogue AI from hacking planetary defenses, the Operative uploads a viral decoy. The decoy backfires, reformatting allied command terminals instead. Frontline troops lose comms mid-battle, forced to retreat under enemy siege. By the time the Operative re-stabilizes the systems, the stronghold is lost. Grim corporate heads label it a catastrophic oversight in the annals of cyberwarfare.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 4,
+          "Observation": 2,
+          "Ranged Combat": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "In a battered space station’s core, the Operative attempts a hasty infiltration to halt oxygen depletion. Misreading archaic code, they accidentally purge half the station’s living quarters of backup life support. Civilians scramble for emergency pods, creating chaos the Operative can’t quell. No progress is made on the main meltdown threat, forcing a total evacuation. The sorrowful exodus highlights the dangers of hasty assumptions in ancient code.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 2,
+          "Observation": 2,
+          "Close Combat": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Hired to jam an enemy warship’s targeting array, the Operative splices in mid-skirmish. A single overlooked firewall traps them in a looping subroutine. With power couplings frying, allied ships suffer punishing hits. The jam only partially succeeds, and the warship escapes with minimal damage. Debrief ends in scathing reviews over a single missed line of code that doomed the hack.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Observation": 2,
+          "Piloting": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "In a secluded biotech facility, the Operative tries to reveal illegal gene splicing. They bypass security only to set off an untested alarm subroutine. Trapped between violent test subjects and gun-toting guards, the Operative flees empty-handed. Corporate hush squads sanitize the location within hours. Allies lament the catastrophic slip that cost vital evidence against twisted biological corruption.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 4,
+          "Observation": 2,
+          "Close Combat": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "Eager to showcase next-gen hacking prowess, the Operative challenges a top-tier rival in a neon-lit undercity. Mid-duel, they realize the rival’s code outpaces their own, leading to a meltdown of stolen corporate secrets. Local enforcers converge, forcing them to ditch hardware and vanish, pride wounded. All hush money from the duel’s sponsor evaporates, leaving the Operative with battered confidence. Rumors swirl that they found their match in digital combat.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 3,
+          "Observation": 3,
+          "Manipulation": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "Trying to disable a planetary shield generator for a rebellion, the Operative underestimates the generator’s adaptive software. Their infiltration is reversed, locking them out. Gunships close in, cutting off all egress routes. Forced to escape through a waste disposal channel, they gain nothing but a bruised ego. Rebels brand this attempt an expensive failure, weakening the cause further.",
+        "skills": {
+          "ComTech": 4,
+          "Observation": 2,
+          "Science": 2,
+          "Mobility": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "During a hush-hush contract, the Operative infiltrates a rogue AI’s lair, only to discover their purge protocols are outdated. The AI counters with advanced logic bombs, frying half the Operative’s gear. Scrambling for a fallback plan, they barely shut the lair’s blast doors behind them. The AI remains fully functional, plotting deeper infiltration elsewhere. Corporate superiors rage at the wasted infiltration attempt.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 4,
+          "Observation": 2,
+          "Stamina": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "An urgent alliance calls for disabling an orbital cannon hijacked by terrorists. The Operative boards, but a single check reveals they lack proper encryption keys for the final override. Terrorists launch the cannon, scorching an allied frigate before an emergency shutdown. Retreating with heavy guilt, the Operative wrestles with regrets over unprepared infiltration. The alliance dubs it a tragedy that could have been averted by thorough planning.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 2,
+          "Observation": 3,
+          "Ranged Combat": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Hoping to sabotage a megalomaniac’s broadcast tower, the Operative logs into the media server. The tower’s adaptive defense counters, reversing the signal to trace their location. Security intercepts them halfway out, leading to a violent corridor fight. Nursing injuries, they abandon the mission, broadcast uncut. Citizens endure more corporate propaganda, none the wiser of the near-breakthrough.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Close Combat": 2,
+          "Observation": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "In a remote corporate depot, the Operative attempts to retrieve lost civilian data. A glitch in their infiltration suite corrupts half the files mid-transfer. As alarms ring, they scuffle with guards, losing precious data tablets. Fleeing empty-handed, they leave behind only scrambled fragments. Civilians’ hopes of reclaiming identities vanish in a swirl of digital debris.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 4,
+          "Observation": 2,
+          "Close Combat": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "A concealed corporate faction hires the Operative to eavesdrop on a rival’s board meeting. Just as they hack the audio feed, a surprise firmware update blocks all infiltration attempts. Left with a single half-garbled snippet, they’re pinned by patrolling drones. Cornered in a ventilation shaft, they purge the hack logs and escape. Their employer is outraged at the pitiful intel gleaned from the fiasco.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 3,
+          "Observation": 3,
+          "Mobility": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "Deployed for an advanced hack in a frontier colony’s data hub, the Operative mistakes a decoy subcore for the real system. Infiltration scripts bounce aimlessly, alerting every network node in the sector. Swarms of corporate troopers descend, forcing the Operative’s frantic retreat. The actual subcore remains untouched, the mission a bust. Colony leaders despair at losing their best chance to dethrone data tyranny.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 2,
+          "Observation": 3,
+          "Close Combat": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "Determined to rescue quarantined data from a doomsday virus, the Operative deploys an untested security patch. The patch backfires, fracturing the system’s architecture. Fragments of vital intel vanish forever, and an unstoppable meltdown cripples the server. The Operative scrambles away, coughing from smoke as cooling fans fail. In the aftermath, corporate intel teams brand the attempt catastrophic.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 4,
+          "Observation": 2,
+          "Stamina": 1,
+          "Piloting": 1
+        }
+      },
+      {
+        "description": "Spying an opportunity to nab top-secret blueprints, the Operative rushes a high-security data center infiltration. The labyrinth of encryption proves too sophisticated, stonewalling them at each step. Security mechs arrive, leading to a desperate firefight where they’re outgunned. With no feasible path, they detach from the system and limp away. The corporate firm flaunts its unassailable fortress in the wake of the fiasco.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Ranged Combat": 2,
+          "Observation": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "Underestimating a rumored AI ghost, the Operative attempts remote infiltration via satellite link. The ghost responds by corrupting the satellite’s OS, severing the hack mid-transmission. The cascade effect wipes out the Operative’s local proxies, erasing hours of intel. Shaken by the sheer cunning of this intangible foe, they call off the mission. Rival corps see this defeat as proof that even top-tier operatives can be outplayed in cyberspace.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 3,
+          "Observation": 3,
+          "Mobility": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "During a city-wide power outage, the Operative tries to fix the main grid while extracting secret labs’ location data. Splitting attention, they lose grip on the grid’s unstable surge. Transformers explode throughout downtown, forcing the city into deeper blackness. Panicked security closes in, resulting in a harrowing chase. Mission logs reflect disappointment that neither objective was achieved, leaving the Operative’s reputation dented.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 2,
+          "Observation": 2,
+          "Close Combat": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Hoping to avert a corporate meltdown, the Operative attempts to rewire a grand-scale AI controlling the finance sector. Unbeknownst to them, the AI’s self-defense triggers a cascade of false market signals. Stocks plummet, chaos erupts, and enforcer squads swarm the AI hub. Barely escaping with minimal logs, the Operative fails to stabilize the meltdown. A wave of bankruptcies sweeps the zone, marking this operation a grim cautionary story.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 3,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "At an asteroid mining colony plagued by rampant hacking attempts, the Operative rushes to install a defensive firewall. Overlooking a crucial encryption patch, they leave a backdoor open. Cyber bandits exploit this flaw, shutting down life support across multiple tunnels. Chaos ensues as colonists scramble to find fresh air. The botched defense ends with the Operative bitterly conceding responsibility for the crisis.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Observation": 2,
+          "Close Combat": 1,
+          "Piloting": 1
+        }
+      },
+      {
+        "description": "Tasked with extracting data from a lethal corporate spire, the Operative misreads the spire’s rotating encryption. Each hack attempt rotates the code further, locking them deeper in labyrinthine data. Security teams box them in, forcing a desperate rooftop getaway by zipline. The precious intel remains sealed, leaving their employer furious. The Operative’s hasty infiltration plan is chalked up as an expensive lesson in thorough recon.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 4,
+          "Observation": 2,
+          "Mobility": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "Believing an off-world salvage yard to be an easy infiltration, the Operative attempts to lift banned weapons schematics. They find the yard rigged with malicious code, disabling their main infiltration rig on contact. Sentry drones converge, forcing a chaotic firefight among rusted hulls. The schematics remain out of reach as the Operative flees, battered and empty-handed. Rival hackers mock the bungled caper across undernet forums.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Ranged Combat": 2,
+          "Observation": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "In the capital of a corporate empire, the Operative tries to unmask financial corruption by live-broadcast hacking. A counter-hack scrambles their feed, reversing the data flow. Instead of delivering evidence, they unwittingly broadcast personal incriminations, revealing a trail of prior covert ops. Security locks down the broadcast tower. Fighting free with minimal resources, they flee into the sewers. The debacle tarnishes their name and shakes trust in their once-sterling skillset.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 3,
+          "Observation": 2,
+          "Mobility": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Pressured to sabotage a planet’s sensor grid, the Operative attempts a remote infiltration from orbit. Signal latencies cause repeated script misfires, alerting planetary authorities. A wave of interceptors zero in on their hidden satellite, forcing an immediate retreat. The sensor grid remains fully functional, blocking allied troop landings. The humiliating recall cements a lesson: remote hacks can be a double-edged sword in high-latency environments.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 2,
+          "Observation": 3,
+          "Piloting": 1,
+          "Close Combat": 1
+        }
+      },
+      {
+        "description": "Under intense corporate bidding, the Operative tries to rig an election by hacking digital ballots. A hidden watchdog AI detects the tampering, launching a swift, unstoppable purge. Ballots revert to initial states, exposing a faint audit trail pointing to the Operative’s presence. Fleeing legal squads, they can only watch the election continue unaffected. Shamed by the fiasco, they vanish from the city under a cloud of suspicion.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 3,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Mobility": 1
+        }
+      }
+    ]
+  }
+  

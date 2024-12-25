@@ -1,0 +1,534 @@
+{
+    "success": [
+      {
+        "description": "During a brutal desert simulation, the recruit endures scorching heat while sprinting across shifting sands to secure a forward beacon. They suppress automated sentry turrets with pinpoint bursts from their pulse rifle before sliding into cover behind a collapsed bunker. Catching a brief moment to breathe, they rush in for a decisive takedown of the final turret at point-blank range. Fellow cadets watch in awe as the recruit’s stamina keeps them fighting through relentless sun and dust. By the end of the exercise, instructors hail their unwavering drive and adaptable combat style.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 4,
+          "Ranged Combat": 4
+        }
+      },
+      {
+        "description": "Assigned to a zero-g drill in a derelict space hulk, the recruit maneuvers gracefully through floating debris to flank hostile drones. At the perfect moment, they unleash quick pulses from a compact energy carbine, disabling half the drones before they can lock on. Drifting in, they transition to a close-combat hold on the final drone, neutralizing it without gunfire. Instructors praise their mastery of both distance engagement and hand-to-hand technique. They depart the arena with renewed confidence in their multi-range prowess.",
+        "skills": {
+          "Ranged Combat": 3,
+          "Close Combat": 4,
+          "Stamina": 3,
+          "Mobility": 2
+        }
+      },
+      {
+        "description": "On a toxic planet used for advanced survival exercises, the recruit’s unit is pinned down in a corrosive swamp. Ignoring the acrid fumes, the trooper slogs through waist-deep sludge to deliver crucial medical pouches and filter masks. A brief firefight ensues where they fire controlled bursts to hold off hostile creatures attracted by movement. Despite a throbbing headache from the fumes, they press on, pulling a wounded ally to safer ground. The exercise ends with everyone rescued, showcasing the trooper’s grit under lethal environmental pressure.",
+        "skills": {
+          "Stamina": 4,
+          "Ranged Combat": 3,
+          "Close Combat": 2
+        }
+      },
+      {
+        "description": "Deep within a corporate training facility, the recruit volunteers for a night-operation test without NV gear. Moving in near-total darkness, they rely on sharp instincts and steady breathing to navigate laser tripwires. When patrolling guards close in, they launch a precise flashbang toss, disorienting the watchers long enough to sprint past. A quick takedown of an armed guard demonstrates lethal efficiency with minimal noise. Commanders commend their nerve and vow to assign them to future stealth-critical shock missions.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 3,
+          "Mobility": 3,
+          "Ranged Combat": 2
+        }
+      },
+      {
+        "description": "On the orbiting assault carrier, the trooper supervises final checks on a squad’s drop pods just before a live-fire insertion. Catching an engineering glitch, they quickly patch the malfunctioning thruster using basic hand tools and raw muscle to lock the replacement part. As the squad descends, the recruit jumps last, exchanging covering fire with enemy interceptors to protect their allies’ descent paths. The moment they land, they barrel through a fortified checkpoint using close-quarters ferocity. Leadership singles them out for acting as both mechanic and vanguard in one operation.",
+        "skills": {
+          "Close Combat": 4,
+          "Ranged Combat": 3,
+          "Stamina": 3,
+          "Heavy Machinery": 1
+        }
+      },
+      {
+        "description": "During an urban pacification drill, the trooper deftly navigates alleyways while coordinating squad movement via short-wave comms. They dispatch scattered drone troops with pinpoint rifle shots, then close distance to silence a sniper nest through melee strikes. Despite exhaustion building from continuous movement, they keep morale high by radioing clear directives to each squadmate. Overcoming multiple ambushes, the unit completes the pacification with minimal casualties. The instructors commend the trooper’s blend of tactical leadership and relentless combat drive.",
+        "skills": {
+          "Stamina": 3,
+          "Ranged Combat": 4,
+          "Close Combat": 3,
+          "Command": 1
+        }
+      },
+      {
+        "description": "On a volcanic battlefield used for advanced simulations, the recruit endures blazing heat and shifting magma flows to rescue a stranded communications officer. Retrieving the officer under sniper fire, they alternate bursts from an energy rifle with bursts of speed across blistering terrain. After a final lethal exchange of gunfire, the area is clear enough for a shuttle evac. Despite the near-unbearable heat, they manage field triage on the officer’s burns. Command recognizes their unwavering stamina and quick thinking amidst environmental chaos.",
+        "skills": {
+          "Stamina": 4,
+          "Ranged Combat": 4,
+          "Close Combat": 2
+        }
+      },
+      {
+        "description": "Tapped for an emergency hostage rescue in a corporate tower, the recruit fast-ropes into a broken skylight with only a sidearm. They neutralize multiple guards with precise shots before switching to close-combat grapples in the cramped hallway. Sprinting to the top floor, they kick down a reinforced door, surprising the final captor. Releasing the shaken hostages, they lead everyone to an aerial extraction pad. The swift, dynamic response cements their reputation as a trooper who excels under pressure.",
+        "skills": {
+          "Close Combat": 3,
+          "Ranged Combat": 4,
+          "Stamina": 3,
+          "Mobility": 2
+        }
+      },
+      {
+        "description": "Chosen to train with an elite reconnaissance squad, the recruit masters infiltration tactics under a thick jungle canopy. After quietly dispatching two sentries, they set up a vantage point to lay down suppressing fire against enemy drones, ensuring their team can advance. A sudden mechanical malfunction in the squad’s gear prompts them to improvise quick field repairs, reestablishing the recon sensor feed. Rejoining the fray, they seamlessly transition to close combat as the foes push forward. Their commanding officer lauds them as a perfect mix of stealth, gunplay, and resilience.",
+        "skills": {
+          "Mobility": 3,
+          "Ranged Combat": 3,
+          "Close Combat": 3,
+          "Stamina": 2
+        }
+      },
+      {
+        "description": "When a forward outpost is overrun, the recruit volunteers to flank enemy lines using minimal gear and a battered rifle. They crawl through mud and debris under heavy rain, picking off sentries one by one to create confusion. After slipping behind the main force, they lob a carefully placed explosive to disrupt enemy armor. Racing through the smoke, they wrestle the final gunner to the ground in close quarters. This daring infiltration reclaims the outpost, proving their ingenuity and tenacity.",
+        "skills": {
+          "Close Combat": 4,
+          "Ranged Combat": 3,
+          "Stamina": 3
+        }
+      },
+      {
+        "description": "In a high-gravity training dome, the trooper repeatedly lifts a heavily armored barrier to block incoming fire during a simulation. Firing back while braced under crushing pressure, they score precise hits on target drones. As the final wave surges, they vault the barrier in a single burst of strength to deliver a knockout blow. Collapsing from the gravitational strain, they still manage to keep the zone secure until relief arrives. Observers praise the recruit’s unparalleled endurance and fearless push in extreme conditions.",
+        "skills": {
+          "Stamina": 5,
+          "Close Combat": 3,
+          "Ranged Combat": 2
+        }
+      },
+      {
+        "description": "Tasked with a covert sabotage mission in an enemy lab, the recruit memorizes complex corridors by studying stolen blueprints. Using minimal light, they slip past guards to rig crucial server racks with timed explosives. Halfway through, a patrolling mech corners them; they disable it with a well-aimed shot to its sensor array. Escaping through a vent, they blow the lab’s data center, crippling enemy intel efforts. The clean getaway showcases both cunning infiltration and lethal efficiency under tight deadlines.",
+        "skills": {
+          "Ranged Combat": 3,
+          "Close Combat": 2,
+          "Mobility": 3,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "In a freezing tundra exercise, the recruit uses grit to navigate treacherous ice fields while escorting a supply sled. When predatory creatures emerge from an ice crevasse, they rapidly switch to a high-powered rifle to keep them at bay. A sudden slip sends them sliding down a jagged slope, but they recover, hefting themselves back up with raw muscle. Despite the biting cold, they push forward until the supplies reach an embattled outpost. Instructors commend their show of unwavering resolve and precise covering fire.",
+        "skills": {
+          "Stamina": 4,
+          "Ranged Combat": 4,
+          "Close Combat": 1,
+          "Mobility": 2
+        }
+      },
+      {
+        "description": "Called to breach a fortified gate on an abandoned colony, the recruit uses shaped charges in tandem with brute force. Detonating the charges, they shoulder aside twisted metal as enemy combat drones attempt to flank. Pivoting smoothly, they mow down the encroaching drones with careful bursts, preserving ammo for future fights. The gate collapse sparks panic among defenders, allowing allied squads to swarm inside. Their swift, powerful infiltration wins them a field commendation.",
+        "skills": {
+          "Close Combat": 3,
+          "Heavy Machinery": 2,
+          "Ranged Combat": 3,
+          "Stamina": 3
+        }
+      },
+      {
+        "description": "During a classified training event known as ‘Operation Eclipse,’ the recruit leads a small fireteam through simulated trenches under oppressive UV floodlights. Taking the brunt of enemy turret fire, they maintain forward momentum by diving between cover positions and returning precise bursts of plasma. When a turret jams from overheating, they seize the chance to sprint across open ground, finishing off enemy stragglers in close combat. Their unflinching courage rallies the entire fireteam. By exercise end, officials note their extraordinary capacity to inspire decisive assaults.",
+        "skills": {
+          "Ranged Combat": 3,
+          "Close Combat": 3,
+          "Stamina": 4,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Midway through a live-fire course, the trooper’s squad is pinned by a heavily armored mech. Seizing an abandoned rocket launcher, they adapt quickly to its weight and recoil, striking the mech’s vulnerable joint. The ensuing blast topples the machine, and the squad surges forward to secure the courtyard. Though not trained explicitly on heavy armaments, the recruit’s reflexes and strength prove critical. Their victorious stand cements trust among squadmates for future high-risk missions.",
+        "skills": {
+          "Close Combat": 2,
+          "Ranged Combat": 3,
+          "Stamina": 3,
+          "Heavy Machinery": 2
+        }
+      },
+      {
+        "description": "Asked to defend a mobile command center from incoming artillery, the recruit improvises a barricade with salvaged hull plating. Training a sniper scope on distant artillery spotters, they expertly pick them off before they can relay targeting data. Shrapnel rains down from near-miss shells, but they hold firm, ignoring minor wounds. When the dust settles, the command center remains operational, largely due to their vigilance and skillful marksmanship. Their quick decisions and steady aim receive widespread commendations.",
+        "skills": {
+          "Ranged Combat": 4,
+          "Stamina": 3,
+          "Close Combat": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "In a corporate espionage scenario, the trooper’s squad is cornered by automated drones in a towering skyscraper hallway. While others panic, the recruit calmly orchestrates fields of suppressive fire, rotating each ally to conserve ammo. They toss a smoke grenade for concealment, then dash forward to disable drone sensors with precise shots. The quick, disciplined maneuver allows the team to break free of the kill box. Even the cynical corporate handler is impressed by their levelheaded coordination under pressure.",
+        "skills": {
+          "Ranged Combat": 4,
+          "Stamina": 2,
+          "Command": 2
+        }
+      },
+      {
+        "description": "Responding to an emergency beacon on a derelict mining platform, the recruit scales precarious scaffolding to reach trapped civilian workers. Each rung threatens to snap under the station’s failing power, but they press on, ignoring the risk of a fatal drop. Reaching the workers, they quickly calm them, guiding everyone back with measured steps and well-placed covering shots at rogue security bots. The rescue ends just as the platform’s meltdown sequence begins, narrowly escaping catastrophe. Word of their steadfast bravery spreads among local inhabitants, elevating the trooper’s growing legend.",
+        "skills": {
+          "Stamina": 4,
+          "Ranged Combat": 3,
+          "Mobility": 3
+        }
+      },
+      {
+        "description": "In a punishing gravity well exercise, the recruit masters the heavy recoil of a prototype gauss rifle. Each shot resonates through the training field, toppling large practice droids set at extreme distances. The weapon’s weight strains their arms, but they rally hidden reserves of stamina to maintain accuracy. By the final wave of droids, the recruit lands multiple headshots in rapid succession. The demonstration cements their reputation as a trooper who can handle advanced weaponry under any condition.",
+        "skills": {
+          "Ranged Combat": 5,
+          "Stamina": 4
+        }
+      },
+      {
+        "description": "When a swarm of infected creatures floods a quarantined outpost, the recruit takes point behind a barricade, calmly directing squadmates. Rotating between rifle salvos and precise melee slashes, they hold the line despite the horrifying onslaught. Each time a creature breaches the barrier, the trooper’s close combat skill dispatches it without hesitation. Their unshakable composure inspires the entire defense team to stand firm. At dawn’s first light, the swarm recedes, and the trooper is lauded for unrivaled frontline bravery.",
+        "skills": {
+          "Close Combat": 4,
+          "Stamina": 4,
+          "Ranged Combat": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Chosen for a corporate demonstration, the recruit showcases advanced infiltration tactics by outmaneuvering heavily armored synthetic guards. Slipping past motion-sensor beams, they coordinate distraction fire before delivering a knockout blow to the guard captain. Even the corporate VIPs applaud the trooper’s blend of stealth and raw force. Surviving the intense demo cements their place in top-tier deployment rosters. Colleagues remark on how seamlessly they balanced aggression with subtlety.",
+        "skills": {
+          "Close Combat": 3,
+          "Mobility": 3,
+          "Ranged Combat": 2,
+          "Stamina": 3
+        }
+      },
+      {
+        "description": "During a chaotic night assault on a crucial checkpoint, the recruit leads a small detachment to outflank defending drones. By timing the approach with flickering searchlights, they remain just out of the drones’ targeting arcs. Once in position, they signal a combined volley of rifle fire, mowing down the bots in seconds. With the path cleared, allied forces storm the checkpoint unhindered. The success underscores the recruit’s tactical awareness and unwavering combat nerves.",
+        "skills": {
+          "Ranged Combat": 4,
+          "Stamina": 3,
+          "Mobility": 2
+        }
+      },
+      {
+        "description": "While stationed on a storm-lashed ocean platform, the trooper rescues crew members as towering waves break over the deck. Securing them with harnesses, they simultaneously fend off an opportunistic pirate raid using short, controlled bursts from a submachine gun. After wrestling a pirate off the edge, they help seal a ruptured bulkhead by forcing corroded valves into place. Their unstoppable endurance braves the howling winds and swirling debris. Thanks to their efforts, platform losses remain minimal, showcasing their readiness for any extreme environment.",
+        "skills": {
+          "Close Combat": 3,
+          "Ranged Combat": 3,
+          "Stamina": 4,
+          "Heavy Machinery": 1
+        }
+      },
+      {
+        "description": "Sent to retrieve an operative pinned by sniper fire, the recruit weaves through rubble-strewn streets, moving with uncanny agility. Each step is measured to avoid trip mines, while quick bursts from an assault rifle keep the sniper guessing. The moment they reach the operative, they apply rudimentary first aid under constant barrage. Rallying the injured agent, they escort them back, covering each other’s flanks until reinforcements arrive. Command praises the recruit’s poise under relentless threat and crucial lifesaving instincts.",
+        "skills": {
+          "Ranged Combat": 4,
+          "Stamina": 3,
+          "Close Combat": 1,
+          "Mobility": 2
+        }
+      },
+      {
+        "description": "In an airborne insertion exercise, the recruit fast-ropes from a low-flying craft into hostile territory. Amid swirling dust, they neutralize two sentries with well-placed rifle shots before ducking behind a scorched vehicle husk. When a third assailant emerges at close range, they pivot to a brutal takedown with a combat knife. The swift victory clears the LZ, allowing reinforcements to land unopposed. The seamless shift between ranged fire and melee cements their place as a dynamic shock trooper.",
+        "skills": {
+          "Ranged Combat": 3,
+          "Close Combat": 3,
+          "Stamina": 3,
+          "Mobility": 2
+        }
+      },
+      {
+        "description": "During a mass evacuation drill on a colony under nuclear meltdown risk, the trooper takes charge of crowd control. Using a loudhailer, they direct civilians into orderly queues while simultaneously scanning for hidden saboteurs. When panic flares, they calmly demonstrate personal protective gear, reassuring frightened colonists. Despite scorching reactor heat, they remain at the front line, ushering every last group to safety. Colony officials applaud their leadership and grit under rapidly deteriorating conditions.",
+        "skills": {
+          "Stamina": 3,
+          "Command": 3,
+          "Close Combat": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "Tapped for an advanced heavy weapons certification, the recruit test-fires a bulky railgun at a remote desert range. Despite intense recoil, they maintain steady aim, landing direct hits on reinforced target bunkers. By adjusting stance and pacing shots, they outperform more experienced gunners in raw accuracy. Senior trainers label this performance a testament to remarkable bodily control under punishing conditions. Their success earns them specialized clearance for high-caliber field ops.",
+        "skills": {
+          "Heavy Machinery": 3,
+          "Ranged Combat": 4,
+          "Stamina": 3
+        }
+      },
+      {
+        "description": "Amid an alien biosphere teeming with predatory flora, the trooper’s squad attempts to cross a quagmire of carnivorous vines. Exhibiting unflinching courage, they scythe a path forward with a combination of precise rifle bursts and quick blade work. Poisonous spores fill the air, yet they press on, shielding vulnerable teammates. By the time the clearing is secure, the rest of the squad acknowledges the recruit’s vital role. This success highlights the trooper’s calm ferocity and resilience in hostile ecosystems.",
+        "skills": {
+          "Stamina": 4,
+          "Close Combat": 3,
+          "Ranged Combat": 3
+        }
+      },
+      {
+        "description": "In a controlled scenario simulating riot control, the recruit stands as a living shield between corporate VIPs and an onrushing mob of armed protesters. Their well-timed warning shots whittle down the crowd’s aggression before any major clash. When a rogue agitator charges with improvised explosives, they leap forward to disarm the device with decisive grapples. The crowd, shocked by the abrupt takedown, disperses in confusion. Corporate leadership openly praises the trooper’s balanced show of force and protective instincts.",
+        "skills": {
+          "Close Combat": 4,
+          "Ranged Combat": 3,
+          "Stamina": 3
+        }
+      },
+      {
+        "description": "Stationed on a mountainous frontier base, the recruit spots enemy scouts scaling a ridge at twilight. Racing uphill, they intercept the climbers with a volley of precision rifle fire, forcing them to retreat. Undeterred, the recruit closes distance by leaping between rocky outcroppings and finishing off stragglers in melee. Their swift, multi-range approach halts the scouting party’s advance. Command acknowledges the recruit’s blend of athleticism and raw combat skill as exemplary of shock trooper tactics.",
+        "skills": {
+          "Ranged Combat": 4,
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Mobility": 2
+        }
+      },
+      {
+        "description": "Locked in a training duel with a veteran soldier, the recruit withstands punishing blows that would fell most novices. Each time they’re knocked back, they counter with measured strikes, wearing down the veteran’s defenses. When the final opening appears, the recruit seizes it, toppling the opponent in a decisive throw. Applause erupts as the stunned veteran concedes defeat. This demonstration cements the recruit’s near-superhuman endurance and fighting focus.",
+        "skills": {
+          "Close Combat": 5,
+          "Stamina": 4,
+          "Mobility": 2
+        }
+      }
+    ],
+    "failure": [
+      {
+        "description": "Assigned to breach a derelict cargo freighter, the recruit underestimates the rusted hull’s instability. When they apply too much force, a chain reaction sends debris tumbling, pinning two squadmates. Struggling to free them, they expend vital energy that leaves the group vulnerable to hostile drones. By the time support arrives, the operation’s timing is blown. This hard lesson teaches the trooper to balance brute strength with situational caution.",
+        "skills": {
+          "Close Combat": 2,
+          "Stamina": 3,
+          "Heavy Machinery": 2
+        }
+      },
+      {
+        "description": "In a night ambush drill, the recruit focuses on tracking one decoy target and fails to notice a sniper drone perched above. Their tunnel vision results in an abrupt takedown, terminating the simulation early. Fellow cadets grumble that the trooper’s famed aggression overshadowed basic awareness. The instructors stress that unrelenting offense alone won’t secure victory. Humbled, the recruit vows to cultivate better observational discipline.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "During a contested landing on a storm-lashed ocean platform, the trooper forgoes safety checks for an aggressive entry. Their dropship overshoots the designated zone, crashing into hazardous scaffolding. Despite escaping with minor injuries, the mishap strands them far from the objective, delaying the entire squad’s operation. Rival troopers cite this blunder as a cautionary tale of unchecked bravado. The recruit is forced to rethink hasty aerial insertions and coordinate better with pilots.",
+        "skills": {
+          "Close Combat": 2,
+          "Stamina": 3,
+          "Piloting": 1
+        }
+      },
+      {
+        "description": "In a labyrinthine training center, the recruit charges ahead without waiting for tactical data from allied drones. Trapped in a dead-end corridor, they waste precious time forcing security doors that repeatedly lock down. By the time they backtrack, the clock for the mission expires, marking a fail state for the entire squad. Teammates grumble about the trooper’s impulsive approach. The experience underscores the need for synergy over lone-wolf heroics.",
+        "skills": {
+          "Stamina": 3,
+          "Close Combat": 2,
+          "Mobility": 2
+        }
+      },
+      {
+        "description": "Mid-battle on a grim corporate world, the recruit eagerly lobs high-yield grenades to clear a bunker. Unfortunately, the blasts trigger an unintended collapse, trapping friendly forces in an underground corridor. Rescue teams eventually retrieve survivors, but the mission objective is lost amid the chaos. The trooper’s haste with explosives costs them respect from squadmates. In the debrief, they resolve to weigh destructive power more carefully.",
+        "skills": {
+          "Close Combat": 2,
+          "Ranged Combat": 2,
+          "Heavy Machinery": 1
+        }
+      },
+      {
+        "description": "Desperate to earn recognition, the recruit challenges an elite duelist to public single combat. Their opening gambits are too flashy, exposing weak flanks that the veteran ruthlessly exploits. Within moments, the recruit is disarmed and pinned, humiliation rippling through the watching crowd. Rather than glory, they earn only a stinging lesson in discipline and technique. Nursing wounded pride, they vow to practice humility alongside training.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2
+        }
+      },
+      {
+        "description": "Deployed for border security on a toxic wasteland, the recruit overlooks essential hazard suits in favor of agility. Within an hour, debilitating fumes hamper their combat effectiveness and force a premature retreat. The ensuing confusion allows smugglers to breach the perimeter unopposed. Fellow troopers voice frustration at how easily overconfidence compromised the mission. The recruit grasps that raw toughness can’t always beat environmental threats.",
+        "skills": {
+          "Stamina": 3,
+          "Ranged Combat": 1,
+          "Mobility": 2
+        }
+      },
+      {
+        "description": "Underestimating a local militia’s tenacity, the recruit leads a reckless charge into a fortified warehouse. The defenders respond with well-placed suppressive fire, pinning the squad behind flimsy crates. Unable to maneuver out, they request backup, effectively admitting the operation’s failure. The fiasco ends with casualties that could have been avoided through better planning. In the after-action report, their name is at the top for oversight and poor risk assessment.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a recon-in-force exercise, the recruit focuses on physical feats, ignoring crucial data provided by UAV scans. Marching blindly into an uncharted ravine, they set off multiple sensor-triggered mines. A swift evacuation spares lives but dooms the practice run to failure. Colleagues chastise the recruit’s disregard for technology in a futuristic battlefield. They learn that pure muscle cannot replace informed caution.",
+        "skills": {
+          "Stamina": 3,
+          "Mobility": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "Tasked with defending a strategic hilltop, the recruit tries to hold the line alone, confident in their unstoppable prowess. Overwhelming enemy drones encircle them, cutting off supply lines. Desperate radio calls for help come too late; the position is lost. Squadmates lament that a unified front might have repelled the attack. The recruit leaves with bruised pride, realizing that teamwork often trumps personal glory.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 3
+        }
+      },
+      {
+        "description": "On an off-world airbase, the recruit attempts to manually force open a jammed hangar door, unaware that it’s rigged with a defense system. Jolt beams fire in retaliation, injuring them and disrupting flight operations for hours. Harried mechanics scramble to reset power circuits, delaying critical sorties. The fiasco highlights the recruit’s habit of brute forcing unknown equipment. Command scolds them to heed protocol or risk mission failure.",
+        "skills": {
+          "Heavy Machinery": 3,
+          "Stamina": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "In a mock infiltration scenario, the trooper bursts into an enemy compound with guns blazing, ignoring stealth guidelines. The clamor alerts every guard, leading to a quick alarm and sealed exits. Pinned between multiple security squads, they’re forced to surrender in a mortifying simulation fail. Teammates stand by, powerless to salvage the operation. The lesson is painfully clear: subtlety can be essential, even for a shock trooper.",
+        "skills": {
+          "Close Combat": 2,
+          "Ranged Combat": 2,
+          "Mobility": 2
+        }
+      },
+      {
+        "description": "The recruit volunteers to test a cutting-edge exosuit with minimal training, hoping to impress superiors. Mid-demo, they misjudge the suit’s servo strength, crushing vital equipment and injuring a technician. The catastrophic failure halts the entire test, wasting thousands of credits in research. Corporate representatives withdraw potential funding for advanced gear trials. The trooper’s impatience underscores the cost of unprepared risk-taking.",
+        "skills": {
+          "Stamina": 2,
+          "Heavy Machinery": 2,
+          "Close Combat": 2
+        }
+      },
+      {
+        "description": "On a labyrinthine orbital station, the recruit insists on powering through locked bulkheads instead of slicing them open carefully. The racket draws in station security bots from multiple corridors, culminating in a frantic standoff. Overwhelmed by crossfire, the trooper barely escapes through a malfunctioning hatch. The mission objective—retrieving a stolen data drive—remains unfulfilled. Command’s verdict: impatience cost them a critical intelligence asset.",
+        "skills": {
+          "Close Combat": 2,
+          "Heavy Machinery": 3,
+          "Stamina": 2
+        }
+      },
+      {
+        "description": "Eager to dominate a simulated alien nest, the trooper storms in alone without waiting for a squad backup. Swarms of hostile organisms corner them, their combined assaults too much to handle. Forced into retreat, the trooper narrowly escapes but leaves the objective incompletely cleared. Squadmates grumble that such recklessness endangered the entire operation’s timeline. Faced with embarrassment, the trooper realizes unstoppable brawn has limits.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 3,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "During a live-fire test of a heavy autocannon, the recruit refuses to consult instructions, assuming brute force suffices. Misfiring results in catastrophic barrel meltdown, halting training and injuring a maintenance specialist. Repair crews spend hours fixing the meltdown’s aftermath. The fiasco cements the recruit’s reputation for recklessness with unfamiliar weapons. As punishment, they’re assigned extra hours studying technical manuals.",
+        "skills": {
+          "Heavy Machinery": 3,
+          "Ranged Combat": 2,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "In a hostage rescue drill, the trooper’s aggression leads them to breach a wall with too large an explosive charge. The detonation causes structural collapse, critically wounding one of the ‘hostages’ and canceling the simulation. In the post-brief, the recruit faces harsh feedback for prioritizing raw impact over occupant safety. Teammates express concern about trusting them with demolitions in real missions. Shaken, they accept the need for restraint alongside power.",
+        "skills": {
+          "Close Combat": 2,
+          "Heavy Machinery": 2,
+          "Stamina": 2
+        }
+      },
+      {
+        "description": "Late in a multi-day endurance test, the recruit dismisses team pacing and tries to sprint the final kilometers. Their body gives out from overexertion, causing them to collapse just shy of the finish line. Medics rush in, disqualifying them for personal safety. Others who balanced stamina and speed complete the test in better shape. The recruit vows never again to let raw pride sabotage a crucial run.",
+        "skills": {
+          "Stamina": 3,
+          "Mobility": 3
+        }
+      },
+      {
+        "description": "Deployed to quell riots in an overcrowded slum, the recruit wades in swinging a shock baton without reading the crowd’s mood. Fear escalates into chaos as angry civilians fight back, forcing corporate police to use harsher measures. Instead of restoring order, the confrontation sparks widespread panic and property damage. Officials criticize the trooper’s poor crowd-control judgment. They realize subduing unrest requires more nuance than brute intimidation.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "During a night trench raid, the trooper attempts a solo infiltration move, ignoring synergy with allied squads. They quickly become bogged down by fortified turret fire and are unable to call for extraction. By dawn, the entire raid plan is compromised, forcing a full retreat. Squadmates lament the wasted effort and resources. Overzealous independence costs them any hope of capturing the entrenched target.",
+        "skills": {
+          "Close Combat": 3,
+          "Ranged Combat": 2,
+          "Stamina": 2
+        }
+      },
+      {
+        "description": "Caught in an illegal street race turned firefight, the recruit rushes a vehicle blockade alone, underestimating the criminals’ firepower. Tires blow out under haphazard gunfire, leaving them exposed. Surrounded by hostile racers, they barely escape after backup arrives, but the entire pursuit fails. Command berates the lack of caution and the wrecked pursuit vehicles. The trooper learns that even a shock trooper needs to pick battles wisely.",
+        "skills": {
+          "Close Combat": 2,
+          "Ranged Combat": 2,
+          "Mobility": 2
+        }
+      },
+      {
+        "description": "In a joint operation with an intelligence unit, the trooper ignores coded signals and barrels into a restricted vault. Alarm protocols trap them inside, draining atmosphere until override codes are inserted. Precious minutes are lost, and the infiltration mission collapses under heightened security. The fiasco leads to inter-branch tension. Shamed, the trooper recognizes that unstoppable force is useless without coordination.",
+        "skills": {
+          "Stamina": 2,
+          "Close Combat": 2,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "Assigned to rescue a stranded recon squad in alien swampland, the recruit underestimates the terrain’s sinkholes. Halfway through, they tumble waist-deep in quicksand-like muck, losing vital gear. Emerging exhausted, they discover the recon squad already evacuated by search drones. Having arrived too late, the trooper shoulders blame for wasting time flailing in bogs. The bitter outcome teaches them not to dismiss environmental hazards again.",
+        "skills": {
+          "Stamina": 3,
+          "Mobility": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "While guarding a top-secret excavation site, the recruit tries to show off by hauling ancient machinery without support. A hidden power cell ruptures, sending arcs of plasma discharge across the dig site. Several valuable artifacts are destroyed, and the operation is halted to assess damage. The outraged archaeology team demands the trooper’s removal. Left reeling from the fiasco, they finally grasp that blunt force can wreak irreparable harm to delicate objectives.",
+        "skills": {
+          "Heavy Machinery": 3,
+          "Stamina": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "In a mock rooftop invasion drill, the recruit pushes too aggressively while scaling the exterior. Their harness snaps from undue strain, causing a dangerous fall onto a lower catwalk. Though they survive, the tumble renders them unable to assist as the squad storms the building successfully. The victory is overshadowed by the recruit’s negligence. They undergo extra climbing and equipment maintenance training after the incident.",
+        "skills": {
+          "Close Combat": 2,
+          "Stamina": 2,
+          "Mobility": 2
+        }
+      },
+      {
+        "description": "Determined to rush a fortified checkpoint without waiting for artillery suppression, the trooper triggers a hidden minefield. Explosions scatter their formation, inflicting heavy casualties in the simulation. Shocked instructors halt the exercise, citing this as an extreme lapse in caution. The trooper’s face burns with guilt as they see teammates’ frustration. Failures like these prove that pure bravery untempered by strategy is a liability.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "Mid-raid on a rogue AI factory, the trooper attempts to hack a defense turret using brute force on mechanical parts instead of the correct terminal. The turret reactivates, blasting them back and scattering allied squads. By the time they regroup, the AI has relocated vital schematics, leaving the mission incomplete. Command scolds the trooper’s ignorance of basic ComTech protocols. Lesson learned: not all obstacles yield to muscle.",
+        "skills": {
+          "Heavy Machinery": 2,
+          "Stamina": 2,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "Overconfident in their endurance, the trooper wades into a chemical spill to secure a data cylinder. Toxic fumes quickly overtake them, causing blurred vision and vomiting as they fumble the cylinder. Support must drag them to safety, forcing mission abort as the hazardous zone grows. Anger flares among squadmates who saw an easier path around the spill. The recruit realizes the body’s limits cannot be ignored, no matter their title as a shock trooper.",
+        "skills": {
+          "Stamina": 3,
+          "Close Combat": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "During final qualification trials, the recruit prioritizes showing off advanced takedown maneuvers instead of sticking to the tested plan. A cunning opponent capitalizes on each flourish, gradually wearing them down. Exhausted and off-balance, the recruit collapses moments before the finishing blow. The humiliating defeat ends their shot at top place in the finals. In reflection, they grasp that reliable fundamentals often trump flashy theatrics.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Tasked with guarding a CEO’s private yacht, the trooper waves off advanced scanning equipment in favor of patrolling with sheer vigilance. Saboteurs slip aboard by spoofing the yacht’s docking signals, seizing control of key systems. By the time the trooper notices, they’re locked out of the command deck, forced to wait for emergency override squads. The fiasco results in corporate embarrassment and ransom negotiations. The trooper’s pride is shattered, and they learn the danger of underestimating subtle infiltration.",
+        "skills": {
+          "Close Combat": 2,
+          "Stamina": 2,
+          "Observation": 2
+        }
+      },
+      {
+        "description": "Hyped up on adrenaline, the trooper barges into an alien artifact vault, smashing containment seals to reach a rumored weapon. Unbeknownst to them, the artifact’s volatile energies discharge, disabling half the base’s systems and injuring bystanders. Emergency lockdown halts all progress, labeling the mission a total failure. Commanders pin the blame squarely on the trooper’s impulsive approach. Only then do they grasp the true cost of unbridled aggression.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Science": 1
+        }
+      },
+      {
+        "description": "In the last leg of a remote mountain assault, the recruit hurries up a crumbling slope unassisted. Triggered rockslides cut off the path behind them, severing supply lines and stranding allied climbers. The trooper reaches the peak too late to neutralize enemy artillery, leaving the main force exposed to barrages below. Exhausted and isolated, they can only witness the chaos from above. Disbelief sets in as they realize the devastation that rash independence brought.",
+        "skills": {
+          "Stamina": 3,
+          "Close Combat": 2,
+          "Mobility": 1
+        }
+      }
+    ]
+  }
+  

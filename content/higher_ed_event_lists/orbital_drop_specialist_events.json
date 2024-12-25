@@ -1,0 +1,494 @@
+{
+    "success": [
+      {
+        "description": "Hurtling through atmospheric fire in a drop pod, the specialist slams onto a scorched plateau under heavy sniper fire. Despite the shock of landing, they immediately pivot to neutralize threats with precise rifle bursts. When a hostile patrol flanks from behind, they drop their rifle and engage in brutal hand-to-hand, dispatching foes with swift strikes. A final sprint across debris-littered ground sees them secure an anti-air cannon. Their fearless entry paves the way for allied landers to touch down safely.",
+        "skills": {
+          "Close Combat": 4,
+          "Stamina": 3,
+          "Ranged Combat": 4
+        }
+      },
+      {
+        "description": "On a storm-wracked ocean world, the specialist’s drop pod plunges into tumultuous seas, nearly sinking upon impact. They burst free into swirling waves, swimming to a drifting raft where pinned allies cling to life. Ignoring the fierce undertow, they bring down a circling gunboat with well-placed rifle shots. Then, at close range, they fend off boarding pirates using sheer physical dominance. Their heroic actions secure the raft, ensuring the squad’s survival in the roiling waters.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 5,
+          "Ranged Combat": 3
+        }
+      },
+      {
+        "description": "Released over a desert stronghold at dawn, the specialist free-falls through a hail of anti-air flak, redirecting their pod’s trajectory mid-drop. They land directly atop an enemy command tent, scattering confused officers. Switching to close combat, they subdue key targets before they can radio reinforcements. When drones converge, a series of pinpoint rifle shots clears the LZ. Command lauds their pinpoint insertion as a masterstroke of intimidation and precision.",
+        "skills": {
+          "Close Combat": 4,
+          "Stamina": 3,
+          "Ranged Combat": 3
+        }
+      },
+      {
+        "description": "Descending through a neon-lit corporate skyline, the specialist detaches early to avoid radar sweeps, gliding onto a towering rooftop. Sabotaging the building’s defense turrets with quick blasts from their rifle, they vault into a hidden balcony for cover. Moments later, a squad of hostile security teams rush in, only to be crushed by an overwhelming display of close-quarters force. Fellow operatives infiltrate the lobby unopposed. The city’s main comm station falls within the hour, thanks to this surgical drop.",
+        "skills": {
+          "Ranged Combat": 4,
+          "Close Combat": 4,
+          "Stamina": 3
+        }
+      },
+      {
+        "description": "In the midst of a grim corporate takeover, the specialist’s pod crashes through a glass atrium onto a manufacturing floor. Undeterred by shattered steel beams, they fire a controlled volley to suppress armed staff. Sprinting across conveyor belts, they wrestle down a rogue mech in brutal melee, disabling its AI core. Using improvised barricades, they corral the remaining defenders into a corner. The entire hostile takeover operation unravels under the unstoppable momentum of their orbital arrival.",
+        "skills": {
+          "Close Combat": 4,
+          "Stamina": 4,
+          "Ranged Combat": 3
+        }
+      },
+      {
+        "description": "An orbital drop into a radioactive crater sees the specialist forging ahead despite alarms of extreme rad exposure. Spotting a downed shuttle, they dash across glowing fissures to retrieve survivors. Rifle in hand, they blast apart mutant vermin that swarm the crash site, then shift to punishing close combat when ammo runs low. Surviving crewmembers are shepherded to a safer plateau. Their unwavering endurance under lethal radiation cements their legend among colonists.",
+        "skills": {
+          "Ranged Combat": 3,
+          "Close Combat": 4,
+          "Stamina": 4
+        }
+      },
+      {
+        "description": "Amid the wreckage of an ancient orbital elevator, the specialist plummets onto a swaying platform high above a desert. Immediately sniping distant raiders, they secure the elevator control panel. When cornered by an elite sword-wielding foe, they draw a combat blade, matching each slash with unstoppable force. The final blow sends the assailant tumbling into the sands below. Allied forces soon ride the repaired elevator to victory, marveling at the specialist’s fearless first strike.",
+        "skills": {
+          "Close Combat": 4,
+          "Ranged Combat": 3,
+          "Stamina": 3
+        }
+      },
+      {
+        "description": "Through a swirling asteroid field, the specialist jettisons from a stealth frigate, threading their pod between tumbling rocks. Touching down in the heart of a hidden pirate outpost, they immediately disable sentry guns with fast-paced rifle fire. When a monstrous cyborg lumbers forward, they unleash a flurry of close combat takedowns, severing vital connections. Rerouting the outpost’s comm system to allied control, they ensure the pirates never see another sunrise.",
+        "skills": {
+          "Close Combat": 5,
+          "Ranged Combat": 3,
+          "Stamina": 3
+        }
+      },
+      {
+        "description": "On a jungle moon known for its ferocious wildlife, the specialist crash-lands amid colossal trees. Rapid bursts from an energy rifle keep predatory creatures at bay. Spotting an allied scout pinned by a six-legged beast, they charge in with fists and steel to rescue the cornered soldier. Once safe, they guide the scout over vine-laden paths to a secure LZ. Their unmatched stamina and feral close combat skills turn a near-tragedy into a triumphant rescue.",
+        "skills": {
+          "Stamina": 4,
+          "Close Combat": 4,
+          "Ranged Combat": 3
+        }
+      },
+      {
+        "description": "In a last-ditch effort to prevent corporate sabotage, the specialist free-falls into a toxic, fume-choked factory. Muzzled by rebreather constraints, they nonetheless tear through pipe-laden corridors, picking off saboteurs before they can plant charges. An armored enforcer attempts to block their path, igniting a savage close-quarters duel that ends with the enforcer face-down in industrial runoff. The factory’s meltdown is averted just minutes before critical mass. Executives hail this unstoppable shock trooper as their savior.",
+        "skills": {
+          "Close Combat": 4,
+          "Stamina": 4,
+          "Ranged Combat": 2
+        }
+      },
+      {
+        "description": "Descending onto a frozen ocean, the specialist leaps from their plummeting pod just before impact, rolling across cracking ice. Unphased by the subzero wind, they pick off a row of enemy scouts with crisp rifle shots. When one scout attempts a point-blank ambush, a single explosive punch sends them careening under the ice. Retrieving vital navigational data from a hijacked boat, they guide allied convoys through the newly secured corridor. This breathtaking drop proves their knack for dominating any climate.",
+        "skills": {
+          "Stamina": 4,
+          "Ranged Combat": 3,
+          "Close Combat": 3
+        }
+      },
+      {
+        "description": "Dropping into a corporate mega-lab overrun by security mechs, the specialist’s assault begins the second the pod doors blow open. By unleashing short, controlled rifle salvos, they blindside the mechs before switching to raw, sweeping close combat to dismantle the final wave. Prying open sealed labs, they evacuate terrified scientists. The entire complex is secured in under an hour, marking a near-textbook demonstration of orbital shock tactics.",
+        "skills": {
+          "Ranged Combat": 4,
+          "Close Combat": 4,
+          "Stamina": 3
+        }
+      },
+      {
+        "description": "A high-speed orbital descent sees the specialist land on a barren planetoid infested with swarms of biomechanical drones. Zipping through narrow canyons, they mow down advancing drones in a hail of automatic fire. Fueling adrenaline with unwavering stamina, they smash the swarm’s central node in a thunderous close-quarters assault. Allied scouts soon follow, finding the planetoid eerily silent. The specialist’s unstoppable drive shatters an entire drone plague within a single day.",
+        "skills": {
+          "Ranged Combat": 4,
+          "Stamina": 4,
+          "Close Combat": 3
+        }
+      },
+      {
+        "description": "Under a blood-red sky, the specialist’s pod rips through a fortress dome, sending alarm klaxons blaring. They open fire on defenders scrambling to return fire. Pushing deeper, they barrel past barricades, thrashing any guard bold enough to stand in their way. Within minutes, they seize the fortress’s command center, flipping its anti-air defenses offline. Reinforcements land unopposed, lauding the swift, fearless infiltration that broke the enemy’s backbone.",
+        "skills": {
+          "Close Combat": 3,
+          "Ranged Combat": 4,
+          "Stamina": 4
+        }
+      },
+      {
+        "description": "Slam-landing in an abandoned corporate lab pocked with psychic anomalies, the specialist braces against waves of mental distortion. Distracting illusions of nightmarish beasts almost shatter their focus, but they blast away each haunting image with rifle bursts. When illusions morph into twisted creatures that must be fought physically, they unleash close-combat fury, dispelling them. Rallying traumatized researchers, they lead a safe exit. Their iron resolve under mental onslaught goes down in company annals.",
+        "skills": {
+          "Close Combat": 4,
+          "Ranged Combat": 3,
+          "Stamina": 4,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "In a desperate attempt to defend an outpost from marauder gunships, the specialist crash-lands inside the outpost’s perimeter. Immediately taking charge, they orchestrate a counterattack, sniping pilot cockpits with steely precision. Ground raiders rush in, only to find themselves grappling a soldier who excels at brutally efficient close combat. The outpost stands firm, its inhabitants forever grateful. Command commends the specialist’s calm leadership under savage crossfire.",
+        "skills": {
+          "Close Combat": 4,
+          "Ranged Combat": 4,
+          "Stamina": 3,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Plunging through a plasma storm in a reinforced pod, the specialist emerges under searing heat flashes. Quickly flattening enemy lines with short bursts, they push through charred wreckage to rescue pinned allied squads. An imposing commander challenges them at bayonet point, resulting in a savage close-quarters standoff. With unstoppable stamina, the specialist overcomes the commander, rallying allied morale. The entire forward line stabilizes in minutes, crediting this unwavering orbital trooper’s unstoppable will.",
+        "skills": {
+          "Close Combat": 4,
+          "Stamina": 5,
+          "Ranged Combat": 2
+        }
+      },
+      {
+        "description": "Swarms of nimble drone fliers threaten to encircle a crucial satellite dish, but the specialist’s drop pod slams down on the roof just in time. Firing from the hip, they shred the first wave of drones. When a second wave flanks, they shift into ferocious melee, ripping drones apart with blade and fist. Braving sparks and collapsing metal, they hold the dish tower until reinforcements arrive. The decisive stand cements their place as a fearless orbital guardian.",
+        "skills": {
+          "Ranged Combat": 3,
+          "Close Combat": 5,
+          "Stamina": 3
+        }
+      },
+      {
+        "description": "A nightmarish corporate experiment unleashes genetically modified predators inside a sealed dome. The specialist’s crash landing in the dome stuns the beasts momentarily. They unload continuous rifle bursts to thin the pack before diving into savage close quarters. Despite blood-slick floors, they persevere, guiding uninfected survivors to an emergency airlock. Debriefing ends in silent admiration for the unstoppable soldier who neutralized a corporate horror show with minimal casualties.",
+        "skills": {
+          "Ranged Combat": 4,
+          "Close Combat": 4,
+          "Stamina": 3
+        }
+      },
+      {
+        "description": "Locked in a starship graveyard, the specialist’s drop pod punches through a derelict hull. They awaken hordes of scavengers, quickly annihilating the first wave with precise rifle shots. Cornered in a narrow corridor, they rely on brute force grapples to crush any who dare approach. Liberating a stranded salvage team, they escort them to daylight. Word spreads of the unstoppable drop trooper who turns any hulk from death trap to vantage point.",
+        "skills": {
+          "Close Combat": 4,
+          "Stamina": 3,
+          "Ranged Combat": 4
+        }
+      },
+      {
+        "description": "A cunning warlord retreats to a skyscraper penthouse, thinking he’s safe from ground invasion. The specialist, however, descends straight onto the rooftop via drop pod. Drones scramble to intercept, but methodical rifle bursts keep them at bay until the specialist breaks into the penthouse. A short yet brutal hand-to-hand showdown leaves the warlord battered at the soldier’s feet. Corporate forces swoop in to mop up, praising the spectacular arrival that shattered the warlord’s illusions of safety.",
+        "skills": {
+          "Close Combat": 4,
+          "Ranged Combat": 3,
+          "Stamina": 3
+        }
+      },
+      {
+        "description": "In a grimdark desert city, the specialist free-falls through lightning-laced clouds, landing at the heart of a riot. Climbing atop a wrecked vehicle, they fire calibrated shots to disperse violent agitators. When a frenzied mob closes in, unstoppable close combat ensures no civilian is harmed. Turning to a stolen loudhailer, they rally local peacekeepers to restore order. Corporate media frames the entire city’s salvation around this one unstoppable arrival.",
+        "skills": {
+          "Close Combat": 4,
+          "Ranged Combat": 3,
+          "Stamina": 3,
+          "Command": 1
+        }
+      },
+      {
+        "description": "An orbital insertion sees the specialist colliding with an abandoned rover midway down a crater slope. Shaking off the impact, they quickly commandeer it, zooming across irradiated ground to outflank entrenched defenders. A torrent of automatic rifle fire pins the enemy while allies advance. Hopping from the rover, they sweep the final holdout in a lightning-fast melee flurry. The crater becomes a prized vantage as the rebellious faction surrenders, undone by an unexpected flanking drop.",
+        "skills": {
+          "Ranged Combat": 4,
+          "Close Combat": 4,
+          "Stamina": 3,
+          "Piloting": 1
+        }
+      },
+      {
+        "description": "Piercing a chemical plant’s dome with a high-speed descent, the specialist triggers alarms in a labyrinth of toxic vapors. Relying on a sealed visor, they pick off startled guards with tight rifle groups. When cornered in a twisting pipe chamber, they scythe through opposition in a brutal close-quarters rush. At the heart of the plant, they sabotage a chemical weapon assembly, preventing mass casualties. Evacuating moments before meltdown, they emerge a hero of the sealed city below.",
+        "skills": {
+          "Close Combat": 3,
+          "Ranged Combat": 4,
+          "Stamina": 4
+        }
+      },
+      {
+        "description": "Caught in an orbital crossfire, the specialist ejects prematurely to avoid catastrophic pod damage. Landing short of the target zone, they sprint across no-man’s-land with unwavering stamina. A sniper nest tries to pick them off, but a single, unerring rifle shot ends the threat. Crashing into the enemy’s flank, they dispatch stunned defenders with fierce blade strikes. Their unstoppable approach changes the tide of the entire engagement in mere minutes.",
+        "skills": {
+          "Ranged Combat": 4,
+          "Close Combat": 3,
+          "Stamina": 4
+        }
+      },
+      {
+        "description": "Amid a corporate facility meltdown, the specialist dives from orbit onto a sweltering reactor spire. Without flinching at the rising heat, they snipe sabotage bots scurrying across catwalks. A final leaping lunge sees them ripping out coolant hoses to reroute flow, preventing meltdown. Overcome with relief, engineers hail them as the backbone of the facility’s salvation. All evidence of sabotage is seized, and the meltdown crisis dissolves overnight.",
+        "skills": {
+          "Ranged Combat": 3,
+          "Stamina": 5,
+          "Close Combat": 3
+        }
+      },
+      {
+        "description": "To retake a vital fuel station on a frost-laden moon, the specialist’s drop pod cracks a thick glacier upon landing. Their rifle dispatches machine-gun nests, clearing the station’s ramparts. Slipping between iced-over tanks, they club an enemy lieutenant to the ground with a savage blow. Local militia teams break from cover, inspired by the soldier’s unstoppable momentum. Fuel shipments resume within the hour, hailed by starved outposts across the sector.",
+        "skills": {
+          "Close Combat": 4,
+          "Stamina": 4,
+          "Ranged Combat": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a chaotic invasion, the specialist slams into an alien hive structure overshadowing a battered colony. Blazing through the hive’s resin walls with rifle shots, they hold off swarms of hive drones. Adrenaline surging, they crush the final wave with bare fists, spattered in acidic ichor but unwavering. Scientists slip in to capture critical xeno-samples while the hive reels from the assault. Colonists hail the soldier who landed in their darkest hour, turning the tide at a terrible cost.",
+        "skills": {
+          "Close Combat": 5,
+          "Ranged Combat": 3,
+          "Stamina": 3
+        }
+      },
+      {
+        "description": "Under cloak of darkness, the specialist descends onto a heavily-guarded platform suspended over a volatile lava lake. Quietly sniping watchtowers, they then vault a broken walkway to ambush the main gate. In lethal close-quarters, they smash through defenders, forging a path for allied infiltration. As dawn breaks, the entire platform stands liberated from corporate tyrants. Officers hail the fearless trooper whose night-drop left the enemy no time to react.",
+        "skills": {
+          "Close Combat": 4,
+          "Ranged Combat": 3,
+          "Stamina": 4
+        }
+      },
+      {
+        "description": "A covert insertion onto a prototype starship sees the specialist landing in the cargo bay behind unsuspecting hijackers. They systematically pick off guards with quick rifle bursts before diving into vicious grapples with the hijacker commander. Wrenching away the starship’s override codes, they return control to the rightful crew. Engineers celebrate as the starship reboots from lockdown, praising the unstoppable boarded arrival that saved months of research.",
+        "skills": {
+          "Ranged Combat": 4,
+          "Close Combat": 3,
+          "Stamina": 3,
+          "Command": 1
+        }
+      },
+      {
+        "description": "In a war-torn ruin overshadowed by pollution-choked skies, the specialist’s drop pod lands in a swirl of ash. Pushing aside rubble with unstoppable muscle, they clear a path for trapped civilians. Sniper fire rattles overhead; they answer with a single, precise shot that silences the threat. Rallying the survivors, they guide everyone to safety with methodical calm. Command later recounts how one unstoppable trooper tore open a lifeline for the hopeless.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 4,
+          "Ranged Combat": 4,
+          "Command": 1
+        }
+      }
+    ],
+    "failure": [
+      {
+        "description": "Misjudging orbital crosswinds, the specialist’s pod spins wildly off course, crashing into an abandoned refinery. Dazed on impact, they struggle to dislodge stuck harnesses, losing precious minutes. Nearby raiders rally and pin them under ceaseless gunfire, forcing a premature evac. The objective—a stealth sabotage of the raider’s command center—never even begins. Command deems it a cautionary tale of incomplete wind vector checks.",
+        "skills": {
+          "Stamina": 2,
+          "Close Combat": 2,
+          "Ranged Combat": 1,
+          "Piloting": 1
+        }
+      },
+      {
+        "description": "A scorching desert storm hampers the specialist’s descent, sending them plummeting into a canyon kilometers from the intended LZ. Trudging through shifting dunes, they burn through hydration supplies, sapping stamina. Ambushed by roving nomads, their rifle jam leads to a frantic melee they barely survive. By the time they regroup with allied forces, the main stronghold is reinforced and impenetrable. Exhausted, they learn that haste and minimal recon cost the entire operation dearly.",
+        "skills": {
+          "Stamina": 3,
+          "Close Combat": 2,
+          "Ranged Combat": 2
+        }
+      },
+      {
+        "description": "Dropped onto a corporate high-rise rooftop, the specialist underestimates advanced security drones. Failing to secure the landing zone, they’re soon overwhelmed by coordinated attacks. As the drones pepper them with disabling rounds, they scramble for cover behind shattered AC units. Extraction arrives in time to prevent fatal injuries, but the infiltration objective is lost. Glum troopers see this as a sobering reminder of high-tech defenses against brute strength alone.",
+        "skills": {
+          "Ranged Combat": 3,
+          "Close Combat": 2,
+          "Stamina": 2
+        }
+      },
+      {
+        "description": "A misread data feed leads the specialist to believe they can handle a contested drop unassisted. Launching solo onto a fortress parapet, they land in a crossfire from multiple turrets. Their rifle is knocked from hand, leaving them to brawl with a shielded guard who refuses to yield. Pinned down and badly injured, they signal retreat just as the fortress scrambles further reinforcements. The mission fails, overshadowed by the trooper’s brash assumption of invincibility.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "Under torrent rains, the specialist ejects early, hoping to outpace anti-air batteries by a wide margin. Instead, they miss the intended roof insertion, barreling into a crowded slum alley. Panicked civilians block escape routes while local gangs converge. A botched attempt at controlled rifle fire leads to chaos and confusion. The entire infiltration grinds to a halt amid screaming bystanders and rising hostility, leaving command fuming.",
+        "skills": {
+          "Ranged Combat": 2,
+          "Stamina": 2,
+          "Close Combat": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Banking on dense smoke for cover, the specialist attempts an orbital insert behind an enemy lab. Fierce updrafts blow their pod off target, plunging them into a scorching debris field. Surviving the crash, they limp out, only to confront patrolling mech suits. Exhausted by the unexpected landing, they can’t fend off the mechs’ barrage. Extraction is called in, but the lab remains uncompromised. Doubt creeps into allied confidence over the soldier’s unstoppable image.",
+        "skills": {
+          "Close Combat": 2,
+          "Stamina": 3,
+          "Ranged Combat": 2
+        }
+      },
+      {
+        "description": "Hurtling through an orbital blockade, the specialist bets on speed over caution, deploying thrusters late. Their pod careens into a shield generator, sending a power surge that locks down half the battlefield. Trapped in electrified wreckage, they can only watch as allied squads lose momentum. By the time they free themselves, the operation window is gone. High command cites the fiasco as proof that even unstoppable force requires precise planning.",
+        "skills": {
+          "Stamina": 2,
+          "Ranged Combat": 2,
+          "Close Combat": 2
+        }
+      },
+      {
+        "description": "During an urban extraction, the specialist overshoots the skyscraper roof, smashing through reflective glass. Their chaotic landing scatters refugees trying to evacuate. In the ensuing panic, fire alarms ring, locking emergency doors and trapping half the team. Pressed by oncoming security squads, they’re forced to withdraw empty-handed. The bungled rescue draws harsh criticism for reckless landing calculations.",
+        "skills": {
+          "Ranged Combat": 2,
+          "Close Combat": 2,
+          "Stamina": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Failing to calibrate drop pod stabilizers, the specialist slams into a wind farm’s massive turbine array. Blades shear off hull plating, sending them tumbling onto a precarious catwalk. Disoriented and battered, they lose vital momentum while a wave of enemies closes in. Forced to retreat under friendly covering fire, they leave the wind farm in enemy hands. Allied tacticians lament the wasted opportunity caused by poor mechanical prep.",
+        "skills": {
+          "Stamina": 2,
+          "Close Combat": 2,
+          "Ranged Combat": 1,
+          "Piloting": 1
+        }
+      },
+      {
+        "description": "A rushed deployment sees the specialist launched into an unscouted jungle ruin. Colliding with overgrown vines, they struggle to free their rifle. Creatures twisted by genetic experiments ambush them from all sides. Exhausted after fending them off barehanded, they find the LZ compromised and no route to the actual objective. Extraction arrives to a battered soldier, the mission left undone.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 3,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "Opting for a flashy entrance, the specialist crash-lands atop a corporate gala hall. Glass and neon signage cascade onto panicked attendees, prompting an immediate lockdown. Security teams ring the building, pinning the intruder on the roof. Attempts to bust through an upper door fail as reinforcements cut off every route. The entire high-profile infiltration collapses amid humiliating press coverage. Even unstoppable troopers can be undone by ill-conceived spectacle.",
+        "skills": {
+          "Close Combat": 2,
+          "Stamina": 2,
+          "Observation": 2
+        }
+      },
+      {
+        "description": "A glitchy heads-up display misleads the specialist into believing a low-gravity planetoid can be approached with a normal drop. They plummet uncontrollably, skipping off the surface in a bone-rattling tumble. By the time they regain their bearings, local raiders have surrounded the crash site, cutting off any chance of infiltration. Evac ships swoop in, retrieving a soldier battered in both body and pride. Mission control shakes their head at the unforced error.",
+        "skills": {
+          "Stamina": 2,
+          "Close Combat": 2,
+          "Ranged Combat": 1,
+          "Piloting": 1
+        }
+      },
+      {
+        "description": "With intel claiming minimal resistance, the specialist leaps from orbit into a subterranean factory zone. They find it bristling with automated turrets, which pummel their landing site before they can exit the pod. Smoke and shrapnel fill the air, forcing them to retreat deeper underground with no clear plan. By the time they resurface, allied platoons have withdrawn from the operation. The trooper’s reliance on faulty intel proves disastrous.",
+        "skills": {
+          "Stamina": 2,
+          "Ranged Combat": 2,
+          "Close Combat": 2
+        }
+      },
+      {
+        "description": "During a stealth approach, the specialist’s pod thrusters ignite prematurely, lighting up the night sky like a beacon. Enemies track their descent, greeting them with suppressive fire the instant they breach the treeline. Despite valiantly trying to counter with rifle shots, they’re pinned, cut off from the main squad. Extraction teams whisk them away, mission incomplete. High command laments the fiasco sparked by one minor thruster error.",
+        "skills": {
+          "Stamina": 2,
+          "Ranged Combat": 3,
+          "Close Combat": 2
+        }
+      },
+      {
+        "description": "On a bleak outpost battered by perpetual acid storms, the specialist underestimates the corrosive atmosphere, landing without extra protective sealants. Pod wiring short-circuits on contact, stranding them in a crater of sizzling sludge. Ammunition fizzles, leaving them vulnerable when roving bandits spot the smoke. Overpowered in close combat by sheer numbers, they signal a shameful extraction. Analysts highlight the folly of skipping specialized gear in lethal environments.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Ranged Combat": 2
+        }
+      },
+      {
+        "description": "Competing with another strike team for glory, the specialist attempts a riskier orbital route to beat them down. Miscalculating friction, they overshoot the entire base, slamming into desert wilderness. Anxious foot travel yields dehydration, missed coordination, and a series of minor skirmishes draining precious resources. By the time they loop back, the base is already captured by the rival team. No accolades remain for reckless grandstanding.",
+        "skills": {
+          "Stamina": 3,
+          "Close Combat": 2,
+          "Ranged Combat": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "In a fortress infiltration, the specialist forgets to disable auto-calibration on their pod’s descent thrusters. The abrupt deceleration triggers a proximity alarm, summoning a garrison squad to the landing site. Caught halfway out of the harness, they endure a barrage of fire before ducking behind rubble. With ammo spent fending off waves of troopers, they abandon the infiltration halfway. Allies brand this a stark error in basic drop procedure.",
+        "skills": {
+          "Ranged Combat": 3,
+          "Close Combat": 2,
+          "Stamina": 2
+        }
+      },
+      {
+        "description": "A flawed final check causes the specialist’s reentry angle to arc too steeply, generating extreme heat that warps pod controls. They crash well inside enemy territory, stumbling from the wreck with suit plating softened. In the midst of staggering away, they’re swarmed by outriders who quickly knock them unconscious. Reinforcements arrive too late, forced into a prisoner extraction. Debrief reveals a single miscalculation dooming the entire drop.",
+        "skills": {
+          "Stamina": 2,
+          "Close Combat": 2,
+          "Ranged Combat": 2
+        }
+      },
+      {
+        "description": "Dropped into the eye of a sandstorm, the specialist aims to surprise defenders nestled in canyon fortifications. Swirling grit overloads visor sensors, leaving them disoriented. By the time they wade through dunes, defenders pick them off with well-placed rifles. The operation stalls as the battered soldier signals retreat. Next day’s briefing warns of relying on brute force alone in a sandstorm’s chaos.",
+        "skills": {
+          "Stamina": 2,
+          "Close Combat": 3,
+          "Ranged Combat": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "Believing themselves invincible, the specialist tries a drop without a harness, free-falling at terminal velocity. They collide with a battered watchtower, fracturing multiple bones on impact. Targeting computers break, so they can’t effectively return fire against encroaching raiders. Limping behind debris, they watch the watchtower overrun, the mission objective unreached. The battered soldier becomes a cautionary tale of hubris overcoming standard procedure.",
+        "skills": {
+          "Stamina": 2,
+          "Close Combat": 2,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "A chaotic orbital band of debris blinds the specialist’s navigation, leading them to crash short in a crater minefield. Each misstep triggers fresh explosions, rattling their composure. Reeling from concussion blasts, they can’t provide covering fire for the allied push. The entire assault stalls while medics reach them. The fiasco stands as proof that ignoring nav calibrations for speed can trap even the toughest trooper.",
+        "skills": {
+          "Stamina": 3,
+          "Ranged Combat": 2,
+          "Close Combat": 2
+        }
+      },
+      {
+        "description": "In an overconfident mood, the specialist takes on an anti-orbital platform alone, hoping to sabotage its cannons. A direct descent lands them in the heart of a well-defended hangar, where multiple security bots converge. Swamped by laser nets, they manage only a few desperate shots before collapsing. Allied forces must retreat from the now fully alert fortress. Debrief lambasts the solo attempt that jeopardized the entire operation.",
+        "skills": {
+          "Ranged Combat": 2,
+          "Close Combat": 2,
+          "Stamina": 2
+        }
+      },
+      {
+        "description": "Attempting to enter a quarantined biodome, the specialist brushes off warnings about lethal spores. Their pod breaches the dome’s airlock too forcefully, releasing a toxic wave that disorients them. Stumbling to fight mutated caretakers, they lose track of the real objective. When backup arrives, the meltdown inside the dome is unstoppable, the facility lost. Command scolds the trooper for ignoring elaborate safety protocols.",
+        "skills": {
+          "Stamina": 2,
+          "Close Combat": 3,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "In a show of bravado, the specialist orients their drop pod to smash a shield generator, only to ricochet off the shield’s curvature. Spinning out of control, they crash in open ground with minimal cover. Surging enemy squads corner them as they struggle to pry open jammed pod doors. Evac forced, the generator stands intact. All illusions of unstoppable might vanish under the glare of mocking defenders.",
+        "skills": {
+          "Piloting": 2,
+          "Stamina": 2,
+          "Close Combat": 2
+        }
+      },
+      {
+        "description": "In a pitched siege, the specialist’s reentry alignment drifts so far they land behind enemy lines, with no friendly LZ in sight. Cautiously moving through a labyrinth of trenches, they become trapped when mortar shells block the exit. Sapped from repeated firefights, they can’t force a path forward. Allied rescue attempts fail to crack the siege. Days later, they’re pulled from the rubble, the entire siege objective lost.",
+        "skills": {
+          "Close Combat": 2,
+          "Stamina": 3,
+          "Ranged Combat": 2
+        }
+      },
+      {
+        "description": "Desperate for speed, the specialist hot-drops onto a crucial runway littered with volatile fuel drums. The jarring impact detonates half the drums, setting the entire airstrip ablaze. Allied aircraft must divert, allowing enemy bombers to regroup. Escaping the inferno, the soldier shoulders blame for scuttling their own fallback route. The incident remains a prime example of reckless insertion overshadowing strategic foresight.",
+        "skills": {
+          "Close Combat": 2,
+          "Stamina": 2,
+          "Ranged Combat": 2
+        }
+      },
+      {
+        "description": "Unimpressed by ominous weather warnings, the specialist attempts a daybreak insertion during a plasma storm. Their pod’s electronics fail mid-drop, severing both steering and comm lines. They smash into a remote valley swarming with hostiles, pinned instantly under superior numbers. Overrun and outgunned, they barely call for rescue, leaving the planned assault undone. Command rubs salt in the wound, citing arrogance before unstoppable elemental fury.",
+        "skills": {
+          "Stamina": 2,
+          "Ranged Combat": 2,
+          "Close Combat": 2
+        }
+      },
+      {
+        "description": "While orbitally dropping onto a derelict battleship, the specialist fails to account for the ship’s spinning rotation. They crash at an awkward angle, tearing the pod apart, losing precious gear. With minimal ammo, they can’t overpower rogue drones patrolling the halls. Forced to barricade in a storeroom, they radio a humiliating rescue request. The battleship remains unsalvaged, a testament to poor approach planning under zero-g conditions.",
+        "skills": {
+          "Stamina": 2,
+          "Ranged Combat": 1,
+          "Close Combat": 2,
+          "Piloting": 1
+        }
+      }
+    ]
+  }
+  

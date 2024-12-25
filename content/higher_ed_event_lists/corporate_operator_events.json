@@ -1,0 +1,597 @@
+{
+    "success": [
+      {
+        "description": "I arrived at the orbital training vessel expecting routine lessons in profit margins, yet found a backlog of malfunctioning inventory records. Using my newly honed ComTech prowess, I wrote a quick script to reconcile mislabeled shipments and recompile the entire cargo manifest. When my supervisor discovered the error rate had dropped to zero, they practically beamed with profit-driven glee. I quietly savored how a few lines of code saved the corporate budget and improved operational flow. In that moment, I realized how intellect and precise data handling can command respect in a cutthroat corporate world.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Command": 3,
+          "Manipulation": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "I volunteered for a zero-g cargo drill to prove my logistical aptitude aboard a starship. By precisely calculating the weight distribution, I mapped an efficient path that cut the reloading time in half. Crew members marveled at how seamlessly boxes glided along the suggested routes. My corporate trainer nodded in approval when final tallies showed a spike in profitability due to decreased labor hours. It felt surreal to watch numbers turn into a sweet justification for my growing skillset.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 4,
+          "Command": 3,
+          "Observation": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "When a routine supply run turned into an environmental crisis, I took charge of analyzing the station’s compromised air recyclers. I used my grasp of Science to isolate toxins in the lines, patching a quick solution to restore breathable air. Profits soared the next day as shipping delays vanished, and the corporate heads were quick to credit the numbers to my can-do approach. Though overshadowed by spreadsheets and shifting political tides, I felt a spark of pride in solving a real problem. For a fleeting moment, I grasped that behind every ledger stands the real sweat of corporate operations.",
+        "skills": {
+          "Science": 5,
+          "ComTech": 4,
+          "Observation": 3,
+          "Manipulation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "While training on the outback rimworld port, I found the landing schedules in disarray—no two logs matched each other. I consolidated flight data, updated the arrival software, and effectively unclogged the entire docking queue. Freight captains raved that their unscheduled waits vanished, boosting corporate revenue metrics. Leadership singled me out for a small bonus, praising the efficient fix. In the corporate sphere, even the simplest alignment of data can ripple into significant earnings.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Command": 3,
+          "Mobility": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "Our starship lost partial engine function mid-route, threatening to maroon us between trade lanes. Drawing on advanced theoretical lessons, I rerouted system coolant flows in the backup thrusters. This patch salvaged enough momentum to reach a repair depot safely, saving the cargo from spoilage. The margin on that haul soared, and my name was quietly whispered among the tall stacks of corporate data. I realized intellect alone can keep the profit machine from stalling in cold space.",
+        "skills": {
+          "Science": 5,
+          "ComTech": 4,
+          "Observation": 3,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "At a backwater fueling station, supply records vanished under suspicious circumstances. I dug through endless data logs, cross-referencing purchase orders, eventually exposing a hidden smuggling ring. My superiors, more invested in the bottom line, applauded the cost-savings from avoiding stolen merchandise. Though I sensed a darker layer of corporate corruption, the official commendation soared my reputation. I learned that cunning data-cracking can unearth the skeletons in corporate closets, for better or worse.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Observation": 4,
+          "Command": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "During a crisis scenario aboard a half-derelict station, comms blacked out, leaving multiple departments to guess each other’s status. I rigged an emergency transmitter using leftover drone parts, bridging data feeds so essential communications resumed. Cargo-lift workers immediately offloaded dangerous materials, preventing an explosive chain reaction. My instructor’s mild nod felt more rewarding than any official bonus that day. It confirmed the raw power of intelligence guiding frantic corporate operations under duress.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 4,
+          "Observation": 3,
+          "Command": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "When a budgeting fiasco froze resource allocations planetwide, I took it upon myself to draft a streamlined ledger. My revised cost model freed funds for emergency maintenance while trimming unnecessary staff payouts. The next day, corporate heads broadcasted how spending plummeted, praising the newly discovered efficiency. I only smirked slightly—my personal pride soared to watch intangible data evolve into real, beneficial results. I glimpsed how cunning number work can mean the difference between chaos and corporate stability.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Manipulation": 3,
+          "Command": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "At the sprawling corporate academy, an experimental AI logistics system glitched, mixing hazardous chemicals with edible supplies. I delved into its lines of code, scrubbing flawed subroutines before a full meltdown occurred. My colleagues witnessed me calmly debugging while I directed them to isolate toxic crates in real time. The fiasco ended as merely a footnote in the daily logs. My quiet sense of triumph was overshadowed by cost analysis, but I slept well knowing I’d prevented a catastrophic PR disaster.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Command": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "I accompanied a corporate envoy to a frontier settlement, suspecting local unrest might spark sabotage. By analyzing security camera patterns, I pinpointed a suspicious movement near the outpost’s generator. One crisp ComTech infiltration locked the saboteurs’ device, rendering it inert. The envoy credited the safe negotiations to my behind-the-scenes insight, boosting corporate presence in that region. Beneath the veneer of polite deals, I realized how cunning data infiltration can quell entire conflicts before they ignite.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 4,
+          "Observation": 4,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "When a cargo-liner’s refrigeration system began failing mid-journey, risking expensive perishable goods, I jumped into action. Recalling a half-finished blueprint from class, I retrofitted a backup circuit. As the temperature stabilized and prevented colossal losses, the crew’s relief was almost tangible. Back at the academy, the cost-savings figure plastered on the leadership board was my real reward. It felt good to rescue a supply load from oblivion while validating my theoretical engineering background.",
+        "skills": {
+          "Science": 5,
+          "ComTech": 4,
+          "Observation": 2,
+          "Mobility": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A midday training exercise simulated a corporate station’s meltdown, with panicked staff refusing to obey evacuation orders. I used measured persuasion, weaving fear of profit loss into my pleas, spurring them to form an orderly retreat. Meanwhile, I updated meltdown protocols on the station’s consoles, preventing a chain reaction that threatened to blow. The success ended with minimal damage, and the superiors marveled at how I united self-interest and safety. Sometimes, profit talk does wonders in a grim corporate environment.",
+        "skills": {
+          "Manipulation": 4,
+          "ComTech": 4,
+          "Science": 3,
+          "Command": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "A hush-hush assignment in the academy had me reviewing contraband logs for an entire quadrant. My rummaging uncovered a pattern of falsified docking schedules, pointing to a black-market smuggling pipeline. Swallowing the tension, I reported my findings, indirectly shutting down a massive theft ring. Though top-level suits spun it as a victory for the corporation, I felt uneasy about how quickly they leveraged the intel for internal power plays. Still, it cemented my knack for sniffing out data anomalies under high stakes.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Observation": 3,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "During an advanced course on economic sabotage, I uncovered an illicit scheme to re-route funds from a corporate relief effort. Rather than stir alarm, I quietly corrected the ledger and informed a single trusted official. The next day, the shady funnel dried up, re-solidifying company finances and ensuring relief supplies reached the intended outpost. My tutor gave a subtle nod, apparently endorsing discreet problem-solving in a profit-first empire. I finally grasped that saving face is paramount in these cold halls.",
+        "skills": {
+          "ComTech": 4,
+          "Manipulation": 3,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "At the frontier training grounds, I orchestrated a logistical feat by consolidating scattered modules into one centralized production chain. The shift spiked efficiency, shaving hours off production time daily. My classmates, once skeptical of my data obsession, reaped benefits in boosted credits and resource allocation. Even the sternest instructors admitted the synergy was undeniable. My spreadsheets had turned from tedious chores into a template for corporate productivity at the edge of known space.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Command": 3,
+          "Observation": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "While rotating through an administrative module, a power surge threatened the entire server block storing corporate contracts. I traced the overload to a single bypass that overheated, quickly re-soldering the circuit before data corruption set in. The building’s lights flickered ominously, but stabilized soon after my fix. Almost immediately, credits soared as the corporate bean-counters thanked me for preserving crucial revenue deals. The sense of control over intangible flows reaffirmed my chosen path in corporate operations.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Observation": 3,
+          "Command": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "I spent a grueling night at the astro-navigation labs, re-checking flight paths that were dangerously miscalculated. My meticulous recalibration and data cross-checks allowed a shipping fleet to avoid a rogue meteor cluster. The next day, executive staff credited an uptick in safe arrivals to my behind-the-scenes labor. I grinned privately, knowing how close we’d skirted disaster. In the corporate sphere, unspoken triumphs can outnumber the recognized ones tenfold.",
+        "skills": {
+          "Science": 5,
+          "ComTech": 4,
+          "Observation": 3,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During an intense simulation, multiple starship modules reported life support glitches. By analyzing each readout in real time, I patched the central regulator code. Oxygen levels normalized, preventing a widespread meltdown that could have ‘killed’ half our training crew. The simulation ended as a dramatic success, with tutors citing my calm oversight. It hit home that a single line of corrected code can avert corporate tragedies larger than any firing line.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Observation": 4,
+          "Command": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Aboard a decrepit cargo carrier used for advanced practice, I uncovered a labyrinth of mislabeled goods. Applying my knack for classification, I reorganized each crate, verifying barcodes with an improvised scanning tool. Suddenly, an emergency alert signaled a hostile raid on deck. Maintaining composure, I sealed the compartments, denying raiders any prime targets, while logging cargo data to ensure nothing vanished. In the end, the entire fiasco concluded with zero losses and a quiet note praising my vigilance.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Command": 3,
+          "Observation": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "An economic meltdown rattled the academy, slashing training resources drastically. Instead of resigning to fate, I compiled an audit verifying which modules were truly essential. Presenting them to the directors, I convinced them to reallocate funds more effectively, safeguarding the critical classes. Revenue data soared once efficiency took root, and my peers enjoyed stable resources again. In that moment, I sensed how one well-built report could shift the entire political board.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Manipulation": 3,
+          "Observation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "While overseeing maintenance on a battered starship corridor, I noticed a suspicious pattern: certain panels always failed just when valuable cargo transited. A swift ComTech investigation revealed a purposeful sabotage script. I neutralized it, ensuring the next haul passed unscathed, sparing the corp massive repair bills. My mentors recognized my cunning approach to anticipating sabotage. It reaffirmed my belief that intelligence can be the strongest shield in corporate feuds.",
+        "skills": {
+          "ComTech": 5,
+          "Observation": 4,
+          "Science": 3,
+          "Command": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "An impromptu live-fire scenario had us pinned in the data core of a derelict station. Everyone panicked except me—I swiftly rerouted camera feeds to track enemy squads, then fed intel to the team. We outmaneuvered them systematically, recapturing the core with minimal losses. The instructors praised how I merged digital cunning with immediate action. Numbers or bullets, data or grit—both belong to a corporate operator’s arsenal, I concluded.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Observation": 3,
+          "Command": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "I was assigned to schedule overlapping shipments across two starports, each claiming priority. Harnessing automated conflict-detection programs, I aligned timelines so vessels docked seamlessly without idle hours. The cost reduction soared beyond the board’s wildest dreams, as no single hour bled away unbilled. The board’s stoic nod said enough: I’d sharpened corporate synergy, letting the currency flow smoother. For once, I glimpsed the quiet artistry behind orchestrating starship logistics in a profit-hungry realm.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 2,
+          "Command": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "At the edge of a cosmic dust storm, I used local scanning drones to chart a safe route for a gas-mining flotilla. Many doubted my model, but once verified, the flotilla glided through minimal hull damage. Corporate tallies soared, citing me as an unsung hero of operational planning. I merely shrugged, grateful for the chance to prove advanced planning beats raw bravado. In a place where credit typically goes to boardroom execs, a quiet operator like me sees deeper truths.",
+        "skills": {
+          "Science": 5,
+          "ComTech": 4,
+          "Observation": 3,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "In an experimental workshop, I discovered a mismatch between life support capacity and actual occupant data. A glitch threatened to degrade oxygen distribution for the entire wing. Quick recalibration and an updated occupant registry instantly corrected the imbalance. Two hours later, a potential asphyxiation crisis had been quietly dodged. Reflecting on it, I recognized that behind every beep of a corporate console, real lives hang in the balance.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 4,
+          "Observation": 3,
+          "Command": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "A clandestine academy test demanded setting up a profitable black-market sim to gauge my moral flexibility. I, however, focused on re-routing contraband out of the system, citing potential public outcry costs. Profits ironically surged once the official routes stabilized, and the sim ended with me lauded for a ‘moral solution’ that still turned a net gain. My professors smirked that I managed to keep hands relatively clean while feeding corporate pockets. Perhaps a faint spark of conscience can endure in these bleak corridors.",
+        "skills": {
+          "Manipulation": 3,
+          "Science": 3,
+          "ComTech": 4,
+          "Observation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "An entire row of cargo drones malfunctioned on a decrepit station. Working swiftly, I patched their operational scripts, each line carefully rewriting the route logic. Freed from jammed routines, the drones quickly sorted medical supplies that staved off an impending outbreak. The station’s administration hush-hushed the incident, yet I felt a flicker of pride. Sometimes, cunning code lines are all that separate a minor glitch from a corporate meltdown.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "I enrolled in an advanced communications cryptography class, which turned practical when a data theft threatened the academy. Spotting suspicious flux in satellite pings, I used cryptanalysis to trace the leeching signals. Shutting them down exposed an entire ring of compromised servers. In hushed tones, the faculty thanked me for saving the academy from a scandal. I realized how slender the line is between healthy corporate ambition and malevolent sabotage, all hidden in lines of code.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Observation": 3,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "At a dusty rimworld outpost, a water purifier glitch threatened to bankrupt the colony’s main supply chain. My quick inspection discovered a single corroded valve sensor offsetting the entire system. Replacing it restored the purifier, reversing what could’ve become a lethal drought. Locals scrounged up a meager celebration, though corporate overseers never credited me publicly. I learned that in these wastelands, quiet expertise often stands as the last line between survival and ruin.",
+        "skills": {
+          "Science": 4,
+          "ComTech": 4,
+          "Observation": 3,
+          "Command": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "A meltdown exercise escalated when half the cadets misread an emergency ejection protocol. I calmly stepped in, reprogramming the shuttle’s flight path to ensure an orderly escape. The room quaked with false explosions, but we soared away unscathed. As the sim concluded, the instructor singled me out, noting the profit-friendly efficiency of minimal downtime. In that moment, I recognized how corporate narratives transform life-or-death success into mere lines on a ledger.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Command": 3,
+          "Manipulation": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "While exploring an abandoned mega-colony structure for salvage training, I uncovered a trove of mislabeled inventory codes. Linking them to potential black-market dealings, I quietly handed the data over to my supervisor. By next week, corporate enforcers seized the materials, netting a tidy profit for the academy’s accounts. Though overshadowed by endless board meetings, I relished my small role in unmasking hidden wealth. The more I learn, the more I see how data shapes empires in this corporate age.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Command": 1,
+          "Mobility": 1
+        }
+      }
+    ],
+    "failure": [
+      {
+        "description": "I missed a small but critical line of code in the cargo-dock system, causing thousands of credits worth of goods to jam on conveyor loops. By the time I realized my oversight, the jam had grown unmanageable, forcing a complete power-down of the station’s entire freight wing. Cursing my arrogance, I spent hours reinitializing systems and apologizing to fuming dock workers. The faculty flagged my record with a cautionary note on how a single mistake can balloon into massive corporate losses. I’ve never felt such a personal sting from a string of zeros and ones.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Convinced I could handle a meltdown alone, I bypassed an official perimeter check. One jammed bulkhead later, the meltdown sim escalated beyond control, with simulated casualties rising by the minute. Scrambling for solutions, I realized my mistake too late, and we had to abort the entire scenario. The scorched looks from everyone confirmed the cost of my overconfidence. My instructors’ silent disapproval carved a deeper lesson than any lecture could.",
+        "skills": {
+          "Science": 3,
+          "ComTech": 2,
+          "Observation": 2,
+          "Command": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "I tried to restructure the entire station’s maintenance schedule overnight, sure it would impress the board with cost savings. Unfortunately, I overlooked a weekend shift detail, leaving some vital systems unmanned. A meltdown in the coolant sector ensued, halting operations for half a cycle. Frantically reversing my changes, I felt the weight of glaring cadets who’d lost precious time. Nothing hammered humility into me like that fiasco of naive streamlining.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 2,
+          "Observation": 2,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "In a rush to prove quick thinking, I reprogrammed a cargo lifter mid-journey without testing the override. At the next docking, the lifter malfunctioned, spilling valuable components across the landing bay. The cleanup cost and lost cargo soared, overshadowing any bright ideas I had. Peers grumbled, and my mentor refused to sugarcoat the severity of my slip. It drove home how brash tinkering under corporate pressure can boomerang into harsh financial repercussions.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 2,
+          "Observation": 3,
+          "Mobility": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "When a high-stakes cargo run threatened to tip the starship’s balance, I insisted on stowing containers in a new formation. My shaky calculations caused a thruster imbalance, forcing the pilot to dump half the cargo for safety. I watched in horror as credit-laden containers jettisoned into space, irretrievable. The incident’s weight pressed on me, with the board slashing potential commendations. No one needed to say it: in corporate ops, a single oversight can hemorrhage fortunes.",
+        "skills": {
+          "Science": 3,
+          "ComTech": 2,
+          "Observation": 2,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "A hush-hush infiltration course ended in chaos when I volunteered to oversee communications. Believing I’d memorized all protocols, I jammed the wrong frequency, tipping off simulated hostiles. Our entire infiltration unit was pinned, culminating in an official fail. The lead instructor’s thin-lipped stare told me enough: confidence is worthless without double-checking every detail in a cutthroat corporate environment. My heart sank, replaying every beep of that scrambled channel.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a routine assignment analyzing station power levels, I chose to skip a redundant backup check. Hours later, a critical node overloaded, nearly blacking out a sector. Scrambling to restore systems, I had to face furious technicians who demanded an explanation. In the end, it took half a day to undo the damage, costing the academy a chunk of operational funds. I learned the excruciating difference between a mere step in a checklist and a lifesaver in corporate-run cosmos.",
+        "skills": {
+          "Science": 3,
+          "ComTech": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "I bet on a new ledger algorithm to skip routine audits, believing it would impress efficiency hawks. Then an unexpected surge in cargo influx jammed the entire pipeline, left unmapped in my system. Frantic re-entry of data took days, letting valuable starships idle. Profits tanked, instructors hammered me on the short-sighted gamble. That fiasco remains an unflattering highlight in my training files.",
+        "skills": {
+          "ComTech": 2,
+          "Manipulation": 3,
+          "Science": 2,
+          "Observation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "An advanced meltdown scenario needed perfect synergy, but I pushed ahead with a half-finished solution. My flawed code patch cratered halfway, forcing a station-wide lockdown. Panic ensued, and simulated casualties soared. I stood there, choking on embarrassment, as the meltdown sim ended in a universal fail. No one said anything, but the quiet condemnation was deafening in the debrief logs.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "While refitting a starport’s scheduling system, I neglected to account for night-shift overlaps. The backlog quickly reached critical mass, halting dozens of inbound craft for hours. Complaints cascaded into a near-public fiasco, only resolved by shutting down my entire patch. Tallying the losses made me physically ill. It was a raw demonstration that every schedule detail matters in a fragile, megacorp-run traffic flow.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 2,
+          "Observation": 2,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Overly certain of my data-mining skills, I tried hacking a brand-new security drone subroutine alone. Halfway through, the drone triggered a silent alarm that locked me in a training hangar. My classmates found me hours later, the scenario marking a catastrophic infiltration fail. Leadership pegged me for lacking a fallback plan or any basic caution. As soon as the door slid open, I felt the heavy cost of pride in a corporate hush-hush environment.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Urged to expedite final checks of a station reactor, I carelessly signed off a safety form without verifying coolant levels. The reactor overheated, forcing a humiliating evac drill that flagged me as the root cause. Beyond the formal warnings, the disappointed stares left a deeper scar. I realized too late that skipping basic verifications can unravel entire ops in corporate space. The meltdown logs recorded every excruciating second of my hasty choice.",
+        "skills": {
+          "Science": 3,
+          "ComTech": 2,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "In a chaotic simulation of cargo-liner hijacks, I presumed the ship’s AI was friendly. A minor glitch turned the AI hostile, sealing me away from the mainframe. The crew’s pleas for help battered my earpiece, but I was powerless to break the lockdown. The simulation ended in colossal losses, with me singled out for placing blind trust in flawed subroutines. I left the sim chamber trembling, grasping how ignorance can sabotage entire corporate fleets.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "I arranged a mega-haul scheduling test, certain I’d found a sweet spot to stack multiple flights. The narrow time margins caused jam after jam, with frustrated pilots forming a long queue. Furious instructors stepped in, forcing me to revert every carefully layered plan. The cost tally soared, overshadowing any good intentions. I muttered apologies, stinging from the realization that corporate hustle can devour unproven theories swiftly.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "I latched onto a rumor about undervalued salvage in a derelict station, pushing for a quick expedition. Half the gear I recommended turned out ill-suited, leading to an abrupt retreat. The wasted resources and time were pinned on my flawed risk assessment. My peers shook their heads, and the logs clearly spelled out my single-minded chase after rumored profit. Bitterly, I recognized that corporate success demands more than rumor-fed gambles.",
+        "skills": {
+          "Observation": 2,
+          "Science": 3,
+          "ComTech": 2,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Under severe budget cuts, I gambled on downsizing station security for a short-term cost-saving measure. Within days, a minor sabotage spiraled uncontrolled, with no enough guards to quell it. The meltdown sim concluded in epic financial damage. My cost-trimming illusions crumbled under real threats. Management hammered my naive proposal, stamping it as a cautionary reference for future academicians.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 2,
+          "Manipulation": 3,
+          "Observation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a corporate politics sim, I tried forging a backdoor alliance to oust a rival faction. My ComTech slip created a digital paper trail, allowing them to foresee every move. I found myself checkmated, with official scorn raining down for bungling corporate relations. The sim ended in humiliating failure. Quiet tears reminded me that cunning manipulations must be flawlessly hidden in a world where data is everything.",
+        "skills": {
+          "ComTech": 2,
+          "Manipulation": 3,
+          "Observation": 2,
+          "Science": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A meltdown scenario in the academy’s station corner tested my contingency planning. Overly reliant on a primary system fix, I neglected to set up backups, sure my code would suffice. Mid-sim, the system crashed, leaving backups non-operational. The meltdown soared to full fail, with no fallback. In the heated after-brief, mentors needed no words to convey their disappointment in my single-track confidence.",
+        "skills": {
+          "Science": 3,
+          "ComTech": 2,
+          "Observation": 2,
+          "Mobility": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Determined to overshadow peers, I boasted I could run a cargo docking station singlehandedly. My frantic multi-tasking led to mismatched cargo logs, driver confusion, and near collisions on the docking clamps. The fiasco concluded with me red-faced, forcibly replaced by an entire team. As I tidied up the scattered manifests, I admitted that corporate operations demand synergy, not lone crusaders.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "During a stealth infiltration sim, I misread an encrypted comm channel as friendly. The false intel lured me into a secured zone, where automated turrets promptly ‘neutralized’ me. The sim ended with my team’s progress halted, all traced to my gullible trust. I retreated to my bunk, face heated in shame. Corporate infiltration, I realized, is a brutal dance of hidden agendas that punishes any naive step.",
+        "skills": {
+          "Observation": 2,
+          "ComTech": 2,
+          "Science": 3,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "I tried imposing a brand-new staffing algorithm on the starbase, ignoring staff feedback about real-world conditions. Complaints soared, as misunderstood shift rotations left key posts unstaffed. Productivity plummeted, the fiasco culminating in a formal apology from my department. My algorithm was ceremoniously scrapped. That day I learned, ironically, that raw data-logic can backfire when it steamrolls over human or practical nuance.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 2,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "At an expo sim, I pitched a new fueling prototype to a set of corporate reps. Overly enthused, I neglected a final reliability test. Mid-demo, the prototype fizzled and spurted, humiliating me in front of the entire board. They left unimpressed, awarding near-zero points for the fiasco. My mentors’ stony silence stung like acid, reminding me that in the corporate world, hype minus verification spells doom.",
+        "skills": {
+          "Science": 3,
+          "ComTech": 2,
+          "Observation": 2,
+          "Command": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Convinced I’d outsmart a meltdown sim by isolating the reactor’s main coolant valve, I locked out the entire coolant cycle. The meltdown soared, incinerating the sim’s compartments in catastrophic ‘losses.’ The instructors’ glare said it all: I had basically served the meltdown on a platter. Stumbling from the smoldering scenario, I digested how half-knowledge can be deadlier than ignorance in a corporate meltdown.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Aboard a training starship, I attempted a data swap in the navigation core without scheduling a system backup. The nav helm froze mid-route, forcing an abrupt manual takeover that nearly crashed us into an asteroid belt. Shaken, I accepted the failure pinned solely on my hasty tinkering. Countless simulations warn about skipping backups, but living through it hammered the lesson deeper than any lecture could.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "In a high-pressure synergy exam, I insisted on a radical new route for cargo convoys, ignoring contradictory sensor data. The route was littered with micro-debris, damaging multiple hulls. Our cargo profits turned to repair costs. The sim ended with me hunched over a console of drifting analytics, reeling from the stinging failure. Next time, I vowed, I’d weigh raw data as heavily as my proud theories.",
+        "skills": {
+          "Science": 3,
+          "ComTech": 2,
+          "Observation": 3,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Eager to expedite starship refits, I overruled an older engineer’s caution about engine re-calibration. The thrusters malfunctioned mid-sim flight, stalling the ship in a forced dock. We tallied huge losses in hypothetical time and cargo. The sour, silent stares of senior staff told me how deeply rash decisions cut in the corporate ranks. I realized sometimes, those 'old hands' know what can break an entire starship in one fell swoop.",
+        "skills": {
+          "Science": 2,
+          "ComTech": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "At the final meltdown challenge, I tried saving cost by skipping a crucial cooling system part. The meltdown soared out of control in record time, marking a catastrophic scenario fail. Everyone recognized my name on the bulletins for ignoring safety margins. While corporate suits might applaud cost-cutting, in this case, reality devoured my penny-pinching. The humiliation was absolute—numbers on a ledger can’t salvage lost trust.",
+        "skills": {
+          "Science": 3,
+          "ComTech": 2,
+          "Observation": 2,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Attempting to compile a massive shipping manifesto, I misread the encryption protocols, corrupting half the database. Starships docked with no offload instructions, jamming entire lanes. The meltdown screech across the PA hammered home the scale of my blunder. We spent days realigning cargo, losing revenue by the hour. At the final apology meeting, the weight of corporate disappointment tore at my once-proud sense of tech savvy.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Mobility": 1
+        }
+      }
+    ]
+  }
+  

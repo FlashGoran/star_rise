@@ -154,7 +154,7 @@
     "Corporate Compliance Academy": {
       "description": "Training for roles within corporate-controlled environments, focusing on operations aboard corporate vessels.",
       "subclasses": {
-        "Corporate Operations": {
+        "Corporate Operator": {
           "description": "Focuses on managing corporate assets and operations aboard starships, ensuring profitability and efficiency.",
           "main_attr": "int",
           "skills": {
@@ -171,7 +171,7 @@
               "specializations": ["Economics", "Psycology", "Linguistics"]
             }
           },
-          "event_key":["corporate_operations_events"],
+          "event_key":["corporate_operator_events"],
           "title": "Operations Officer",
           "master": {
             "title": "Corporate Liaison"

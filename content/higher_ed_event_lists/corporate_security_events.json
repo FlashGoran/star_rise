@@ -1,0 +1,617 @@
+{
+    "success": [
+      {
+        "description": "I remember standing guard in a leaking cargo bay where corrosive fumes seeped through cracked vents. Everyone else hesitated to enter, but I charged in, trusting my body’s endurance to withstand the haze as I sealed off each leak with a salvaged plating tool. My forearms ached from hefting metal sheets into place, but I refused to yield until the hiss of toxins silenced. Only then did I realize how that brute effort averted a catastrophic meltdown. I left with bandaged hands and a heightened respect for my own physical resolve.",
+        "skills": {
+          "Stamina": 5,
+          "Close Combat": 4,
+          "Heavy Machinery": 3,
+          "Ranged Combat": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "During a firearms proficiency test aboard a battered training vessel, I shattered previous records by knocking down every target in half the allotted time. Nobody expected I’d keep my posture rock-steady while the deck quaked under artificial gravity fluctuations. My arms strained like steel cables, but each shot rang true. The instructors, rarely impressed, quietly nodded in approval. I felt a fresh surge of confidence in how brute force and unwavering stamina can unite to shield corporate property.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 5,
+          "Ranged Combat": 4,
+          "Observation": 2,
+          "Heavy Machinery": 1
+        }
+      },
+      {
+        "description": "One humid night, a group of saboteurs tried hijacking the armory module deep in the station’s hull. I sprang into action, hefting a plasma torch to weld the main hatch shut. Sparks showered me as I locked them inside, then battered a side panel to jam the controls. Their desperate shouts said enough: their plan was ruined. Sweat soaking my uniform, I realized that raw muscle and quick thinking could unmake any cunning infiltration.",
+        "skills": {
+          "Heavy Machinery": 4,
+          "Close Combat": 4,
+          "Stamina": 3,
+          "Ranged Combat": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "I volunteered for a punishing zero-g drill in the corporate security ring, where cadets often collapsed under fatigue. Holding the line alone, I carried a crate of live ammo through spinning corridors, ignoring the burning ache in my arms. Each breath felt heavier as artificial gravity fluctuated, yet I pressed on, refusing to drop a single round. By the end, I saw respect in the eyes of my harshest instructor. In that moment, I knew I could withstand any physical rigors corporate ops demanded.",
+        "skills": {
+          "Stamina": 5,
+          "Close Combat": 4,
+          "Heavy Machinery": 3,
+          "Mobility": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "While stationed on a remote planetary outpost, I discovered an unauthorized arms stash hidden within shipping crates. With no time to wait for backup, I used a pry bar and brute force to break the locks, confiscating the contraband. When the smugglers showed up, I slugged two with powerful blows before they scrambled away, leaving their ill-gotten goods behind. My knuckles throbbed, but I felt a rush of triumph in protecting corporate property. That day, I realized an iron grip can unravel secret plots in a single sweep.",
+        "skills": {
+          "Close Combat": 5,
+          "Stamina": 4,
+          "Heavy Machinery": 3,
+          "Observation": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "During a station riot training scenario, I used a battered riot shield and my own shoulders to push back a wave of panicked cadets. Every muscle in my body screamed, but I stood firm, funneling them into calmer zones. Instructor feedback soared when they saw minimal injuries for once. My back felt like it had carried a boulder, yet I tasted the satisfaction of controlling chaos. That day, I proved that sometimes raw physical resilience is the key to restoring order.",
+        "skills": {
+          "Stamina": 5,
+          "Close Combat": 4,
+          "Command": 3,
+          "Ranged Combat": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "A hazardous meltdown sim forced me to cross a rickety catwalk while coolant spewed in toxic jets. I propped a steel beam against my shoulder, shielding my head as I advanced. By the time I reached the control valve, my uniform was drenched, but I shut the leak, preventing the meltdown from escalating. In the dim, flickering light, I realized my strength had singlehandedly turned a lost cause into a corporate triumph. The battered catwalk creaked behind me, but I’d conquered it regardless.",
+        "skills": {
+          "Stamina": 4,
+          "Close Combat": 3,
+          "Heavy Machinery": 4,
+          "Observation": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "While patrolling a cargo freighter, I sensed an intruder rummaging for data cubes in the engine room. Without hesitation, I slammed the engine hatch shut, cornering them in the dim glow of thruster coils. A single menacing glare and my clenched fists made them drop the stolen cubes instantly. Corporate liaison officers arrived to find me calmly standing guard over the intruder, who sat trembling. Strength and intimidation alone saved the company’s precious intel that cycle.",
+        "skills": {
+          "Close Combat": 5,
+          "Stamina": 3,
+          "Ranged Combat": 2,
+          "Manipulation": 1,
+          "Heavy Machinery": 1
+        }
+      },
+      {
+        "description": "A labor dispute erupted in the lower decks, with workers threatening to sabotage vital hull plating. I volunteered to negotiate, but the tension flared, fists flying. Relying on my reflexes, I parried each blow, subduing the angriest without serious harm. By reasserting corporate protocol and my unyielding stance, I diffused the riot before irreparable damage occurred. Among the battered crates, I found a certain pride in having used both muscle and presence to keep anarchy at bay.",
+        "skills": {
+          "Close Combat": 5,
+          "Stamina": 4,
+          "Command": 3,
+          "Heavy Machinery": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "When sabotage droids jammed the station’s main corridor, I tore open a side vent using brute strength, forging an alternate path for evacuation. The squeal of twisted metal echoed in my ears as I pried the panels aside, dust choking my lungs. Yet that spontaneous route saved dozens from the encroaching mechanical swarm. Instructors counted minimal losses, and my arms felt like lead by the end. The entire scenario cemented how unstoppable resolve can surpass even cunning sabotage.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "Stamina": 4,
+          "Close Combat": 3,
+          "Ranged Combat": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "I found myself face to face with a belligerent group smuggling contraband in a dusty docking bay. Calmly, I set my sidearm aside, stepping forward with fists raised. My first punch knocked one smuggler off balance; a swift follow-up forced the others to surrender. Retrieving the contraband, I breathed heavily, proud that I’d averted a costly shootout. No corporate resource was wasted in bullets that day—just sweat and bruised knuckles.",
+        "skills": {
+          "Close Combat": 5,
+          "Stamina": 4,
+          "Ranged Combat": 2,
+          "Observation": 1,
+          "Heavy Machinery": 1
+        }
+      },
+      {
+        "description": "Rumors of sabotage threatened a high-profile starship’s thruster array. I set up a watch, refusing to budge from my vantage point for an entire rotation. Muscle cramps gnawed at my legs, but at the shift’s end, I caught a figure tampering with the coolant valves. A swift takedown prevented massive engine failure. Standing victorious, with sabotage gear scattered around, I proved unwavering vigilance can outlast any stealthy plan in these profit-hungry corridors.",
+        "skills": {
+          "Stamina": 5,
+          "Close Combat": 4,
+          "Observation": 3,
+          "Heavy Machinery": 2,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "A frantic meltdown sim threatened to melt the station’s core. I hefted a bulky coolant container, ignoring the weight that threatened to buckle my knees. Punching open a corroded hatch, I released the cooling liquid just in time. The stench and heat were overwhelming, but the meltdown timer halted with seconds to spare. Collapsing after success, I discovered that sometimes brute force alone can be the pivot for corporate survival.",
+        "skills": {
+          "Stamina": 4,
+          "Heavy Machinery": 4,
+          "Close Combat": 3,
+          "Ranged Combat": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "When the training simulator pit me against wave after wave of assault drones, my arms burned from swinging my baton. Each overhead strike cracked metal plating, drones clattering to the deck. I refused to yield even as my uniform soaked with sweat and sparks flew from broken circuits. In the end, the sim recorded a perfect kill ratio, with no major injuries on my part. That day, the training logs heralded me as a champion of raw corporate security might.",
+        "skills": {
+          "Close Combat": 5,
+          "Stamina": 5,
+          "Heavy Machinery": 2,
+          "Ranged Combat": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "Under grueling zero-grav conditions, I was assigned to guard a drifting cargo hold from potential raiders. My equilibrium spun, but I forced each muscle to brace, stepping along the spinning corridors. When the intruders finally arrived, a single pivot let me throw them off-balance, disarming them in a flurry of close-quarter strikes. All that training in raw physical control paid off, as I locked them in a storage cell. In zero-g, power and stamina can still tip the scales in a fight.",
+        "skills": {
+          "Stamina": 5,
+          "Close Combat": 4,
+          "Mobility": 3,
+          "Ranged Combat": 1,
+          "Heavy Machinery": 1
+        }
+      },
+      {
+        "description": "A meltdown test triggered structural cracks in the station bulkheads near the armory. Without second thought, I tore off an emergency brace from a supply crate, wedging it into the creaking metal seam. Each heartbeat pounded in my ears, but the bulwark held firm, preventing a catastrophic collapse on valuable weaponry. In the flurry of post-sim applause, I realized how a single moment of muscle and will can preserve corporate assets from oblivion.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "Stamina": 4,
+          "Close Combat": 3,
+          "Observation": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "When a training scenario unleashed rogue loader droids in the docking bay, I waded into the chaos, fists and baton swinging. Sparks flew as I cracked open each droid’s plating, disabling them before they toppled fragile cargo racks. Sweat streamed down my face by the time the last droid collapsed. The exam panel admitted they rarely saw such unstoppable raw force in an environment built for sabotage. Collapsing to my knees, I savored that moment of victory in mechanical havoc.",
+        "skills": {
+          "Close Combat": 5,
+          "Stamina": 5,
+          "Heavy Machinery": 2,
+          "Observation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "I once confronted a raging cornered worker who threatened to blow the cargo hull if demands weren’t met. Gritting my teeth, I advanced calmly, stepping around live wires and half-broken crates. A single powerful throw pinned them against the sealed hatch, disarming the makeshift detonator. Cargo safe, station safe, corporate property intact. Even the battered worker realized unstoppable physical presence can extinguish fury faster than words in a profit-driven world.",
+        "skills": {
+          "Close Combat": 5,
+          "Stamina": 4,
+          "Command": 2,
+          "Ranged Combat": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "I found myself on the starship’s observation deck, hunting for a saboteur rumored to sabotage ventilation. A faint clang betrayed their presence behind a brittle panel. Tearing it open, I dragged them out, ignoring their frantic kicks. Each blow to my ribs hurt, but I endured, forcing them to drop the sabotage kit. By the time back-up arrived, the saboteur was subdued, and the ventilation system was safe from corporate meltdown. My bruises were a small price for saving the day’s profits.",
+        "skills": {
+          "Stamina": 5,
+          "Close Combat": 4,
+          "Observation": 3,
+          "Ranged Combat": 1,
+          "Heavy Machinery": 1
+        }
+      },
+      {
+        "description": "A meltdown alarm tested every cadet’s mettle, but I forced my way to the front. With a single battered crowbar, I pried open locked safety doors to let others evacuate. Each heave felt like my arms would snap, but I refused to let the scorching corridor keep them trapped. By the scenario’s end, minimal ‘casualties’ were recorded, thanks to that brute show of compassion. Sweat dripping off my chin, I realized how far raw determination can tip the scale of survival.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "Stamina": 4,
+          "Close Combat": 2,
+          "Ranged Combat": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "Patrolling a grim corridor, I heard muffled banging from a sealed room. Inside, a group of raiders tried cracking open a weapons cache. A single savage kick splintered the door off its rusty hinges, surprising them. With raw fists, I kept them from drawing firearms. Minutes later, they lay sprawled, and the cache was intact. The station kept humming along, and I discovered how a direct approach can short-circuit elaborate heists.",
+        "skills": {
+          "Close Combat": 5,
+          "Stamina": 4,
+          "Heavy Machinery": 3,
+          "Command": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "In a stealth-based test, I ironically used my strength as an advantage, quietly lifting heavy crates to create cover. Every time an instructor drone scanned the area, I’d freeze behind my improvised barricade. The weight threatened my balance, but I never made a sound. By outwitting them with raw muscle control, I completed the mission undetected. The instructors praised my surprising twist on brute force—proving that might can serve stealth in cunning ways.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 4,
+          "Heavy Machinery": 4,
+          "Mobility": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "A sabotage event jammed the power couplings, risking station-wide darkness. Determined to fix it, I hefted a spool of replacement cable across smoldering debris. My boots slipped on melted plating, but I pressed on, ignoring scorching heat. Reaching the couplings, I hammered them into place while the meltdown alarm blared overhead. When the lights flickered back alive, I understood how unstoppable dedication can eclipse the darkest corners of corporate hazard.",
+        "skills": {
+          "Stamina": 5,
+          "Heavy Machinery": 4,
+          "Close Combat": 3,
+          "Observation": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "Amid the clang of an exploding corridor, I found my path blocked by twisted steel beams and half-buried allies. Stripping off my jacket, I wedged myself under the debris, straining every muscle to shift the beams. My arms screamed, but I freed enough space for them to crawl out. By the time the corridor collapsed behind me, we’d escaped. Corporate logs might gloss over the event, but I knew I’d turned raw grit into a life-saving tool that day.",
+        "skills": {
+          "Stamina": 5,
+          "Close Combat": 4,
+          "Heavy Machinery": 3,
+          "Ranged Combat": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "A meltdown sim forcibly ejected me into the outer catwalk above a swirling star’s radiation. Alarm klaxons shrieked, but I clung to the railing with unbreakable grip, pulling myself to the sealed door with each hand-over-hand motion. Swinging a metal rod, I pried open an auxiliary hatch. The scenario concluded with me reentering the station, half-scorched but triumphant. The instructors quietly updated my record, marking my unstoppable push against cosmic dread.",
+        "skills": {
+          "Stamina": 5,
+          "Heavy Machinery": 3,
+          "Close Combat": 3,
+          "Ranged Combat": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "A nighttime riot drill saw cadets scattering in fear, but I remained rooted, brandishing a baton. Step by step, I reasserted control, shoving aggressors away from the critical fuel lines. Each strike was measured, designed to quell rather than harm. By dawn, the drill ended with minimal damage to corporate property—my baton’s surface still hot from contact. In the debrief, they hailed me as a prime example of unstoppable physical presence taming chaos.",
+        "skills": {
+          "Close Combat": 5,
+          "Stamina": 5,
+          "Command": 2,
+          "Heavy Machinery": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "I overcame the ‘extreme hazard gauntlet’ by smashing each mechanical trap that threatened to clamp me. Sparks showered each time my fists or boots connected. Though the gauntlet testers expected more cunning, my unstoppable approach succeeded regardless. At the finish line, my breath ragged, I realized I’d proven raw muscle can bulldoze complicated contrivances. The hush in the watchers’ stand said they never expected such brute defiance of their carefully engineered test.",
+        "skills": {
+          "Close Combat": 5,
+          "Stamina": 4,
+          "Heavy Machinery": 3,
+          "Observation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a corporate salvage operation, I discovered a hidden corridor with pressurized doors jammed shut. Others fiddled with control panels while I leaned in, bracing my shoulders and pushing until the seal groaned. A final shove broke the jam, air whooshing out. My arms trembled, but the team salvaged crucial tech inside. Corporate suits later declared the mission a cost-saving success, never acknowledging that sheer will had cracked the door open.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "Stamina": 4,
+          "Close Combat": 3,
+          "Observation": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "To prove my mettle, I took on an entire sim squad in hand-to-hand combat while they tested new riot gear. Blow after blow, I chipped away at their formation, refusing to yield ground. The sim ended with me battered but still on my feet, while the squad reeled in disbelief. The watchers commented that they’d rarely seen brute force so elegantly applied. Despite the bruises, I learned that in corporate security, raw determination can overshadow even advanced gear.",
+        "skills": {
+          "Close Combat": 5,
+          "Stamina": 5,
+          "Ranged Combat": 2,
+          "Heavy Machinery": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "At a remote fueling station, a loaded tanker threatened to explode from sabotage. Without a second’s pause, I physically disconnected the pressurized couplings, my forearms protesting every yank. Hissing steam scalded me, but I forced the last coupling free, averting a chain reaction. Station logs quietly note the incident as a near-catastrophe, but I recall the searing pain that tested my resolve. My body might bruise, but corporate assets remained intact thanks to that brute intervention.",
+        "skills": {
+          "Stamina": 4,
+          "Heavy Machinery": 5,
+          "Close Combat": 3,
+          "Ranged Combat": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "A meltdown sim forced me to barricade a corridor against rogue trainees pushing to sabotage the reactor. My improvised barrier was just crates and broken plating, but I held them back with each bone-rattling shove. Adrenaline sang in my veins, refusing to let them near the control panel. When backup arrived, they found me drenched in sweat, trembling slightly, but victorious. The meltdown was narrowly avoided, reminding me how unwavering grit can slam the door on sabotage.",
+        "skills": {
+          "Stamina": 5,
+          "Close Combat": 4,
+          "Command": 2,
+          "Observation": 1,
+          "Heavy Machinery": 1
+        }
+      }
+    ],
+    "failure": [
+      {
+        "description": "I underestimated the force of a sabotaged crane, stepping in to manually halt its swing. My arms nearly buckled, letting the crane’s momentum destroy half the crates I was trying to protect. Corporate watchers grimaced at the avoidable loss of valuable assets. I stood among the shattered supplies, scolded for ignoring basic mechanical fail-safes. That day, I learned that pure muscle can’t always outfight unstoppable industrial weight.",
+        "skills": {
+          "Stamina": 3,
+          "Close Combat": 2,
+          "Heavy Machinery": 2,
+          "Observation": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "An infiltration course required me to neutralize intruders quietly, but I rushed in with fists swinging. The commotion alerted the entire sim facility, triggering an alarm that ended the exercise prematurely. Cadets glared, frustrated by my blatant disregard for stealth. I felt the crushing realization: brawn alone can sabotage a meticulously planned corporate operation. No matter how strong, a loud approach can spell fiasco in silent infiltration.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 3,
+          "Ranged Combat": 2,
+          "Heavy Machinery": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "Determined to pass a meltdown scenario on sheer endurance, I sprinted into the meltdown chamber with no plan for radiation exposure. My stamina cracked under toxic fumes, forcing me to retreat. The meltdown soared beyond saving, chalking up a massive sim fail. Panting in the corridor, I grasped the folly of ignoring environmental hazards. Corporate logs recorded it bluntly: unstoppable force is meaningless if choked by lethal air.",
+        "skills": {
+          "Stamina": 2,
+          "Close Combat": 2,
+          "Observation": 2,
+          "Heavy Machinery": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "In an advanced riot drill, I tried wading solo into a raging crowd, convinced brute intimidation would scatter them. They overwhelmed me, ripping away my shield and trampling my attempts to restore order. The sim ended with me pinned under a mass of simulated hostiles, an official fail for the exercise. My lungs burned with each humiliating moment. That fiasco remains a raw reminder that numbers can crush even the strongest form of security.",
+        "skills": {
+          "Stamina": 2,
+          "Close Combat": 2,
+          "Observation": 3,
+          "Ranged Combat": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Believing I could fix a jammed airlock with pure force, I tore at the manual release valve. The mechanism snapped, sending the entire door slamming closed on vital cargo. The station lost tens of thousands in potential profits, and I earned a scathing reprimand for ignoring a simpler override. Standing by the twisted remains, my muscles still ached. A bitter lesson that raw might can end up costing more than it saves in corporate realms.",
+        "skills": {
+          "Heavy Machinery": 2,
+          "Stamina": 3,
+          "Close Combat": 2,
+          "Observation": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "I thought I could tackle a malfunctioning loader droid with my baton, ignoring the manual shutdown code. The droid’s metallic arms pinned me to the deck until sim techs intervened. In the hush that followed, everyone saw my bruised pride as a cautionary tale. Over-reliance on fists left me powerless before a glitchy mechanical beast. No matter how strong, sometimes a code or a switch can surpass brute confrontation.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Heavy Machinery": 2,
+          "Command": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "A meltdown scenario demanded precise coordination, but I jumped straight into the reactor chamber. My attempt to wrest a coolant pipe into place backfired, scorching half the station modules in the sim. The meltdown soared out of control while I coughed in toxic steam. Post-exercise logs stung with condemnation of my hasty bravado. Sometimes, unstoppable force is worthless without a plan to match a meltdown’s complexity.",
+        "skills": {
+          "Stamina": 2,
+          "Heavy Machinery": 2,
+          "Close Combat": 2,
+          "Observation": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "While aiming to block sabotage on a starship deck, I sealed the wrong hatch with welded plating. My error trapped multiple trainees in a storage bay just as a meltdown alarm rang. Frantic calls over comms demanded I undo my welds, but it was too late. The sim concluded with them 'lost' to fictitious toxic fumes. I realized the ache in my arms was nothing compared to the guilt that hammered my mind.",
+        "skills": {
+          "Stamina": 3,
+          "Heavy Machinery": 2,
+          "Close Combat": 2,
+          "Observation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Convinced I could quell a riot in the fueling deck, I grabbed a riot shield and charged in alone. The raging crowd parted at first but closed around me, forcing a near stampede that ended with battered ankles and a lost shield. By the time reinforcements arrived, half the deck was trashed. In the flickering overhead lights, I nursed wounds while regret gnawed at me. Corporate logs pinned it on my rash overconfidence in personal might.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Command": 2,
+          "Observation": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "I tried plugging a burst coolant pipe using my fists and elbow grease, ignoring the recommended sealant. The pipe ruptured further, dousing me in scalding mist and flooding the corridor. The meltdown sim concluded with massive 'casualties' from runaway coolant leaks. Choking on the burnt smell, I recognized that some corporate hazards demand the right tool, not just unstoppable force. My bruised pride echoed with that harsh lesson.",
+        "skills": {
+          "Stamina": 2,
+          "Heavy Machinery": 2,
+          "Close Combat": 3,
+          "Observation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Convinced I could outrun meltdown timers, I vaulted into an engine coil maintenance hatch. The coil ejected superheated plasma, scorching half my gear. I staggered back, burning the precious seconds needed for the meltdown fix, dooming the sim scenario. Limping off the set, I reeled from the realization: raw speed and stamina can’t outrun lethal corporate contraptions if done blindly. My meltdown record ended in a miserable fail.",
+        "skills": {
+          "Stamina": 3,
+          "Close Combat": 2,
+          "Heavy Machinery": 2,
+          "Mobility": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "I tried detaining a sly instructor by pinning them in a corridor, certain my raw strength would suffice. Instead, they sidestepped, and I rammed face-first into the bulkhead, dislocating a shoulder. Everyone cringed as the sim paused to treat me. The exercise ended in a fail, underlining how unstoppable power can be undone by a single feint. For days, I carried that ache, a painful memory of overconfidence gone wrong.",
+        "skills": {
+          "Close Combat": 2,
+          "Stamina": 2,
+          "Observation": 2,
+          "Ranged Combat": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a confrontation drill, I tore off a control panel to forcibly reset the security system. Instead, I short-circuited half the station deck, plunging us into chaotic darkness. In the confusion, simulated hostiles breezed through unguarded routes. The official meltdown scenario tallied high casualties. My peers’ silent glances stung more than any corporate penalty, reminding me that brute solutions can sabotage an entire operation.",
+        "skills": {
+          "Heavy Machinery": 2,
+          "Stamina": 3,
+          "Close Combat": 2,
+          "Observation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Believing I could manhandle a rogue droid in the cargo hold, I tried grappling it head-on. Its mechanical pincers tore my uniform, scoring multiple hits on me as it beeped alarms. Instructors forcibly shut it down, awarding me a fail for ignoring simpler deactivation protocols. Shame clung to me, realizing that corporate security sometimes demands finesse, not just brawn. Another day, another bruise on my record—literally and figuratively.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Heavy Machinery": 2,
+          "Observation": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "In a meltdown test, I grabbed a coolant regulator that turned out to be locked from remote override. Forcing it jammed its hinges, preventing any fix. The meltdown soared while I fumbled with bent metal, dooming the simulation. Panting in the aftershock, I realized not everything can be hammered into compliance. My instructors hammered the point that unstoppable force can’t always break corporate protocols or complex machinery.",
+        "skills": {
+          "Stamina": 2,
+          "Heavy Machinery": 3,
+          "Close Combat": 2,
+          "Observation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Confident in my stamina, I tried hauling multiple supply crates at once in a timed drill. Halfway through, my grip gave out, and crates crashed, scattering critical medical vials across the deck. The sim ended with a scathing critique of my reckless overreach. I nursed bruises and a battered ego, learning that sometimes distributing the load is smarter than showing off. In corporate training, lost cargo translates to lost credits—and lost credibility.",
+        "skills": {
+          "Stamina": 3,
+          "Close Combat": 2,
+          "Heavy Machinery": 2,
+          "Observation": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "A night infiltration test demanded stealth, but I barged in brandishing a riot shield. My footsteps echoed so loudly that patrolling drones converged, trapping me in a corner. The sim ended swiftly as they ‘neutralized’ me. My battered pride left me in no doubt: subtlety often trumps unstoppable presence in covert ops. Security training can be ironically undone by the same intimidation I relied on in open conflict.",
+        "skills": {
+          "Close Combat": 2,
+          "Stamina": 2,
+          "Observation": 3,
+          "Ranged Combat": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "I volunteered for a meltdown scenario in a cramped station shaft. Hammering a jammed valve with full force, I accidentally cracked the pipe, spewing toxic coolant that the sim deemed lethal. In short order, everyone in that shaft was ‘lost.’ I stood stunned, gripping the broken valve piece in my gloved hand. The after-action report singled me out for ignoring standard release procedures. My unstoppable approach had literally snapped the station’s last hope.",
+        "skills": {
+          "Stamina": 2,
+          "Heavy Machinery": 2,
+          "Close Combat": 3,
+          "Observation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a corridor riot, I believed tackling the ringleader would break the crowd. Instead, the ringleader’s companions encircled me, whaling on my flanks until sim medics intervened. The scenario ended with the corridor in shambles and a fail pinned to my name. I limped away, body screaming with bruises, mentally noting that while might is formidable, a single brute charge can spark even more chaos in a mob situation.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Command": 2,
+          "Observation": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "A meltdown test assigned me to move a vital coolant tank across a flickering walkway. I refused help, certain I could shoulder it alone. Midway, my foot slipped, and the tank toppled, cracking open. Coolant leaked across the walkway, dooming the meltdown scenario. The draining hiss hammered in how self-reliance can morph into arrogance, costing precious corporate resources and an entire sim’s success.",
+        "skills": {
+          "Stamina": 3,
+          "Heavy Machinery": 2,
+          "Close Combat": 2,
+          "Observation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Convinced my fists could silence any saboteur, I dashed into the engine bay alone at the first sign of tampering. The culprit had rigged explosive traps, and a chain reaction forced a meltdown evacuation. We lost all chance to salvage the sim. Soot-stained and fuming, I realized I’d played directly into their plan, relying on muscle where caution was needed. The meltdown logs read like a cautionary tale for future cadets.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Observation": 2,
+          "Ranged Combat": 1,
+          "Heavy Machinery": 1
+        }
+      },
+      {
+        "description": "A dorm riot sim escalated to the point I tried forcibly subduing everyone in my path. My arms soon ached, and the crowd pinned me behind the lounge tables. The sim ended with me splayed out, a fail for station security. As I staggered up, I realized I’d misjudged how quickly mass frustration can overcome a single strong presence. In corporate illusions, heroism stands no chance against mob synergy if you go it alone.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Command": 2,
+          "Mobility": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "Insisting I could forcibly re-lock a jammed docking clamp, I yanked on the lever until something snapped. The clamp jammed fully open, letting half the pressurized air in the sim environment vent into the void. The meltdown count soared as everything inside was deemed ‘lost.’ The instructors just shook their heads at my stubborn approach to a mechanical glitch. Shame weighed heavier than the clamp in that moment.",
+        "skills": {
+          "Heavy Machinery": 2,
+          "Stamina": 3,
+          "Close Combat": 2,
+          "Observation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Convinced my fists were unstoppable, I challenged the advanced drone swarm test. They encircled me in a systematic pattern, wearing me down with precision strikes. By the time I realized my tactic was flawed, the sim had declared me ‘neutralized.’ Weak-kneed, I admitted that advanced adversaries can outmaneuver brute force. My sweaty uniform felt like a cage of failure.",
+        "skills": {
+          "Stamina": 2,
+          "Close Combat": 3,
+          "Observation": 2,
+          "Ranged Combat": 1,
+          "Heavy Machinery": 1
+        }
+      },
+      {
+        "description": "I tried to hoist a collapsed corridor beam to free simulated survivors, ignoring the recommended jacks. Halfway, the beam rolled, snapping a gas line that simulated lethal fumes. The meltdown soared before I could correct anything. In the blinking hazard lights, I accepted responsibility for skipping safer gear in favor of personal muscle. No corporate bonus is worth a station’s meltdown, a lesson etched in my mind for good.",
+        "skills": {
+          "Heavy Machinery": 2,
+          "Stamina": 3,
+          "Close Combat": 2,
+          "Command": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "An infiltration test demanded quiet subdual of a high-value target, but I stormed in with a stunner baton. The target’s bodyguards recognized the loud scuffle, triggering a full-blown alert. The sim ended with me pinned in a hold, listing a major infiltration fail. No fancy muscle or baton flourish overcame the alarm cascade that night. The hush that followed hammered in how unstoppable force can raise unstoppable alarms.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Command": 2,
+          "Observation": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "I rushed into a meltdown sim’s core chamber, sure my shoulders could support a failing coolant pipe. Instead, the pipe’s weight plus pressurized fluid knocked me aside, flooding the room. The meltdown spiraled, the scenario shutting down amid major sim casualties. Soaking wet, I stared at the battered pipe in shock, learning that even I can’t hold back a tide of corporate chaos alone. Another humbling blow to my illusions of unstoppable might.",
+        "skills": {
+          "Stamina": 2,
+          "Heavy Machinery": 2,
+          "Close Combat": 2,
+          "Observation": 1,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "Believing I could quell a station riot with baton flurries, I forgot that the ringleader carried a concealed shock device. One jolt later, I collapsed in a convulsing heap, baton clattering away. The sim ended swiftly, awarding the riot side a ‘win.’ Wiping drool from my chin in post-sim med bay, I realized underestimating any tool in these profit-driven halls can lead to an electrifying downfall. Brute strength means nothing if you get zapped first.",
+        "skills": {
+          "Close Combat": 3,
+          "Stamina": 2,
+          "Observation": 2,
+          "Mobility": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "I tried forcing open an escape pod hatch jammed by meltdown debris, ignoring the recommended bypass code. The hatch refused to budge, even under my relentless slams. By the time I found the code, meltdown claimed the entire sim deck. My sweaty palms and stinging arms were the only proof of a failed approach. Supervisors hardly needed to say it: unstoppable aggression can’t fix a jam that needs a code-based solution.",
+        "skills": {
+          "Heavy Machinery": 3,
+          "Close Combat": 2,
+          "Stamina": 2,
+          "Observation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "In a stealth meltdown scenario, I tried patrolling with heavy footfalls, certain intimidation would deter saboteurs. Instead, sabotage soared as they traced my exact location from the thuds. We ended with lethal sim ‘losses’ because I never caught a single intruder. The shame sank in deeper than any bruise: in corporate meltdown, strength means little if you broadcast your every step. Another lesson scrawled in my battered training log.",
+        "skills": {
+          "Stamina": 2,
+          "Close Combat": 2,
+          "Observation": 2,
+          "Ranged Combat": 1,
+          "Mobility": 1
+        }
+      }
+    ]
+  }
+  

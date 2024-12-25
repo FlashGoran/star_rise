@@ -1,0 +1,597 @@
+{
+    "success": [
+      {
+        "description": "I intercepted scrambled transmissions on a battered interlink, noticing anomalies in the incoming code. Piecing them back together, I unveiled a hidden plan to reroute corporate funds. Filing a discreet report, I allowed executives to quietly contain the leak and reclaim lost revenue. Their wordless nod of approval was more satisfying than any public praise could ever be. In that moment, I realized my keen data-sleuthing forged tangible power in corporate halls.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Observation": 4,
+          "Manipulation": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "A hush-hush infiltration sim pinned me against layered firewalls that stumped my classmates. By methodically dismantling each encryption layer, I accessed the station’s cameras undetected. My feed revealed saboteurs planting a meltdown device in a reactor wing. Forwarding proof to security, I watched them swoop in before the meltdown began. My peers never suspected how quietly a well-placed hack could avert a corporate crisis.",
+        "skills": {
+          "ComTech": 5,
+          "Observation": 4,
+          "Science": 3,
+          "Manipulation": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "I noticed a suspicious flux in public logs referencing ‘routine shipments’ that never docked. Investigating further, I uncovered a smuggling ring that sidestepped official channels. The moment I tipped off local enforcers, they seized contraband worth a fortune. Though overshadowed by boardroom headlines, the silent satisfaction of crippling illicit trades fueled my confidence. I learned covert data analysis can rattle entire black markets in one stroke.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Observation": 5,
+          "Manipulation": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Stationed at an outback rim world, I discovered a communications dish misaligned by just a fraction. Recalibrating it using advanced astro-physics knowledge, I restored a critical link for corporate negotiations. Profits soared as deals resumed, netting me a private commendation. No one in the corridor knew my name, but it still felt like victory. I realized that quiet intelligence can shift entire markets without a single bullet fired.",
+        "skills": {
+          "Science": 4,
+          "ComTech": 5,
+          "Observation": 3,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "While analyzing sensor arrays, I detected an odd pattern near the starship’s ventral modules. My hunch led me to hidden contraband compartments concealed behind false hull plating. Reporting it to security netted them a swift bust and me a subtle nod from top instructors. Though some peers scoffed at my persistence, I found quiet pride in unraveling a covert smuggler’s stash. Intelligence gathering, I learned, is often about catching the smallest data quirks.",
+        "skills": {
+          "Observation": 5,
+          "ComTech": 4,
+          "Science": 3,
+          "Mobility": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "On a claustrophobic deck rife with meltdown alarms, I hacked the environmental controls to vent toxic fumes safely. A few quick lines of code saved multiple crews from choking hazards. Surprising even the meltdown instructors, I never broke a sweat—just typed and engaged filters in time. The scenario’s abrupt resolution left my classmates stunned. In that hush, I reveled in the power of a well-placed digital fix over panic-laden brute solutions.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Observation": 4,
+          "Manipulation": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "I discovered my starship’s navigation logs showed signs of tampering, so I cross-checked them with old cargo receipts. The disparities revealed an elaborate scheme funneling unregistered deliveries. Forwarding evidence to corporate, I averted a scandal that would have ravaged the starship’s reputation. Though the official press release never named me, I felt a deep satisfaction. My knack for forensic data exposed a plot before it reached open flames.",
+        "skills": {
+          "ComTech": 4,
+          "Observation": 5,
+          "Science": 3,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A meltdown drill turned chaotic when saboteurs jammed our station’s short-range scanners. Diving into the mainframe, I patched an alternative scanning protocol through leftover survey satellites. Within minutes, we pinpointed the sabotage device. Security neutralized it with seconds to spare, awarding me an indirect thanks. Intelligence, not muscle, defined the outcome—just the way I thrived in these bleak corporate corridors.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Manipulation": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "While rummaging through old blueprint archives, I found a missing junction in the station’s security grid. Reinstating that subroutine closed a blind spot that had let petty thieves roam free. Within hours, multiple arrests rolled in as stolen goods surfaced. Higher-ups inched my name up the promotion list. I realized a single line in an archaic file can lock or unlock entire corporate assets if used properly.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Observation": 5,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a stealth infiltration exercise, I used a side passage I’d discovered by cross-referencing old station schematics. Gliding undetected, I planted a digital bug in the sim-lab’s main console. By the time the instructor realized, the scenario ended with me flagged as the sole successful infiltrator. My classmates stared in awe at a plan that was half historical research, half cunning infiltration. The synergy of data-lore and cunning sealed that victory.",
+        "skills": {
+          "Science": 4,
+          "ComTech": 5,
+          "Mobility": 3,
+          "Observation": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "In a corporate negotiation sim, each side refused to budge on contract terms. I quietly compiled a compromise plan by analyzing raw profit data, exposing both factions’ hidden cost margins. Once revealed, they had no option but to shake hands. In a room thick with tension, I defused a meltdown through numbers alone. The smug hush that followed confirmed that even intangible data can end standoffs in these corporate trenches.",
+        "skills": {
+          "Science": 3,
+          "ComTech": 4,
+          "Manipulation": 3,
+          "Observation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A meltdown scenario soared out of control when the reactor vents jammed. Everyone scrambled for crowbars, but I jacked into the reactor’s sub-console and forced an emergency override. My digital lockpick approach released enough steam to cool the meltdown. Instructors, usually unimpressed, gave me a discreet thumbs-up as the scenario ended. I smirked, grateful that I’d bet on intellect to quell chaos instead of raw might.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Command": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Nearing the end of a cold-sweat infiltration test, I used a single micro-drone to slip past patrolling security. Hacking into the server, I extracted key data lumps in record time. Retreating unseen, I triggered a bogus alarm in a far corridor to mask my escape route. The exam ended with top marks, highlighting guile and code-savvy stealth as unstoppable allies. My heart raced for hours afterward, though no one saw me break a sweat.",
+        "skills": {
+          "ComTech": 5,
+          "Observation": 4,
+          "Science": 3,
+          "Mobility": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "An administrative meltdown forced an entire sector offline, but I suspected sabotage behind the glitching systems. Cross-referencing time stamps, I spotted anomalies in the syslogs. With a single override command, I quarantined the malicious script, restoring operational normality. My classmates gawked at how quickly I’d wrestled the meltdown back into subservience. In corporate intelligence, a swift code-lash can beat any brawl or meltdown barrier.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "In a clandestine data-mining challenge, I built a stealth program to mirror executives’ comm logs. The moment they tried to hide questionable trades, my program flagged each transaction. A quiet ping in my earpiece signaled gold—proving internal corruption. I gave a subtle nod to the oversight staff, who took it from there. The hush that followed told me I’d glimpsed the murky waters swirling at corporate’s highest echelons.",
+        "skills": {
+          "ComTech": 5,
+          "Observation": 4,
+          "Science": 3,
+          "Manipulation": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "A meltdown drill had half the station frantically flipping switches while sabotage logs spiked. Tying into the main console, I quietly monitored process IDs, halting a rogue script seconds before meltdown. The scenario ended almost anticlimactically: no meltdown, no smoke. In the hush, peers realized it was my silent vigilance that averted disaster. Intelligence is often that unheralded figure in the corner, saving all from a pricey corporate fallout.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a groundside negotiation exercise, both factions seemed deadlocked. Scanning their public ledgers, I spotted an overlap in resource shipments nobody acknowledged. With gentle prodding, I exposed the hidden synergy that suddenly bridged the stalemate. The sim concluded with a handshake, awarding me top marks for cunning data usage. In a corporate labyrinth, sometimes the right ledger lines can unify warring parties more than any bullet.",
+        "skills": {
+          "Science": 3,
+          "ComTech": 4,
+          "Manipulation": 3,
+          "Observation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A meltdown test left our starship lights flickering, sabotage suspects lurking among crew rosters. I combed ID logs and found a suspicious pattern of late-night returns. When I confronted them at the airlock, they froze, contraband in hand. The meltdown ended abruptly with their capture, and I felt that gratifying hum of intellect besting cunning. Nothing beats a well-aimed mind in these shadowy corporate catwalks.",
+        "skills": {
+          "ComTech": 4,
+          "Observation": 5,
+          "Science": 3,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "A meltdown threatened a colony’s entire comm grid, but I recognized the meltdown logs pointed to a single faulty router. Bypassing multiple diagnostic blocks, I forced a manual reset, unmasking the meltdown as staged sabotage. Security quickly pinned the culprit, and the colony’s crucial data stream resumed. I stepped back, quietly satisfied that in corporate intelligence, even the smallest router can define fate. The hush in my earpiece confirmed success beyond any bravado needed.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Observation": 4,
+          "Manipulation": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "A stealth infiltration sim hinged on retrieving coded research from a locked vault. Instead of forcing it, I deciphered the lock’s encryption based on the vault’s maintenance timestamps. The door hissed open with minimal fuss, letting me ghost out with crucial data. My instructor’s subtle grin told me I’d bested the usual brute methods. In corporate secrecy, a mind that dances with numbers can outwit the harshest locks.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Mobility": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "During a meltdown puzzle, the entire reactor schematic flickered on glitchy monitors. I recognized a single subroutine in the meltdown code was recursive, hogging memory. Killing it with a precise line of code snapped the meltdown countdown to zero. The sim ended with everyone blinking in disbelief. My heart hammered—my intellect had just defused a meltdown while others haphazardly pressed buttons. Data is the scalpel cutting through frantic guesswork.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "An infiltration scenario demanded retrieving a coded disc from a guard-laden data center. My quiet step and thorough planning let me slip behind camera arcs, hooking into the mainframe with a handheld hack. Extracting the disc, I replaced it with a dummy, leaving no trace. The scenario concluded with instructors praising an infiltration that no guard ever noticed. I quietly exhaled, believing more firmly in the subtle craft of intelligence than any overt showdown.",
+        "skills": {
+          "Mobility": 3,
+          "ComTech": 5,
+          "Observation": 4,
+          "Science": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Facing a meltdown that jammed starship thrusters, I realized the meltdown logs repeated specific error codes. A quick decode revealed someone had forcibly rerouted engine coolant. With a single console override, I reversed it and cooled the engines just in time. The meltdown crisis dissolved like steam, and I grasped how quickly cunning sabotage can unravel under unflinching data-literate eyes. My classmates barely breathed, watching me exorcise meltdown ghosts with a few keystrokes.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Command": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "While rummaging through old star charts, I found anomalies in the shipping routes that no one else noticed. Cross-checking them, I identified a hidden corridor ideal for corporate convoys to bypass risky territory. Presenting the data to the board spiked shipping profits by a staggering margin. No public accolades came, but a quiet corporate credit poured into my academy account. Data wisdom, I discovered, can steer entire fleets under the neon hush of corporate strategy.",
+        "skills": {
+          "Science": 4,
+          "ComTech": 5,
+          "Observation": 3,
+          "Manipulation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "In an infiltration sim, I discovered the system was rigged with multiple honeypot traps. Rather than flee, I used them to feed a false meltdown signal, distracting the entire security force. Slipping behind unguarded corridors, I gathered intel uncontested. The sim ended with me extracting vital data and scoring near-perfect infiltration marks. Where others saw pitfalls, I saw stepping stones, rewriting traps into my advantage with cunning intelligence.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Mobility": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "A meltdown test unleashed frantic attempts to fix the coolant pipes, but I recognized the meltdown code was a mere distraction. Monitoring the logs, I found hidden infiltration scripts attempting to siphon top-secret documents. I halted the script mid-run, effectively saving the station’s data. The meltdown ended as a ruse discovered, awarding me top scenario marks. My peers realized that not every meltdown is about steam and sparks—sometimes it’s a smokescreen for data theft.",
+        "skills": {
+          "ComTech": 5,
+          "Observation": 4,
+          "Science": 3,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "The final infiltration exam pitted me against a labyrinth of false leads and locked chambers. By cross-referencing guard patrol logs with outdated shift rosters, I charted a path that let me slip into the command center undetected. Uploading a data-siphon, I left the entire sim staff bewildered at how quickly corporate secrets vanished. The hush that followed spelled success in every unspoken way. Intelligence had triumphed, leaving brute force a moot point in that ghostly corridor.",
+        "skills": {
+          "ComTech": 4,
+          "Observation": 5,
+          "Science": 3,
+          "Mobility": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Sneaking into a meltdown scenario’s sealed vault, I suspected sabotage from the line of suspicious ID swipes. Cracking into the logs, I found the saboteur’s digital signature and forced an emergency lock on their clearance. Their meltdown plan fizzled the second they realized they lacked access. Peers replayed the moment, calling it anticlimactic. But I knew corporate intelligence rarely ends with fireworks—just quiet keystrokes snuffing grand conspiracies.",
+        "skills": {
+          "ComTech": 5,
+          "Observation": 4,
+          "Science": 3,
+          "Mobility": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Deep in a meltdown test, I noticed the meltdown code was partial gibberish. Rather than panic, I recognized it as a cypher referencing an old infiltration plan. Decoding it, I reprogrammed the meltdown routine to self-abort. The instructors blinked as the meltdown concluded in record time. I exhaled, heart thrumming at how intelligence merges puzzle-like logic with cunning infiltration tactics. My secret grin lingered all shift long.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "A data breach threatened an entire starship’s supply chain. Logging into the main server, I discovered the malware’s core hidden behind an innocuous maintenance script. A few lines of code forcibly quarantined it, saving shipments worth millions. My superiors showered me with silent nods—praise enough in these halls. Intelligence is a scalpel: a quiet slice can defang even the nastiest corporate viruses.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 3,
+          "Observation": 3,
+          "Manipulation": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "During a meltdown scenario in the academy’s data center, I realized the meltdown logs were rigged to mislead. Instead of following the crowd, I quietly traced usage stats, finding the real meltdown script on a hidden node. One forced shutdown later, meltdown averted. My classmates cursed the red herrings, but I smiled, knowing in corporate intelligence, seeing past illusions is half the battle. The data center purred in peaceful green lights, meltdown undone.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 4,
+          "Observation": 3,
+          "Manipulation": 2,
+          "Command": 1
+        }
+      }
+    ],
+    "failure": [
+      {
+        "description": "Convinced I’d found a backdoor in the station’s firewall, I tried an impromptu infiltration script. The system’s AI slammed the door shut, locking me out and triggering an alarm that ended the sim in seconds. My cheeks burned as instructors labeled it an overconfident hack attempt. I trudged off, chastising myself for skipping a proper test environment. Intelligence cut corners can unravel entire corporate arcs if done rashly.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "During a meltdown sim, I chased a suspicious saboteur deep into maintenance corridors. Focusing solely on pursuit, I forgot to monitor meltdown warnings. By the time I realized, meltdown overcame half the station. My frantic attempts to restore order flopped, awarding a fail for ignoring meltdown priorities. That day, I learned no single suspect is worth losing the entire station over in corporate-run fiascos.",
+        "skills": {
+          "Observation": 2,
+          "ComTech": 2,
+          "Science": 3,
+          "Mobility": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "I tried forging a subtle leak in the opponent’s infiltration sim to glean their code. My half-baked approach triggered their intrusion countermeasures, forcibly ejecting me from the system. The scenario ended with me flagged as an incompetent meddler, the infiltration incomplete. Nursing my bruised pride, I realized sloppy cunning can blow up faster than a meltdown in corporate espionage. The entire fiasco’s logs outed me as a cautionary tale.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 2,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Mid-sim meltdown threatened to blow the entire station, but I insisted on remote hacking from a corner console. My code repeatedly timed out, letting meltdown conditions spike. Another cadet solved it physically while I flailed in terminal errors. I hung my head as the meltdown ended, well behind schedule. Ignoring environment factors for a purely digital approach cost me an entire scenario’s success.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Mobility": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "An infiltration exercise demanded silent infiltration and data extraction. Instead, I clumsily disabled the cameras in the wrong order, broadcasting my presence across the station. Security locked down everything, and the exercise ended with a humiliating capture. My smug grin vanished, replaced by a stinging lesson in correct procedure. A single bungled step under corporate cameras can doom the stealthiest infiltration attempt.",
+        "skills": {
+          "ComTech": 2,
+          "Observation": 2,
+          "Science": 3,
+          "Manipulation": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "I pinned all meltdown solutions on decrypting one suspicious log. Hours later, meltdown soared because I never engaged fallback protocols. By the time I discovered the log was a decoy, the sim clock had run out. Others stared in silent disdain at my single-thread obsession. In corporate intelligence, pegging everything on one hunch can turn meltdown from sim to fiasco in a blink.",
+        "skills": {
+          "Science": 3,
+          "ComTech": 2,
+          "Observation": 2,
+          "Mobility": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "A meltdown test urged me to coordinate overrides across multiple decks. Obsessed with analyzing anomaly codes, I failed to dispatch crucial instructions to the lower engineering staff. The meltdown raged uncontained, the sim awarding me a dire fail. My hogging of the command console left everyone else in the dark. Sometimes, shared intelligence can quell meltdown fires faster than any single brilliant mind alone.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 2,
+          "Command": 3,
+          "Observation": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Confident in my infiltration skill, I tried hacking the meltdown command console with a borrowed admin key. The console recognized the mismatch, auto-locking all meltdown controls. I stood aghast as the meltdown soared, culminating in a total scenario fail. Limping off, I realized not even a stolen key can bypass the complexities of corporate-coded safeguards. Overconfidence had undone me in that neon-lit meltdown chamber.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Manipulation": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "I attempted to blackmail a simulated saboteur by forging false incriminating logs. My forgeries were riddled with time stamp inconsistencies that the saboteur easily debunked. They flipped the script, painting me as incompetent, ending the scenario in my disgrace. My mentors stood disappointed at how manipulative cunning backfired so swiftly. Raw intelligence, it seemed, must be tempered with meticulous detail to succeed in corporate intrigues.",
+        "skills": {
+          "Manipulation": 3,
+          "ComTech": 2,
+          "Observation": 2,
+          "Science": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "A meltdown puzzle hinged on analyzing real-time chemical data, but I overfocused on encryption routines. The meltdown soared while I fiddled with a sub-enigma that contributed nothing. When the sim ended in a catastrophic fail, the instructors gently pointed out my mistake. My fellow cadets wore grim smirks, reflecting how data brilliance can overshadow immediate meltdown triage. In the end, the meltdown overshadowed any hidden puzzle I tried unraveling.",
+        "skills": {
+          "Science": 2,
+          "ComTech": 3,
+          "Observation": 2,
+          "Mobility": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "I believed I could slice into a security node mid-riot, shutting down the agitators’ vantage. The node turned out to be a decoy rigged by the instructors, locking me inside a server room. The riot scenario ended with me absent, awarding me an abysmal fail. My sweaty palms stuck to the console, reminding me that a single misread data feed can seal your fate in corporate deception. Emerging battered, I vowed caution around suspiciously easy infiltration points.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "During a meltdown exam, I fixated on an advanced code patch for the meltdown subroutine, ignoring constant temperature spikes. Suddenly the meltdown soared, instructors forcibly shutting it all down. My patch never completed, overshadowed by real crisis signals. The post-brief hammered in the lesson: fancy code means zilch if meltdown conditions are physically unraveling. My once-proud confidence shattered under the meltdown’s unstoppable glare.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 2,
+          "Observation": 2,
+          "Mobility": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "An infiltration scenario required stealth, but I found a glitchy camera feed that enticed me to hack it. My attempts caused a system-wide alarm that pinned me as the only suspicious user. In seconds, the entire infiltration collapsed. I wandered the simulated corridors, lights blazing red, cursing my ill-timed curiosity. Not everything glitchy is a gold mine in corporate intelligence—some are traps laid for overeager minds like mine.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 2,
+          "Observation": 3,
+          "Manipulation": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "I tried forging new meltdown protocols on the sly, aiming to impress execs with my cunning rewrite. The meltdown sim soared uncontrollably, revealing massive logic holes in my code. We ended with catastrophic fail states across multiple decks. I endured my classmates’ grim stares, each meltdown line echoing my flawed overreach. Intelligence, I learned, can’t outrun meltdown if you never thoroughly test your code under duress.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "A sabotage puzzle demanded I track masked signals, but I gambled on brute-forcing encryption. My repeated attempts locked the entire system, letting sabotage data vanish while meltdown alarms howled. By the time I rebooted, the scenario declared failure. Quiet disappointment radiated from everyone who had hoped I’d catch the saboteur. Rubbing my temples, I realized encryption, like corporate deals, punishes ham-fisted tactics mercilessly.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Manipulation": 2,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Mid infiltration test, I captured partial intel from a hidden console but neglected to purge my digital footprints. Security AI backtracked my infiltration path, sealing me inside a cargo hold. The sim ended with me pounding on steel walls, undone by my sloppy code cleanup. My instructors merely shook their heads, calling it a prime example of arrogance overshadowing standard protocol. I left with bruised pride and a vow to cover my tracks next time.",
+        "skills": {
+          "ComTech": 2,
+          "Observation": 2,
+          "Science": 3,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "I bet on analyzing meltdown logs from a single vantage, ignoring the warnings that meltdown scripts can shift. Sure enough, the meltdown code hopped to another subsystem. By the time I noticed, meltdown soared beyond salvage. The scenario’s fail notice glared on every console. I stewed in regret, forced to admit that dynamic corporate sabotage can outpace any static plan if you never pivot.",
+        "skills": {
+          "Science": 3,
+          "ComTech": 2,
+          "Observation": 2,
+          "Mobility": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "An infiltration drill required minimal presence, but I triggered the meltdown alarm trying to exfil a data chunk forcibly. Staff ended the scenario with me pinned for clumsy overreach. My elaborate script turned worthless once meltdown protocols sealed the server. I slunk out, data-lump undone, cursing how a single miscalculated hack can detonate your entire infiltration. Intelligence demands subtlety, not heavy-handed moves in meltdown territory.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Convinced a meltdown subroutine was an easy fix, I spent precious minutes rewriting it. The meltdown’s real cause turned out to be a physical coolant rupture, ignored while I coded away. The entire station’s sim register flagged me for ignoring critical environment data. Watching meltdown figures spike, I accepted the stinging truth: intangible code can’t solve a real leak alone. Another day, another meltdown fiasco on my record.",
+        "skills": {
+          "Science": 2,
+          "ComTech": 3,
+          "Observation": 2,
+          "Mobility": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "I tried a brazen infiltration into a meltdown scenario’s command deck, hoping to shut down meltdown logs from inside. Halfway, I triggered a silent proximity alarm that locked me out of every console. The meltdown soared, unstoppable while I fumbled with locked panels. My teammates shook their heads at my short-sighted infiltration route. No matter how advanced your code, corporate cunning can lay simple traps that break you in seconds.",
+        "skills": {
+          "Mobility": 2,
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Mid infiltration test, I spotted a suspicious script in a meltdown console and tried editing it on the fly. My edits collided with real meltdown overrides, halting the entire meltdown fix. The scenario ended in fiasco, meltdown unstoppable. In the smoky aftermath, peers glared, convinced I’d sabotaged them on purpose. I realized, too late, intelligence is worthless if it tangles meltdown lines in a frantic environment.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "I bet that a meltdown’s prime sabotage file was hidden in the starship’s external array logs. Spending precious time searching outside, I missed the meltdown code quietly rewriting itself inside. Meltdown soared to unstoppable levels while I fruitlessly scanned external data. Everyone lamented the time lost chasing illusions. Sighing, I recognized that fixating on hunches can decimate an entire corporate meltdown rescue if unverified.",
+        "skills": {
+          "Observation": 2,
+          "ComTech": 3,
+          "Science": 2,
+          "Mobility": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "An infiltration simulation pitted me against a cunning encryption AI, but I rushed with partial keys. The AI backfired each attempt, raising alarms and locking me in a safe room ironically. The sim ended in comedic defeat, with my partial keys worthless. My cheeks burned, forced to watch meltdown unfold from behind sealed glass. Next time, I swore to gather complete intel before stepping onto the corporate stage.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "Distracted by forging a meltdown script to impress instructors, I forgot meltdown subroutines needed real-time sensor input. My script jammed the sensor feed, letting the meltdown proceed unfiltered. The scenario ended with ‘irreversible meltdown’ plastered across every console. My blunder, ironically, overshadowed the sabotage I sought to fix. Pride in code overshadowed the bigger meltdown puzzle—and I paid the price in utter scenario failure.",
+        "skills": {
+          "ComTech": 3,
+          "Science": 2,
+          "Observation": 2,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "A stealth meltdown demanded covert sabotage detection, but I grew impatient and confronted a suspect directly. They vanished into maintenance tunnels, leaving me with zero evidence while meltdown soared. The instructors ended the scenario with multiple ‘casualties’ and me pinned for reckless confrontation. My classmates’ dismay spoke volumes. Intelligence shouldn’t break cover without proof—no matter how urgent the meltdown or suspicious the suspect.",
+        "skills": {
+          "Observation": 2,
+          "ComTech": 2,
+          "Science": 3,
+          "Mobility": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Convinced I’d mapped the meltdown script, I deactivated what I believed was the key meltdown override. Instead, it was a cooling subroutine that kept meltdown in check. The meltdown soared, awarding a total fail. My mentors quietly repeated the old refrain: double-check your data or face meltdown’s unstoppable wrath. My sweaty palms testified to how swiftly meltdown punishes sloppy assumptions in corporate training.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 3,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Mobility": 1
+        }
+      },
+      {
+        "description": "A meltdown puzzle had me rummaging for the script’s origin code, but I fixated on chat logs that revealed nothing. Meanwhile, meltdown soared, leaving me behind while others tried alternative fixes. The scenario concluded in a catastrophic fail, my approach worthless. Shoulders sagging, I realized that intelligence means picking the right lead, not just burying yourself in random logs. The meltdown sim’s alarm still echoed in my exhausted mind.",
+        "skills": {
+          "Science": 2,
+          "ComTech": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "I aimed to sabotage a rival infiltration sim by seeding their meltdown code with hidden ciphers. They detected my meddling halfway, flipping the meltdown script to lock me out of the console. The sim ended with me stuck behind sealed doors, meltdown ‘destroying’ the station. My cheeks burned as the rival team took all the victory points. Overconfidence in sabotage ironically taught me how cunning foes can twist code back in corporate warfare.",
+        "skills": {
+          "ComTech": 2,
+          "Science": 2,
+          "Observation": 3,
+          "Mobility": 1,
+          "Manipulation": 1
+        }
+      }
+    ]
+  }
+  
