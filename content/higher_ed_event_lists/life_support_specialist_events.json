@@ -1,0 +1,307 @@
+{
+    "success": [
+      {
+        "description": "You successfully diagnosed a malfunction in an atmospheric processor, restoring breathable air to a failing colony module and earning the gratitude of its inhabitants.",
+        "skills": {
+          "Observation": 5,
+          "ComTech": 4,
+          "Science": 3,
+          "Stamina": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a critical systems failure, you rerouted the life support power grid, averting catastrophe and ensuring the survival of the crew.",
+        "skills": {
+          "Observation": 5,
+          "Command": 4,
+          "Heavy Machinery": 3,
+          "Science": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Your quick thinking during an oxygen recycler breakdown saved a research team trapped in a toxic environment.",
+        "skills": {
+          "Observation": 5,
+          "Science": 4,
+          "Stamina": 3,
+          "ComTech": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "You spearheaded a team effort to upgrade the climate control system of a failing outpost, making it habitable once again.",
+        "skills": {
+          "Command": 5,
+          "Science": 4,
+          "ComTech": 3,
+          "Heavy Machinery": 2,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "By identifying inefficiencies in the air filtration system, you managed to double its operational lifespan, saving the corporation millions.",
+        "skills": {
+          "Observation": 5,
+          "Science": 4,
+          "ComTech": 3,
+          "Manipulation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Under extreme pressure, you devised a temporary solution to stabilize a failing oxygen generator, buying time for a permanent repair.",
+        "skills": {
+          "Observation": 5,
+          "Stamina": 4,
+          "Heavy Machinery": 3,
+          "ComTech": 2,
+          "Science": 1
+        }
+      },
+      {
+        "description": "During a corporate inspection, your innovative life support maintenance protocol was adopted fleet-wide, elevating your status within the company.",
+        "skills": {
+          "Command": 5,
+          "Science": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "You reverse-engineered a foreign filtration system, adapting it to work seamlessly with corporate life support standards.",
+        "skills": {
+          "Science": 5,
+          "ComTech": 4,
+          "Observation": 3,
+          "Heavy Machinery": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "When faced with a resource shortage, you developed a method to recycle waste products into breathable oxygen, extending mission viability.",
+        "skills": {
+          "Science": 5,
+          "Observation": 4,
+          "Heavy Machinery": 3,
+          "ComTech": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Your proposal to streamline atmospheric processor maintenance protocols reduced operational costs across multiple installations.",
+        "skills": {
+          "Command": 5,
+          "Observation": 4,
+          "Science": 3,
+          "ComTech": 2,
+          "Heavy Machinery": 1
+        }
+      },
+      {
+        "description": "A sudden toxic gas leak in a corporate facility was contained thanks to your swift analysis and quick deployment of neutralizing agents.",
+        "skills": {
+          "Observation": 5,
+          "Science": 4,
+          "ComTech": 3,
+          "Stamina": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "You successfully coordinated the replacement of a malfunctioning life support module during a catastrophic failure scenario, earning widespread acclaim.",
+        "skills": {
+          "Command": 5,
+          "Observation": 4,
+          "Heavy Machinery": 3,
+          "Science": 2,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "An emergency evacuation was made possible by your ingenious rerouting of breathable air to critical sections of the station.",
+        "skills": {
+          "Observation": 5,
+          "Command": 4,
+          "ComTech": 3,
+          "Science": 2,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "You received a commendation for designing a modular life support system that drastically simplified repairs and upgrades.",
+        "skills": {
+          "Science": 5,
+          "Observation": 4,
+          "Heavy Machinery": 3,
+          "ComTech": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Your improvements to atmospheric quality control resulted in increased productivity and reduced crew health issues.",
+        "skills": {
+          "Science": 5,
+          "Observation": 4,
+          "ComTech": 3,
+          "Manipulation": 2,
+          "Command": 1
+        }
+      }
+    ],
+    "failure": [
+      {
+        "description": "A critical oversight during routine maintenance caused a temporary shutdown of the oxygen recyclers, leading to widespread panic.",
+        "skills": {
+          "Observation": 3,
+          "ComTech": 3,
+          "Science": 2,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "You underestimated the severity of a climate control failure, resulting in extreme discomfort and lowered crew morale.",
+        "skills": {
+          "Observation": 4,
+          "Science": 3,
+          "ComTech": 2,
+          "Manipulation": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "A miscalculation in the air filtration system led to a build-up of toxic gases, causing a minor health crisis among the crew.",
+        "skills": {
+          "Science": 4,
+          "Observation": 3,
+          "ComTech": 2,
+          "Heavy Machinery": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "An attempt to integrate a new atmospheric processor failed, requiring costly repairs and leading to corporate reprimand.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Observation": 2,
+          "Stamina": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Your proposed solution to a failing oxygen generator proved ineffective, worsening the crisis and damaging your reputation.",
+        "skills": {
+          "Science": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "You failed to notice a critical error in the atmospheric control software, leading to a prolonged systems outage.",
+        "skills": {
+          "Observation": 4,
+          "ComTech": 3,
+          "Science": 2,
+          "Stamina": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a high-pressure situation, you were unable to convince your superiors to implement a necessary repair, resulting in avoidable damage.",
+        "skills": {
+          "Manipulation": 4,
+          "Command": 3,
+          "Observation": 2,
+          "Science": 1,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "You incorrectly calibrated the climate control system, leading to severe energy inefficiencies and corporate penalties.",
+        "skills": {
+          "Science": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Stamina": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "An experimental upgrade you oversaw caused unforeseen malfunctions, requiring emergency intervention to avoid catastrophe.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Heavy Machinery": 2,
+          "Observation": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "You were held accountable for a minor air quality drop after failing to meet corporate efficiency quotas.",
+        "skills": {
+          "Observation": 3,
+          "Manipulation": 3,
+          "Science": 2,
+          "ComTech": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Your negligence during a routine inspection allowed a small fire to spread, causing damage to key systems.",
+        "skills": {
+          "Observation": 4,
+          "ComTech": 3,
+          "Heavy Machinery": 2,
+          "Stamina": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "An error in your maintenance report led to a misallocation of resources, delaying critical repairs and straining relations with corporate.",
+        "skills": {
+          "Manipulation": 4,
+          "Command": 3,
+          "Science": 2,
+          "Observation": 1,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "A sudden atmospheric processor failure caught you unprepared, resulting in temporary habitat evacuation and financial losses.",
+        "skills": {
+          "Observation": 4,
+          "Science": 3,
+          "ComTech": 2,
+          "Stamina": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Your attempt to jury-rig a broken oxygen recycler failed, leading to further complications and a reprimand from your superiors.",
+        "skills": {
+          "Heavy Machinery": 4,
+          "Science": 3,
+          "ComTech": 2,
+          "Stamina": 1,
+          "Observation": 1
+        }
+      },
+      {
+        "description": "You underestimated the complexity of an environmental repair, causing delays that endangered the crew’s wellbeing.",
+        "skills": {
+          "Science": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Stamina": 1,
+          "Command": 1
+        }
+      }
+    ]
+  }
+  

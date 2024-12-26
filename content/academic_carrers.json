@@ -1,0 +1,118 @@
+{
+  "Military Academy": {
+    "Shock Trooper Initiate": [
+      {
+        "title": "Advanced Assault Specialist",
+        "description": "Expertise in breaching operations, heavy weapons, and battlefield coordination. Advanced skills in shock tactics, close-quarters combat, and morale-breaking strategies."
+      },
+      {
+        "title": "Rapid Response Commander",
+        "description": "Leadership in rapid deployment units and crisis response teams. Specializes in coordinating strike teams under high-pressure situations."
+      },
+      {
+        "title": "Orbital Siege Expert",
+        "description": "Advanced knowledge in planetary assault operations and siege tactics. Combines expertise in ground-based and orbital combat operations."
+      }
+    ],
+    "Tactical Recon Trainee": [
+      {
+        "title": "Strategic Recon Commander",
+        "description": "Oversees long-term reconnaissance operations across hostile or uncharted territories. Expertise in stealth tactics, information analysis, and unit survival."
+      },
+      {
+        "title": "Covert Operations Specialist",
+        "description": "Specializes in black ops, espionage, and sabotage missions. Trained in silent movement, infiltration, and advanced concealment."
+      },
+      {
+        "title": "Pathfinder Officer",
+        "description": "Leads exploration teams into unexplored or contested zones. Skilled in terrain analysis, survival, and tactical navigation."
+      }
+    ],
+    "Orbital Drop Specialist": [
+      {
+        "title": "Exo-Assault Commander",
+        "description": "Command of exosuited orbital drop teams in high-risk planetary insertions. Advanced skills in combat under extreme environmental conditions."
+      },
+      {
+        "title": "Orbital Strike Planner",
+        "description": "Designs and leads precision orbital deployment strategies. Integrates fleet coordination with ground-based operational needs."
+      },
+      {
+        "title": "Environmental Adaptation Specialist",
+        "description": "Expertise in operating in hostile planetary environments post-drop. Combines knowledge of planetary science and combat survival tactics."
+      }
+    ],
+    "Cyberwarfare Operative": [
+      {
+        "title": "Cybersecurity Commander",
+        "description": "Leads military cyber-defense operations against high-tier threats. Focuses on AI countermeasures, hacking prevention, and secure communications."
+      },
+      {
+        "title": "Offensive Cyberwar Strategist",
+        "description": "Designs and executes large-scale cyber attacks on enemy infrastructure. Combines software manipulation and tactical disruption techniques."
+      },
+      {
+        "title": "Tech-Augmented Warfare Expert",
+        "description": "Develops and deploys cybernetic-enhanced warfare systems. Focuses on integrating cyberwarfare into physical combat operations."
+      }
+    ],
+    "Combat Medic": [
+      {
+        "title": "Tactical Field Surgeon",
+        "description": "Advanced expertise in battlefield trauma care and surgery under combat conditions. Specializes in triage, mobile surgery units, and critical care evacuation."
+      },
+      {
+        "title": "Combat Biohazard Specialist",
+        "description": "Expertise in handling biological warfare and contamination scenarios. Focuses on quarantine protocols, biohazard treatment, and pathogen countermeasures."
+      },
+      {
+        "title": "Enhanced Life Systems Operator",
+        "description": "Operates and designs cutting-edge medical systems for combat zones. Expertise in stasis technology, synthetic life support, and advanced prosthetics."
+      }
+    ]
+  },
+  "Corporate Compliance Academy": {
+    "Corporate Operator": [
+      {
+        "title": "Strategic Resource Coordinator",
+        "description": "Manages large-scale corporate assets, from colonies to resource extraction facilities. Specializes in logistical planning, profit maximization, and workforce efficiency."
+      },
+      {
+        "title": "Corporate Negotiator",
+        "description": "Expert in deal-making, contract negotiation, and leveraging corporate partnerships. Skilled in reading situations and manipulating stakeholders to corporate advantage."
+      },
+      {
+        "title": "Operations Overwatch Director",
+        "description": "Oversees multiple operations across various planetary sectors. Focuses on risk management, disaster response, and operational continuity."
+      }
+    ],
+    "Corporate Security Training": [
+      {
+        "title": "Corporate Enforcement Commander",
+        "description": "Leads corporate security teams to protect assets and enforce compliance. Specializes in crowd control, private law enforcement, and suppression tactics."
+      },
+      {
+        "title": "Risk Mitigation Strategist",
+        "description": "Designs and implements security protocols to minimize operational and reputational risks. Expert in handling sabotage, espionage, and internal threats."
+      },
+      {
+        "title": "Private Security Architect",
+        "description": "Oversees the design and deployment of advanced security systems. Combines physical security measures with cutting-edge surveillance and AI defenses."
+      }
+    ],
+    "Corporate Intelligence": [
+      {
+        "title": "Strategic Data Analyst",
+        "description": "Processes and interprets large datasets to forecast trends and guide corporate policy. Skilled in identifying threats and opportunities within hostile markets."
+      },
+      {
+        "title": "Covert Acquisition Specialist",
+        "description": "Operates in the gray areas of corporate espionage, acquiring competitor secrets and technology. Trained in stealth, deception, and advanced information extraction techniques."
+      },
+      {
+        "title": "Corporate Shadow Operative",
+        "description": "Expert in high-risk intelligence gathering and black ops missions on behalf of corporate interests. Skilled in sabotage, misinformation campaigns, and elimination of key adversaries."
+      }
+    ]
+  }
+}

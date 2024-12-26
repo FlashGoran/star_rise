@@ -1,0 +1,307 @@
+{
+    "success": [
+      {
+        "description": "While overseeing a critical reactor startup sequence, you identified a latent software error moments before it triggered a cascade failure, saving the facility from disaster.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "ComTech": 4,
+          "Stamina": 3,
+          "Observation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a high-stakes inspection, you optimized the power distribution grid, increasing output efficiency by 15% and earning commendation from corporate leadership.",
+        "skills": {
+          "Heavy Machinery": 4,
+          "Science": 5,
+          "Stamina": 3,
+          "ComTech": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Trapped in a malfunctioning outpost during a solar storm, you devised an ingenious repair to the power core, restoring life support just in time.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "Stamina": 4,
+          "Observation": 3,
+          "Science": 2,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "Under pressure to meet a tight deadline, you completed a complex reactor overhaul ahead of schedule without compromising safety.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "ComTech": 4,
+          "Stamina": 3,
+          "Command": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "You developed a predictive maintenance algorithm that drastically reduced downtime and saved the company millions in repair costs.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Heavy Machinery": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Assigned to a derelict station, you restored its main reactor to full functionality, securing a vital asset for the corporation.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "Stamina": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "During a hostile takeover, you quickly rerouted power to essential systems, ensuring the facility remained operational amidst sabotage attempts.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "Stamina": 4,
+          "Command": 3,
+          "Observation": 2,
+          "Ranged Combat": 1
+        }
+      },
+      {
+        "description": "You spearheaded a team to design and install a modular power system for a frontier colony, making expansion projects more viable.",
+        "skills": {
+          "Command": 5,
+          "Heavy Machinery": 4,
+          "Science": 3,
+          "ComTech": 2,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "Amidst a corporate audit, you presented an innovative reactor upgrade plan that was immediately greenlit, boosting your reputation.",
+        "skills": {
+          "Command": 4,
+          "Science": 5,
+          "Manipulation": 3,
+          "Heavy Machinery": 2,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "Facing a critical fuel shortage, you discovered a way to reprocess waste materials into usable energy, averting a mission failure.",
+        "skills": {
+          "Science": 5,
+          "Heavy Machinery": 4,
+          "Observation": 3,
+          "ComTech": 2,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "You identified and replaced a faulty reactor shielding unit in record time, preventing harmful radiation leaks in a densely populated area.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "ComTech": 4,
+          "Stamina": 3,
+          "Observation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a corporate-hosted competition, your prototype energy cell outperformed all competitors, earning you a lucrative bonus.",
+        "skills": {
+          "Science": 5,
+          "Heavy Machinery": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "When a reactor malfunctioned during a public demonstration, you managed to fix it on the spot, salvaging the company’s reputation.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "Stamina": 4,
+          "Command": 3,
+          "ComTech": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "You innovated a cost-effective way to recycle obsolete components, earning corporate praise for reducing operational expenses.",
+        "skills": {
+          "Science": 5,
+          "ComTech": 4,
+          "Heavy Machinery": 3,
+          "Observation": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "During a power surge, you rerouted energy flows to avoid a critical meltdown, saving an entire district from blackout.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "ComTech": 4,
+          "Stamina": 3,
+          "Observation": 2,
+          "Command": 1
+        }
+      }
+    ],
+    "failure": [
+      {
+        "description": "A routine reactor calibration went awry due to a miscalculation, leading to prolonged downtime and corporate reprimand.",
+        "skills": {
+          "Heavy Machinery": 3,
+          "ComTech": 2,
+          "Science": 2,
+          "Observation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "While trying to push a new power protocol, you underestimated the system's limitations, causing an unexpected cascade failure.",
+        "skills": {
+          "Science": 4,
+          "Heavy Machinery": 3,
+          "ComTech": 2,
+          "Stamina": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "An overzealous corporate directive forced you to cut corners during repairs, resulting in a minor radiation leak.",
+        "skills": {
+          "Heavy Machinery": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Stamina": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "You misdiagnosed a critical power fluctuation, leading to a temporary loss of life support systems in a frontier outpost.",
+        "skills": {
+          "Observation": 4,
+          "Heavy Machinery": 3,
+          "ComTech": 2,
+          "Science": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "During a team exercise, your leadership decisions were called into question, resulting in operational inefficiencies and delays.",
+        "skills": {
+          "Command": 3,
+          "Manipulation": 2,
+          "Heavy Machinery": 2,
+          "Observation": 1,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "An attempt to innovate on an outdated system failed spectacularly, damaging your credibility with corporate leadership.",
+        "skills": {
+          "Science": 4,
+          "Heavy Machinery": 3,
+          "ComTech": 2,
+          "Stamina": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "You missed a crucial warning signal during a diagnostics sweep, resulting in an unplanned reactor shutdown.",
+        "skills": {
+          "Observation": 4,
+          "Heavy Machinery": 3,
+          "ComTech": 2,
+          "Stamina": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "While negotiating for additional resources, your arguments fell flat, leading to a missed opportunity for an upgrade.",
+        "skills": {
+          "Manipulation": 4,
+          "Command": 3,
+          "Observation": 2,
+          "Science": 1,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "An ambitious plan to improve system efficiency backfired, causing a cascading series of minor malfunctions.",
+        "skills": {
+          "Science": 4,
+          "Heavy Machinery": 3,
+          "ComTech": 2,
+          "Observation": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "A misstep during reactor maintenance caused a temporary but severe energy shortfall, earning harsh criticism.",
+        "skills": {
+          "Heavy Machinery": 4,
+          "ComTech": 3,
+          "Stamina": 2,
+          "Observation": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Corporate pressure to meet unrealistic deadlines led to an incomplete repair job, endangering nearby operations.",
+        "skills": {
+          "Manipulation": 4,
+          "Heavy Machinery": 3,
+          "Observation": 2,
+          "Stamina": 1,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "You were outmaneuvered by a corporate rival during a joint project, leading to a loss of funding for your team.",
+        "skills": {
+          "Manipulation": 4,
+          "Command": 3,
+          "Observation": 2,
+          "Science": 1,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "A sudden surge damaged a key system you had recently serviced, raising questions about the quality of your work.",
+        "skills": {
+          "Heavy Machinery": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Science": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "A prototype system you championed failed to perform as expected during a crucial test, tarnishing your reputation.",
+        "skills": {
+          "Science": 4,
+          "Heavy Machinery": 3,
+          "ComTech": 2,
+          "Observation": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "An overworked schedule led to an oversight in a critical repair, causing delays and endangering personnel.",
+        "skills": {
+          "Stamina": 4,
+          "Heavy Machinery": 3,
+          "Observation": 2,
+          "ComTech": 1,
+          "Manipulation": 1
+        }
+      }
+    ]
+  }
+  

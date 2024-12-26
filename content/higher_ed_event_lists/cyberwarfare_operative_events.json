@@ -11,7 +11,7 @@
         }
       },
       {
-        "description": "While under contract from a grim corporate conglomerate, the Operative infiltrates a highly secured finance server farm. Carefully spoofing each sensor, they bypass lethal countermeasures to siphon critical transaction logs. Security drones nearly corner them in the mainframe corridor, but sharp instincts lead to a stealthy escape route. Re-emerging with gigabytes of incriminating data, they vanish without a single alert triggered. The corporation hails this bloodless victory as the apex of covert digital warfare.",
+        "description": "While under contract from a corporate conglomerate, the Operative infiltrates a highly secured finance server farm. Carefully spoofing each sensor, they bypass lethal countermeasures to siphon critical transaction logs. Security drones nearly corner them in the mainframe corridor, but sharp instincts lead to a stealthy escape route. Re-emerging with gigabytes of incriminating data, they vanish without a single alert triggered. The corporation hails this bloodless victory as the apex of covert digital warfare.",
         "skills": {
           "ComTech": 5,
           "Science": 3,

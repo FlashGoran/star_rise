@@ -1,0 +1,307 @@
+{
+    "success": [
+      {
+        "description": "You successfully created an adaptive learning protocol for the ship's AI, allowing it to self-correct errors faster than ever before.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Manipulation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Your innovation in stabilizing an experimental AI processor increased efficiency across critical systems by 25%.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Manipulation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a corporate review, your work on improving the AI’s problem-solving algorithms was highlighted as the year’s key achievement.",
+        "skills": {
+          "Command": 5,
+          "ComTech": 4,
+          "Science": 3,
+          "Observation": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "You led a repair effort to stabilize an overloaded AI core during a critical engagement, ensuring the ship remained operational.",
+        "skills": {
+          "ComTech": 5,
+          "Stamina": 4,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "You successfully introduced neural pattern recognition in the AI, making it far more efficient in analyzing crew performance trends.",
+        "skills": {
+          "Science": 5,
+          "ComTech": 4,
+          "Observation": 3,
+          "Manipulation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "By recalibrating the AI's energy management protocols, you saved a significant amount of power during a deep-space voyage.",
+        "skills": {
+          "ComTech": 5,
+          "Observation": 4,
+          "Science": 3,
+          "Stamina": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Your team discovered a more efficient integration method for human-AI interactions, improving communication during high-stress situations.",
+        "skills": {
+          "Command": 5,
+          "ComTech": 4,
+          "Science": 3,
+          "Observation": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "You programmed an adaptive routine into the AI to counteract a jamming signal, preserving communications with corporate HQ.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Manipulation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Your experimental changes to AI memory storage reduced latency in processing by 50%, making critical decisions faster.",
+        "skills": {
+          "Science": 5,
+          "ComTech": 4,
+          "Observation": 3,
+          "Manipulation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "You identified an overlooked vulnerability in the AI’s logic structure, patching it before it could be exploited.",
+        "skills": {
+          "Observation": 5,
+          "ComTech": 4,
+          "Science": 3,
+          "Manipulation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "When an AI crash threatened mission success, you performed a complete system recovery in record time, earning accolades.",
+        "skills": {
+          "ComTech": 5,
+          "Stamina": 4,
+          "Observation": 3,
+          "Command": 2,
+          "Science": 1
+        }
+      },
+      {
+        "description": "Your optimization of redundant AI systems kept critical operations running smoothly during a power surge.",
+        "skills": {
+          "Science": 5,
+          "ComTech": 4,
+          "Observation": 3,
+          "Command": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "Your redesign of the AI’s behavioral protocols earned praise for significantly improving team morale and efficiency.",
+        "skills": {
+          "Command": 5,
+          "Science": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "An unexpected attack was countered effectively thanks to your AI-managed predictive targeting algorithms.",
+        "skills": {
+          "ComTech": 5,
+          "Science": 4,
+          "Observation": 3,
+          "Manipulation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "You created a contingency plan for AI failures, significantly reducing risk during an emergency situation.",
+        "skills": {
+          "Command": 5,
+          "Science": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Stamina": 1
+        }
+      }
+    ],
+    "failure": [
+      {
+        "description": "A misjudged software update caused the AI to prioritize non-critical systems, leading to mission delays.",
+        "skills": {
+          "ComTech": 4,
+          "Observation": 3,
+          "Science": 2,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Your lack of attention to an AI’s behavioral pattern resulted in a breakdown of trust among the crew.",
+        "skills": {
+          "Command": 4,
+          "Observation": 3,
+          "ComTech": 2,
+          "Manipulation": 2,
+          "Science": 1
+        }
+      },
+      {
+        "description": "An overambitious experimental algorithm crashed the AI during a critical docking maneuver, resulting in disciplinary action.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "A rushed decision to roll out untested AI code caused system-wide failures, forcing a full reset.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "You underestimated the stress of a multitasking AI, resulting in key data being lost at a critical moment.",
+        "skills": {
+          "Science": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Your diagnostics tool failed to detect a failing AI core, causing widespread disruptions during a fleet exercise.",
+        "skills": {
+          "Observation": 4,
+          "ComTech": 3,
+          "Science": 2,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "An overestimation of the AI’s capabilities led to it misinterpreting mission parameters, jeopardizing the operation.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "You failed to patch an exploitable vulnerability in the AI, which was later used in a sabotage attempt.",
+        "skills": {
+          "Observation": 4,
+          "ComTech": 3,
+          "Science": 2,
+          "Manipulation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A critical misstep in programming AI heuristics caused it to misprioritize repair efforts during a crisis.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "The AI’s predictive system malfunctioned due to an oversight in your configuration, leading to collateral damage in a simulation.",
+        "skills": {
+          "Science": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Your effort to speed up processing led to overheating in the AI’s core, requiring emergency cooling protocols.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Observation": 2,
+          "Stamina": 1,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "A conflict in AI tasking caused a delay in medical response time, resulting in reprimands for oversight.",
+        "skills": {
+          "Observation": 4,
+          "Science": 3,
+          "ComTech": 2,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A failed experimental protocol caused AI to incorrectly reroute ship resources, straining other critical systems.",
+        "skills": {
+          "Science": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "You misjudged the compatibility of a new AI module, leading to its partial malfunction during installation.",
+        "skills": {
+          "ComTech": 4,
+          "Science": 3,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "Your AI performance metrics failed to account for emergency situations, leading to slow responses during an attack.",
+        "skills": {
+          "Science": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Command": 1,
+          "Manipulation": 1
+        }
+      }
+    ]
+  }
+  

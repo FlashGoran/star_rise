@@ -249,7 +249,7 @@
               "specializations": ["Zero-G Movement", "Dexterity"]
             }
           },
-          "event_key":["Power_systems_events"],
+          "event_key":["Power_systems_engineer_events"],
           "debt_value": 1,
           "title": "Power Systems Specialist",
           "master": {
@@ -353,7 +353,7 @@
           "debt_value": 1,
           "title": "AI Specialist",
           "master": {
-            "title": "Chief AI Engineer",
+            "title": "Main AI Engineer",
             "debt_value": 2
           }
         }

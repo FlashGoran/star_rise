@@ -1,0 +1,386 @@
+{
+  "success": [
+    {
+      "description": "You successfully integrated a cutting-edge AI module into the ship's cybernetic network, streamlining operations and earning corporate recognition.",
+      "skills": {
+        "ComTech": 5,
+        "Science": 4,
+        "Observation": 3,
+        "Manipulation": 2,
+        "Command": 1
+      }
+    },
+    {
+      "description": "During a critical mission, you repaired a crew member's cybernetic limb under intense pressure, restoring full functionality and ensuring mission success.",
+      "skills": {
+        "ComTech": 5,
+        "Stamina": 4,
+        "Science": 3,
+        "Heavy Machinery": 2,
+        "Observation": 1
+      }
+    },
+    {
+      "description": "You designed and implemented a neural interface upgrade that significantly improved reaction times for the ship's defense systems.",
+      "skills": {
+        "Science": 5,
+        "ComTech": 4,
+        "Observation": 3,
+        "Manipulation": 2,
+        "Command": 1
+      }
+    },
+    {
+      "description": "By identifying and exploiting an overlooked AI protocol, you enhanced system security, preventing a potential data breach.",
+      "skills": {
+        "ComTech": 5,
+        "Observation": 4,
+        "Science": 3,
+        "Manipulation": 2,
+        "Command": 1
+      }
+    },
+    {
+      "description": "You spearheaded a team to overhaul the ship's cybernetic maintenance schedule, reducing downtime and increasing overall efficiency.",
+      "skills": {
+        "Command": 5,
+        "ComTech": 4,
+        "Science": 3,
+        "Observation": 2,
+        "Manipulation": 1
+      }
+    },
+    {
+      "description": "A malfunctioning cybernetic implant threatened a key crew member's life, but you performed a high-risk repair to save them.",
+      "skills": {
+        "ComTech": 5,
+        "Stamina": 4,
+        "Science": 3,
+        "Observation": 2,
+        "Command": 1
+      }
+    },
+    {
+      "description": "You reverse-engineered a damaged alien cybernetic component, adapting its technology to enhance the ship's existing systems.",
+      "skills": {
+        "Science": 5,
+        "ComTech": 4,
+        "Observation": 3,
+        "Manipulation": 2,
+        "Command": 1
+      }
+    },
+    {
+      "description": "During a corporate inspection, your innovative modifications to the AI interface garnered praise and additional funding for your department.",
+      "skills": {
+        "Command": 5,
+        "ComTech": 4,
+        "Science": 3,
+        "Observation": 2,
+        "Manipulation": 1
+      }
+    },
+    {
+      "description": "A cybernetic interface glitch threatened to disable the ship's systems mid-voyage, but your swift intervention averted disaster.",
+      "skills": {
+        "ComTech": 5,
+        "Science": 4,
+        "Observation": 3,
+        "Stamina": 2,
+        "Command": 1
+      }
+    },
+    {
+      "description": "You developed a groundbreaking algorithm that optimized the neural links between the crew's cybernetics and the ship's AI, boosting overall performance.",
+      "skills": {
+        "Science": 5,
+        "ComTech": 4,
+        "Observation": 3,
+        "Manipulation": 2,
+        "Command": 1
+      }
+    },
+    {
+      "description": "During a high-pressure scenario, you successfully adapted a cybernetic control system to operate a critical piece of damaged equipment.",
+      "skills": {
+        "ComTech": 5,
+        "Heavy Machinery": 4,
+        "Science": 3,
+        "Observation": 2,
+        "Stamina": 1
+      }
+    },
+    {
+      "description": "You identified and resolved a cascading failure in the ship's cybernetic network, restoring full functionality just in time for a critical operation.",
+      "skills": {
+        "ComTech": 5,
+        "Observation": 4,
+        "Science": 3,
+        "Stamina": 2,
+        "Command": 1
+      }
+    },
+    {
+      "description": "Your enhancements to a cybernetic targeting system drastically improved the ship's defensive accuracy during a simulated attack.",
+      "skills": {
+        "Science": 5,
+        "ComTech": 4,
+        "Observation": 3,
+        "Manipulation": 2,
+        "Command": 1
+      }
+    },
+    {
+      "description": "You created a self-repairing protocol for crew cybernetics, significantly reducing downtime and maintenance costs.",
+      "skills": {
+        "ComTech": 5,
+        "Science": 4,
+        "Observation": 3,
+        "Manipulation": 2,
+        "Command": 1
+      }
+    },
+    {
+      "description": "Your quick thinking and technical expertise resolved a critical cybernetic failure during an emergency evacuation.",
+      "skills": {
+        "ComTech": 5,
+        "Stamina": 4,
+        "Observation": 3,
+        "Science": 2,
+        "Command": 1
+      }
+    },
+    {
+      "description": "You identified a flaw in the cybernetic systems of a rival corporation, gaining leverage during a corporate negotiation.",
+      "skills": {
+        "Manipulation": 5,
+        "ComTech": 4,
+        "Observation": 3,
+        "Science": 2,
+        "Command": 1
+      }
+    },
+    {
+      "description": "Your intuitive understanding of neural networks allowed you to streamline the AI’s decision-making, reducing its lag time in critical situations.",
+      "skills": {
+        "ComTech": 5,
+        "Science": 4,
+        "Observation": 3,
+        "Command": 2,
+        "Manipulation": 1
+      }
+    },
+    {
+      "description": "By introducing redundancy protocols, you minimized the impact of a major cybernetic system fault, keeping the crew safe and operations intact.",
+      "skills": {
+        "Science": 5,
+        "ComTech": 4,
+        "Observation": 3,
+        "Command": 2,
+        "Stamina": 1
+      }
+    },
+    {
+      "description": "A successful redesign of the crew’s neural interface allowed for better teamwork and communication in high-stress environments.",
+      "skills": {
+        "Command": 5,
+        "Science": 4,
+        "ComTech": 3,
+        "Observation": 2,
+        "Manipulation": 1
+      }
+    },
+    {
+      "description": "You managed to safely disconnect a corrupted AI node without affecting other critical ship systems.",
+      "skills": {
+        "ComTech": 5,
+        "Science": 4,
+        "Observation": 3,
+        "Command": 2,
+        "Stamina": 1
+      }
+    }
+  ],
+  "failure": [
+    {
+      "description": "A miscalculation in your neural interface code caused a temporary blackout in the ship's cybernetic systems, delaying operations.",
+      "skills": {
+        "ComTech": 4,
+        "Science": 3,
+        "Observation": 2,
+        "Stamina": 1,
+        "Command": 1
+      }
+    },
+    {
+      "description": "Your oversight during a cybernetic implant calibration caused discomfort and reduced efficiency for a key crew member.",
+      "skills": {
+        "Science": 4,
+        "ComTech": 3,
+        "Observation": 2,
+        "Manipulation": 1,
+        "Command": 1
+      }
+    },
+    {
+      "description": "An attempted upgrade to the ship's AI-link interface backfired, leading to temporary communication disruptions and a reprimand.",
+      "skills": {
+        "ComTech": 4,
+        "Science": 3,
+        "Observation": 2,
+        "Manipulation": 1,
+        "Stamina": 1
+      }
+    },
+    {
+      "description": "You underestimated the complexity of an experimental cybernetic integration, resulting in a system crash and financial penalties.",
+      "skills": {
+        "Science": 4,
+        "ComTech": 3,
+        "Observation": 2,
+        "Manipulation": 1,
+        "Command": 1
+      }
+    },
+    {
+      "description": "A delayed response to a cybernetic fault allowed the problem to escalate, requiring significant resources to fix.",
+      "skills": {
+        "Observation": 4,
+        "ComTech": 3,
+        "Science": 2,
+        "Stamina": 1,
+        "Command": 1
+      }
+    },
+    {
+      "description": "Your failure to properly test a neural link protocol resulted in system instability and a reprimand from corporate.",
+      "skills": {
+        "ComTech": 4,
+        "Science": 3,
+        "Observation": 2,
+        "Manipulation": 1,
+        "Command": 1
+      }
+    },
+    {
+      "description": "You neglected to account for hardware limitations during a cybernetic enhancement, leading to reduced performance and a costly replacement.",
+      "skills": {
+        "Science": 4,
+        "ComTech": 3,
+        "Observation": 2,
+        "Stamina": 1,
+        "Command": 1
+      }
+    },
+    {
+      "description": "An error in your diagnostic tools caused you to overlook a critical fault in the ship's AI network, resulting in a temporary lockdown.",
+      "skills": {
+        "ComTech": 4,
+        "Observation": 3,
+        "Science": 2,
+        "Manipulation": 1,
+        "Stamina": 1
+      }
+    },
+    {
+      "description": "Your attempt to bypass a malfunctioning AI resulted in further corruption of the cybernetic network, compounding the issue.",
+      "skills": {
+        "ComTech": 4,
+        "Science": 3,
+        "Observation": 2,
+        "Manipulation": 1,
+        "Command": 1
+      }
+    },
+    {
+      "description": "A rushed decision to implement an untested protocol caused cascading errors in the ship's cybernetic systems.",
+      "skills": {
+        "Science": 4,
+        "ComTech": 3,
+        "Observation": 2,
+        "Manipulation": 1,
+        "Stamina": 1
+      }
+    },
+    {
+      "description": "You underestimated the risks of a cybernetic interface overhaul, leading to temporary disruptions in ship operations.",
+      "skills": {
+        "ComTech": 4,
+        "Science": 3,
+        "Observation": 2,
+        "Manipulation": 1,
+        "Command": 1
+      }
+    },
+    {
+      "description": "An attempt to optimize neural feedback loops inadvertently caused discomfort and reduced efficiency among the crew.",
+      "skills": {
+        "Science": 4,
+        "ComTech": 3,
+        "Observation": 2,
+        "Manipulation": 1,
+        "Command": 1
+      }
+    },
+    {
+      "description": "You failed to detect a hidden malware threat in the ship's cybernetic systems, resulting in temporary loss of critical data.",
+      "skills": {
+        "Observation": 4,
+        "ComTech": 3,
+        "Science": 2,
+        "Manipulation": 1,
+        "Stamina": 1
+      }
+    },
+    {
+      "description": "Your proposed system upgrade conflicted with existing protocols, causing compatibility issues and operational delays.",
+      "skills": {
+        "Science": 4,
+        "ComTech": 3,
+        "Observation": 2,
+        "Manipulation": 1,
+        "Command": 1
+      }
+    },
+    {
+      "description": "You overlooked a critical firmware update, leading to a breakdown in crew cybernetic communications during a mission.",
+      "skills": {
+        "ComTech": 4,
+        "Science": 3,
+        "Observation": 2,
+        "Manipulation": 1,
+        "Stamina": 1
+      }
+    },
+    {
+      "description": "You overpromised the effectiveness of a new neural link protocol, leading to poor performance and a corporate reprimand.",
+      "skills": {
+        "Science": 4,
+        "ComTech": 3,
+        "Manipulation": 2,
+        "Observation": 2,
+        "Command": 1
+      }
+    },
+    {
+      "description": "An incomplete diagnostics report caused a critical delay in identifying a fault within the cybernetic systems, risking crew safety.",
+      "skills": {
+        "Observation": 4,
+        "ComTech": 3,
+        "Science": 3,
+        "Manipulation": 2,
+        "Stamina": 1
+      }
+    },
+    {
+      "description": "The rushed installation of a firmware patch caused a catastrophic glitch during a combat simulation, leading to system failures.",
+      "skills": {
+        "ComTech": 4,
+        "Science": 3,
+        "Observation": 2,
+        "Manipulation": 2,
+        "Command": 1
+      }
+    }
+  ]
+}

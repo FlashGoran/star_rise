@@ -8,8 +8,8 @@ nations and factions in delicate interactions going from mutual interests, cold 
 Settings varies from megacities, large colonies, outback rimworlds, etc but mainly prospecting in frontiers (without the xeno from the movie or anything else copywrited)
 Ethical and moral dilemmas in mixed technology settings as budget cuts for profits are a huge driver.
 
-Events Quantity & Output Structure:
-    Create 60 events total—30 categorized as “success” and 30 as “failure.”, be creative - 
+Events & Output Structure:
+    Create 10 events “success” or 10 “failure.” events depending on whats asked. be creative with the event creation details.- 
 Success vs. Failure
     Success Events:
         Depict moments of victory, personal achievement, or clever problem-solving.
@@ -94,10 +94,11 @@ Wisdom:
   Manipulation (example ingame usage that is a part of the skill: PsyOps, Negotiator, Interrogation, Public Relations, Social Engineering, Forgery)
   Observation (example ingame usage that is a part of the skill: Systems Analytics, Sensors, Forensics, Tactical Analytics, Strategic Analytics)
 
-please create the json list for:
-    "Technical Institute": {
-      "description": "Training engineers and specialists in ship maintenance, mechanical, and electronic systems.",
+please create the json list for 10  success events for:
+    "Space Academy": {
+      "description": "Training for navigation, piloting, and ship operations.",
+      "event_list": "space_academy_events",
       "subclasses": {
-        "Power Systems Specialist": {
-          "description": "Specializes in maintaining and optimizing propulsion systems, reactors, and energy distribution aboard starships.",
-          "main_attr": "Str",
+        "Navigation Training": {
+          "description": "Specializes in stellar navigation and course plotting.",
+          "main_attr": "int",

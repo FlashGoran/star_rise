@@ -1,0 +1,307 @@
+{
+    "success": [
+      {
+        "description": "You successfully calibrated a ship's targeting system, dramatically improving the accuracy of its defensive turrets and earning a commendation from your supervisor.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "ComTech": 4,
+          "Observation": 3,
+          "Science": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a surprise pirate attack, you quickly brought the ship's missile systems online, neutralizing the threat and ensuring the crew's safety.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "Observation": 4,
+          "Ranged Combat": 3,
+          "ComTech": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "You devised an innovative maintenance schedule for the ship's weapon systems, reducing downtime and increasing combat readiness.",
+        "skills": {
+          "Command": 5,
+          "Heavy Machinery": 4,
+          "Science": 3,
+          "ComTech": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "In a high-stakes battle simulation, your expert calibration of the targeting arrays resulted in the destruction of all simulated threats, earning the highest marks.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "Ranged Combat": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "While inspecting a malfunctioning turret, you discovered a critical flaw in its design and proposed a cost-effective fix that was adopted fleet-wide.",
+        "skills": {
+          "Observation": 5,
+          "Heavy Machinery": 4,
+          "Science": 3,
+          "ComTech": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "You managed to repair a missile guidance system under extreme time constraints, ensuring the success of a vital mission.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "ComTech": 4,
+          "Observation": 3,
+          "Stamina": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "During a corporate weapons demonstration, your precise handling of the ship's weaponry impressed high-ranking officials, earning you a promotion.",
+        "skills": {
+          "Command": 5,
+          "Heavy Machinery": 4,
+          "Ranged Combat": 3,
+          "Observation": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "You reverse-engineered an enemy targeting array, adapting its advanced technology to enhance your own ship's weapon systems.",
+        "skills": {
+          "Science": 5,
+          "ComTech": 4,
+          "Heavy Machinery": 3,
+          "Observation": 2,
+          "Manipulation": 1
+        }
+      },
+      {
+        "description": "You coordinated a team effort to replace and recalibrate all turrets on a battle-worn ship, restoring it to full combat capability ahead of schedule.",
+        "skills": {
+          "Command": 5,
+          "Heavy Machinery": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "By identifying inefficiencies in the energy routing of the weapon systems, you increased their firing rate and overall power.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "Science": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A sudden malfunction during a training exercise was mitigated by your quick repair of the ship's missile loaders, preventing a catastrophic failure.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "ComTech": 4,
+          "Observation": 3,
+          "Ranged Combat": 2,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "You developed a custom targeting algorithm that improved weapon lock-on speed, making your ship a feared adversary in simulations.",
+        "skills": {
+          "ComTech": 5,
+          "Heavy Machinery": 4,
+          "Science": 3,
+          "Observation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "An enemy ambush was thwarted thanks to your adjustments to the ship's automated defense turrets, which neutralized the threat with precision.",
+        "skills": {
+          "Heavy Machinery": 5,
+          "Ranged Combat": 4,
+          "Observation": 3,
+          "ComTech": 2,
+          "Science": 1
+        }
+      },
+      {
+        "description": "You received a corporate award for redesigning a missile storage system, reducing the risk of onboard detonation during combat.",
+        "skills": {
+          "Science": 5,
+          "Heavy Machinery": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Your efforts in streamlining the maintenance process for targeting arrays resulted in significant savings and increased uptime for the fleet.",
+        "skills": {
+          "Command": 5,
+          "Heavy Machinery": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Manipulation": 1
+        }
+      }
+    ],
+    "failure": [
+      {
+        "description": "A miscalculation during turret calibration led to a friendly fire incident in a training exercise, resulting in disciplinary action.",
+        "skills": {
+          "Heavy Machinery": 3,
+          "Observation": 3,
+          "ComTech": 2,
+          "Science": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Your oversight during a weapons test caused a missile to detonate prematurely, damaging the launch bay and delaying the mission.",
+        "skills": {
+          "Heavy Machinery": 4,
+          "ComTech": 3,
+          "Observation": 2,
+          "Stamina": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "An attempt to upgrade the ship's targeting systems failed, rendering the weaponry inoperable during a critical engagement.",
+        "skills": {
+          "ComTech": 4,
+          "Heavy Machinery": 3,
+          "Observation": 2,
+          "Science": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "You failed to notice a minor fault in a turret's tracking motor, which later jammed during a skirmish, leaving the ship vulnerable.",
+        "skills": {
+          "Observation": 4,
+          "Heavy Machinery": 3,
+          "ComTech": 2,
+          "Stamina": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Your reluctance to approve a costly repair led to a critical failure in the missile guidance system during an operation.",
+        "skills": {
+          "Command": 4,
+          "Observation": 3,
+          "ComTech": 2,
+          "Manipulation": 1,
+          "Science": 1
+        }
+      },
+      {
+        "description": "A rushed installation of a new targeting module caused intermittent system failures, undermining the ship's combat effectiveness.",
+        "skills": {
+          "ComTech": 4,
+          "Heavy Machinery": 3,
+          "Observation": 2,
+          "Science": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Your attempt to jury-rig a damaged turret backfired, causing further damage and requiring additional resources to fix.",
+        "skills": {
+          "Heavy Machinery": 4,
+          "ComTech": 3,
+          "Science": 2,
+          "Observation": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "A critical targeting system malfunction went unnoticed during a maintenance check, leading to an embarrassing performance review.",
+        "skills": {
+          "Observation": 4,
+          "Heavy Machinery": 3,
+          "ComTech": 2,
+          "Command": 1,
+          "Science": 1
+        }
+      },
+      {
+        "description": "A poorly implemented software update you approved caused the weapon systems to lock up during a live-fire exercise.",
+        "skills": {
+          "ComTech": 4,
+          "Heavy Machinery": 3,
+          "Observation": 2,
+          "Manipulation": 1,
+          "Science": 1
+        }
+      },
+      {
+        "description": "Your decision to prioritize cost-saving measures over safety protocols led to a weapons malfunction that endangered the crew.",
+        "skills": {
+          "Command": 4,
+          "Manipulation": 3,
+          "Observation": 2,
+          "Science": 1,
+          "ComTech": 1
+        }
+      },
+      {
+        "description": "An oversight in the missile storage system's cooling mechanisms led to a near-catastrophic fire, earning a stern warning from superiors.",
+        "skills": {
+          "Heavy Machinery": 4,
+          "Observation": 3,
+          "Science": 2,
+          "ComTech": 1,
+          "Stamina": 1
+        }
+      },
+      {
+        "description": "You underestimated the complexity of an enemy targeting system, leading to failed countermeasures and a costly retreat.",
+        "skills": {
+          "Science": 4,
+          "Observation": 3,
+          "ComTech": 2,
+          "Manipulation": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "Your failure to properly secure a turret during transit caused significant delays and additional expenses for the mission.",
+        "skills": {
+          "Heavy Machinery": 4,
+          "Observation": 3,
+          "Stamina": 2,
+          "ComTech": 1,
+          "Command": 1
+        }
+      },
+      {
+        "description": "A critical miscommunication during a live-fire drill resulted in friendly fire damage, tarnishing your record.",
+        "skills": {
+          "Command": 4,
+          "Manipulation": 3,
+          "Observation": 2,
+          "ComTech": 1,
+          "Science": 1
+        }
+      },
+      {
+        "description": "Your overconfidence in a new targeting algorithm caused it to fail under pressure, exposing the ship to significant risk.",
+        "skills": {
+          "ComTech": 4,
+          "Heavy Machinery": 3,
+          "Science": 2,
+          "Observation": 1,
+          "Command": 1
+        }
+      }
+    ]
+  }
+  

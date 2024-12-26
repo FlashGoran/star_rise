@@ -1,0 +1,487 @@
+Military Academy
+    Shock Trooper Initiate
+
+        Advanced Assault Specialist
+            Expertise in breaching operations, heavy weapons, and battlefield coordination.
+            Advanced skills in shock tactics, close-quarters combat, and morale-breaking strategies.
+
+        Rapid Response Commander
+            Leadership in rapid deployment units and crisis response teams.
+            Specializes in coordinating strike teams under high-pressure situations.
+
+        Orbital Siege Expert
+            Advanced knowledge in planetary assault operations and siege tactics.
+            Combines expertise in ground-based and orbital combat operations.
+
+    Tactical Recon Trainee
+
+        Strategic Recon Commander
+            Oversees long-term reconnaissance operations across hostile or uncharted territories.
+            Expertise in stealth tactics, information analysis, and unit survival.
+
+        Covert Operations Specialist
+            Specializes in black ops, espionage, and sabotage missions.
+            Trained in silent movement, infiltration, and advanced concealment.
+
+        Pathfinder Officer
+            Leads exploration teams into unexplored or contested zones.
+            Skilled in terrain analysis, survival, and tactical navigation.
+
+    Orbital Drop Specialist
+
+        Exo-Assault Commander
+            Command of exosuited orbital drop teams in high-risk planetary insertions.
+            Advanced skills in combat under extreme environmental conditions.
+
+        Orbital Strike Planner
+            Designs and leads precision orbital deployment strategies.
+            Integrates fleet coordination with ground-based operational needs.
+
+        Environmental Adaptation Specialist
+            Expertise in operating in hostile planetary environments post-drop.
+            Combines knowledge of planetary science and combat survival tactics.
+
+    Cyberwarfare Operative
+
+        Cybersecurity Commander
+            Leads military cyber-defense operations against high-tier threats.
+            Focuses on AI countermeasures, hacking prevention, and secure communications.
+
+        Offensive Cyberwar Strategist
+            Designs and executes large-scale cyber attacks on enemy infrastructure.
+            Combines software manipulation and tactical disruption techniques.
+
+        Tech-Augmented Warfare Expert
+            Develops and deploys cybernetic-enhanced warfare systems.
+            Focuses on integrating cyberwarfare into physical combat operations.
+
+    Combat Medic
+
+        Tactical Field Surgeon
+            Advanced expertise in battlefield trauma care and surgery under combat conditions.
+            Specializes in triage, mobile surgery units, and critical care evacuation.
+
+        Combat Biohazard Specialist
+            Expertise in handling biological warfare and contamination scenarios.
+            Focuses on quarantine protocols, biohazard treatment, and pathogen countermeasures.
+
+        Enhanced Life Systems Operator
+            Operates and designs cutting-edge medical systems for combat zones.
+            Expertise in stasis technology, synthetic life support, and advanced prosthetics.
+
+Corporate Compliance Academy
+    Corporate Operator
+
+        Strategic Resource Coordinator
+            Manages large-scale corporate assets, from colonies to resource extraction facilities.
+            Specializes in logistical planning, profit maximization, and workforce efficiency.
+
+        Corporate Negotiator
+            Expert in deal-making, contract negotiation, and leveraging corporate partnerships.
+            Skilled in reading situations and manipulating stakeholders to corporate advantage.
+
+        Operations Overwatch Director
+            Oversees multiple operations across various planetary sectors.
+            Focuses on risk management, disaster response, and operational continuity.
+
+    Corporate Security Training
+
+        Corporate Enforcement Commander
+            Leads corporate security teams to protect assets and enforce compliance.
+            Specializes in crowd control, private law enforcement, and suppression tactics.
+
+        Risk Mitigation Strategist
+            Designs and implements security protocols to minimize operational and reputational risks.
+            Expert in handling sabotage, espionage, and internal threats.
+
+        Private Security Architect
+            Oversees the design and deployment of advanced security systems.
+            Combines physical security measures with cutting-edge surveillance and AI defenses.
+
+    Corporate Intelligence
+
+        Strategic Data Analyst
+            Processes and interprets large datasets to forecast trends and guide corporate policy.
+            Skilled in identifying threats and opportunities within hostile markets.
+
+        Covert Acquisition Specialist
+            Operates in the gray areas of corporate espionage, acquiring competitor secrets and technology.
+            Trained in stealth, deception, and advanced information extraction techniques.
+
+        Corporate Shadow Operative
+            Expert in high-risk intelligence gathering and black ops missions on behalf of corporate interests.
+            Skilled in sabotage, misinformation campaigns, and elimination of key adversaries.
+
+Technical Institute
+    Power Systems Specialist
+
+        Advanced Energy Systems Engineer
+            Designs and implements advanced energy solutions, including zero-point reactors and fusion generators.
+            Specializes in creating scalable and resilient power systems for colonies and ships.
+
+        Power Grid Architect
+            Oversees the planning and optimization of planetary or orbital power infrastructures.
+            Expertise in redundancy systems, power distribution networks, and large-scale energy storage.
+
+        Exotic Energy Researcher
+            Explores unconventional energy sources, such as antimatter or dark energy.
+            Focuses on experimental technologies with high reward but significant risk.
+
+    Life Support Specialist
+
+        Environmental Systems Engineer
+            Expert in designing, maintaining, and optimizing life support systems in extreme environments.
+            Specializes in terraforming modules, oxygen recycling systems, and atmospheric control.
+
+        Cryostasis Systems Expert
+            Focuses on advanced stasis technologies for long-term space travel.
+            Expertise in biometrics, preservation protocols, and emergency thawing procedures.
+
+        Habitability Consultant
+            Advises on designing habitable environments for colonies, ships, and research facilities.
+            Skilled in ecological balancing, hydroponic systems, and waste management.
+
+    Weapons Systems Specialist
+
+        Ordnance Development Engineer
+            Designs cutting-edge weaponry for military or corporate use, from energy weapons to advanced ballistics.
+            Specializes in high-efficiency, high-damage weapon systems.
+
+        Tactical Armaments Specialist
+            Customizes and optimizes weapons systems for specific missions or environments.
+            Expertise in modular designs, targeting systems, and performance enhancements.
+
+        Defensive Systems Architect
+            Focuses on developing countermeasures and defensive technologies, such as shielding systems and automated turrets.
+            Skilled in threat analysis and countering advanced weaponry.
+
+    Cybernetic Systems Engineer
+
+        Cybernetic Enhancement Specialist
+            Designs and implements advanced prosthetics and body augmentations.
+            Expertise in integrating human biology with cutting-edge cybernetic systems.
+
+        Neural Interface Engineer
+            Develops and refines direct neural control interfaces for machines and AI.
+            Specializes in mind-machine integration and thought-activated technologies.
+
+        Augmentation Policy Consultant
+            Advises on the ethical and practical implications of widespread cybernetic adoption.
+            Balances corporate goals with human rights and societal concerns.
+
+    AI Technician
+
+        Sentient Systems Architect
+            Develops advanced AI frameworks with semi-autonomous decision-making capabilities.
+            Focuses on ethical programming, risk assessment, and advanced heuristics.
+
+        Machine Learning Specialist
+            Designs and trains AI systems to adapt and improve based on real-world data.
+            Specializes in predictive algorithms, anomaly detection, and adaptive programming.
+
+        Synthetic Cognition Researcher
+            Explores the boundaries of AI consciousness and synthetic personalities.
+            Combines theoretical research with practical applications in robotics and virtual assistants.
+
+    Robotics Engineer
+
+        Military Robotics Designer
+            Develops autonomous combat systems and drones for battlefield deployment.
+            Expertise in targeting algorithms, mobility systems, and advanced AI integration.
+
+        Exploration Robotics Specialist
+            Creates durable, adaptive robots for missions in extreme or unknown environments.
+            Skilled in sensor integration, terrain navigation, and modular designs.
+
+        Industrial Automation Engineer
+            Builds and optimizes robotic systems for large-scale industrial operations.
+            Focuses on production efficiency, mechanical design, and safety protocols.
+
+    Salvaging technician
+
+        Hazardous Salvage Operator
+            Focuses on recovering valuable resources from wreckage in high-risk zones, such as radioactive or unstable environments.
+            Skilled in resource extraction, containment procedures, and material analysis.
+
+        Reverse Engineering Expert
+            Analyzes and repurposes alien or advanced technologies found in salvage missions.
+            Expertise in deconstruction, reassembly, and technological adaptation.
+
+        Wreck Recovery Technician
+            Specializes in extracting critical systems and components from shipwrecks and abandoned stations.
+            Skilled in dismantling, repair, and field diagnostics.
+
+Space Academy
+    Fleet Officer Cadet
+
+        Fleet Commander
+            Leads multiple ships within a fleet, overseeing operations, logistics, and strategy.
+            Skilled in multi-ship coordination, fleet combat tactics, and diplomatic relations.
+
+        Battlecruiser Captain
+            Commands a large capital ship, specializing in high-stakes combat and deep-space exploration.
+            Focuses on leadership, ship systems management, and crew morale.
+
+        Strategic Operations Officer
+            Plans and executes complex spaceborne military campaigns.
+            Expertise in resource allocation, battlefield analysis, and contingency planning.
+
+    Pilot Cadet
+
+        Starfighter Ace
+            Specializes in high-speed, precision combat in one-man or small crew ships.
+            Expertise in evasive maneuvers, dogfighting, and rapid deployment scenarios.
+
+        Experimental Flight Specialist
+            Pilots cutting-edge experimental ships, testing prototype technologies.
+            Focuses on adaptability, high-stakes risk management, and technical expertise.
+
+        Deep-Space Hauler Captain
+            Operates massive cargo ships for long-haul missions through dangerous territories.
+            Skilled in resource management, navigation, and conflict avoidance.
+
+    Navigation Training
+
+        Astrogation Specialist
+            Expert in plotting precise, efficient courses through hazardous or uncharted regions.
+            Skilled in gravitational mapping, FTL route optimization, and anomaly detection.
+
+        Celestial Survey Officer
+            Leads exploratory missions to map new star systems and planetary sectors.
+            Combines navigation skills with stellar cartography and scientific analysis.
+
+        Hyperspace Analyst
+            Focuses on studying and mitigating risks associated with FTL travel.
+            Expertise in temporal anomalies, spatial rifts, and hyperlane stability.
+
+    Signal Systems Technician
+
+        Communications Officer
+            Oversees ship-wide and interstellar communications systems.
+            Skilled in encryption, signal boosting, and maintaining secure channels.
+
+        Electronic Warfare Specialist
+            Expert in disrupting enemy communications and radar systems.
+            Focuses on signal jamming, counterintelligence, and stealth technologies.
+
+        Sensor Array Engineer
+            Designs and maintains advanced sensor systems for navigation and reconnaissance.
+            Expertise in detecting cloaked ships, anomalies, and environmental hazards.
+
+    Tactical Systems Operator
+
+        Weapons Systems Officer
+            Manages and operates advanced shipboard weaponry during combat engagements.
+            Skilled in targeting precision, firing solutions, and energy allocation.
+
+        Defensive Systems Specialist
+            Focuses on optimizing and deploying shipboard defenses, such as shields and countermeasures.
+            Expertise in energy redistribution, reactive defenses, and threat analysis.
+
+        Fleet Tactical Advisor
+            Provides tactical insights and coordination for multi-ship engagements.
+            Skilled in strategic planning, resource prioritization, and combat adaptability.
+
+        Orbital Defense Strategist
+
+            Develops defensive systems and protocols to protect planetary assets from orbital threats.
+            Skilled in countermeasures, artillery placement, and scenario planning.
+
+    Reconnaissance Specialist
+
+        Advanced Scout Commander
+            Leads small, stealth-oriented ships on deep-space reconnaissance missions.
+            Skilled in long-term survival, stealth systems, and environmental scanning.
+
+        Espionage Operative
+            Conducts covert intelligence-gathering missions for military or corporate entities.
+            Focuses on infiltration, data collection, and avoiding detection.
+
+        Hazardous Zone Explorer
+            Specializes in scouting unstable or highly dangerous regions of space.
+            Expertise in environmental hazard analysis, ship shielding, and high-risk navigation.
+
+MedSci Campus
+    Medical Doctor
+
+        Trauma Specialist
+            Focuses on emergency and battlefield medicine, including advanced triage and surgical techniques.
+            Expertise in handling critical injuries, rapid-response procedures, and mobile medical units.
+
+        Bioethics Consultant
+            Advises on the ethical implications of medical advancements and experimental treatments.
+            Skilled in balancing corporate agendas with moral responsibility.
+
+        Advanced Diagnostics Expert
+            Specializes in detecting rare diseases, genetic disorders, and alien pathogens.
+            Combines cutting-edge diagnostic technology with clinical expertise.
+
+    Xenobiologist
+
+        Extraterrestrial Research Director
+            Leads teams studying alien ecosystems, organisms, and potential biotechnological applications.
+            Skilled in bio-containment protocols, alien biology, and interspecies interactions.
+
+        Alien Pathogen Specialist
+            Focuses on identifying and neutralizing alien pathogens that threaten human life.
+            Expertise in virology, immunology, and advanced quarantine measures.
+
+        Terraforming Biologist
+            Works on integrating alien biological systems into human-colonized environments.
+            Skilled in ecological engineering, biodiversity management, and planetary adaptation.
+
+    Stasis Technology Specialist
+
+        Cryogenic Systems Engineer
+            Develops and maintains stasis and cryosleep technology for long-duration space travel.
+            Expertise in reducing stasis-related risks, preserving biological integrity, and emergency revival protocols.
+
+        Temporal Stasis Theorist
+            Explores cutting-edge theories and experimental methods for suspending biological processes.
+            Focuses on applications like time manipulation in stasis environments.
+
+        Deep-Sleep Logistics Coordinator
+            Manages large-scale stasis systems for colony ships, including planning for mass revival scenarios.
+            Skilled in logistical challenges, resource planning, and stasis-induced psychological effects.
+
+    Synthetic Chemistry Scientist
+
+        Pharmaceutical Innovator
+            Develops new drugs and chemical treatments for complex diseases, including alien-related conditions.
+            Specializes in rapid synthesis, clinical trials, and regulatory approvals.
+
+        Industrial Chemist
+            Creates advanced chemical compounds for industrial or military applications.
+            Expertise in high-efficiency production, materials science, and hazardous substance handling.
+
+        Bio-Synthetic Engineer
+            Combines biological and chemical sciences to create hybrid organic-synthetic systems.
+            Skilled in creating artificial organisms, bioplastics, and adaptive materials.
+
+    Cyberneticist
+
+        Advanced Prosthetics Designer
+            Develops cutting-edge prosthetics and cybernetic enhancements for human augmentation.
+            Focuses on improving functionality, reducing rejection rates, and integrating sensory feedback.
+
+        Neuro-Cybernetics Specialist
+            Expert in interfacing cybernetics with the human nervous system for seamless integration.
+            Skilled in neural mapping, brain-machine interfaces, and cognitive augmentation.
+
+        Synthetic Human Designer
+            Works on creating fully functional synthetic humans with biological and cybernetic components.
+            Focuses on ethical considerations, advanced AI integration, and human-mimicking capabilities.
+
+Advanced Theoretical Research Facility
+    Quantum Physicist
+
+        FTL Systems Theorist
+            Develops advanced faster-than-light travel technologies and systems.
+            Specializes in quantum field manipulation, wormhole stabilization, and temporal mechanics.
+
+        Quantum Weapons Specialist
+            Focuses on weaponizing quantum phenomena, such as energy destabilizers and time-distortion fields.
+            Combines theoretical physics with practical engineering applications.
+
+        Reality Manipulation Researcher
+            Explores theoretical concepts like alternate dimensions, quantum entanglement, and reality warping.
+            Expertise in experimental physics and high-risk, high-reward projects.
+
+    Advanced Engineer
+
+        Experimental Systems Architect
+            Designs and prototypes cutting-edge technologies for military or industrial use.
+            Focuses on solving previously unsolvable engineering challenges.
+
+        Planetary Infrastructure Designer
+            Specializes in creating large-scale infrastructure projects like space elevators, orbital stations, and megacities.
+            Combines practical engineering with innovative design concepts.
+
+        Extreme Conditions Engineer
+            Develops technologies capable of functioning in the most hostile environments, from black holes to plasma storms.
+            Skilled in material science and adaptive engineering.
+
+    Nanotech Scientist
+
+        Nano-Medicine Pioneer
+            Uses nanotechnology to revolutionize medical treatments, including repairing tissues and combating diseases.
+            Specializes in microscopic robotics, biological integration, and disease eradication.
+
+        Molecular Assembly Expert
+            Focuses on nanotechnology for manufacturing, creating complex structures atom by atom.
+            Expertise in industrial efficiency, materials innovation, and miniaturized production.
+
+        Grey Goo Researcher
+            Explores both the potential and the dangers of self-replicating nanotechnology.
+            Skilled in containment protocols, theoretical modeling, and high-risk experimentation.
+
+    Geneticist
+
+        Bioweapon Designer
+            Develops biological agents for military or corporate use, such as engineered viruses or weaponized organisms.
+            Specializes in genetic manipulation, pathogen control, and bio-containment protocols.
+
+        Genetic Enhancement Specialist
+            Focuses on modifying DNA to improve human or alien physiology.
+            Expertise in CRISPR technologies, cloning, and adaptive gene therapy.
+
+        Terraforming Biologist
+            Designs genetically engineered ecosystems to support human habitation on alien worlds.
+            Skilled in ecological balance, microbial adaptation, and planetary biology.
+
+    Data Scientist
+
+        Predictive Analytics Specialist
+            Forecasts trends, resource needs, and potential risks using advanced algorithms.
+            Specializes in big data processing, statistical modeling, and predictive systems.
+
+        AI Data Architect
+            Builds frameworks for training AI models and optimizing data pipelines.
+            Expertise in machine learning, neural networks, and autonomous systems.
+
+        Corporate Risk Analyst
+            Identifies potential operational or financial threats using data-driven insights.
+            Skilled in anomaly detection, simulation modeling, and decision-making algorithms.
+
+Institute of Cognitive Mastery
+    PsyOps Operative
+
+        Neural Manipulation Specialist
+            Develops techniques for direct influence over human cognition, such as memory editing and thought control.
+            Combines psychological expertise with advanced brain-interface technologies.
+
+        Subconscious Warfare Expert
+            Specializes in deploying psychological warfare tactics, including subliminal messaging and fear conditioning.
+            Focuses on destabilizing adversaries without direct combat.
+
+        Behavioral Analytics Director
+            Analyzes and predicts human behavior on a mass scale for strategic manipulation.
+            Skilled in pattern recognition, social engineering, and emotional profiling.
+
+    Corporate Diplomat
+
+        Interstellar Policy Advisor
+            Advises corporations on navigating interplanetary politics and regulations.
+            Expertise in treaty negotiation, trade agreements, and conflict resolution.
+
+        Cultural Integration Specialist
+            Facilitates relationships between corporations and diverse planetary cultures.
+            Skilled in diplomacy, cross-cultural communication, and soft power strategies.
+
+        Galactic Arbitration Officer
+            Acts as a neutral mediator in disputes between corporations, nations, or factions.
+            Combines legal knowledge with psychological insight to resolve conflicts.
+
+    Propaganda Strategist
+
+        Mass Communication Director
+            Designs large-scale campaigns to influence public opinion and corporate image.
+            Skilled in media manipulation, branding, and psychological persuasion.
+
+        Crisis Propaganda Specialist
+            Focuses on countering negative narratives during crises, such as scandals or disasters.
+            Expertise in damage control, misinformation, and narrative redirection.
+
+        Social Influence Architect
+            Develops systems to subtly shape societal norms and perceptions over time.
+            Skilled in viral content creation, algorithmic manipulation, and long-term propaganda planning.

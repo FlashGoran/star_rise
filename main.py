@@ -11,7 +11,7 @@ def main():
     # Step 1: Concept and Background
     # name, homeworld, affiliation
     
-    # general_citizen_data = basic_profile()
+    general_citizen_data = basic_profile()
     
     # Step 2: Personality descriptors
     personality = define_personality()
