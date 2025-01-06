@@ -1,0 +1,7 @@
+langchain
+pymongo
+weaviate-client>=4.0.0
+openai
+fastapi
+uvicorn
+python-dotenv

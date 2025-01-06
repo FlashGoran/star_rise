@@ -1,0 +1,392 @@
+{
+  "Military Academy": {
+    "Shock Trooper Initiate": [
+      {
+        "title": "Advanced Assault Specialist",
+        "description": "Expertise in breaching operations, heavy weapons, and battlefield coordination. Advanced skills in shock tactics, close-quarters combat, and morale-breaking strategies."
+      },
+      {
+        "title": "Rapid Response Commander",
+        "description": "Leadership in rapid deployment units and crisis response teams. Specializes in coordinating strike teams under high-pressure situations."
+      },
+      {
+        "title": "Orbital Siege Expert",
+        "description": "Advanced knowledge in planetary assault operations and siege tactics. Combines expertise in ground-based and orbital combat operations."
+      }
+    ],
+    "Tactical Recon Trainee": [
+      {
+        "title": "Strategic Recon Commander",
+        "description": "Oversees long-term reconnaissance operations across hostile or uncharted territories. Expertise in stealth tactics, information analysis, and unit survival."
+      },
+      {
+        "title": "Covert Operations Specialist",
+        "description": "Specializes in black ops, espionage, and sabotage missions. Trained in silent movement, infiltration, and advanced concealment."
+      },
+      {
+        "title": "Pathfinder Officer",
+        "description": "Leads exploration teams into unexplored or contested zones. Skilled in terrain analysis, survival, and tactical navigation."
+      }
+    ],
+    "Orbital Drop Specialist": [
+      {
+        "title": "Exo-Assault Commander",
+        "description": "Command of exosuited orbital drop teams in high-risk planetary insertions. Advanced skills in combat under extreme environmental conditions."
+      },
+      {
+        "title": "Orbital Strike Planner",
+        "description": "Designs and leads precision orbital deployment strategies. Integrates fleet coordination with ground-based operational needs."
+      },
+      {
+        "title": "Environmental Adaptation Specialist",
+        "description": "Expertise in operating in hostile planetary environments post-drop. Combines knowledge of planetary science and combat survival tactics."
+      }
+    ],
+    "Cyberwarfare Operative": [
+      {
+        "title": "Cybersecurity Commander",
+        "description": "Leads military cyber-defense operations against high-tier threats. Focuses on AI countermeasures, hacking prevention, and secure communications."
+      },
+      {
+        "title": "Offensive Cyberwar Strategist",
+        "description": "Designs and executes large-scale cyber attacks on enemy infrastructure. Combines software manipulation and tactical disruption techniques."
+      },
+      {
+        "title": "Tech-Augmented Warfare Expert",
+        "description": "Develops and deploys cybernetic-enhanced warfare systems. Focuses on integrating cyberwarfare into physical combat operations."
+      }
+    ],
+    "Combat Medic": [
+      {
+        "title": "Tactical Field Surgeon",
+        "description": "Advanced expertise in battlefield trauma care and surgery under combat conditions. Specializes in triage, mobile surgery units, and critical care evacuation."
+      },
+      {
+        "title": "Combat Biohazard Specialist",
+        "description": "Expertise in handling biological warfare and contamination scenarios. Focuses on quarantine protocols, biohazard treatment, and pathogen countermeasures."
+      },
+      {
+        "title": "Enhanced Life Systems Operator",
+        "description": "Operates and designs cutting-edge medical systems for combat zones. Expertise in stasis technology, synthetic life support, and advanced prosthetics."
+      }
+    ]
+  },
+  "Corporate Compliance Academy": {
+    "Corporate Operator": [
+      {
+        "title": "Strategic Resource Coordinator",
+        "description": "Manages large-scale corporate assets, from colonies to resource extraction facilities. Specializes in logistical planning, profit maximization, and workforce efficiency."
+      },
+      {
+        "title": "Corporate Negotiator",
+        "description": "Expert in deal-making, contract negotiation, and leveraging corporate partnerships. Skilled in reading situations and manipulating stakeholders to corporate advantage."
+      },
+      {
+        "title": "Operations Overwatch Director",
+        "description": "Oversees multiple operations across various planetary sectors. Focuses on risk management, disaster response, and operational continuity."
+      }
+    ],
+    "Corporate Security Training": [
+      {
+        "title": "Corporate Enforcement Commander",
+        "description": "Leads corporate security teams to protect assets and enforce compliance. Specializes in crowd control, private law enforcement, and suppression tactics."
+      },
+      {
+        "title": "Risk Mitigation Strategist",
+        "description": "Designs and implements security protocols to minimize operational and reputational risks. Expert in handling sabotage, espionage, and internal threats."
+      },
+      {
+        "title": "Private Security Architect",
+        "description": "Oversees the design and deployment of advanced security systems. Combines physical security measures with cutting-edge surveillance and AI defenses."
+      }
+    ],
+    "Corporate Intelligence": [
+      {
+        "title": "Strategic Data Analyst",
+        "description": "Processes and interprets large datasets to forecast trends and guide corporate policy. Skilled in identifying threats and opportunities within hostile markets."
+      },
+      {
+        "title": "Covert Acquisition Specialist",
+        "description": "Operates in the gray areas of corporate espionage, acquiring competitor secrets and technology. Trained in stealth, deception, and advanced information extraction techniques."
+      },
+      {
+        "title": "Corporate Shadow Operative",
+        "description": "Expert in high-risk intelligence gathering and black ops missions on behalf of corporate interests. Skilled in sabotage, misinformation campaigns, and elimination of key adversaries."
+      }
+    ]
+  },
+  "Technical Institute": {
+    "Power Systems Specialist": [
+      {
+        "title": "Advanced Energy Systems Engineer",
+        "description": "Designs and implements advanced energy solutions, including zero-point reactors and fusion generators. Specializes in creating scalable and resilient power systems for colonies and ships."
+      },
+      {
+        "title": "Power Grid Architect",
+        "description": "Oversees the planning and optimization of planetary or orbital power infrastructures. Expertise in redundancy systems, power distribution networks, and large-scale energy storage."
+      },
+      {
+        "title": "Exotic Energy Researcher",
+        "description": "Explores unconventional energy sources, such as antimatter or dark energy. Focuses on experimental technologies with high reward but significant risk."
+      }
+    ],
+    "Life Support Specialist": [
+      {
+        "title": "Environmental Systems Engineer",
+        "description": "Expert in designing, maintaining, and optimizing life support systems in extreme environments. Specializes in terraforming modules, oxygen recycling systems, and atmospheric control."
+      },
+      {
+        "title": "Cryostasis Systems Expert",
+        "description": "Focuses on advanced stasis technologies for long-term space travel. Expertise in biometrics, preservation protocols, and emergency thawing procedures."
+      },
+      {
+        "title": "Habitability Consultant",
+        "description": "Advises on designing habitable environments for colonies, ships, and research facilities. Skilled in ecological balancing, hydroponic systems, and waste management."
+      }
+    ],
+    "Weapons Systems Specialist": [
+      {
+        "title": "Ordnance Development Engineer",
+        "description": "Designs cutting-edge weaponry for military or corporate use, from energy weapons to advanced ballistics. Specializes in high-efficiency, high-damage weapon systems."
+      },
+      {
+        "title": "Tactical Armaments Specialist",
+        "description": "Customizes and optimizes weapons systems for specific missions or environments. Expertise in modular designs, targeting systems, and performance enhancements."
+      },
+      {
+        "title": "Defensive Systems Architect",
+        "description": "Focuses on developing countermeasures and defensive technologies, such as shielding systems and automated turrets. Skilled in threat analysis and countering advanced weaponry."
+      }
+    ],
+    "Cybernetic Systems Engineer": [
+      {
+        "title": "Cybernetic Enhancement Specialist",
+        "description": "Designs and implements advanced prosthetics and body augmentations. Expertise in integrating human biology with cutting-edge cybernetic systems."
+      },
+      {
+        "title": "Neural Interface Engineer",
+        "description": "Develops and refines direct neural control interfaces for machines and AI. Specializes in mind-machine integration and thought-activated technologies."
+      },
+      {
+        "title": "Augmentation Policy Consultant",
+        "description": "Advises on the ethical and practical implications of widespread cybernetic adoption. Balances corporate goals with human rights and societal concerns."
+      }
+    ],
+    "AI Technician": [
+      {
+        "title": "Sentient Systems Architect",
+        "description": "Develops advanced AI frameworks with semi-autonomous decision-making capabilities. Focuses on ethical programming, risk assessment, and advanced heuristics."
+      },
+      {
+        "title": "Machine Learning Specialist",
+        "description": "Designs and trains AI systems to adapt and improve based on real-world data. Specializes in predictive algorithms, anomaly detection, and adaptive programming."
+      },
+      {
+        "title": "Synthetic Cognition Researcher",
+        "description": "Explores the boundaries of AI consciousness and synthetic personalities. Combines theoretical research with practical applications in robotics and virtual assistants."
+      }
+    ],
+    "Robotics Engineer": [
+      {
+        "title": "Military Robotics Designer",
+        "description": "Develops autonomous combat systems and drones for battlefield deployment. Expertise in targeting algorithms, mobility systems, and advanced AI integration."
+      },
+      {
+        "title": "Exploration Robotics Specialist",
+        "description": "Creates durable, adaptive robots for missions in extreme or unknown environments. Skilled in sensor integration, terrain navigation, and modular designs."
+      },
+      {
+        "title": "Industrial Automation Engineer",
+        "description": "Builds and optimizes robotic systems for large-scale industrial operations. Focuses on production efficiency, mechanical design, and safety protocols."
+      }
+    ],
+    "Salvaging Technician": [
+      {
+        "title": "Hazardous Salvage Operator",
+        "description": "Focuses on recovering valuable resources from wreckage in high-risk zones, such as radioactive or unstable environments. Skilled in resource extraction, containment procedures, and material analysis."
+      },
+      {
+        "title": "Reverse Engineering Expert",
+        "description": "Analyzes and repurposes alien or advanced technologies found in salvage missions. Expertise in deconstruction, reassembly, and technological adaptation."
+      },
+      {
+        "title": "Wreck Recovery Technician",
+        "description": "Specializes in extracting critical systems and components from shipwrecks and abandoned stations. Skilled in dismantling, repair, and field diagnostics."
+      }
+    ]
+  },
+  "Space Academy": {
+    "Navigation Training": [
+      {
+        "title": "Astrogation Specialist",
+        "description": "Expert in plotting precise, efficient courses through hazardous or uncharted regions. Skilled in gravitational mapping, FTL route optimization, and anomaly detection."
+      },
+      {
+        "title": "Celestial Survey Officer",
+        "description": "Leads exploratory missions to map new star systems and planetary sectors. Combines navigation skills with stellar cartography and scientific analysis."
+      },
+      {
+        "title": "Hyperspace Analyst",
+        "description": "Focuses on studying and mitigating risks associated with FTL travel. Expertise in temporal anomalies, spatial rifts, and hyperlane stability."
+      }
+    ],
+    "Signal Systems Technician": [
+      {
+        "title": "Communications Officer",
+        "description": "Oversees ship-wide and interstellar communications systems. Skilled in encryption, signal boosting, and maintaining secure channels."
+      },
+      {
+        "title": "Electronic Warfare Specialist",
+        "description": "Expert in disrupting enemy communications and radar systems. Focuses on signal jamming, counterintelligence, and stealth technologies."
+      },
+      {
+        "title": "Sensor Array Engineer",
+        "description": "Designs and maintains advanced sensor systems for navigation and reconnaissance. Expertise in detecting cloaked ships, anomalies, and environmental hazards."
+      }
+    ],
+    "Tactical Systems Operator": [
+      {
+        "title": "Weapons Systems Officer",
+        "description": "Manages and operates advanced shipboard weaponry during combat engagements. Skilled in targeting precision, firing solutions, and energy allocation."
+      },
+      {
+        "title": "Defensive Systems Specialist",
+        "description": "Focuses on optimizing and deploying shipboard defenses, such as shields and countermeasures. Expertise in energy redistribution, reactive defenses, and threat analysis."
+      },
+      {
+        "title": "Fleet Tactical Advisor",
+        "description": "Provides tactical insights and coordination for multi-ship engagements. Skilled in strategic planning, resource prioritization, and combat adaptability."
+      }
+    ],
+    "Reconnaissance Specialist": [
+      {
+        "title": "Advanced Scout Commander",
+        "description": "Leads small, stealth-oriented ships on deep-space reconnaissance missions. Skilled in long-term survival, stealth systems, and environmental scanning."
+      },
+      {
+        "title": "Espionage Operative",
+        "description": "Conducts covert intelligence-gathering missions for military or corporate entities. Focuses on infiltration, data collection, and avoiding detection."
+      },
+      {
+        "title": "Hazardous Zone Explorer",
+        "description": "Specializes in scouting unstable or highly dangerous regions of space. Expertise in environmental hazard analysis, ship shielding, and high-risk navigation."
+      }
+    ]
+  },
+  "MedSci Campus": {
+    "Medical Doctor": [
+      {
+        "title": "Trauma Specialist",
+        "description": "Focuses on emergency and battlefield medicine, including advanced triage and surgical techniques. Expertise in handling critical injuries, rapid-response procedures, and mobile medical units."
+      },
+      {
+        "title": "Bioethics Consultant",
+        "description": "Advises on the ethical implications of medical advancements and experimental treatments. Skilled in balancing corporate agendas with moral responsibility."
+      },
+      {
+        "title": "Advanced Diagnostics Expert",
+        "description": "Specializes in detecting rare diseases, genetic disorders, and alien pathogens. Combines cutting-edge diagnostic technology with clinical expertise."
+      }
+    ],
+    "Xenobiologist": [
+      {
+        "title": "Extraterrestrial Research Director",
+        "description": "Leads teams studying alien ecosystems, organisms, and potential biotechnological applications. Skilled in bio-containment protocols, alien biology, and interspecies interactions."
+      },
+      {
+        "title": "Alien Pathogen Specialist",
+        "description": "Focuses on identifying and neutralizing alien pathogens that threaten human life. Expertise in virology, immunology, and advanced quarantine measures."
+      },
+      {
+        "title": "Terraforming Biologist",
+        "description": "Works on integrating alien biological systems into human-colonized environments. Skilled in ecological engineering, biodiversity management, and planetary adaptation."
+      }
+    ],
+    "Stasis Technology Specialist": [
+      {
+        "title": "Cryogenic Systems Engineer",
+        "description": "Develops and maintains stasis and cryosleep technology for long-duration space travel. Expertise in reducing stasis-related risks, preserving biological integrity, and emergency revival protocols."
+      },
+      {
+        "title": "Temporal Stasis Theorist",
+        "description": "Explores cutting-edge theories and experimental methods for suspending biological processes. Focuses on applications like time manipulation in stasis environments."
+      },
+      {
+        "title": "Deep-Sleep Logistics Coordinator",
+        "description": "Manages large-scale stasis systems for colony ships, including planning for mass revival scenarios. Skilled in logistical challenges, resource planning, and stasis-induced psychological effects."
+      }
+    ],
+    "Synthetic Chemistry Scientist": [
+      {
+        "title": "Pharmaceutical Innovator",
+        "description": "Develops new drugs and chemical treatments for complex diseases, including alien-related conditions. Specializes in rapid synthesis, clinical trials, and regulatory approvals."
+      },
+      {
+        "title": "Industrial Chemist",
+        "description": "Creates advanced chemical compounds for industrial or military applications. Expertise in high-efficiency production, materials science, and hazardous substance handling."
+      },
+      {
+        "title": "Bio-Synthetic Engineer",
+        "description": "Combines biological and chemical sciences to create hybrid organic-synthetic systems. Skilled in creating artificial organisms, bioplastics, and adaptive materials."
+      }
+    ],
+    "Cyberneticist": [
+      {
+        "title": "Advanced Prosthetics Designer",
+        "description": "Develops cutting-edge prosthetics and cybernetic enhancements for human augmentation. Focuses on improving functionality, reducing rejection rates, and integrating sensory feedback."
+      },
+      {
+        "title": "Neuro-Cybernetics Specialist",
+        "description": "Expert in interfacing cybernetics with the human nervous system for seamless integration. Skilled in neural mapping, brain-machine interfaces, and cognitive augmentation."
+      },
+      {
+        "title": "Synthetic Human Designer",
+        "description": "Works on creating fully functional synthetic humans with biological and cybernetic components. Focuses on ethical considerations, advanced AI integration, and human-mimicking capabilities."
+      }
+    ]
+  },
+  "Advanced Theoretical Research Facility": {
+    "Quantum Physicist": [
+      {
+        "title": "FTL Systems Theorist",
+        "description": "Develops advanced faster-than-light travel technologies and systems. Specializes in quantum field manipulation, wormhole stabilization, and temporal mechanics."
+      },
+      {
+        "title": "Quantum Weapons Specialist",
+        "description": "Focuses on weaponizing quantum phenomena, such as energy destabilizers and time-distortion fields. Combines theoretical physics with practical engineering applications."
+      },
+      {
+        "title": "Reality Manipulation Researcher",
+        "description": "Explores theoretical concepts like alternate dimensions, quantum entanglement, and reality warping. Expertise in experimental physics and high-risk, high-reward projects."
+      }
+    ],
+    "Advanced Engineer": [
+      {
+        "title": "Experimental Systems Architect",
+        "description": "Designs and prototypes cutting-edge technologies for military or industrial use. Focuses on solving previously unsolvable engineering challenges."
+      },
+      {
+        "title": "Planetary Infrastructure Designer",
+        "description": "Specializes in creating large-scale infrastructure projects like space elevators, orbital stations, and megacities. Combines practical engineering with innovative design concepts."
+      },
+      {
+        "title": "Extreme Conditions Engineer",
+        "description": "Develops technologies capable of functioning in the most hostile environments, from black holes to plasma storms. Skilled in material science and adaptive engineering."
+      }
+    ],
+    "Nanotech Scientist": [
+      {
+        "title": "Nano-Medicine Pioneer",
+        "description": "Uses nanotechnology to revolutionize medical treatments, including repairing tissues and combating diseases. Specializes in microscopic robotics, biological integration, and disease eradication."
+      },
+      {
+        "title": "Molecular Assembly Expert",
+        "description": "Focuses on nanotechnology for manufacturing, creating complex structures atom by atom. Expertise in industrial efficiency, materials innovation, and miniaturized production."
+      },
+      {
+        "title": "Grey Goo Researcher",
+        "description": "Explores both the potential and the dangers of self-replicating nanotechnology. Skilled in containment protocols, theoretical modeling, and high-risk experimentation."
+      }
+    ]
+  }
+}

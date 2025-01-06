@@ -164,12 +164,12 @@
             "title": "Senior Crew Member"
           }
         },
-        "Private Courier": {
-          "description": "Transports sensitive packages or information for clients, often requiring discretion.",
+        "Corporate Courier": {
+          "description": "Workers offering services across various fields for corporate interests.",
           "skills": {
             "Piloting": {
               "weight": 2,
-              "specializations": ["Space"]
+              "specializations": ["Space", "Air", "Land"]
             },
             "Mobility": {
               "weight": 2,
@@ -261,7 +261,7 @@
       }
     },
     "Freelancer": {
-      "description": "Independent workers offering services across various fields without long-term commitments.",
+      "description": "Transports sensitive packages or information for clients, often requiring discretion.",
       "event_list": "freelancer_events",
       "subclasses": {
         "Courier": {
@@ -287,7 +287,7 @@
           }
         },
         "Jack-of-all-Trades": {
-          "description": "Versatile individuals who take on various odd jobs requiring a range of skills.",
+          "description": "Versatile individuals who take on various odd unskilled jobs in a wide area of demand.",
           "skills": {
             "Stamina": {
               "weight": 2,

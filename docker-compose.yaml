@@ -1,0 +1,55 @@
+version: '3.9'
+
+services:
+  star_rise:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: star_rise_app
+    volumes:
+      - ./content:/app/content  # Map the content directory for dynamic access
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    depends_on:
+      weaviate:
+        condition: service_started
+      mongodb:
+        condition: service_started
+    ports:
+      - "8880:8080"  # Map the app port if needed for external access
+    deploy:
+      resources:
+        limits:
+          memory: "1g"  # Allocate 1 GB of memory
+          cpus: "1.0"   # Allocate 1 CPU
+
+  mongodb:
+    image: mongo:6
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - /media/storage_raid/star_rise/mongodb:/data/db
+    deploy:
+      resources:
+        limits:
+          memory: "4g"  # Allocate 4 GB of memory
+          cpus: "2.0"   # Allocate 2 CPUs
+
+  weaviate:
+    image: semitechnologies/weaviate
+    container_name: weaviate
+    ports:
+      - "8881:8080"
+      - "50051:50051"
+    environment:
+      - QUERY_DEFAULTS_LIMIT=50
+      - AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED=true
+      - CLUSTER_HOSTNAME=localhost  # Disable clustering
+    volumes:
+      - /media/storage_raid/star_rise/weaviate:/var/lib/weaviate
+    deploy:
+      resources:
+        limits:
+          memory: "6g"  # Allocate 6 GB of memory
+          cpus: "2.0"   # Allocate 2 CPUs

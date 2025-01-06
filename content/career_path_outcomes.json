@@ -1,0 +1,49 @@
+{
+    "default": {
+      "education": {
+        "success": {
+          "skill_points": [2, 2],  // 2+1 points into separate skills
+          "attr_points": 1
+        },
+        "failure": {
+          "skill_points": [2, 1, 1],  // 1+1+1 points into three different skills
+          "attr_points": 1
+        }
+      },
+      "master": {
+        "success": {
+          "skill_points": [2, 1],  // Master's success points (3+2)
+          "attr_points": 1
+        },
+        "failure": {
+            "skill_points": [1, 1, 1],  // 1+1+1 points into three different skills
+            "attr_points": 1
+          }
+      }
+    },
+    "specific": {
+      "stakeholdere": { // template example
+        "education": {
+          "success": {
+            "skill_points": [2, 1],
+            "attr_points": 1
+          },
+          "failure": {
+            "skill_points": [1, 1, 1],
+            "attr_points": 1
+          }
+        },
+        "master": {
+          "success": {
+            "skill_points": [3, 2],
+            "attr_points": 1
+          },
+          "failure": {
+            "skill_points": [1, 1, 1],
+            "attr_points": 1
+          }
+        }
+      }
+    }
+  }
+  

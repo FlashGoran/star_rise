@@ -1,48 +1,91 @@
-from general_citizen_data import basic_profile
-from personality import define_personality
-from background import get_random_origin
-from higher_education import higher_education_step
-import pprint
-#from specializations import specialize_from_events
-#from agendas import establish_expanded_agendas
-#from character_sheet import compile_character_sheet
+import os
+from dotenv import load_dotenv
+from urllib.parse import urlparse
+from pymongo import MongoClient
+from pymongo.errors import ConnectionFailure
+import weaviate
+from fastapi import FastAPI
+from contextlib import asynccontextmanager
+import logging
+import time
 
-def main():
-    # Step 1: Concept and Background
-    # name, homeworld, affiliation
-    
-    general_citizen_data = basic_profile()
-    
-    # Step 2: Personality descriptors
-    personality = define_personality()
+# Load environment variables
+load_dotenv()
 
-    # Step 3: Origin and Events
-    origins_file = "./content/origins.json"
-    origin_events_folder = "./content/origin_event_lists"
+MONGO_URI = os.getenv("MONGO_URI")
+WEAVIATE_URI = os.getenv("WEAVIATE_URI")
 
-    character_data = get_random_origin(origins_file, origin_events_folder)
-    print(f"Selected origin:")
-    pprint.pprint(character_data)
+# Configure logger
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+)
+logger = logging.getLogger(__name__)
 
-    # todo need to fix the success rate for educations and event lists
-    # base 50 % + 5% * attribute value
-    # Step 4: Educations
+def parse_weaviate_uri(uri):
+    """Parse and validate the Weaviate URI."""
+    parsed = urlparse(uri)
+    if not parsed.hostname:
+        raise ValueError(f"Invalid WEAVIATE_URI: {uri}")
+    return {
+        "http_host": parsed.hostname,
+        "http_port": parsed.port or 8080,
+        "grpc_host": parsed.hostname,
+        "grpc_port": 50051,
+    }
 
-    # Ask if the user wants to pursue higher education
-    pursue_higher_ed = input("\nDo you want to pursue higher education?\nDo observe pursuing higher education is hard even for the best student -  (yes/no): ").strip().lower()
-    if pursue_higher_ed == "yes" or pursue_higher_ed == "y":
-        character_data = higher_education_step(character_data)
-    else:
-        print("Skipping higher education step.")
+@asynccontextmanager
+async def app_lifespan(app: FastAPI):
+    try:
+        # MongoDB connection
+        with MongoClient(MONGO_URI) as mongo_client:
+            db = mongo_client["star_rise"]
+            mongo_client.admin.command("ping")
+            logger.info("✅ Connected to MongoDB")
 
-    # Step 6: Specializations from Events4
-    #specializations = specialize_from_events(events)
+            # Weaviate connection with retry logic
+            weaviate_config = parse_weaviate_uri(WEAVIATE_URI)
+            max_retries = 10
+            retry_delay = 1.5
+            weaviate_client = None
 
-    # Step 9: Establish Agendas
-    #agendas = establish_expanded_agendas(events)
+            for attempt in range(max_retries):
+                try:
+                    with weaviate.connect_to_custom(
+                        **weaviate_config,
+                        http_secure=False,
+                        grpc_secure=False,
+                        auth_credentials=None,
+                    ) as client:
+                        if client.is_ready():
+                            logger.info("✅ Connected to Weaviate")
+                            weaviate_client = client
+                            break
+                        else:
+                            logger.warning(f"Weaviate not ready (attempt {attempt + 1}/{max_retries}), retrying...")
+                except Exception as e:
+                    logger.warning(f"Retry {attempt + 1}/{max_retries} failed: {e}")
+                time.sleep(retry_delay)  # Synchronous sleep
 
-    # Step 10: Compile Character Sheet
-    #compile_character_sheet(general_citizen_data, attributes, origin, specializations, agendas)
+            if weaviate_client is None:
+                raise weaviate.exceptions.WeaviateConnectionError("Weaviate is not ready after multiple retries!")
+
+            yield  # Yield control back to FastAPI
+
+    except ConnectionFailure as e:
+        logger.error(f"❌ MongoDB connection failed: {e}")
+        raise
+    except weaviate.exceptions.WeaviateConnectionError as e:
+        logger.error(f"❌ Weaviate connection failed: {e}")
+        raise
+
+# Assign lifespan to FastAPI app
+app = FastAPI(lifespan=app_lifespan)
+
+@app.get("/")
+async def root():
+    return {"message": "Star Rise Campaign System is running!"}
 
 if __name__ == "__main__":
-    main()
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8080)
