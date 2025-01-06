@@ -1,0 +1,101 @@
+{
+  "star_system": {
+    "type": "Single Star System",
+    "description": "A single star at the center of the system, hosting planets, moons, and other celestial bodies. Stable and most common type in the galaxy.",
+    "likelihood": 60,
+    "attributes": {
+      "stars": [
+        {
+          "count": 1,
+          "size": ["Small", "Medium", "Large"],  // Simplified size category
+          "brightness": ["Dim", "Normal", "Bright"],  // Visual/gameplay impact
+          "radiation_levels": ["Low", "Moderate", "High", "Extreme"], // Potential gameplay hazards or modifiers
+          "flare_activity": ["None", "Low", "Moderate", "High"], // Impacts planetary conditions or ship navigation
+        }
+      ],
+      "celestial_bodies": {
+        "planets": {
+          "count_range": [1, 15],  // Total number of planets
+          "habitable_zone_planets": [0, 3],  // Overlap with star habitable zone
+          "non_habitable_zone_planets": [0, 12]  // Outside habitable zone
+        },
+        "asteroid_belts": {
+          "likelihood": x,
+          "count_range": [0, 3],
+          "relative_position": ["Inner", "Middle", "Outer"] // Generalized position
+        },
+        "cometary_clouds": {
+          "existence": true,
+          "density": ["Sparse", "Moderate", "Dense"], // Gameplay-based density levels
+          "position": "Outer System" // Always in the outer system for simplicity
+        }
+      },
+      "gravitational_dynamics": ["Stable", "Chaotic"],  // Simplified system-wide impact
+      "special_features": [
+        "Dense Asteroid Belt",
+        "Rare Resources",
+        "Radiation Hazard Zones",
+        "Exotic Star Configuration"
+      ]
+    }
+  },
+  "multi_star_systems": [
+    {
+      "type": "Binary Star System (Close Binary with Circumbinary Planet)",
+      "likelihood": 25,
+      "attributes": {
+        "stars": {
+          "count": 2,
+          "distance_between_stars": ["Close"],  // Generalized as gameplay modifier
+          "combined_habitable_zone_planets": [1, 5]
+        },
+        "planets": {
+          "count_range": [1, 10],
+          "planetary_type": ["Circumbinary"]
+        }
+      }
+    },
+    {
+      "type": "Binary Star System (Wide Binary with S-Type Planet)",
+      "attributes": {
+        "stars": {
+          "count": 2,
+          "distance_between_stars": ["Far"],  // Generalized
+          "individual_habitable_zones": [1, 2] // Number of planets around each star
+        },
+        "planets": {
+          "count_range": [1, 5],
+          "orbiting_star": ["Primary", "Secondary"]
+        }
+      }
+    },
+    {
+      "type": "Triple Star System (Stable Hierarchical Triple)",
+      "attributes": {
+        "stars": {
+          "count": 3,
+          "configurations": ["Close Binary + Distant Tertiary"],
+          "habitable_zone_planets": [1, 5]
+        },
+        "planets": {
+          "count_range": [1, 8],
+          "planetary_type": ["Circumbinary", "Orbiting Tertiary"]
+        }
+      }
+    },
+    {
+      "type": "Quadruple Star System (Two Binary Pairs)",
+      "attributes": {
+        "stars": {
+          "count": 4,
+          "configuration": "Two Binary Pairs",
+          "habitable_zone_planets": [1, 3]
+        },
+        "planets": {
+          "count_range": [0, 4],
+          "types": ["Orbiting Binary Pair", "Orbiting Entire System"]
+        }
+      }
+    }
+  ]
+}
